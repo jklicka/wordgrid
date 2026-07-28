@@ -1,0 +1,154 @@
+{
+  "id": "level-001",
+  "baseWord": "LACONIC",
+  "pool": ["L", "A", "C", "O", "N", "I", "C"],
+  "rows": 6,
+  "cols": 7,
+  "placed": [
+    { "word": "LACONIC", "row": 2, "col": 0, "direction": "across" },
+    { "word": "LOCI", "row": 0, "col": 2, "direction": "down" },
+    { "word": "LION", "row": 2, "col": 0, "direction": "down" },
+    { "word": "ION", "row": 2, "col": 5, "direction": "down" },
+    { "word": "CAN", "row": 4, "col": 3, "direction": "across" }
+  ],
+  "bonus": [
+    "CONICAL",
+    "CALICO",
+    "CONIC",
+    "COIN",
+    "COIL",
+    "ICON",
+    "CLAN",
+    "COLA",
+    "LOAN",
+    "OIL",
+    "CON",
+    "NIL"
+  ],
+  "entries": {
+    "LACONIC": {
+      "word": "LACONIC",
+      "pos": "adj.",
+      "gloss": "using very few words; terse",
+      "definition": "Using very few words; expressing a great deal in brief, spare form.",
+      "example": "He gave a laconic nod and said nothing more.",
+      "band": "teaching"
+    },
+    "LOCI": {
+      "word": "LOCI",
+      "pos": "n. pl.",
+      "gloss": "plural of locus; particular places or centers",
+      "definition": "Plural of locus: particular positions, points, or centers where something occurs.",
+      "example": "The loci of the outbreak were traced to three markets.",
+      "band": "teaching"
+    },
+    "CONICAL": {
+      "word": "CONICAL",
+      "pos": "adj.",
+      "gloss": "shaped like a cone",
+      "definition": "Having the shape of a cone; tapering evenly to a point.",
+      "example": "The lamp threw a conical beam across the floor.",
+      "band": "teaching"
+    },
+    "CALICO": {
+      "word": "CALICO",
+      "pos": "n.",
+      "gloss": "coarse printed cotton cloth",
+      "definition": "A plain-woven cotton fabric, typically printed with a bright pattern; also used of a cat with a multicolored coat.",
+      "example": "She wore a faded calico apron.",
+      "band": "teaching"
+    },
+    "CONIC": {
+      "word": "CONIC",
+      "pos": "adj.",
+      "gloss": "of or relating to a cone",
+      "definition": "Of, relating to, or resembling a cone; in geometry, describing curves formed by slicing a cone.",
+      "example": "The ellipse is a conic section.",
+      "band": "teaching"
+    },
+    "LION": {
+      "word": "LION",
+      "pos": "n.",
+      "gloss": "large wild cat of Africa",
+      "definition": "A large tawny-colored wild cat native to Africa and India, the male having a shaggy mane.",
+      "band": "common"
+    },
+    "ION": {
+      "word": "ION",
+      "pos": "n.",
+      "gloss": "an electrically charged atom",
+      "definition": "An atom or molecule carrying a net electric charge from losing or gaining electrons.",
+      "band": "common"
+    },
+    "CAN": {
+      "word": "CAN",
+      "pos": "v.",
+      "gloss": "to be able to",
+      "definition": "To be able to; to have the ability, power, or permission to do something.",
+      "band": "common"
+    },
+    "COIN": {
+      "word": "COIN",
+      "pos": "n.",
+      "gloss": "a flat piece of metal money",
+      "definition": "A flat, typically round piece of metal used as money.",
+      "band": "common"
+    },
+    "COIL": {
+      "word": "COIL",
+      "pos": "n.",
+      "gloss": "a length of something wound in loops",
+      "definition": "A length of rope, wire, or other flexible material wound into a series of loops.",
+      "band": "common"
+    },
+    "ICON": {
+      "word": "ICON",
+      "pos": "n.",
+      "gloss": "a symbol or small picture",
+      "definition": "A person or thing regarded as a representative symbol; also a small graphic on a screen.",
+      "band": "common"
+    },
+    "CLAN": {
+      "word": "CLAN",
+      "pos": "n.",
+      "gloss": "a group of related families",
+      "definition": "A group of families or households united by descent from a common ancestor.",
+      "band": "common"
+    },
+    "COLA": {
+      "word": "COLA",
+      "pos": "n.",
+      "gloss": "a sweet carbonated drink",
+      "definition": "A carbonated soft drink flavored with extract from the kola nut.",
+      "band": "common"
+    },
+    "LOAN": {
+      "word": "LOAN",
+      "pos": "n.",
+      "gloss": "something lent, especially money",
+      "definition": "A thing that is borrowed, especially a sum of money expected to be paid back.",
+      "band": "common"
+    },
+    "OIL": {
+      "word": "OIL",
+      "pos": "n.",
+      "gloss": "a slippery liquid that does not mix with water",
+      "definition": "A viscous liquid derived from petroleum, plants, or animals, insoluble in water.",
+      "band": "common"
+    },
+    "CON": {
+      "word": "CON",
+      "pos": "v.",
+      "gloss": "to deceive or swindle",
+      "definition": "To persuade someone to do or believe something by deception.",
+      "band": "common"
+    },
+    "NIL": {
+      "word": "NIL",
+      "pos": "n.",
+      "gloss": "nothing; zero",
+      "definition": "Nothing; zero, especially as a score in a game.",
+      "band": "common"
+    }
+  }
+}

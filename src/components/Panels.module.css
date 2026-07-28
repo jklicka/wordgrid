@@ -1,0 +1,130 @@
+/* The band between grid and letter wheel.
+   Height is FIXED here on purpose: a panel that grows and pushes the wheel
+   down under the player's thumb causes mistaps and reads as broken. */
+.band {
+  min-height: 104px;
+  display: flex;
+  align-items: center;
+  padding: 8px 14px;
+}
+
+.prompt,
+.reward,
+.rewardBonus {
+  width: 100%;
+  border-radius: var(--radius);
+  padding: 10px 13px;
+  animation: rise 200ms ease-out;
+}
+
+.prompt {
+  background: var(--bg-raised);
+  box-shadow: inset 0 0 0 1px #ffffff10;
+}
+
+.reward {
+  background: #16342a;
+  box-shadow: inset 0 0 0 1px var(--teach);
+}
+
+.rewardBonus {
+  background: #1b2545;
+  box-shadow: inset 0 0 0 1px var(--bonus);
+}
+
+.promptMeta,
+.rewardHead {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.badge {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.pos {
+  font-size: 12px;
+  font-style: italic;
+  color: var(--ink-dim);
+}
+
+.bonusTag {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--bonus);
+  border: 1px solid var(--bonus);
+  border-radius: 99px;
+  padding: 1px 6px;
+}
+
+.promptText {
+  font-size: 15px;
+  line-height: 1.35;
+  color: var(--ink);
+}
+
+.word {
+  font-size: 19px;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  color: var(--teach);
+}
+
+.rewardBonus .word {
+  color: var(--bonus);
+}
+
+.definition {
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.example {
+  margin-top: 3px;
+  font-size: 12.5px;
+  font-style: italic;
+  color: var(--ink-dim);
+}
+
+/* Common-band words get this and nothing else. */
+.ack {
+  width: 100%;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--ink-dim);
+}
+
+.reject {
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+  color: var(--bad);
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .prompt,
+  .reward,
+  .rewardBonus {
+    animation: none;
+  }
+}

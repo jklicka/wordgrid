@@ -1,0 +1,48 @@
+:root {
+  --bg: #141824;
+  --bg-raised: #1e2434;
+  --bg-tile: #2a3145;
+  --ink: #eef1f8;
+  --ink-dim: #9aa4bd;
+  --accent: #ffc44d;
+  --accent-ink: #2a1e00;
+  --teach: #7ee0b8;
+  --bonus: #9db8ff;
+  --bad: #ff8a8a;
+  --slot: #262d40;
+  --radius: 12px;
+
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: ui-rounded, "SF Pro Rounded", -apple-system, "Segoe UI", system-ui, sans-serif;
+  /* A word game should never rubber-band or text-select under the thumb. */
+  overscroll-behavior: none;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: none;
+  cursor: pointer;
+  touch-action: manipulation;
+}

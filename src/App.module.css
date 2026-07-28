@@ -1,0 +1,50 @@
+.app {
+  /* dvh, not vh — vh is wrong the moment mobile browser chrome moves. */
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  max-width: 520px;
+  margin: 0 auto;
+  padding-top: env(safe-area-inset-top);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px 4px;
+  font-size: 12.5px;
+  font-weight: 600;
+}
+
+.progress {
+  color: var(--ink-dim);
+}
+
+.learned {
+  color: var(--teach);
+}
+
+.bonusCount {
+  color: var(--bonus);
+}
+
+/* The grid takes the slack, so the wheel stays anchored to the bottom on any
+   screen height rather than drifting up on tall phones. */
+.board {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 16px;
+  min-height: 0;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0 14px 14px;
+  flex: none;
+}

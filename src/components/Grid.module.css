@@ -1,0 +1,58 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(var(--cols), 1fr);
+  gap: 4px;
+  width: 100%;
+  max-width: calc(var(--cols) * 52px);
+  margin: 0 auto;
+}
+
+.gap,
+.empty,
+.filled {
+  aspect-ratio: 1;
+  border-radius: 6px;
+  display: grid;
+  place-items: center;
+  font-size: clamp(14px, 4.4vw, 22px);
+  font-weight: 700;
+}
+
+.gap {
+  background: none;
+}
+
+.empty {
+  background: var(--slot);
+  box-shadow: inset 0 0 0 1px #ffffff12;
+}
+
+.empty:active {
+  background: #303a52;
+}
+
+.filled {
+  background: var(--accent);
+  color: var(--accent-ink);
+  animation: pop 220ms ease-out;
+}
+
+@keyframes pop {
+  0% {
+    transform: scale(0.6);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.08);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .filled {
+    animation: none;
+  }
+}
