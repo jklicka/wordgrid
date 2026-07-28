@@ -1,0 +1,158 @@
+{
+  "id": "level-018",
+  "baseWord": "STOOL",
+  "pool": [
+    "S",
+    "T",
+    "O",
+    "O",
+    "L"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "STOOL",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "LOST",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LOTS",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SOLO",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TOOL",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "SLOT",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "LOOT",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "TOO",
+    "LOT",
+    "SOL",
+    "SOOT"
+  ],
+  "entries": {
+    "STOOL": {
+      "word": "STOOL",
+      "pos": "n.",
+      "gloss": "a simple seat without a back or arms",
+      "definition": "A simple seat without a back or arms.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LOST": {
+      "word": "LOST",
+      "pos": "adj.",
+      "gloss": "no longer in your possession or control",
+      "definition": "No longer in your possession or control; unable to be found or recovered.",
+      "example": "A lost child.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOTS": {
+      "word": "LOTS",
+      "pos": "n.",
+      "gloss": "a large number or amount",
+      "definition": "A large number or amount.",
+      "example": "Made lots of new friends.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOLO": {
+      "word": "SOLO",
+      "pos": "n.",
+      "gloss": "any activity that is performed alone without assistance",
+      "definition": "Any activity that is performed alone without assistance.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOOL": {
+      "word": "TOOL",
+      "pos": "n.",
+      "gloss": "an implement used in the practice of a vocation",
+      "definition": "An implement used in the practice of a vocation.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SLOT": {
+      "word": "SLOT",
+      "pos": "n.",
+      "gloss": "a position in a grammatical linguistic construction in which a variety of alternative…",
+      "definition": "A position in a grammatical linguistic construction in which a variety of alternative units are interchangeable.",
+      "example": "He developed a version of slot grammar.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOOT": {
+      "word": "LOOT",
+      "pos": "n.",
+      "gloss": "goods or money obtained illegally",
+      "definition": "Goods or money obtained illegally.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOO": {
+      "word": "TOO",
+      "pos": "adv.",
+      "gloss": "to a degree exceeding normal or proper limits",
+      "definition": "To a degree exceeding normal or proper limits.",
+      "example": "Too big.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOT": {
+      "word": "LOT",
+      "pos": "n.",
+      "gloss": "a large number or amount or extent",
+      "definition": "(often followed by `of') a large number or amount or extent.",
+      "example": "A batch of letters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOL": {
+      "word": "SOL",
+      "pos": "n.",
+      "gloss": "a colloid that has a continuous liquid phase in which a solid is suspended in a liquid",
+      "definition": "A colloid that has a continuous liquid phase in which a solid is suspended in a liquid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOOT": {
+      "word": "SOOT",
+      "pos": "n.",
+      "gloss": "a black colloidal substance consisting wholly or principally of amorphous carbon and…",
+      "definition": "A black colloidal substance consisting wholly or principally of amorphous carbon and used to make pigments and ink.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

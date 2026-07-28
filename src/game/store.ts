@@ -1,43 +1,61 @@
 /**
  * Zustand store — a thin shell over the pure engine.
  *
- * All game logic lives in engine.ts. This file only holds the current state,
- * dispatches engine calls, and handles the one genuinely impure concern:
- * persisting the vocabulary record across sessions.
+ * All game logic lives in engine.ts. This file only holds current state,
+ * dispatches engine calls, and handles the two genuinely impure concerns:
+ * loading level content, and persisting progress across sessions.
  */
 import { create } from 'zustand'
 import * as engine from './engine'
-import levelData from '../data/levels/level-001.json'
 import type { GameState, Level } from './types'
 
-// JSON import widens `direction` to string, so the shape needs asserting.
-export const LEVEL_ONE = levelData as unknown as Level
+/** Levels are generated into src/data/levels/ and committed. Glob-importing
+ *  them means adding a level is a content change, never a code change. */
+const modules = import.meta.glob('../data/levels/level-*.json', { eager: true }) as Record<
+  string,
+  { default: unknown }
+>
+
+export const LEVELS: Level[] = Object.keys(modules)
+  .sort() // ids are zero-padded, so lexical order is level order
+  .map((k) => modules[k].default as Level)
 
 const LEARNED_KEY = 'wordgrid.learned.v1'
+const PROGRESS_KEY = 'wordgrid.level.v1'
 
-function readLearned(): string[] {
+function read<T>(key: string, fallback: T, parse: (raw: unknown) => T | null): T {
   try {
-    const raw = localStorage.getItem(LEARNED_KEY)
-    if (!raw) return []
-    const parsed: unknown = JSON.parse(raw)
-    return Array.isArray(parsed) ? parsed.filter((w): w is string => typeof w === 'string') : []
+    const raw = localStorage.getItem(key)
+    if (!raw) return fallback
+    return parse(JSON.parse(raw)) ?? fallback
   } catch {
-    // Private browsing and disabled storage both throw. A lost history is not
+    // Private browsing and disabled storage both throw. Losing progress is not
     // worth breaking the game over.
-    return []
+    return fallback
   }
 }
 
-function writeLearned(words: readonly string[]): void {
+function write(key: string, value: unknown): void {
   try {
-    localStorage.setItem(LEARNED_KEY, JSON.stringify(words))
+    localStorage.setItem(key, JSON.stringify(value))
   } catch {
     /* non-fatal */
   }
 }
 
+const readLearned = () =>
+  read<string[]>(LEARNED_KEY, [], (v) =>
+    Array.isArray(v) ? v.filter((w): w is string => typeof w === 'string') : null,
+  )
+
+const readLevelIndex = () =>
+  read<number>(PROGRESS_KEY, 0, (v) =>
+    typeof v === 'number' && Number.isInteger(v) && v >= 0 && v < LEVELS.length ? v : null,
+  )
+
 interface Store {
   game: GameState
+  levelIndex: number
   /** Vocabulary learned across every session, not just this level. */
   lifetimeLearned: string[]
   selectLetter: (poolIndex: number) => void
@@ -46,11 +64,16 @@ interface Store {
   submitWord: () => void
   showPrompt: (word: string) => void
   dismissPanels: () => void
-  resetLevel: () => void
+  restartLevel: () => void
+  nextLevel: () => void
+  hasNextLevel: () => boolean
 }
 
+const startIndex = readLevelIndex()
+
 export const useGame = create<Store>((set, get) => ({
-  game: engine.createGame(LEVEL_ONE),
+  game: engine.createGame(LEVELS[startIndex]),
+  levelIndex: startIndex,
   lifetimeLearned: readLearned(),
 
   selectLetter: (poolIndex) => set({ game: engine.selectLetter(get().game, poolIndex) }),
@@ -65,9 +88,18 @@ export const useGame = create<Store>((set, get) => ({
     for (const word of game.learned) {
       if (!merged.includes(word)) merged.push(word)
     }
-    writeLearned(merged)
+    write(LEARNED_KEY, merged)
     set({ game, lifetimeLearned: merged })
   },
 
-  resetLevel: () => set({ game: engine.createGame(LEVEL_ONE) }),
+  restartLevel: () => set({ game: engine.createGame(LEVELS[get().levelIndex]) }),
+
+  hasNextLevel: () => get().levelIndex + 1 < LEVELS.length,
+
+  nextLevel: () => {
+    const next = get().levelIndex + 1
+    if (next >= LEVELS.length) return
+    write(PROGRESS_KEY, next)
+    set({ levelIndex: next, game: engine.createGame(LEVELS[next]) })
+  },
 }))

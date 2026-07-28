@@ -1,0 +1,159 @@
+{
+  "id": "level-007",
+  "baseWord": "PLAYBOY",
+  "pool": [
+    "P",
+    "L",
+    "A",
+    "Y",
+    "B",
+    "O",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "PLAYBOY",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "PLAY",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "PLOY",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "OPAL",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "PAY",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "BOY",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BAY",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "LAY",
+    "LAB",
+    "LAP",
+    "PAL"
+  ],
+  "entries": {
+    "PLAYBOY": {
+      "word": "PLAYBOY",
+      "pos": "n.",
+      "gloss": "a man devoted to the pursuit of pleasure",
+      "definition": "A man devoted to the pursuit of pleasure.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PLAY": {
+      "word": "PLAY",
+      "pos": "v.",
+      "gloss": "participate in games or sport",
+      "definition": "Participate in games or sport.",
+      "example": "We played hockey all afternoon.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PLOY": {
+      "word": "PLOY",
+      "pos": "n.",
+      "gloss": "an opening remark intended to secure an advantage for the speaker",
+      "definition": "An opening remark intended to secure an advantage for the speaker.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "OPAL": {
+      "word": "OPAL",
+      "pos": "n.",
+      "gloss": "a translucent mineral consisting of hydrated silica of variable color",
+      "definition": "A translucent mineral consisting of hydrated silica of variable color; some varieties are used as gemstones.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PAY": {
+      "word": "PAY",
+      "pos": "v.",
+      "gloss": "give money, usually in exchange for goods or services",
+      "definition": "Give money, usually in exchange for goods or services.",
+      "example": "I paid four dollars for this sandwich.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOY": {
+      "word": "BOY",
+      "pos": "n.",
+      "gloss": "a youthful male person",
+      "definition": "A youthful male person.",
+      "example": "The baby was a boy.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAY": {
+      "word": "BAY",
+      "pos": "n.",
+      "gloss": "an indentation of a shoreline larger than a cove but smaller than a gulf",
+      "definition": "An indentation of a shoreline larger than a cove but smaller than a gulf.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAY": {
+      "word": "LAY",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAB": {
+      "word": "LAB",
+      "pos": "n.",
+      "gloss": "a workplace for the conduct of scientific research",
+      "definition": "A workplace for the conduct of scientific research.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAP": {
+      "word": "LAP",
+      "pos": "v.",
+      "gloss": "lie partly over or alongside of something or of one another",
+      "definition": "Lie partly over or alongside of something or of one another.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAL": {
+      "word": "PAL",
+      "pos": "n.",
+      "gloss": "a close friend who accompanies his buddies in their activities",
+      "definition": "A close friend who accompanies his buddies in their activities.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

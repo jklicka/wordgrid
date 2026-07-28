@@ -1,3 +1,5 @@
+import { useState } from 'react'
+import Credits from './components/Credits'
 import DefinitionPanel from './components/DefinitionPanel'
 import Grid from './components/Grid'
 import LetterPool from './components/LetterPool'
@@ -11,6 +13,8 @@ import panels from './components/Panels.module.css'
 
 export default function App() {
   const game = useGame((s) => s.game)
+  const levelIndex = useGame((s) => s.levelIndex)
+  const [showCredits, setShowCredits] = useState(false)
   const words = gridWords(game.level)
   const done = isComplete(game)
 
@@ -18,7 +22,7 @@ export default function App() {
     <div className={styles.app}>
       <header className={styles.header}>
         <span className={styles.progress} data-testid="progress">
-          {game.solved.length}/{words.length} words
+          L{levelIndex + 1} · {game.solved.length}/{words.length} words
         </span>
         <span className={styles.learned} data-testid="learned-count">
           ✦ {game.learned.length} learned
@@ -26,6 +30,14 @@ export default function App() {
         <span className={styles.bonusCount} data-testid="bonus-count">
           +{game.foundBonus.length} bonus
         </span>
+        <button
+          className={styles.info}
+          onClick={() => setShowCredits(true)}
+          aria-label="about and credits"
+          data-testid="credits-open"
+        >
+          ⓘ
+        </button>
       </header>
 
       <main className={styles.board}>
@@ -46,6 +58,7 @@ export default function App() {
       </footer>
 
       {done && <LevelComplete />}
+      {showCredits && <Credits onClose={() => setShowCredits(false)} />}
     </div>
   )
 }

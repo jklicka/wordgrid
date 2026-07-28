@@ -102,6 +102,15 @@
   font-weight: 700;
 }
 
+.replay {
+  width: 100%;
+  margin-top: 8px;
+  height: 42px;
+  border-radius: var(--radius);
+  color: var(--ink-dim);
+  font-size: 14px;
+}
+
 @keyframes fade {
   from { opacity: 0; }
   to { opacity: 1; }

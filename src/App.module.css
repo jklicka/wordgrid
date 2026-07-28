@@ -48,3 +48,10 @@
   padding: 0 14px 14px;
   flex: none;
 }
+
+.info {
+  font-size: 15px;
+  color: var(--ink-dim);
+  padding: 0 2px;
+  line-height: 1;
+}

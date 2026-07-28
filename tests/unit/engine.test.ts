@@ -1,5 +1,7 @@
 import { describe, expect, it } from 'vitest'
-import levelData from '../../src/data/levels/level-001.json'
+// A frozen fixture, not generated content: these tests assert on specific
+// words, and content regeneration must not be able to break them.
+import levelData from '../fixtures/level-laconic.json'
 import {
   buildCells,
   clearSelection,

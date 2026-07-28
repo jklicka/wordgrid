@@ -1,0 +1,37 @@
+WordGrid bundles third-party data. This notice travels with all copies.
+
+================================================================================
+WordNet 3.0 — Princeton University
+================================================================================
+
+Word definitions, parts of speech and example sentences in src/data/levels/
+are derived from WordNet, used under the following licence. Princeton
+University's name is not used in advertising or promotion of this software.
+
+    WordNet 3.0 Copyright 2006 by Princeton University. All rights reserved.
+
+    THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON UNIVERSITY
+    MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED. BY WAY OF
+    EXAMPLE, BUT NOT LIMITATION, PRINCETON UNIVERSITY MAKES NO REPRESENTATIONS
+    OR WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR
+    THAT THE USE OF THE LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT
+    INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
+
+    The name of Princeton University or Princeton may not be used in
+    advertising or publicity pertaining to distribution of the software and/or
+    database. Title to copyright in this software, database and any associated
+    documentation shall at all times remain with Princeton University and
+    LICENSEE agrees to preserve same.
+
+Full licence text: node_modules/wordnet-db/dict/LICENSE
+
+================================================================================
+Word frequency data — wordfreq
+================================================================================
+
+data/zipf.json is derived from the `wordfreq` Python package (MIT licence),
+which blends frequency counts from books, Wikipedia, news, subtitles and web
+text. Only a derived Zipf value per word is retained; no source corpus is
+redistributed here.
+
+    https://github.com/rspeer/wordfreq

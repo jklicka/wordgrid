@@ -1,0 +1,128 @@
+{
+  "id": "level-011",
+  "baseWord": "SLANG",
+  "pool": [
+    "S",
+    "L",
+    "A",
+    "N",
+    "G"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SLANG",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "GLANS",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "SANG",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SNAG",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SLAG",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "GAS",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "GAL",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "LAG"
+  ],
+  "entries": {
+    "SLANG": {
+      "word": "SLANG",
+      "pos": "n.",
+      "gloss": "informal language consisting of words and expressions that are not considered…",
+      "definition": "Informal language consisting of words and expressions that are not considered appropriate for formal occasions; often vituperative or vulgar.",
+      "example": "Their speech was full of slang expressions.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GLANS": {
+      "word": "GLANS",
+      "pos": "n.",
+      "gloss": "a small rounded structure",
+      "definition": "A small rounded structure; especially that at the end of the penis or clitoris.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SANG": {
+      "word": "SANG",
+      "pos": "n.",
+      "gloss": "North American woodland herb similar to and used as substitute for the Chinese ginseng",
+      "definition": "North American woodland herb similar to and used as substitute for the Chinese ginseng.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SNAG": {
+      "word": "SNAG",
+      "pos": "v.",
+      "gloss": "catch on a snag",
+      "definition": "Catch on a snag.",
+      "example": "I snagged my stocking.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SLAG": {
+      "word": "SLAG",
+      "pos": "n.",
+      "gloss": "the scum formed by oxidation at the surface of molten metals",
+      "definition": "The scum formed by oxidation at the surface of molten metals.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GAS": {
+      "word": "GAS",
+      "pos": "n.",
+      "gloss": "the state of matter distinguished from the solid and liquid states by",
+      "definition": "The state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAL": {
+      "word": "GAL",
+      "pos": "n.",
+      "gloss": "United States liquid unit equal to 4 quarts or 3.785 liters",
+      "definition": "United States liquid unit equal to 4 quarts or 3.785 liters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAG": {
+      "word": "LAG",
+      "pos": "n.",
+      "gloss": "the act of slowing down or falling behind",
+      "definition": "The act of slowing down or falling behind.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

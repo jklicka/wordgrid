@@ -1,0 +1,116 @@
+{
+  "id": "level-005",
+  "baseWord": "VENOM",
+  "pool": [
+    "V",
+    "E",
+    "N",
+    "O",
+    "M"
+  ],
+  "rows": 7,
+  "cols": 5,
+  "placed": [
+    {
+      "word": "VENOM",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MOVE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "OVEN",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "OMEN",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "ONE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NEO",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "MEN"
+  ],
+  "entries": {
+    "VENOM": {
+      "word": "VENOM",
+      "pos": "n.",
+      "gloss": "toxin secreted by animals",
+      "definition": "Toxin secreted by animals; secreted by certain snakes and poisonous insects (e.g., spiders and scorpions).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MOVE": {
+      "word": "MOVE",
+      "pos": "v.",
+      "gloss": "change location",
+      "definition": "Change location; move, travel, or proceed, also metaphorically.",
+      "example": "How fast does your new car go?",
+      "band": "common",
+      "tier": "general"
+    },
+    "OVEN": {
+      "word": "OVEN",
+      "pos": "n.",
+      "gloss": "kitchen appliance used for baking or roasting",
+      "definition": "Kitchen appliance used for baking or roasting.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OMEN": {
+      "word": "OMEN",
+      "pos": "n.",
+      "gloss": "a sign of something about to happen",
+      "definition": "A sign of something about to happen.",
+      "example": "He looked for an omen before going into battle.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ONE": {
+      "word": "ONE",
+      "pos": "adj.",
+      "gloss": "used of a single unit or thing",
+      "definition": "Used of a single unit or thing; not two or more.",
+      "example": "`ane' is Scottish.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NEO": {
+      "word": "NEO",
+      "pos": "adj.",
+      "gloss": "recent or new",
+      "definition": "(used as a combining form) recent or new.",
+      "example": "`neo' is a combining form in words like `neocolonialism'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MEN": {
+      "word": "MEN",
+      "pos": "n.",
+      "gloss": "the force of workers available",
+      "definition": "The force of workers available.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

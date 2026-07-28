@@ -1,0 +1,129 @@
+{
+  "id": "level-019",
+  "baseWord": "BOAST",
+  "pool": [
+    "B",
+    "O",
+    "A",
+    "S",
+    "T"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "BOAST",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SABOT",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "BOAT",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "BATS",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "STAB",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "BAT",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TAB",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "BOT"
+  ],
+  "entries": {
+    "BOAST": {
+      "word": "BOAST",
+      "pos": "v.",
+      "gloss": "show off",
+      "definition": "Show off.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SABOT": {
+      "word": "SABOT",
+      "pos": "n.",
+      "gloss": "a shoe carved from a single block of wood",
+      "definition": "A shoe carved from a single block of wood.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BOAT": {
+      "word": "BOAT",
+      "pos": "n.",
+      "gloss": "a small vessel for travel on water",
+      "definition": "A small vessel for travel on water.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BATS": {
+      "word": "BATS",
+      "pos": "adj.",
+      "gloss": "informal or slang terms for mentally irregular",
+      "definition": "Informal or slang terms for mentally irregular.",
+      "example": "It used to drive my husband balmy.",
+      "band": "common",
+      "tier": "general"
+    },
+    "STAB": {
+      "word": "STAB",
+      "pos": "v.",
+      "gloss": "use a knife on",
+      "definition": "Use a knife on.",
+      "example": "The victim was knifed to death.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAT": {
+      "word": "BAT",
+      "pos": "n.",
+      "gloss": "nocturnal mouselike mammal with forelimbs modified to form membranous wings and…",
+      "definition": "Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAB": {
+      "word": "TAB",
+      "pos": "n.",
+      "gloss": "the bill in a restaurant",
+      "definition": "The bill in a restaurant.",
+      "example": "He asked the waiter for the check.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOT": {
+      "word": "BOT",
+      "pos": "n.",
+      "gloss": "botfly larva",
+      "definition": "Botfly larva; typically develops inside the body of a horse or sheep or human.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

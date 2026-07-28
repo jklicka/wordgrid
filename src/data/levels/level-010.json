@@ -1,0 +1,189 @@
+{
+  "id": "level-010",
+  "baseWord": "SEWAGE",
+  "pool": [
+    "S",
+    "E",
+    "W",
+    "A",
+    "G",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SEWAGE",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "WAGES",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "WAGE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "EASE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SAGE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SWAG",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SEE",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SAW",
+    "AGE",
+    "SEA",
+    "GAS",
+    "WEE",
+    "AWE",
+    "GEE"
+  ],
+  "entries": {
+    "SEWAGE": {
+      "word": "SEWAGE",
+      "pos": "n.",
+      "gloss": "waste matter carried away in sewers or drains",
+      "definition": "Waste matter carried away in sewers or drains.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WAGES": {
+      "word": "WAGES",
+      "pos": "n.",
+      "gloss": "a recompense for worthy acts or retribution for wrongdoing",
+      "definition": "A recompense for worthy acts or retribution for wrongdoing.",
+      "example": "The wages of sin is death.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WAGE": {
+      "word": "WAGE",
+      "pos": "n.",
+      "gloss": "something that remunerates",
+      "definition": "Something that remunerates.",
+      "example": "Wages were paid by check.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EASE": {
+      "word": "EASE",
+      "pos": "v.",
+      "gloss": "move gently or carefully",
+      "definition": "Move gently or carefully.",
+      "example": "He eased himself into the chair.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAGE": {
+      "word": "SAGE",
+      "pos": "n.",
+      "gloss": "a mentor in spiritual and philosophical topics who is renowned for profound wisdom",
+      "definition": "A mentor in spiritual and philosophical topics who is renowned for profound wisdom.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SWAG": {
+      "word": "SWAG",
+      "pos": "n.",
+      "gloss": "valuable goods",
+      "definition": "Valuable goods.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SEE": {
+      "word": "SEE",
+      "pos": "v.",
+      "gloss": "perceive by sight or have the power to perceive by sight",
+      "definition": "Perceive by sight or have the power to perceive by sight.",
+      "example": "You have to be a good observer to see all the details.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAW": {
+      "word": "SAW",
+      "pos": "v.",
+      "gloss": "cut with a saw",
+      "definition": "Cut with a saw.",
+      "example": "Saw wood for the fireplace.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AGE": {
+      "word": "AGE",
+      "pos": "n.",
+      "gloss": "how long something has existed",
+      "definition": "How long something has existed.",
+      "example": "It was replaced because of its age.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEA": {
+      "word": "SEA",
+      "pos": "n.",
+      "gloss": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "definition": "A division of an ocean or a large body of salt water partially enclosed by land.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAS": {
+      "word": "GAS",
+      "pos": "n.",
+      "gloss": "the state of matter distinguished from the solid and liquid states by",
+      "definition": "The state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WEE": {
+      "word": "WEE",
+      "pos": "adj.",
+      "gloss": "very small",
+      "definition": "(used informally) very small.",
+      "example": "A wee tot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AWE": {
+      "word": "AWE",
+      "pos": "n.",
+      "gloss": "an overwhelming feeling of wonder or admiration",
+      "definition": "An overwhelming feeling of wonder or admiration.",
+      "example": "He stared over the edge with a feeling of awe.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEE": {
+      "word": "GEE",
+      "pos": "n.",
+      "gloss": "a unit of force equal to the force exerted by gravity",
+      "definition": "A unit of force equal to the force exerted by gravity; used to indicate the force to which a body is subjected when it is accelerated.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "level-020",
+  "baseWord": "COBRA",
+  "pool": [
+    "C",
+    "O",
+    "B",
+    "R",
+    "A"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "COBRA",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CAROB",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "CRAB",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "BOAR",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "ORCA",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "CAR",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BAR",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ROB",
+    "ARC",
+    "CAB",
+    "BRA"
+  ],
+  "entries": {
+    "COBRA": {
+      "word": "COBRA",
+      "pos": "n.",
+      "gloss": "venomous Asiatic and African elapid snakes that can expand the skin of the neck into a…",
+      "definition": "Venomous Asiatic and African elapid snakes that can expand the skin of the neck into a hood.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAROB": {
+      "word": "CAROB",
+      "pos": "n.",
+      "gloss": "long pod containing small beans and sweetish edible pulp",
+      "definition": "Long pod containing small beans and sweetish edible pulp; used as animal feed and source of a chocolate substitute.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CRAB": {
+      "word": "CRAB",
+      "pos": "n.",
+      "gloss": "decapod having eyes on short stalks and a broad flattened carapace with a small…",
+      "definition": "Decapod having eyes on short stalks and a broad flattened carapace with a small abdomen folded under the thorax and pincers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOAR": {
+      "word": "BOAR",
+      "pos": "n.",
+      "gloss": "Old World wild swine having a narrow body and prominent tusks from which most domestic…",
+      "definition": "Old World wild swine having a narrow body and prominent tusks from which most domestic swine come; introduced in United States.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ORCA": {
+      "word": "ORCA",
+      "pos": "n.",
+      "gloss": "predatory black-and-white toothed whale with large dorsal fin",
+      "definition": "Predatory black-and-white toothed whale with large dorsal fin; common in cold seas.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAR": {
+      "word": "CAR",
+      "pos": "n.",
+      "gloss": "a motor vehicle with four wheels",
+      "definition": "A motor vehicle with four wheels; usually propelled by an internal combustion engine.",
+      "example": "He needs a car to get to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAR": {
+      "word": "BAR",
+      "pos": "n.",
+      "gloss": "a room or establishment where alcoholic drinks are served over a counter",
+      "definition": "A room or establishment where alcoholic drinks are served over a counter.",
+      "example": "He drowned his sorrows in whiskey at the bar.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROB": {
+      "word": "ROB",
+      "pos": "v.",
+      "gloss": "take something away by force or without the consent of the owner",
+      "definition": "Take something away by force or without the consent of the owner.",
+      "example": "The burglars robbed him of all his money.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARC": {
+      "word": "ARC",
+      "pos": "n.",
+      "gloss": "electrical conduction through a gas in an applied electric field",
+      "definition": "Electrical conduction through a gas in an applied electric field.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAB": {
+      "word": "CAB",
+      "pos": "n.",
+      "gloss": "a compartment at the front of a motor vehicle or locomotive where driver sits",
+      "definition": "A compartment at the front of a motor vehicle or locomotive where driver sits.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BRA": {
+      "word": "BRA",
+      "pos": "n.",
+      "gloss": "an undergarment worn by women to support their breasts",
+      "definition": "An undergarment worn by women to support their breasts.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

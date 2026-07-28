@@ -1,0 +1,150 @@
+{
+  "id": "level-013",
+  "baseWord": "FLAIR",
+  "pool": [
+    "F",
+    "L",
+    "A",
+    "I",
+    "R"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "FLAIR",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "FRAIL",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "FAIR",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "FAIL",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "RAIL",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "LIAR",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "LAIR",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "FAR",
+    "AIR",
+    "LIRA"
+  ],
+  "entries": {
+    "FLAIR": {
+      "word": "FLAIR",
+      "pos": "n.",
+      "gloss": "a natural talent",
+      "definition": "A natural talent.",
+      "example": "He has a flair for mathematics.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FRAIL": {
+      "word": "FRAIL",
+      "pos": "adj.",
+      "gloss": "physically weak",
+      "definition": "Physically weak.",
+      "example": "An invalid's frail body.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FAIR": {
+      "word": "FAIR",
+      "pos": "adj.",
+      "gloss": "free from favoritism or self-interest or bias or deception",
+      "definition": "Free from favoritism or self-interest or bias or deception; conforming with established standards or rules.",
+      "example": "A fair referee.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FAIL": {
+      "word": "FAIL",
+      "pos": "v.",
+      "gloss": "fail to do something",
+      "definition": "Fail to do something; leave something undone.",
+      "example": "She failed to notice that her child was no longer in his crib.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAIL": {
+      "word": "RAIL",
+      "pos": "n.",
+      "gloss": "a barrier consisting of a horizontal bar and supports",
+      "definition": "A barrier consisting of a horizontal bar and supports.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIAR": {
+      "word": "LIAR",
+      "pos": "n.",
+      "gloss": "a person who has lied or who lies repeatedly",
+      "definition": "A person who has lied or who lies repeatedly.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAIR": {
+      "word": "LAIR",
+      "pos": "n.",
+      "gloss": "the habitation of wild animals",
+      "definition": "The habitation of wild animals.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FAR": {
+      "word": "FAR",
+      "pos": "adv.",
+      "gloss": "to a considerable degree",
+      "definition": "To a considerable degree; very much.",
+      "example": "A far far better thing that I do.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIR": {
+      "word": "AIR",
+      "pos": "n.",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIRA": {
+      "word": "LIRA",
+      "pos": "n.",
+      "gloss": "the basic unit of money on Malta",
+      "definition": "The basic unit of money on Malta; equal to 100 cents.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

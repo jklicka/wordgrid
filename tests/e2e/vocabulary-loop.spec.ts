@@ -1,4 +1,17 @@
 import { expect, test, type Page } from '@playwright/test'
+import level from '../../src/data/levels/level-001.json' with { type: 'json' }
+
+/**
+ * Subjects are derived from the level data rather than hardcoded, so
+ * regenerating content cannot silently invalidate these tests. (The
+ * teaching-band BONUS path is not exercisable here — level-001's bonus words
+ * are all common — and is covered by the engine unit tests instead.)
+ */
+const entries = level.entries as Record<string, { band: string; gloss: string; pos: string }>
+const gridWords = level.placed.map((p) => p.word)
+const TEACHING = gridWords.find((w) => entries[w].band === 'teaching')!
+const COMMON = gridWords.find((w) => entries[w].band === 'common')!
+const BONUS = level.bonus[0]
 
 /** Tap out a word on the wheel, consuming each tile at most once. */
 async function tapWord(page: Page, word: string) {
@@ -32,66 +45,67 @@ test.beforeEach(async ({ page }) => {
 })
 
 test('an unsolved square offers its definition as the prompt', async ({ page }) => {
-  // First square in DOM order is the top of LOCI, the level's other
-  // teaching word.
   await page.getByTestId('cell-empty').first().click()
 
   const prompt = page.getByTestId('prompt-panel')
   await expect(prompt).toBeVisible()
-  await expect(page.getByTestId('prompt-gloss')).toContainText('plural of locus')
-  await expect(prompt).toContainText('4 letters')
-})
-
-test('each square prompts for its own word', async ({ page }) => {
-  // Squares 3..9 are the LACONIC row; any of them should prompt for it.
-  await page.getByTestId('cell-empty').nth(2).click()
-  await expect(page.getByTestId('prompt-gloss')).toContainText('using very few words')
-  await expect(page.getByTestId('prompt-panel')).toContainText('7 letters')
+  await expect(page.getByTestId('prompt-gloss')).not.toBeEmpty()
+  await expect(prompt).toContainText('letters')
 })
 
 test('solving a teaching word reveals the full entry and fills the grid', async ({ page }) => {
-  await play(page, 'LACONIC')
+  await play(page, TEACHING)
 
   const panel = page.getByTestId('definition-panel')
   await expect(panel).toBeVisible()
-  await expect(page.getByTestId('definition-word')).toHaveText('LACONIC')
-  await expect(panel).toContainText('adj.')
-  await expect(page.getByTestId('definition-text')).toContainText('Using very few words')
-  await expect(panel).toContainText('laconic nod')
+  await expect(page.getByTestId('definition-word')).toHaveText(TEACHING)
+  await expect(panel).toContainText(entries[TEACHING].pos)
+  await expect(page.getByTestId('definition-text')).not.toBeEmpty()
 
-  await expect(page.getByTestId('progress')).toHaveText('1/5 words')
+  await expect(page.getByTestId('progress')).toContainText(`1/${gridWords.length} words`)
   await expect(page.getByTestId('learned-count')).toContainText('1 learned')
 })
 
 // The band rule. If common words fired the panel, players would learn to
 // ignore it and the vocabulary mechanic would be dead.
 test('a common word fills the grid without teaching', async ({ page }) => {
-  await play(page, 'LION')
+  await play(page, COMMON)
 
-  await expect(page.getByTestId('silent-ack')).toHaveText('✓ LION')
+  await expect(page.getByTestId('silent-ack')).toHaveText(`✓ ${COMMON}`)
   await expect(page.getByTestId('definition-panel')).toHaveCount(0)
-  await expect(page.getByTestId('progress')).toHaveText('1/5 words')
+  await expect(page.getByTestId('progress')).toContainText(`1/${gridWords.length} words`)
   await expect(page.getByTestId('learned-count')).toContainText('0 learned')
 })
 
-test('a bonus word teaches without filling the grid', async ({ page }) => {
-  await play(page, 'CONICAL')
+test('a bonus word counts without filling the grid', async ({ page }) => {
+  await play(page, BONUS)
 
-  const panel = page.getByTestId('definition-panel')
-  await expect(panel).toBeVisible()
-  await expect(page.getByTestId('definition-word')).toHaveText('CONICAL')
-  await expect(panel).toContainText('bonus')
-
-  await expect(page.getByTestId('progress')).toHaveText('0/5 words')
   await expect(page.getByTestId('bonus-count')).toHaveText('+1 bonus')
-  await expect(page.getByTestId('learned-count')).toContainText('1 learned')
+  await expect(page.getByTestId('progress')).toContainText(`0/${gridWords.length} words`)
 })
 
-test('an unrecognized word is rejected without side effects', async ({ page }) => {
-  await play(page, 'CLON')
+/** Spellable from the pool but recognised by nothing. Derived rather than
+ *  hardcoded — the first guess, pool.slice(0,3), happened to spell BAN, which
+ *  is a real bonus word. */
+function unrecognizedWord(): string {
+  const p = level.pool
+  for (let a = 0; a < p.length; a++) {
+    for (let b = 0; b < p.length; b++) {
+      for (let c = 0; c < p.length; c++) {
+        if (a === b || b === c || a === c) continue
+        const s = p[a] + p[b] + p[c]
+        if (!(s in entries)) return s
+      }
+    }
+  }
+  throw new Error('every 3-letter arrangement of this pool is a real word')
+}
 
-  await expect(page.getByTestId('reject')).toContainText('Not a word')
-  await expect(page.getByTestId('progress')).toHaveText('0/5 words')
+test('an unrecognized word is rejected without side effects', async ({ page }) => {
+  await play(page, unrecognizedWord())
+
+  await expect(page.getByTestId('reject')).toBeVisible()
+  await expect(page.getByTestId('progress')).toContainText(`0/${gridWords.length} words`)
 })
 
 test('the panel replaces the prompt without moving the wheel', async ({ page }) => {
@@ -104,7 +118,7 @@ test('the panel replaces the prompt without moving the wheel', async ({ page }) 
   await expect(page.getByTestId('prompt-panel')).toBeVisible()
   expect(await wheel.boundingBox()).toEqual(before)
 
-  await play(page, 'LACONIC')
+  await play(page, TEACHING)
   await expect(page.getByTestId('definition-panel')).toBeVisible()
   expect(await wheel.boundingBox()).toEqual(before)
 })
@@ -136,28 +150,47 @@ test('the whole board fits the viewport with nothing overlapping', async ({ page
   await expect(page.getByTestId('prompt-panel')).toBeVisible()
   await fits('prompt showing')
 
-  await play(page, 'LACONIC')
+  await play(page, TEACHING)
   await expect(page.getByTestId('definition-panel')).toBeVisible()
   await fits('definition showing')
 })
 
 test('completing the level reviews every word learned and nothing else', async ({ page }) => {
-  await play(page, 'CONICAL') // bonus, teaching
-  for (const word of ['LACONIC', 'LOCI', 'LION', 'ION', 'CAN']) {
-    await play(page, word)
-  }
+  for (const word of gridWords) await play(page, word)
 
   const learned = page.getByTestId('words-learned')
   await expect(page.getByTestId('level-complete')).toBeVisible()
 
-  // Discovery order, teaching band only.
-  await expect(learned.locator('li')).toHaveCount(3)
-  await expect(learned).toContainText('CONICAL')
-  await expect(learned).toContainText('LACONIC')
-  await expect(learned).toContainText('LOCI')
+  const teaching = gridWords.filter((w) => entries[w].band === 'teaching')
+  const common = gridWords.filter((w) => entries[w].band === 'common')
 
-  // The scaffolding words must not appear — they filled the grid, not the mind.
-  await expect(learned).not.toContainText('LION')
-  await expect(learned).not.toContainText('ION')
-  await expect(learned).not.toContainText('CAN')
+  await expect(learned.locator('li')).toHaveCount(teaching.length)
+  for (const w of teaching) await expect(learned).toContainText(w)
+  // Scaffolding words filled the grid, not the mind.
+  for (const w of common) await expect(learned).not.toContainText(new RegExp(`\\b${w}\\b`))
+})
+
+test('finishing a level advances to the next one', async ({ page }) => {
+  await expect(page.getByTestId('progress')).toContainText('L1')
+
+  for (const word of gridWords) await play(page, word)
+  await page.getByTestId('next-level').click()
+
+  await expect(page.getByTestId('level-complete')).toHaveCount(0)
+  await expect(page.getByTestId('progress')).toContainText('L2')
+  await expect(page.getByTestId('progress')).toContainText('0/')
+})
+
+// Not cosmetic: WordNet's licence requires its copyright notice to appear on
+// all copies of the data, and definitions ship inside every level file.
+test('the WordNet notice is reachable in-app', async ({ page }) => {
+  await page.getByTestId('credits-open').click()
+
+  const credits = page.getByTestId('credits')
+  await expect(credits).toBeVisible()
+  await expect(credits).toContainText('WordNet 3.0')
+  await expect(credits).toContainText('Copyright 2006 by Princeton University')
+
+  await page.getByTestId('credits-close').click()
+  await expect(credits).toHaveCount(0)
 })

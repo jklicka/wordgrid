@@ -1,0 +1,146 @@
+{
+  "id": "level-017",
+  "baseWord": "MATTE",
+  "pool": [
+    "M",
+    "A",
+    "T",
+    "T",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "MATTE",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "TEAM",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "MEAT",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "MATE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MATT",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "TAME",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "EAT",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "TEA",
+    "ATM",
+    "MAT"
+  ],
+  "entries": {
+    "MATTE": {
+      "word": "MATTE",
+      "pos": "n.",
+      "gloss": "a mixture of sulfides that forms when sulfide metal ores are smelted",
+      "definition": "A mixture of sulfides that forms when sulfide metal ores are smelted.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TEAM": {
+      "word": "TEAM",
+      "pos": "n.",
+      "gloss": "a cooperative unit",
+      "definition": "A cooperative unit (especially in sports).",
+      "band": "common",
+      "tier": "general"
+    },
+    "MEAT": {
+      "word": "MEAT",
+      "pos": "n.",
+      "gloss": "the flesh of animals used as food",
+      "definition": "The flesh of animals (including fishes and birds and snails) used as food.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MATE": {
+      "word": "MATE",
+      "pos": "n.",
+      "gloss": "the officer below the master on a commercial ship",
+      "definition": "The officer below the master on a commercial ship.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MATT": {
+      "word": "MATT",
+      "pos": "n.",
+      "gloss": "the property of having little or no contrast",
+      "definition": "The property of having little or no contrast; lacking highlights or gloss.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAME": {
+      "word": "TAME",
+      "pos": "v.",
+      "gloss": "correct by punishment or discipline",
+      "definition": "Correct by punishment or discipline.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "EAT": {
+      "word": "EAT",
+      "pos": "v.",
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ATM": {
+      "word": "ATM",
+      "pos": "n.",
+      "gloss": "a unit of pressure",
+      "definition": "A unit of pressure: the pressure that will support a column of mercury 760 mm high at sea level and 0 degrees centigrade.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAT": {
+      "word": "MAT",
+      "pos": "n.",
+      "gloss": "a thick flat pad used as a floor covering",
+      "definition": "A thick flat pad used as a floor covering.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

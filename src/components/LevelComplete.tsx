@@ -12,7 +12,9 @@ import styles from './Complete.module.css'
 export default function LevelComplete() {
   const game = useGame((s) => s.game)
   const lifetime = useGame((s) => s.lifetimeLearned)
-  const resetLevel = useGame((s) => s.resetLevel)
+  const restartLevel = useGame((s) => s.restartLevel)
+  const nextLevel = useGame((s) => s.nextLevel)
+  const hasNext = useGame((s) => s.hasNextLevel())
 
   const learned = learnedEntries(game)
 
@@ -39,8 +41,15 @@ export default function LevelComplete() {
           {lifetime.length} {lifetime.length === 1 ? 'word' : 'words'} learned all-time
         </p>
 
-        <button className={styles.again} onClick={resetLevel} data-testid="play-again">
-          Play again
+        {hasNext ? (
+          <button className={styles.again} onClick={nextLevel} data-testid="next-level">
+            Next level
+          </button>
+        ) : (
+          <p className={styles.lifetime}>That's every level for now — more coming.</p>
+        )}
+        <button className={styles.replay} onClick={restartLevel} data-testid="replay-level">
+          Replay this level
         </button>
       </div>
     </div>

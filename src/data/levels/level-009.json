@@ -1,0 +1,131 @@
+{
+  "id": "level-009",
+  "baseWord": "PLURAL",
+  "pool": [
+    "P",
+    "L",
+    "U",
+    "R",
+    "A",
+    "L"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "PLURAL",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "PULL",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "PALL",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ALL",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "LAP",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "RAP",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "PAL",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "PAR"
+  ],
+  "entries": {
+    "PLURAL": {
+      "word": "PLURAL",
+      "pos": "n.",
+      "gloss": "the form of a word that is used to denote more than one",
+      "definition": "The form of a word that is used to denote more than one.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PULL": {
+      "word": "PULL",
+      "pos": "v.",
+      "gloss": "cause to move by pulling",
+      "definition": "Cause to move by pulling.",
+      "example": "Draw a wagon.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PALL": {
+      "word": "PALL",
+      "pos": "v.",
+      "gloss": "become less interesting or attractive",
+      "definition": "Become less interesting or attractive.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ALL": {
+      "word": "ALL",
+      "pos": "adj.",
+      "gloss": "used with either mass or count nouns to indicate the whole number or amount of or…",
+      "definition": "(quantifier) used with either mass or count nouns to indicate the whole number or amount of or every one of a class.",
+      "example": "We sat up all night.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAP": {
+      "word": "LAP",
+      "pos": "v.",
+      "gloss": "lie partly over or alongside of something or of one another",
+      "definition": "Lie partly over or alongside of something or of one another.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAP": {
+      "word": "RAP",
+      "pos": "n.",
+      "gloss": "a reproach for some lapse or misdeed",
+      "definition": "A reproach for some lapse or misdeed.",
+      "example": "He took the blame for it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAL": {
+      "word": "PAL",
+      "pos": "n.",
+      "gloss": "a close friend who accompanies his buddies in their activities",
+      "definition": "A close friend who accompanies his buddies in their activities.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAR": {
+      "word": "PAR",
+      "pos": "n.",
+      "gloss": "the standard number of strokes set for each hole on a golf course, or for the entire…",
+      "definition": "(golf) the standard number of strokes set for each hole on a golf course, or for the entire course.",
+      "example": "A par-5 hole.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -5,3 +5,8 @@ dist/
 test-results/
 playwright-report/
 .vite/
+
+# Generated word list — 4.5MB, rebuilt in seconds from the committed
+# data/zipf.json plus the wordnet-db devDependency. zipf.json IS committed:
+# regenerating it needs Python and the wordfreq package.
+data/wordlist.json

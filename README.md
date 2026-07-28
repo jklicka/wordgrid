@@ -58,39 +58,75 @@ Selection stores **pool indices, not letters**. That is the whole trick for
 duplicate tiles: `LACONIC` has two `C`s, so `CONIC` consumes both correctly
 while a re-tap of the same tile is rejected.
 
+## Content pipeline
+
+Levels are generated at build time and committed. Players receive only the
+level JSON — the 4.4 MB word list and the WordNet database never ship.
+
+```bash
+npm run content          # words → levels → validate
+```
+
+| Step | What it does |
+| --- | --- |
+| `tools/bootstrap-zipf.py` | **Run once.** Emits `data/zipf.json` from `wordfreq`. Committed, so the Node pipeline never needs Python. |
+| `content:words` | Joins WordNet 3.0 to those frequencies → `data/wordlist.json` (18k words, gitignored — rebuilt in seconds) |
+| `content:levels` | Base word → sub-anagrams → interlocked grid → `src/data/levels/` |
+| `content:validate` | Build gate. A malformed level fails the build rather than reaching a player. |
+
+**Why generation is a build step, not a runtime one:** the candidate pool for a
+given base word is a few dozen words, not 18,000, so valid interlocks are hard
+to find — roughly 1 base word in 17 yields a usable level. Offline, discarding
+failures costs nothing. At runtime it would be unusable.
+
+**Three things the data taught us, none of which were guessable:**
+
+- A frequency corpus built from subtitles is useless here. Measured against a
+  50k OpenSubtitles list, *every* word this game exists to teach — `laconic`,
+  `ersatz`, `quotidian`, `loci` — was absent, while ordinary words like `ion`
+  and `coil` sat mid-table. `wordfreq`'s blended corpus separates them cleanly.
+- WordNet's `index.*` files lowercase every lemma, so proper nouns and acronyms
+  are invisible there. The first generated level was built on `AUGUSTA` with
+  `GSA`/`TSA`/`USA` as bonus words. The `data.*` files preserve casing, which
+  is the filter that works.
+- Short words need to be commoner to earn their place. Every useful 3-letter
+  word scores ≥3.5 Zipf; the junk WordNet carries at that length (`IVA`, `LAV`,
+  `LEU`) sits below.
+
 ## Testing
 
 ```bash
-npm run test       # vitest — engine + anagram (44 tests)
-npm run test:e2e   # playwright on WebKit at iPhone 13 (8 tests)
+npm run test       # vitest (44) + level validation
+npm run test:e2e   # playwright on WebKit at iPhone 13 (10 tests)
 npm run typecheck
 ```
 
-E2E runs at mobile viewport only. Testing this game at desktop width would be
-testing a layout no player uses.
+E2E runs at mobile viewport only — testing this game at desktop width would be
+testing a layout no player uses. Unit tests assert against a frozen fixture
+(`tests/fixtures/level-laconic.json`) so regenerating content cannot break
+them; e2e derives its subjects from the real level data for the same reason.
 
 ## Roadmap
 
 | Phase | Status |
 | --- | --- |
 | 0–3 · Playable level, tap input, full vocabulary loop | ✅ done |
-| 4 · WordNet word list + level generator + validator | next |
-| 5 · PWA, offline, daily level, streak, stats | |
+| 4 · WordNet word list + level generator + validator + 20 levels | ✅ done |
+| 5 · PWA, offline, daily level, streak, stats | next |
 | 6 · Swipe-to-connect; pool ramp 5→7 letters | |
 | 7 · Capacitor wrap → App Store (needs Xcode 26) | |
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT — see [LICENSE](LICENSE). Third-party data notices: [NOTICE](NOTICE).
 
 ## Attribution
 
-**Current state:** the definitions in `src/data/levels/level-001.json` are
-hand-authored for this one demo level. No third-party lexical data ships yet.
+Definitions, parts of speech and examples in `src/data/levels/` are derived
+from **WordNet 3.0**, Princeton University, used under its licence. That
+licence requires the copyright notice to travel with all copies, so it appears
+in [NOTICE](NOTICE) and in the app's own credits screen. Princeton University
+is not affiliated with, and does not endorse, this app.
 
-**Planned for Phase 4:** the generated word list will draw definitions from
-**WordNet 3.1**, Princeton University. WordNet permits commercial use provided
-its copyright notice travels with all copies, and Princeton's name may not be
-used in promotion. Both obligations attach the moment that data lands here — an
-in-app credits screen carrying the notice is part of Phase 4, not something
-that exists today.
+Word frequency bands derive from **wordfreq** (MIT). Only a computed Zipf value
+per word is retained; no source corpus is redistributed.

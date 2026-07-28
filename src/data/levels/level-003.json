@@ -1,0 +1,113 @@
+{
+  "id": "level-003",
+  "baseWord": "KERNEL",
+  "pool": [
+    "K",
+    "E",
+    "R",
+    "N",
+    "E",
+    "L"
+  ],
+  "rows": 5,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "KERNEL",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "KNEEL",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "KNEE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "KEEN",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "REEL",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "KEN",
+    "KEEL"
+  ],
+  "entries": {
+    "KERNEL": {
+      "word": "KERNEL",
+      "pos": "n.",
+      "gloss": "the inner and usually edible part of a seed or grain or nut or fruit stone",
+      "definition": "The inner and usually edible part of a seed or grain or nut or fruit stone.",
+      "example": "Black walnut kernels are difficult to get out of the shell.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "KNEEL": {
+      "word": "KNEEL",
+      "pos": "v.",
+      "gloss": "rest one's weight on one's knees",
+      "definition": "Rest one's weight on one's knees.",
+      "example": "In church you have to kneel during parts of the service.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "KNEE": {
+      "word": "KNEE",
+      "pos": "n.",
+      "gloss": "hinge joint in the human leg connecting the tibia and fibula with the femur and…",
+      "definition": "Hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella.",
+      "band": "common",
+      "tier": "general"
+    },
+    "KEEN": {
+      "word": "KEEN",
+      "pos": "adj.",
+      "gloss": "having or demonstrating ability to recognize or draw fine distinctions",
+      "definition": "Having or demonstrating ability to recognize or draw fine distinctions.",
+      "example": "An acute observer of politics and politicians.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REEL": {
+      "word": "REEL",
+      "pos": "v.",
+      "gloss": "walk as if unable to control one's movements",
+      "definition": "Walk as if unable to control one's movements.",
+      "example": "The drunken man staggered into the room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "KEN": {
+      "word": "KEN",
+      "pos": "n.",
+      "gloss": "range of what one can know or understand",
+      "definition": "Range of what one can know or understand.",
+      "example": "Beyond my ken.",
+      "band": "common",
+      "tier": "general"
+    },
+    "KEEL": {
+      "word": "KEEL",
+      "pos": "n.",
+      "gloss": "a projection or ridge that suggests a keel",
+      "definition": "A projection or ridge that suggests a keel.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

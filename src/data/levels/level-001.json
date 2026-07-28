@@ -1,154 +1,216 @@
 {
   "id": "level-001",
-  "baseWord": "LACONIC",
-  "pool": ["L", "A", "C", "O", "N", "I", "C"],
-  "rows": 6,
-  "cols": 7,
+  "baseWord": "BANQUET",
+  "pool": [
+    "B",
+    "A",
+    "N",
+    "Q",
+    "U",
+    "E",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 8,
   "placed": [
-    { "word": "LACONIC", "row": 2, "col": 0, "direction": "across" },
-    { "word": "LOCI", "row": 0, "col": 2, "direction": "down" },
-    { "word": "LION", "row": 2, "col": 0, "direction": "down" },
-    { "word": "ION", "row": 2, "col": 5, "direction": "down" },
-    { "word": "CAN", "row": 4, "col": 3, "direction": "across" }
+    {
+      "word": "BANQUET",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "BUTANE",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "BEAUT",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "BEAT",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "TUBE",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TUNE",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "BETA",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    }
   ],
   "bonus": [
-    "CONICAL",
-    "CALICO",
-    "CONIC",
-    "COIN",
-    "COIL",
-    "ICON",
-    "CLAN",
-    "COLA",
-    "LOAN",
-    "OIL",
-    "CON",
-    "NIL"
+    "BUT",
+    "EAT",
+    "TEN",
+    "BET",
+    "NET",
+    "TEA",
+    "BEN",
+    "BAN",
+    "BAT",
+    "AUNT"
   ],
   "entries": {
-    "LACONIC": {
-      "word": "LACONIC",
-      "pos": "adj.",
-      "gloss": "using very few words; terse",
-      "definition": "Using very few words; expressing a great deal in brief, spare form.",
-      "example": "He gave a laconic nod and said nothing more.",
-      "band": "teaching"
-    },
-    "LOCI": {
-      "word": "LOCI",
-      "pos": "n. pl.",
-      "gloss": "plural of locus; particular places or centers",
-      "definition": "Plural of locus: particular positions, points, or centers where something occurs.",
-      "example": "The loci of the outbreak were traced to three markets.",
-      "band": "teaching"
-    },
-    "CONICAL": {
-      "word": "CONICAL",
-      "pos": "adj.",
-      "gloss": "shaped like a cone",
-      "definition": "Having the shape of a cone; tapering evenly to a point.",
-      "example": "The lamp threw a conical beam across the floor.",
-      "band": "teaching"
-    },
-    "CALICO": {
-      "word": "CALICO",
+    "BANQUET": {
+      "word": "BANQUET",
       "pos": "n.",
-      "gloss": "coarse printed cotton cloth",
-      "definition": "A plain-woven cotton fabric, typically printed with a bright pattern; also used of a cat with a multicolored coat.",
-      "example": "She wore a faded calico apron.",
-      "band": "teaching"
+      "gloss": "a ceremonial dinner party for many people",
+      "definition": "A ceremonial dinner party for many people.",
+      "band": "teaching",
+      "tier": "general"
     },
-    "CONIC": {
-      "word": "CONIC",
-      "pos": "adj.",
-      "gloss": "of or relating to a cone",
-      "definition": "Of, relating to, or resembling a cone; in geometry, describing curves formed by slicing a cone.",
-      "example": "The ellipse is a conic section.",
-      "band": "teaching"
-    },
-    "LION": {
-      "word": "LION",
+    "BUTANE": {
+      "word": "BUTANE",
       "pos": "n.",
-      "gloss": "large wild cat of Africa",
-      "definition": "A large tawny-colored wild cat native to Africa and India, the male having a shaggy mane.",
-      "band": "common"
+      "gloss": "occurs in natural gas",
+      "definition": "Occurs in natural gas; used in the manufacture of rubber and fuels.",
+      "band": "teaching",
+      "tier": "general"
     },
-    "ION": {
-      "word": "ION",
+    "BEAUT": {
+      "word": "BEAUT",
       "pos": "n.",
-      "gloss": "an electrically charged atom",
-      "definition": "An atom or molecule carrying a net electric charge from losing or gaining electrons.",
-      "band": "common"
+      "gloss": "an outstanding example of its kind",
+      "definition": "An outstanding example of its kind.",
+      "example": "His roses were beauties.",
+      "band": "teaching",
+      "tier": "general"
     },
-    "CAN": {
-      "word": "CAN",
+    "BEAT": {
+      "word": "BEAT",
       "pos": "v.",
-      "gloss": "to be able to",
-      "definition": "To be able to; to have the ability, power, or permission to do something.",
-      "band": "common"
+      "gloss": "come out better in a competition, race, or conflict",
+      "definition": "Come out better in a competition, race, or conflict.",
+      "example": "Agassi beat Becker in the tennis championship.",
+      "band": "common",
+      "tier": "general"
     },
-    "COIN": {
-      "word": "COIN",
+    "TUBE": {
+      "word": "TUBE",
       "pos": "n.",
-      "gloss": "a flat piece of metal money",
-      "definition": "A flat, typically round piece of metal used as money.",
-      "band": "common"
+      "gloss": "conduit consisting of a long hollow object used to hold and conduct objects or liquids…",
+      "definition": "Conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases.",
+      "band": "common",
+      "tier": "general"
     },
-    "COIL": {
-      "word": "COIL",
+    "TUNE": {
+      "word": "TUNE",
       "pos": "n.",
-      "gloss": "a length of something wound in loops",
-      "definition": "A length of rope, wire, or other flexible material wound into a series of loops.",
-      "band": "common"
+      "gloss": "a succession of notes forming a distinctive sequence",
+      "definition": "A succession of notes forming a distinctive sequence.",
+      "example": "She was humming an air from Beethoven.",
+      "band": "common",
+      "tier": "general"
     },
-    "ICON": {
-      "word": "ICON",
+    "BETA": {
+      "word": "BETA",
       "pos": "n.",
-      "gloss": "a symbol or small picture",
-      "definition": "A person or thing regarded as a representative symbol; also a small graphic on a screen.",
-      "band": "common"
+      "gloss": "the 2nd letter of the Greek alphabet",
+      "definition": "The 2nd letter of the Greek alphabet.",
+      "band": "common",
+      "tier": "general"
     },
-    "CLAN": {
-      "word": "CLAN",
-      "pos": "n.",
-      "gloss": "a group of related families",
-      "definition": "A group of families or households united by descent from a common ancestor.",
-      "band": "common"
+    "BUT": {
+      "word": "BUT",
+      "pos": "adv.",
+      "gloss": "and nothing more",
+      "definition": "And nothing more.",
+      "example": "I was merely asking.",
+      "band": "common",
+      "tier": "general"
     },
-    "COLA": {
-      "word": "COLA",
-      "pos": "n.",
-      "gloss": "a sweet carbonated drink",
-      "definition": "A carbonated soft drink flavored with extract from the kola nut.",
-      "band": "common"
-    },
-    "LOAN": {
-      "word": "LOAN",
-      "pos": "n.",
-      "gloss": "something lent, especially money",
-      "definition": "A thing that is borrowed, especially a sum of money expected to be paid back.",
-      "band": "common"
-    },
-    "OIL": {
-      "word": "OIL",
-      "pos": "n.",
-      "gloss": "a slippery liquid that does not mix with water",
-      "definition": "A viscous liquid derived from petroleum, plants, or animals, insoluble in water.",
-      "band": "common"
-    },
-    "CON": {
-      "word": "CON",
+    "EAT": {
+      "word": "EAT",
       "pos": "v.",
-      "gloss": "to deceive or swindle",
-      "definition": "To persuade someone to do or believe something by deception.",
-      "band": "common"
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
     },
-    "NIL": {
-      "word": "NIL",
+    "TEN": {
+      "word": "TEN",
       "pos": "n.",
-      "gloss": "nothing; zero",
-      "definition": "Nothing; zero, especially as a score in a game.",
-      "band": "common"
+      "gloss": "the cardinal number that is the sum of nine and one",
+      "definition": "The cardinal number that is the sum of nine and one; the base of the decimal system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BET": {
+      "word": "BET",
+      "pos": "n.",
+      "gloss": "the money risked on a gamble",
+      "definition": "The money risked on a gamble.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NET": {
+      "word": "NET",
+      "pos": "n.",
+      "gloss": "a computer network consisting of a worldwide network of computer networks that use the…",
+      "definition": "A computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEN": {
+      "word": "BEN",
+      "pos": "n.",
+      "gloss": "a mountain or tall hill",
+      "definition": "A mountain or tall hill.",
+      "example": "They were climbing the ben.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAN": {
+      "word": "BAN",
+      "pos": "v.",
+      "gloss": "forbid the public distribution of",
+      "definition": "Forbid the public distribution of ( a movie or a newspaper).",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAT": {
+      "word": "BAT",
+      "pos": "n.",
+      "gloss": "nocturnal mouselike mammal with forelimbs modified to form membranous wings and…",
+      "definition": "Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AUNT": {
+      "word": "AUNT",
+      "pos": "n.",
+      "gloss": "the sister of your father or mother",
+      "definition": "The sister of your father or mother; the wife of your uncle.",
+      "band": "common",
+      "tier": "general"
     }
   }
 }

@@ -1,0 +1,114 @@
+{
+  "id": "level-004",
+  "baseWord": "JOCKEY",
+  "pool": [
+    "J",
+    "O",
+    "C",
+    "K",
+    "E",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "JOCKEY",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "JOKE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "COKE",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "JOCK",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "YOKE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "KEY",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "JOY"
+  ],
+  "entries": {
+    "JOCKEY": {
+      "word": "JOCKEY",
+      "pos": "n.",
+      "gloss": "someone employed to ride horses in horse races",
+      "definition": "Someone employed to ride horses in horse races.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "JOKE": {
+      "word": "JOKE",
+      "pos": "n.",
+      "gloss": "a humorous anecdote or remark intended to provoke laughter",
+      "definition": "A humorous anecdote or remark intended to provoke laughter.",
+      "example": "He told a very funny joke.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COKE": {
+      "word": "COKE",
+      "pos": "n.",
+      "gloss": "carbon fuel produced by distillation of coal",
+      "definition": "Carbon fuel produced by distillation of coal.",
+      "band": "common",
+      "tier": "general"
+    },
+    "JOCK": {
+      "word": "JOCK",
+      "pos": "n.",
+      "gloss": "a person trained to compete in sports",
+      "definition": "A person trained to compete in sports.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "YOKE": {
+      "word": "YOKE",
+      "pos": "n.",
+      "gloss": "fabric comprising a fitted part at the top of a garment",
+      "definition": "Fabric comprising a fitted part at the top of a garment.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "KEY": {
+      "word": "KEY",
+      "pos": "n.",
+      "gloss": "metal device shaped in such a way that when it is inserted into the appropriate lock…",
+      "definition": "Metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated.",
+      "band": "common",
+      "tier": "general"
+    },
+    "JOY": {
+      "word": "JOY",
+      "pos": "n.",
+      "gloss": "the emotion of great happiness",
+      "definition": "The emotion of great happiness.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

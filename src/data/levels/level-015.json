@@ -1,0 +1,149 @@
+{
+  "id": "level-015",
+  "baseWord": "CHOKED",
+  "pool": [
+    "C",
+    "H",
+    "O",
+    "K",
+    "E",
+    "D"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "CHOKED",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CHOKE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "CODE",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "DECK",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "COKE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ECHO",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DOCK",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "DOC",
+    "COD",
+    "DECO"
+  ],
+  "entries": {
+    "CHOKED": {
+      "word": "CHOKED",
+      "pos": "adj.",
+      "gloss": "stopped up; clogged up",
+      "definition": "Stopped up; clogged up.",
+      "example": "Clogged pipes.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CHOKE": {
+      "word": "CHOKE",
+      "pos": "v.",
+      "gloss": "breathe with great difficulty, as when experiencing a strong emotion",
+      "definition": "Breathe with great difficulty, as when experiencing a strong emotion.",
+      "example": "She choked with emotion when she spoke about her deceased husband.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CODE": {
+      "word": "CODE",
+      "pos": "n.",
+      "gloss": "a set of rules or principles or laws",
+      "definition": "A set of rules or principles or laws (especially written ones).",
+      "band": "common",
+      "tier": "general"
+    },
+    "DECK": {
+      "word": "DECK",
+      "pos": "n.",
+      "gloss": "any of various platforms built into a vessel",
+      "definition": "Any of various platforms built into a vessel.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COKE": {
+      "word": "COKE",
+      "pos": "n.",
+      "gloss": "carbon fuel produced by distillation of coal",
+      "definition": "Carbon fuel produced by distillation of coal.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ECHO": {
+      "word": "ECHO",
+      "pos": "v.",
+      "gloss": "to say again or imitate",
+      "definition": "To say again or imitate.",
+      "example": "Followers echoing the cries of their leaders.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOCK": {
+      "word": "DOCK",
+      "pos": "n.",
+      "gloss": "an enclosure in a court of law where the defendant sits during the trial",
+      "definition": "An enclosure in a court of law where the defendant sits during the trial.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOC": {
+      "word": "DOC",
+      "pos": "n.",
+      "gloss": "a licensed medical practitioner",
+      "definition": "A licensed medical practitioner.",
+      "example": "I felt so bad I went to see my doctor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COD": {
+      "word": "COD",
+      "pos": "n.",
+      "gloss": "the vessel that contains the seeds of a plant",
+      "definition": "The vessel that contains the seeds of a plant (not the seeds themselves).",
+      "band": "common",
+      "tier": "general"
+    },
+    "DECO": {
+      "word": "DECO",
+      "pos": "n.",
+      "gloss": "a style of design that was popular in the 1920s and 1930s",
+      "definition": "A style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

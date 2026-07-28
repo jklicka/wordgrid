@@ -1,0 +1,168 @@
+{
+  "id": "level-016",
+  "baseWord": "CANOPY",
+  "pool": [
+    "C",
+    "A",
+    "N",
+    "O",
+    "P",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "CANOPY",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "CAPON",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "COPY",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "PONY",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "ANY",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PAY",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "CAP",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "CAN",
+    "PAN",
+    "COP",
+    "CON",
+    "NAP"
+  ],
+  "entries": {
+    "CANOPY": {
+      "word": "CANOPY",
+      "pos": "n.",
+      "gloss": "the transparent covering of an aircraft cockpit",
+      "definition": "The transparent covering of an aircraft cockpit.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAPON": {
+      "word": "CAPON",
+      "pos": "n.",
+      "gloss": "flesh of a castrated male chicken",
+      "definition": "Flesh of a castrated male chicken.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "COPY": {
+      "word": "COPY",
+      "pos": "n.",
+      "gloss": "a reproduction of a written record",
+      "definition": "A reproduction of a written record (e.g. of a legal or school record).",
+      "band": "common",
+      "tier": "general"
+    },
+    "PONY": {
+      "word": "PONY",
+      "pos": "n.",
+      "gloss": "a range horse of the western United States",
+      "definition": "A range horse of the western United States.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANY": {
+      "word": "ANY",
+      "pos": "adj.",
+      "gloss": "one or some or every or all without specification",
+      "definition": "One or some or every or all without specification.",
+      "example": "Give me any peaches you don't want.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAY": {
+      "word": "PAY",
+      "pos": "v.",
+      "gloss": "give money, usually in exchange for goods or services",
+      "definition": "Give money, usually in exchange for goods or services.",
+      "example": "I paid four dollars for this sandwich.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAP": {
+      "word": "CAP",
+      "pos": "n.",
+      "gloss": "a tight-fitting headdress",
+      "definition": "A tight-fitting headdress.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAN": {
+      "word": "CAN",
+      "pos": "v.",
+      "gloss": "preserve in a can or tin",
+      "definition": "Preserve in a can or tin.",
+      "example": "Tinned foods are not very tasty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAN": {
+      "word": "PAN",
+      "pos": "v.",
+      "gloss": "make a sweeping movement",
+      "definition": "Make a sweeping movement.",
+      "example": "The camera panned across the room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COP": {
+      "word": "COP",
+      "pos": "n.",
+      "gloss": "uncomplimentary terms for a policeman",
+      "definition": "Uncomplimentary terms for a policeman.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CON": {
+      "word": "CON",
+      "pos": "n.",
+      "gloss": "an argument opposed to a proposal",
+      "definition": "An argument opposed to a proposal.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NAP": {
+      "word": "NAP",
+      "pos": "n.",
+      "gloss": "a period of time spent sleeping",
+      "definition": "A period of time spent sleeping.",
+      "example": "He felt better after a little sleep.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

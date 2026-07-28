@@ -1,0 +1,199 @@
+{
+  "id": "level-008",
+  "baseWord": "GARNER",
+  "pool": [
+    "G",
+    "A",
+    "R",
+    "N",
+    "E",
+    "R"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "GARNER",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RANGE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ANGER",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "NEAR",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "RARE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "EARN",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "GEAR",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ARE",
+    "AGE",
+    "ERA",
+    "REAR",
+    "EAR",
+    "GEN",
+    "RAGE",
+    "GRAN"
+  ],
+  "entries": {
+    "GARNER": {
+      "word": "GARNER",
+      "pos": "v.",
+      "gloss": "acquire or deserve by one's efforts or actions",
+      "definition": "Acquire or deserve by one's efforts or actions.",
+      "example": "Its beauty won Paris the name 'City of Lights'.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RANGE": {
+      "word": "RANGE",
+      "pos": "n.",
+      "gloss": "an area in which something acts or operates or has power or control",
+      "definition": "An area in which something acts or operates or has power or control: \"the range of a supersonic jet\".",
+      "example": "A piano has a greater range than the human voice.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANGER": {
+      "word": "ANGER",
+      "pos": "n.",
+      "gloss": "a strong emotion",
+      "definition": "A strong emotion; a feeling that is oriented toward some real or supposed grievance.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NEAR": {
+      "word": "NEAR",
+      "pos": "adv.",
+      "gloss": "near in time or place or relationship",
+      "definition": "Near in time or place or relationship.",
+      "example": "As the wedding day drew near.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RARE": {
+      "word": "RARE",
+      "pos": "adj.",
+      "gloss": "not widely known",
+      "definition": "Not widely known; especially valued for its uncommonness.",
+      "example": "A rare word.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EARN": {
+      "word": "EARN",
+      "pos": "v.",
+      "gloss": "earn on some commercial or business transaction",
+      "definition": "Earn on some commercial or business transaction; earn as salary or wages.",
+      "example": "How much do you make a month in your new job?",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEAR": {
+      "word": "GEAR",
+      "pos": "n.",
+      "gloss": "a toothed wheel that engages another toothed mechanism in order to change the speed or…",
+      "definition": "A toothed wheel that engages another toothed mechanism in order to change the speed or direction of transmitted motion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AGE": {
+      "word": "AGE",
+      "pos": "n.",
+      "gloss": "how long something has existed",
+      "definition": "How long something has existed.",
+      "example": "It was replaced because of its age.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REAR": {
+      "word": "REAR",
+      "pos": "n.",
+      "gloss": "the back of a military formation or procession",
+      "definition": "The back of a military formation or procession.",
+      "example": "Infantrymen were in the rear.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEN": {
+      "word": "GEN",
+      "pos": "n.",
+      "gloss": "informal term for information",
+      "definition": "Informal term for information.",
+      "example": "Give me the gen on your new line of computers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAGE": {
+      "word": "RAGE",
+      "pos": "n.",
+      "gloss": "a feeling of intense anger",
+      "definition": "A feeling of intense anger.",
+      "example": "Hell hath no fury like a woman scorned.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GRAN": {
+      "word": "GRAN",
+      "pos": "n.",
+      "gloss": "the mother of your father or mother",
+      "definition": "The mother of your father or mother.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

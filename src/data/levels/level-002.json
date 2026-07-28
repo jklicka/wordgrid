@@ -1,0 +1,145 @@
+{
+  "id": "level-002",
+  "baseWord": "PILES",
+  "pool": [
+    "P",
+    "I",
+    "L",
+    "E",
+    "S"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "PILES",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SPIEL",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SLIP",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PILE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "ISLE",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "LISP",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "LIE",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "PIE",
+    "LIP",
+    "SIP"
+  ],
+  "entries": {
+    "PILES": {
+      "word": "PILES",
+      "pos": "n.",
+      "gloss": "venous swelling external or internal to the anal sphincter",
+      "definition": "Venous swelling external or internal to the anal sphincter.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SPIEL": {
+      "word": "SPIEL",
+      "pos": "n.",
+      "gloss": "plausible glib talk",
+      "definition": "Plausible glib talk (especially useful to a salesperson).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SLIP": {
+      "word": "SLIP",
+      "pos": "v.",
+      "gloss": "move stealthily",
+      "definition": "Move stealthily.",
+      "example": "The ship slipped away in the darkness.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PILE": {
+      "word": "PILE",
+      "pos": "n.",
+      "gloss": "a collection of objects laid on top of each other",
+      "definition": "A collection of objects laid on top of each other.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ISLE": {
+      "word": "ISLE",
+      "pos": "n.",
+      "gloss": "a small island",
+      "definition": "A small island.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LISP": {
+      "word": "LISP",
+      "pos": "n.",
+      "gloss": "a speech defect that involves pronouncing `s' like voiceless `th' and `z' like voiced `th'",
+      "definition": "A speech defect that involves pronouncing `s' like voiceless `th' and `z' like voiced `th'.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIE": {
+      "word": "LIE",
+      "pos": "v.",
+      "gloss": "be located or situated somewhere",
+      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIE": {
+      "word": "PIE",
+      "pos": "n.",
+      "gloss": "dish baked in pastry-lined pan often with a pastry top",
+      "definition": "Dish baked in pastry-lined pan often with a pastry top.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIP": {
+      "word": "LIP",
+      "pos": "n.",
+      "gloss": "either of two fleshy folds of tissue that surround the mouth and play a role in speaking",
+      "definition": "Either of two fleshy folds of tissue that surround the mouth and play a role in speaking.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIP": {
+      "word": "SIP",
+      "pos": "n.",
+      "gloss": "a small drink",
+      "definition": "A small drink.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}
