@@ -1,6 +1,8 @@
 .wheel {
   position: relative;
-  width: min(268px, 74vw);
+  /* Capped by viewport HEIGHT too — on a short screen an unconstrained wheel
+     eats the grid's space and pushes it off the top. */
+  width: min(268px, 74vw, 38dvh);
   aspect-ratio: 1;
   margin: 0 auto;
   background: var(--bg-raised);

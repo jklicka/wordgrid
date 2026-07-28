@@ -2,7 +2,8 @@
    Height is FIXED here on purpose: a panel that grows and pushes the wheel
    down under the player's thumb causes mistaps and reads as broken. */
 .band {
-  min-height: 104px;
+  min-height: clamp(88px, 15dvh, 108px);
+  flex: none;
   display: flex;
   align-items: center;
   padding: 8px 14px;

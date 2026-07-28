@@ -109,6 +109,38 @@ test('the panel replaces the prompt without moving the wheel', async ({ page }) 
   expect(await wheel.boundingBox()).toEqual(before)
 })
 
+// A real iPhone 13 has only ~625px of usable height once browser chrome is
+// accounted for. Sizing the grid by width alone overflowed it under the header
+// and behind the definition panel — invisible at a bare 390x844 preview.
+test('the whole board fits the viewport with nothing overlapping', async ({ page }) => {
+  const viewport = page.viewportSize()!
+  const grid = page.getByTestId('grid')
+  const wheel = page.getByTestId('letter-pool')
+
+  const fits = async (label: string) => {
+    const g = (await grid.boundingBox())!
+    const w = (await wheel.boundingBox())!
+    expect(g.y, `${label}: grid clipped at top`).toBeGreaterThanOrEqual(0)
+    expect(g.y + g.height, `${label}: grid overlaps the wheel`).toBeLessThanOrEqual(w.y + 1)
+    expect(w.y + w.height, `${label}: wheel past the bottom`).toBeLessThanOrEqual(viewport.height + 1)
+
+    const overflow = await page.evaluate(
+      () => document.documentElement.scrollWidth - document.documentElement.clientWidth,
+    )
+    expect(overflow, `${label}: horizontal overflow`).toBeLessThanOrEqual(0)
+  }
+
+  await fits('idle')
+
+  await page.getByTestId('cell-empty').first().click()
+  await expect(page.getByTestId('prompt-panel')).toBeVisible()
+  await fits('prompt showing')
+
+  await play(page, 'LACONIC')
+  await expect(page.getByTestId('definition-panel')).toBeVisible()
+  await fits('definition showing')
+})
+
 test('completing the level reviews every word learned and nothing else', async ({ page }) => {
   await play(page, 'CONICAL') // bonus, teaching
   for (const word of ['LACONIC', 'LOCI', 'LION', 'ION', 'CAN']) {
