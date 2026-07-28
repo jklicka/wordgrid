@@ -79,9 +79,18 @@ testing a layout no player uses.
 | 6 · Swipe-to-connect; pool ramp 5→7 letters | |
 | 7 · Capacitor wrap → App Store (needs Xcode 26) | |
 
+## License
+
+MIT — see [LICENSE](LICENSE).
+
 ## Attribution
 
-Definitions in the shipped word list derive from **WordNet 3.1**, Princeton
-University. WordNet is free for commercial use provided its copyright notice
-travels with all copies; that notice ships in the in-app credits screen.
-Princeton's name is not used in promotion of this app.
+**Current state:** the definitions in `src/data/levels/level-001.json` are
+hand-authored for this one demo level. No third-party lexical data ships yet.
+
+**Planned for Phase 4:** the generated word list will draw definitions from
+**WordNet 3.1**, Princeton University. WordNet permits commercial use provided
+its copyright notice travels with all copies, and Princeton's name may not be
+used in promotion. Both obligations attach the moment that data lands here — an
+in-app credits screen carrying the notice is part of Phase 4, not something
+that exists today.
