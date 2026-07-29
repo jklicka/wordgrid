@@ -3,9 +3,12 @@
 A vocabulary-first word game. Wordscapes-style letter wheel over a crossword
 grid — but where Wordscapes pays you in coins, WordGrid pays you in definitions.
 
+**Play it:** [jklicka.github.io/wordgrid](https://jklicka.github.io/wordgrid/) —
+installable from Safari or Chrome (Share → Add to Home Screen).
+
 ```bash
 npm install
-npm run dev        # http://localhost:5180
+npm run dev        # http://localhost:5180/wordgrid/
 ```
 
 ## The idea
@@ -99,9 +102,15 @@ failures costs nothing. At runtime it would be unusable.
 
 ## Install and offline
 
-Built as a PWA: installable from Safari or Chrome, portrait, standalone, and
-precached so it runs with no network. 400 levels ship, which is over a year of
-daily puzzles.
+Live at **https://jklicka.github.io/wordgrid/** — installable from Safari or
+Chrome, portrait, standalone, and precached so it runs with no network. 400
+levels ship, which is over a year of daily puzzles.
+
+Deployed by `.github/workflows/deploy.yml` on every push to `main`, gated on
+typecheck, unit tests and level validation. Pages serves from a subpath, so
+`base` is `/wordgrid/` **in dev as well as production** — a base that only
+exists in CI is how you ship something that works on localhost and 404s
+everywhere else.
 
 **Levels are lazy chunks, deliberately.** Eager-importing them compiled the
 whole catalogue into the JS bundle — 1.4 MB of content masquerading as code,
