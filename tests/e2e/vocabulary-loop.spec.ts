@@ -231,3 +231,35 @@ test('the daily puzzle launches from the stats screen', async ({ page }) => {
   // for a second streak credit, is covered by the progress unit tests — the
   // daily's words are not knowable from the DOM.)
 })
+
+test('selecting a word outlines it on the board and keeps it outlined while typing', async ({
+  page,
+}) => {
+  const outlined = page.locator('[data-selected="true"]')
+  await expect(outlined).toHaveCount(0)
+
+  await page.getByTestId('cell-empty').first().click()
+
+  // Every square of the selected word, crossings included.
+  const selectedWord = gridWords.find((w) => entries[w].band === 'teaching')!
+  await expect(outlined.first()).toBeVisible()
+  const count = await outlined.count()
+  expect(count).toBeGreaterThan(0)
+
+  // Gold outline — the same colour that FILLS a solved square (#ffc44d).
+  // Polled, not read once: the outline transitions in, and sampling mid-flight
+  // returns an interpolated colour.
+  await expect
+    .poll(() => outlined.first().evaluate((el) => getComputedStyle(el).boxShadow))
+    .toContain('rgb(255, 196, 77)')
+
+  // The point of the whole change: the prompt panel is retired by the first
+  // keypress, but the outline must not be.
+  await tapWord(page, selectedWord.slice(0, 2))
+  await expect(page.getByTestId('prompt-panel')).toHaveCount(0)
+  await expect(outlined).toHaveCount(count)
+
+  // Submitting ends the attempt, so the outline goes with it.
+  await page.getByTestId('submit').click()
+  await expect(outlined).toHaveCount(0)
+})

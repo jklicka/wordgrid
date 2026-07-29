@@ -26,6 +26,7 @@ export function createGame(level: Level): GameState {
     foundBonus: [],
     learned: [],
     promptWord: null,
+    selectedWord: null,
     lastResult: null,
   }
 }
@@ -52,7 +53,8 @@ export function selectLetter(state: GameState, poolIndex: number): GameState {
   return {
     ...state,
     selection: [...state.selection, poolIndex],
-    // Any new input retires the previous panel.
+    // Any new input retires the previous panel — but NOT the board highlight,
+    // which is most useful precisely while the word is being built.
     lastResult: null,
     promptWord: null,
   }
@@ -73,11 +75,11 @@ export function showPrompt(state: GameState, word: string): GameState {
   const target = word.toUpperCase()
   if (!gridWords(state.level).includes(target)) return state
   if (state.solved.includes(target)) return state
-  return { ...state, promptWord: target, lastResult: null }
+  return { ...state, promptWord: target, selectedWord: target, lastResult: null }
 }
 
 export function dismissPanels(state: GameState): GameState {
-  return { ...state, promptWord: null, lastResult: null }
+  return { ...state, promptWord: null, selectedWord: null, lastResult: null }
 }
 
 /**
@@ -115,6 +117,8 @@ export function submitWord(state: GameState): GameState {
     ...state,
     selection: [],
     promptWord: null,
+    // Submitting ends the attempt, so the highlight goes with it.
+    selectedWord: null,
     lastResult: result,
   }
 

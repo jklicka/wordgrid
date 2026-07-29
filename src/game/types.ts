@@ -68,6 +68,15 @@ export interface GameState {
   learned: string[]
   /** Which grid word's prompt is currently displayed, if any. */
   promptWord: string | null
+  /**
+   * Which grid word is highlighted on the board.
+   *
+   * Deliberately separate from `promptWord`, which any keypress retires. The
+   * highlight has to outlive the panel: it shows you WHERE the answer goes,
+   * and losing it the instant you tap your first letter removes it exactly
+   * when you have started working on that word.
+   */
+  selectedWord: string | null
   /** Outcome of the most recent submit, for the UI to react to. */
   lastResult: SubmitResult | null
 }

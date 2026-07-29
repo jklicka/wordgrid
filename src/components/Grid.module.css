@@ -37,6 +37,22 @@
 .empty {
   background: var(--slot);
   box-shadow: inset 0 0 0 1px #ffffff12;
+  transition: box-shadow 140ms ease;
+}
+
+/* The selected word, outlined in the same gold that FILLS a solved word.
+   Outline then fill is the progression: the highlight shows where the answer
+   goes, and solving it fills in what you outlined.
+   Declared after .empty so it wins — both are single class selectors, so
+   source order is what decides. */
+.selected {
+  box-shadow: inset 0 0 0 2px var(--accent);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .empty {
+    transition: none;
+  }
 }
 
 .empty:active {

@@ -27,14 +27,20 @@ export default function Grid() {
 
           // A square can belong to two words; prompt for the first still unsolved.
           const target = cell.words.find((w) => words.includes(w) && !game.solved.includes(w))
+          // Outline every square of the selected word — including any crossing
+          // square already filled, so the outline reads as one unbroken shape.
+          const selected = !!game.selectedWord && cell.words.includes(game.selectedWord)
 
           return (
             <button
               key={`${r}-${c}`}
-              className={cell.revealed ? styles.filled : styles.empty}
+              className={[cell.revealed ? styles.filled : styles.empty, selected && styles.selected]
+                .filter(Boolean)
+                .join(' ')}
               onClick={() => target && showPrompt(target)}
               disabled={cell.revealed || !target}
               data-testid={cell.revealed ? 'cell-filled' : 'cell-empty'}
+              data-selected={selected ? 'true' : undefined}
               aria-label={cell.revealed ? cell.letter : 'blank square, tap for a clue'}
             >
               {cell.revealed ? cell.letter : ''}

@@ -7,6 +7,7 @@ import {
   clearSelection,
   createGame,
   currentWord,
+  dismissPanels,
   gridWords,
   isComplete,
   learnedEntries,
@@ -194,6 +195,51 @@ describe('prompts', () => {
   it('is retired by the next letter tap', () => {
     const prompted = showPrompt(fresh(), 'LACONIC')
     expect(selectLetter(prompted, 0).promptWord).toBeNull()
+  })
+})
+
+describe('board highlight', () => {
+  it('is set by selecting a word', () => {
+    expect(showPrompt(fresh(), 'LACONIC').selectedWord).toBe('LACONIC')
+  })
+
+  it('starts empty', () => {
+    expect(fresh().selectedWord).toBeNull()
+  })
+
+  // The whole reason it is separate from promptWord: the panel is retired by
+  // any keypress, but the highlight must survive, because it shows WHERE the
+  // answer goes and you need that most while typing it.
+  it('survives typing, even though the prompt panel does not', () => {
+    let state = showPrompt(fresh(), 'LACONIC')
+    state = type(state, 'LAC')
+    expect(state.promptWord).toBeNull()
+    expect(state.selectedWord).toBe('LACONIC')
+  })
+
+  it('survives undo and clear', () => {
+    let state = type(showPrompt(fresh(), 'LACONIC'), 'LAC')
+    expect(undoLetter(state).selectedWord).toBe('LACONIC')
+    expect(clearSelection(state).selectedWord).toBe('LACONIC')
+  })
+
+  it('clears on submit, whatever the outcome', () => {
+    expect(play(showPrompt(fresh(), 'LACONIC'), 'LACONIC').selectedWord).toBeNull()
+    expect(play(showPrompt(fresh(), 'LACONIC'), 'CLON').selectedWord).toBeNull()
+  })
+
+  it('moves when a different word is selected', () => {
+    const state = showPrompt(showPrompt(fresh(), 'LACONIC'), 'LOCI')
+    expect(state.selectedWord).toBe('LOCI')
+  })
+
+  it('is cleared by dismissing panels', () => {
+    expect(dismissPanels(showPrompt(fresh(), 'LACONIC')).selectedWord).toBeNull()
+  })
+
+  it('cannot highlight an already-solved word', () => {
+    const solved = play(fresh(), 'LACONIC')
+    expect(showPrompt(solved, 'LACONIC').selectedWord).toBeNull()
   })
 })
 
