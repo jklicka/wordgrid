@@ -1,0 +1,137 @@
+{
+  "id": "level-135",
+  "baseWord": "GRUNT",
+  "pool": [
+    "G",
+    "R",
+    "U",
+    "N",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "GRUNT",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "TURN",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "RUNG",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "TUNG",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "RUN",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "GUN",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NUT",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "GUT",
+    "RUG"
+  ],
+  "entries": {
+    "GRUNT": {
+      "word": "GRUNT",
+      "pos": "n.",
+      "gloss": "the short low gruff noise of the kind made by hogs",
+      "definition": "The short low gruff noise of the kind made by hogs.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TURN": {
+      "word": "TURN",
+      "pos": "v.",
+      "gloss": "change orientation or direction, also in the abstract sense",
+      "definition": "Change orientation or direction, also in the abstract sense.",
+      "example": "Turn towards me.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUNG": {
+      "word": "RUNG",
+      "pos": "n.",
+      "gloss": "a crosspiece between the legs of a chair",
+      "definition": "A crosspiece between the legs of a chair.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TUNG": {
+      "word": "TUNG",
+      "pos": "n.",
+      "gloss": "Chinese tree bearing seeds that yield tung oil",
+      "definition": "Chinese tree bearing seeds that yield tung oil.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RUN": {
+      "word": "RUN",
+      "pos": "v.",
+      "gloss": "move fast by using one's feet, with one foot off the ground at any given time",
+      "definition": "Move fast by using one's feet, with one foot off the ground at any given time.",
+      "example": "Don't run--you'll be out of breath.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUN": {
+      "word": "GUN",
+      "pos": "n.",
+      "gloss": "a weapon that discharges a missile at high velocity",
+      "definition": "A weapon that discharges a missile at high velocity (especially from a metal tube or barrel).",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUT": {
+      "word": "NUT",
+      "pos": "n.",
+      "gloss": "usually large hard-shelled seed",
+      "definition": "Usually large hard-shelled seed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUT": {
+      "word": "GUT",
+      "pos": "n.",
+      "gloss": "the part of the alimentary canal between the stomach and the anus",
+      "definition": "The part of the alimentary canal between the stomach and the anus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUG": {
+      "word": "RUG",
+      "pos": "n.",
+      "gloss": "floor covering consisting of a piece of thick heavy fabric",
+      "definition": "Floor covering consisting of a piece of thick heavy fabric (usually with nap or pile).",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

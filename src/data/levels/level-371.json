@@ -1,0 +1,141 @@
+{
+  "id": "level-371",
+  "baseWord": "SHOEBOX",
+  "pool": [
+    "S",
+    "H",
+    "O",
+    "E",
+    "B",
+    "O",
+    "X"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SHOEBOX",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SHOE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "HOSE",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "HOBO",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BOSH",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "SEX",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "BOX",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "BOO",
+    "OOH"
+  ],
+  "entries": {
+    "SHOEBOX": {
+      "word": "SHOEBOX",
+      "pos": "n.",
+      "gloss": "a structure resembling a shoebox",
+      "definition": "A structure resembling a shoebox (as a rectangular building or a cramped room or compartment).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SHOE": {
+      "word": "SHOE",
+      "pos": "n.",
+      "gloss": "footwear shaped to fit the foot with a flexible upper of leather or plastic and a sole…",
+      "definition": "Footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOSE": {
+      "word": "HOSE",
+      "pos": "n.",
+      "gloss": "socks and stockings and tights collectively",
+      "definition": "Socks and stockings and tights collectively (the British include underwear).",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOBO": {
+      "word": "HOBO",
+      "pos": "n.",
+      "gloss": "a vagrant",
+      "definition": "A vagrant.",
+      "example": "A homeless tramp.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BOSH": {
+      "word": "BOSH",
+      "pos": "n.",
+      "gloss": "pretentious or silly talk or writing",
+      "definition": "Pretentious or silly talk or writing.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SEX": {
+      "word": "SEX",
+      "pos": "n.",
+      "gloss": "activities associated with sexual intercourse",
+      "definition": "Activities associated with sexual intercourse.",
+      "example": "They had sex in the back seat.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOX": {
+      "word": "BOX",
+      "pos": "n.",
+      "gloss": "a container; may have a lid",
+      "definition": "A (usually rectangular) container; may have a lid.",
+      "example": "He rummaged through a box of spare parts.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOO": {
+      "word": "BOO",
+      "pos": "v.",
+      "gloss": "show displeasure, as after a performance or speech",
+      "definition": "Show displeasure, as after a performance or speech.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OOH": {
+      "word": "OOH",
+      "pos": "v.",
+      "gloss": "express admiration and pleasure by uttering `ooh' or `aah'",
+      "definition": "Express admiration and pleasure by uttering `ooh' or `aah'.",
+      "example": "They oohed and aahed when they unwrapped the presents.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

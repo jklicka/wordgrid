@@ -1,0 +1,149 @@
+{
+  "id": "level-131",
+  "baseWord": "SHAGGY",
+  "pool": [
+    "S",
+    "H",
+    "A",
+    "G",
+    "G",
+    "Y"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SHAGGY",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SHAY",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SHAG",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SAY",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "GAS",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "GAY",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ASH",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SHY",
+    "HAY",
+    "GAG"
+  ],
+  "entries": {
+    "SHAGGY": {
+      "word": "SHAGGY",
+      "pos": "adj.",
+      "gloss": "used of hair",
+      "definition": "Used of hair; thick and poorly groomed.",
+      "example": "Bushy locks.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SHAY": {
+      "word": "SHAY",
+      "pos": "n.",
+      "gloss": "a carriage consisting of two wheels and a calash top",
+      "definition": "A carriage consisting of two wheels and a calash top; drawn by a single horse.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SHAG": {
+      "word": "SHAG",
+      "pos": "n.",
+      "gloss": "a strong coarse tobacco that has been shredded",
+      "definition": "A strong coarse tobacco that has been shredded.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SAY": {
+      "word": "SAY",
+      "pos": "v.",
+      "gloss": "express in words",
+      "definition": "Express in words.",
+      "example": "He said that he wanted to marry her.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAS": {
+      "word": "GAS",
+      "pos": "n.",
+      "gloss": "the state of matter distinguished from the solid and liquid states by",
+      "definition": "The state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAY": {
+      "word": "GAY",
+      "pos": "adj.",
+      "gloss": "bright and pleasant",
+      "definition": "Bright and pleasant; promoting a feeling of cheer.",
+      "example": "A cheery hello.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ASH": {
+      "word": "ASH",
+      "pos": "n.",
+      "gloss": "the residue that remains when something is burned",
+      "definition": "The residue that remains when something is burned.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SHY": {
+      "word": "SHY",
+      "pos": "v.",
+      "gloss": "start suddenly, as from fright",
+      "definition": "Start suddenly, as from fright.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAY": {
+      "word": "HAY",
+      "pos": "n.",
+      "gloss": "grass mowed and cured for use as fodder",
+      "definition": "Grass mowed and cured for use as fodder.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAG": {
+      "word": "GAG",
+      "pos": "n.",
+      "gloss": "a humorous anecdote or remark intended to provoke laughter",
+      "definition": "A humorous anecdote or remark intended to provoke laughter.",
+      "example": "He told a very funny joke.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

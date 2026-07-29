@@ -1,0 +1,125 @@
+{
+  "id": "level-082",
+  "baseWord": "CELERY",
+  "pool": [
+    "C",
+    "E",
+    "L",
+    "E",
+    "R",
+    "Y"
+  ],
+  "rows": 6,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "CELERY",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "LEERY",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "CREEL",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "RELY",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "EYE",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "CRY",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "LEE",
+    "REEL"
+  ],
+  "entries": {
+    "CELERY": {
+      "word": "CELERY",
+      "pos": "n.",
+      "gloss": "widely cultivated herb with aromatic leaf stalks that are eaten raw or cooked",
+      "definition": "Widely cultivated herb with aromatic leaf stalks that are eaten raw or cooked.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LEERY": {
+      "word": "LEERY",
+      "pos": "adj.",
+      "gloss": "openly distrustful and unwilling to confide",
+      "definition": "Openly distrustful and unwilling to confide.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CREEL": {
+      "word": "CREEL",
+      "pos": "n.",
+      "gloss": "a wicker basket used by anglers to hold fish",
+      "definition": "A wicker basket used by anglers to hold fish.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RELY": {
+      "word": "RELY",
+      "pos": "v.",
+      "gloss": "have faith or confidence in",
+      "definition": "Have faith or confidence in.",
+      "example": "You can count on me to help you any time.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EYE": {
+      "word": "EYE",
+      "pos": "n.",
+      "gloss": "the organ of sight",
+      "definition": "The organ of sight.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CRY": {
+      "word": "CRY",
+      "pos": "n.",
+      "gloss": "a loud utterance",
+      "definition": "A loud utterance; often in protest or opposition.",
+      "example": "The speaker was interrupted by loud cries from the rear of the audience.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEE": {
+      "word": "LEE",
+      "pos": "n.",
+      "gloss": "the side of something that is sheltered from the wind",
+      "definition": "The side of something that is sheltered from the wind.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REEL": {
+      "word": "REEL",
+      "pos": "v.",
+      "gloss": "walk as if unable to control one's movements",
+      "definition": "Walk as if unable to control one's movements.",
+      "example": "The drunken man staggered into the room.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

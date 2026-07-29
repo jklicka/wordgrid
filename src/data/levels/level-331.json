@@ -1,0 +1,167 @@
+{
+  "id": "level-331",
+  "baseWord": "TIPTOE",
+  "pool": [
+    "T",
+    "I",
+    "P",
+    "T",
+    "O",
+    "E"
+  ],
+  "rows": 5,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "TIPTOE",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "POET",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "TOTE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "TOP",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TIP",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TIE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PET",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "POT",
+    "PIT",
+    "PIE",
+    "TOE",
+    "OPT"
+  ],
+  "entries": {
+    "TIPTOE": {
+      "word": "TIPTOE",
+      "pos": "v.",
+      "gloss": "walk on one's toes",
+      "definition": "Walk on one's toes.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "POET": {
+      "word": "POET",
+      "pos": "n.",
+      "gloss": "a writer of poems",
+      "definition": "A writer of poems (the term is usually reserved for writers of good poetry).",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOTE": {
+      "word": "TOTE",
+      "pos": "n.",
+      "gloss": "a capacious bag or basket",
+      "definition": "A capacious bag or basket.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOP": {
+      "word": "TOP",
+      "pos": "n.",
+      "gloss": "the upper part of anything",
+      "definition": "The upper part of anything.",
+      "example": "The mower cuts off the tops of the grass.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIP": {
+      "word": "TIP",
+      "pos": "n.",
+      "gloss": "the extreme end of something",
+      "definition": "The extreme end of something; especially something pointed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIE": {
+      "word": "TIE",
+      "pos": "n.",
+      "gloss": "neckwear consisting of a long narrow piece of material worn under a collar and tied in…",
+      "definition": "Neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front.",
+      "example": "He stood in front of the mirror tightening his necktie.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PET": {
+      "word": "PET",
+      "pos": "n.",
+      "gloss": "a domesticated animal kept for companionship or amusement",
+      "definition": "A domesticated animal kept for companionship or amusement.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POT": {
+      "word": "POT",
+      "pos": "n.",
+      "gloss": "metal or earthenware cooking vessel that is usually round and deep",
+      "definition": "Metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIT": {
+      "word": "PIT",
+      "pos": "n.",
+      "gloss": "a sizeable hole",
+      "definition": "A sizeable hole (usually in the ground).",
+      "example": "They dug a pit to bury the body.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIE": {
+      "word": "PIE",
+      "pos": "n.",
+      "gloss": "dish baked in pastry-lined pan often with a pastry top",
+      "definition": "Dish baked in pastry-lined pan often with a pastry top.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOE": {
+      "word": "TOE",
+      "pos": "n.",
+      "gloss": "one of the digits of the foot",
+      "definition": "One of the digits of the foot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OPT": {
+      "word": "OPT",
+      "pos": "v.",
+      "gloss": "select as an alternative over another",
+      "definition": "Select as an alternative over another.",
+      "example": "I always choose the fish over the meat courses in this restaurant.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

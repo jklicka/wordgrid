@@ -1,0 +1,160 @@
+{
+  "id": "level-253",
+  "baseWord": "RILED",
+  "pool": [
+    "R",
+    "I",
+    "L",
+    "E",
+    "D"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "RILED",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "IDLER",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "RIDE",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "LIED",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "IDLE",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "DIRE",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DELI",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "RED",
+    "DIE",
+    "LIE",
+    "RID"
+  ],
+  "entries": {
+    "RILED": {
+      "word": "RILED",
+      "pos": "adj.",
+      "gloss": "aroused to impatience or anger",
+      "definition": "Aroused to impatience or anger.",
+      "example": "Made an irritated gesture.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "IDLER": {
+      "word": "IDLER",
+      "pos": "n.",
+      "gloss": "person who does no work",
+      "definition": "Person who does no work.",
+      "example": "A lazy bum.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RIDE": {
+      "word": "RIDE",
+      "pos": "v.",
+      "gloss": "sit and travel on the back of animal, usually while controlling its motions",
+      "definition": "Sit and travel on the back of animal, usually while controlling its motions.",
+      "example": "She never sat a horse!",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIED": {
+      "word": "LIED",
+      "pos": "n.",
+      "gloss": "a German art song of the 19th century for voice and piano",
+      "definition": "A German art song of the 19th century for voice and piano.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IDLE": {
+      "word": "IDLE",
+      "pos": "adj.",
+      "gloss": "not in action or at work",
+      "definition": "Not in action or at work.",
+      "example": "An idle laborer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIRE": {
+      "word": "DIRE",
+      "pos": "adj.",
+      "gloss": "fraught with extreme danger",
+      "definition": "Fraught with extreme danger; nearly hopeless.",
+      "example": "A desperate illness.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DELI": {
+      "word": "DELI",
+      "pos": "n.",
+      "gloss": "a shop selling ready-to-eat food products",
+      "definition": "A shop selling ready-to-eat food products.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RED": {
+      "word": "RED",
+      "pos": "n.",
+      "gloss": "red color or pigment",
+      "definition": "Red color or pigment; the chromatic color resembling the hue of blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIE": {
+      "word": "DIE",
+      "pos": "v.",
+      "gloss": "pass from physical life and lose all bodily attributes and functions necessary to…",
+      "definition": "Pass from physical life and lose all bodily attributes and functions necessary to sustain life.",
+      "example": "She died from cancer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIE": {
+      "word": "LIE",
+      "pos": "v.",
+      "gloss": "be located or situated somewhere",
+      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RID": {
+      "word": "RID",
+      "pos": "v.",
+      "gloss": "relieve from",
+      "definition": "Relieve from.",
+      "example": "Rid the house of pests.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

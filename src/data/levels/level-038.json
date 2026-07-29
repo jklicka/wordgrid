@@ -1,0 +1,170 @@
+{
+  "id": "level-038",
+  "baseWord": "SESAME",
+  "pool": [
+    "S",
+    "E",
+    "S",
+    "A",
+    "M",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "SESAME",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MASSE",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SAME",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SEEM",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "MASS",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "MESS",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "EASE",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SEE",
+    "SEA",
+    "ASS",
+    "MESA",
+    "SEAM"
+  ],
+  "entries": {
+    "SESAME": {
+      "word": "SESAME",
+      "pos": "n.",
+      "gloss": "East Indian annual erect herb",
+      "definition": "East Indian annual erect herb; source of sesame seed or benniseed and sesame oil.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MASSE": {
+      "word": "MASSE",
+      "pos": "n.",
+      "gloss": "a shot in billiards made by hitting the cue ball with the cue held nearly vertically",
+      "definition": "A shot in billiards made by hitting the cue ball with the cue held nearly vertically; the cue ball spins around another ball before hitting the object ball.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SAME": {
+      "word": "SAME",
+      "pos": "adj.",
+      "gloss": "same in identity",
+      "definition": "Same in identity.",
+      "example": "The same man I saw yesterday.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEEM": {
+      "word": "SEEM",
+      "pos": "v.",
+      "gloss": "give a certain impression or have a certain outward aspect",
+      "definition": "Give a certain impression or have a certain outward aspect.",
+      "example": "She seems to be sleeping.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MASS": {
+      "word": "MASS",
+      "pos": "n.",
+      "gloss": "the property of a body that causes it to have weight in a gravitational field",
+      "definition": "The property of a body that causes it to have weight in a gravitational field.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MESS": {
+      "word": "MESS",
+      "pos": "n.",
+      "gloss": "a state of confusion and disorderliness",
+      "definition": "A state of confusion and disorderliness.",
+      "example": "The house was a mess.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EASE": {
+      "word": "EASE",
+      "pos": "v.",
+      "gloss": "move gently or carefully",
+      "definition": "Move gently or carefully.",
+      "example": "He eased himself into the chair.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEE": {
+      "word": "SEE",
+      "pos": "v.",
+      "gloss": "perceive by sight or have the power to perceive by sight",
+      "definition": "Perceive by sight or have the power to perceive by sight.",
+      "example": "You have to be a good observer to see all the details.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEA": {
+      "word": "SEA",
+      "pos": "n.",
+      "gloss": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "definition": "A division of an ocean or a large body of salt water partially enclosed by land.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ASS": {
+      "word": "ASS",
+      "pos": "n.",
+      "gloss": "the fleshy part of the human body that you sit on",
+      "definition": "The fleshy part of the human body that you sit on.",
+      "example": "He deserves a good kick in the butt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MESA": {
+      "word": "MESA",
+      "pos": "n.",
+      "gloss": "flat tableland with steep edges",
+      "definition": "Flat tableland with steep edges.",
+      "example": "The tribe was relatively safe on the mesa but they had to descend into the valley for water.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SEAM": {
+      "word": "SEAM",
+      "pos": "n.",
+      "gloss": "joint consisting of a line formed by joining two pieces",
+      "definition": "Joint consisting of a line formed by joining two pieces.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

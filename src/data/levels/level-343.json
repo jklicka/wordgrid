@@ -1,0 +1,133 @@
+{
+  "id": "level-343",
+  "baseWord": "QUEASY",
+  "pool": [
+    "Q",
+    "U",
+    "E",
+    "A",
+    "S",
+    "Y"
+  ],
+  "rows": 6,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "QUEASY",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "EASY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "QUAY",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SAY",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "USE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "YES",
+    "SEA",
+    "YEA",
+    "SUE"
+  ],
+  "entries": {
+    "QUEASY": {
+      "word": "QUEASY",
+      "pos": "adj.",
+      "gloss": "causing or able to cause nausea",
+      "definition": "Causing or able to cause nausea.",
+      "example": "A nauseating smell.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "EASY": {
+      "word": "EASY",
+      "pos": "adj.",
+      "gloss": "posing no difficulty",
+      "definition": "Posing no difficulty; requiring little effort.",
+      "example": "An easy job.",
+      "band": "common",
+      "tier": "general"
+    },
+    "QUAY": {
+      "word": "QUAY",
+      "pos": "n.",
+      "gloss": "wharf usually built parallel to the shoreline",
+      "definition": "Wharf usually built parallel to the shoreline.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SAY": {
+      "word": "SAY",
+      "pos": "v.",
+      "gloss": "express in words",
+      "definition": "Express in words.",
+      "example": "He said that he wanted to marry her.",
+      "band": "common",
+      "tier": "general"
+    },
+    "USE": {
+      "word": "USE",
+      "pos": "n.",
+      "gloss": "the act of using",
+      "definition": "The act of using.",
+      "example": "He warned against the use of narcotic drugs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YES": {
+      "word": "YES",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "I was hoping for a yes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEA": {
+      "word": "SEA",
+      "pos": "n.",
+      "gloss": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "definition": "A division of an ocean or a large body of salt water partially enclosed by land.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YEA": {
+      "word": "YEA",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "The yeas have it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUE": {
+      "word": "SUE",
+      "pos": "v.",
+      "gloss": "institute legal proceedings against",
+      "definition": "Institute legal proceedings against; file a suit against.",
+      "example": "He was warned that the district attorney would process him.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

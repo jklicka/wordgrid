@@ -1,0 +1,121 @@
+{
+  "id": "level-172",
+  "baseWord": "BESET",
+  "pool": [
+    "B",
+    "E",
+    "S",
+    "E",
+    "T"
+  ],
+  "rows": 6,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "BESET",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "BEST",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "BEET",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SEE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SET",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "BET",
+    "BEE",
+    "TEE"
+  ],
+  "entries": {
+    "BESET": {
+      "word": "BESET",
+      "pos": "v.",
+      "gloss": "annoy continually or chronically",
+      "definition": "Annoy continually or chronically.",
+      "example": "He is known to harry his staff when he is overworked.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BEST": {
+      "word": "BEST",
+      "pos": "n.",
+      "gloss": "the supreme effort one can make",
+      "definition": "The supreme effort one can make.",
+      "example": "They did their best.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEET": {
+      "word": "BEET",
+      "pos": "n.",
+      "gloss": "biennial Eurasian plant usually having a swollen edible root",
+      "definition": "Biennial Eurasian plant usually having a swollen edible root; widely cultivated as a food crop.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SEE": {
+      "word": "SEE",
+      "pos": "v.",
+      "gloss": "perceive by sight or have the power to perceive by sight",
+      "definition": "Perceive by sight or have the power to perceive by sight.",
+      "example": "You have to be a good observer to see all the details.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SET": {
+      "word": "SET",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BET": {
+      "word": "BET",
+      "pos": "n.",
+      "gloss": "the money risked on a gamble",
+      "definition": "The money risked on a gamble.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEE": {
+      "word": "BEE",
+      "pos": "n.",
+      "gloss": "any of numerous hairy-bodied insects including social and solitary species",
+      "definition": "Any of numerous hairy-bodied insects including social and solitary species.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEE": {
+      "word": "TEE",
+      "pos": "n.",
+      "gloss": "the starting place for each hole on a golf course",
+      "definition": "The starting place for each hole on a golf course.",
+      "example": "They were waiting on the first tee.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "level-344",
+  "baseWord": "SPONGY",
+  "pool": [
+    "S",
+    "P",
+    "O",
+    "N",
+    "G",
+    "Y"
+  ],
+  "rows": 6,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "SPONGY",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SONG",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "PONY",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "PONG",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SON",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "SPY",
+    "SOY"
+  ],
+  "entries": {
+    "SPONGY": {
+      "word": "SPONGY",
+      "pos": "adj.",
+      "gloss": "easily squashed",
+      "definition": "Easily squashed; resembling a sponge in having soft porous texture and compressibility.",
+      "example": "Spongy bread.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SONG": {
+      "word": "SONG",
+      "pos": "n.",
+      "gloss": "a short musical composition with words",
+      "definition": "A short musical composition with words.",
+      "example": "A successful musical must have at least three good songs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PONY": {
+      "word": "PONY",
+      "pos": "n.",
+      "gloss": "a range horse of the western United States",
+      "definition": "A range horse of the western United States.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PONG": {
+      "word": "PONG",
+      "pos": "n.",
+      "gloss": "an unpleasant smell",
+      "definition": "An unpleasant smell.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPY": {
+      "word": "SPY",
+      "pos": "v.",
+      "gloss": "catch sight of",
+      "definition": "Catch sight of.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOY": {
+      "word": "SOY",
+      "pos": "n.",
+      "gloss": "a source of oil",
+      "definition": "A source of oil; used for forage and soil improvement and as food.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "level-054",
+  "baseWord": "TORSO",
+  "pool": [
+    "T",
+    "O",
+    "R",
+    "S",
+    "O"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "TORSO",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "ROOTS",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "ROOST",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SORT",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ROOT",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TOO",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "ROT",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "SOOT"
+  ],
+  "entries": {
+    "TORSO": {
+      "word": "TORSO",
+      "pos": "n.",
+      "gloss": "the body excluding the head and neck and limbs",
+      "definition": "The body excluding the head and neck and limbs.",
+      "example": "They moved their arms and legs and bodies.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ROOTS": {
+      "word": "ROOTS",
+      "pos": "n.",
+      "gloss": "the condition of belonging to a particular place or group by virtue of social or…",
+      "definition": "The condition of belonging to a particular place or group by virtue of social or ethnic or cultural lineage.",
+      "example": "His roots in Texas go back a long way.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROOST": {
+      "word": "ROOST",
+      "pos": "v.",
+      "gloss": "sit, as on a branch",
+      "definition": "Sit, as on a branch.",
+      "example": "The birds perched high in the tree.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SORT": {
+      "word": "SORT",
+      "pos": "n.",
+      "gloss": "a category of things distinguished by some common characteristic or quality",
+      "definition": "A category of things distinguished by some common characteristic or quality.",
+      "example": "Sculpture is a form of art.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROOT": {
+      "word": "ROOT",
+      "pos": "n.",
+      "gloss": "the usually underground organ that lacks buds or leaves or nodes",
+      "definition": "(botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOO": {
+      "word": "TOO",
+      "pos": "adv.",
+      "gloss": "to a degree exceeding normal or proper limits",
+      "definition": "To a degree exceeding normal or proper limits.",
+      "example": "Too big.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROT": {
+      "word": "ROT",
+      "pos": "n.",
+      "gloss": "a state of decay usually accompanied by an offensive odor",
+      "definition": "A state of decay usually accompanied by an offensive odor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOOT": {
+      "word": "SOOT",
+      "pos": "n.",
+      "gloss": "a black colloidal substance consisting wholly or principally of amorphous carbon and…",
+      "definition": "A black colloidal substance consisting wholly or principally of amorphous carbon and used to make pigments and ink.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

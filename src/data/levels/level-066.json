@@ -1,0 +1,217 @@
+{
+  "id": "level-066",
+  "baseWord": "ABRUPT",
+  "pool": [
+    "A",
+    "B",
+    "R",
+    "U",
+    "P",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "ABRUPT",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PART",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TRAP",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "BRAT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TARP",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "BUT",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "PUT",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ART",
+    "BAR",
+    "BAT",
+    "TAP",
+    "PAT",
+    "PUB",
+    "RAT",
+    "PAR",
+    "RAP",
+    "RUB"
+  ],
+  "entries": {
+    "ABRUPT": {
+      "word": "ABRUPT",
+      "pos": "adj.",
+      "gloss": "marked by sudden changes in subject and sharp transitions",
+      "definition": "Marked by sudden changes in subject and sharp transitions.",
+      "example": "Abrupt prose.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PART": {
+      "word": "PART",
+      "pos": "n.",
+      "gloss": "something determined in relation to something that includes it",
+      "definition": "Something determined in relation to something that includes it.",
+      "example": "He wanted to feel a part of something bigger than himself.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TRAP": {
+      "word": "TRAP",
+      "pos": "n.",
+      "gloss": "a device in which something can be caught and penned",
+      "definition": "A device in which something (usually an animal) can be caught and penned.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BRAT": {
+      "word": "BRAT",
+      "pos": "n.",
+      "gloss": "a very troublesome child",
+      "definition": "A very troublesome child.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TARP": {
+      "word": "TARP",
+      "pos": "n.",
+      "gloss": "waterproofed canvas",
+      "definition": "Waterproofed canvas.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BUT": {
+      "word": "BUT",
+      "pos": "adv.",
+      "gloss": "and nothing more",
+      "definition": "And nothing more.",
+      "example": "I was merely asking.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PUT": {
+      "word": "PUT",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ART": {
+      "word": "ART",
+      "pos": "n.",
+      "gloss": "the products of human creativity",
+      "definition": "The products of human creativity; works of art collectively.",
+      "example": "An art exhibition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAR": {
+      "word": "BAR",
+      "pos": "n.",
+      "gloss": "a room or establishment where alcoholic drinks are served over a counter",
+      "definition": "A room or establishment where alcoholic drinks are served over a counter.",
+      "example": "He drowned his sorrows in whiskey at the bar.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAT": {
+      "word": "BAT",
+      "pos": "n.",
+      "gloss": "nocturnal mouselike mammal with forelimbs modified to form membranous wings and…",
+      "definition": "Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAP": {
+      "word": "TAP",
+      "pos": "v.",
+      "gloss": "cut a female screw thread with a tap",
+      "definition": "Cut a female screw thread with a tap.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAT": {
+      "word": "PAT",
+      "pos": "v.",
+      "gloss": "pat or squeeze fondly or playfully, especially under the chin",
+      "definition": "Pat or squeeze fondly or playfully, especially under the chin.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PUB": {
+      "word": "PUB",
+      "pos": "n.",
+      "gloss": "tavern consisting of a building with a bar and public rooms",
+      "definition": "Tavern consisting of a building with a bar and public rooms; often provides light meals.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAT": {
+      "word": "RAT",
+      "pos": "n.",
+      "gloss": "any of various long-tailed rodents similar to but larger than a mouse",
+      "definition": "Any of various long-tailed rodents similar to but larger than a mouse.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAR": {
+      "word": "PAR",
+      "pos": "n.",
+      "gloss": "the standard number of strokes set for each hole on a golf course, or for the entire…",
+      "definition": "(golf) the standard number of strokes set for each hole on a golf course, or for the entire course.",
+      "example": "A par-5 hole.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAP": {
+      "word": "RAP",
+      "pos": "n.",
+      "gloss": "a reproach for some lapse or misdeed",
+      "definition": "A reproach for some lapse or misdeed.",
+      "example": "He took the blame for it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUB": {
+      "word": "RUB",
+      "pos": "v.",
+      "gloss": "move over something with pressure",
+      "definition": "Move over something with pressure.",
+      "example": "Rub my hands.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

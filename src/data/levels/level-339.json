@@ -1,0 +1,108 @@
+{
+  "id": "level-339",
+  "baseWord": "NAIRA",
+  "pool": [
+    "N",
+    "A",
+    "I",
+    "R",
+    "A"
+  ],
+  "rows": 6,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "NAIRA",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RAIN",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "ARIA",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "AIR",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "IRA",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ANA",
+    "RANI"
+  ],
+  "entries": {
+    "NAIRA": {
+      "word": "NAIRA",
+      "pos": "n.",
+      "gloss": "the basic unit of money in Nigeria",
+      "definition": "The basic unit of money in Nigeria.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RAIN": {
+      "word": "RAIN",
+      "pos": "n.",
+      "gloss": "water falling in drops from vapor condensed in the atmosphere",
+      "definition": "Water falling in drops from vapor condensed in the atmosphere.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARIA": {
+      "word": "ARIA",
+      "pos": "n.",
+      "gloss": "an elaborate song for solo voice",
+      "definition": "An elaborate song for solo voice.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AIR": {
+      "word": "AIR",
+      "pos": "n.",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IRA": {
+      "word": "IRA",
+      "pos": "n.",
+      "gloss": "belligerence aroused by a real or supposed wrong",
+      "definition": "Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANA": {
+      "word": "ANA",
+      "pos": "n.",
+      "gloss": "a collection of anecdotes about a person or place",
+      "definition": "A collection of anecdotes about a person or place.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RANI": {
+      "word": "RANI",
+      "pos": "n.",
+      "gloss": "a Hindu princess or the wife of a raja",
+      "definition": "(the feminine of raja) a Hindu princess or the wife of a raja.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

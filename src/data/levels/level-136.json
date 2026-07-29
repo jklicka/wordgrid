@@ -1,0 +1,129 @@
+{
+  "id": "level-136",
+  "baseWord": "QUAKER",
+  "pool": [
+    "Q",
+    "U",
+    "A",
+    "K",
+    "E",
+    "R"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "QUAKER",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "QUAKE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "QUARK",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "RAKE",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "ARE",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "ERA",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "EAR",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ARK"
+  ],
+  "entries": {
+    "QUAKER": {
+      "word": "QUAKER",
+      "pos": "n.",
+      "gloss": "one who quakes and trembles with fear",
+      "definition": "One who quakes and trembles with (or as with) fear.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "QUAKE": {
+      "word": "QUAKE",
+      "pos": "n.",
+      "gloss": "shaking and vibration at the surface of the earth resulting from underground movement…",
+      "definition": "Shaking and vibration at the surface of the earth resulting from underground movement along a fault plane or from volcanic activity.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "QUARK": {
+      "word": "QUARK",
+      "pos": "n.",
+      "gloss": "hypothetical truly fundamental particle in mesons and baryons",
+      "definition": "(physics) hypothetical truly fundamental particle in mesons and baryons; there are supposed to be six flavors of quarks (and their antiquarks), which come in pairs; each has an electric charge of +2/3 or -1/3.",
+      "example": "Quarks have not been observed directly but theoretical predictions based on their existence have been confirmed experimentally.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RAKE": {
+      "word": "RAKE",
+      "pos": "v.",
+      "gloss": "move through with or as if with a rake",
+      "definition": "Move through with or as if with a rake.",
+      "example": "She raked her fingers through her hair.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARK": {
+      "word": "ARK",
+      "pos": "n.",
+      "gloss": "a boat built by Noah to save his family and animals from the flood",
+      "definition": "A boat built by Noah to save his family and animals from the flood.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

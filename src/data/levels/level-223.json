@@ -1,0 +1,157 @@
+{
+  "id": "level-223",
+  "baseWord": "FLIER",
+  "pool": [
+    "F",
+    "L",
+    "I",
+    "E",
+    "R"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "FLIER",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RIFLE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LIFER",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "FILER",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "LIFE",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "FIRE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "FILE",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "LIE",
+    "REF",
+    "ELF",
+    "RIFE"
+  ],
+  "entries": {
+    "FLIER": {
+      "word": "FLIER",
+      "pos": "n.",
+      "gloss": "someone who travels by air",
+      "definition": "Someone who travels by air.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RIFLE": {
+      "word": "RIFLE",
+      "pos": "n.",
+      "gloss": "a shoulder firearm with a long barrel and a rifled bore",
+      "definition": "A shoulder firearm with a long barrel and a rifled bore.",
+      "example": "He lifted the rifle to his shoulder and fired.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIFER": {
+      "word": "LIFER",
+      "pos": "n.",
+      "gloss": "a prisoner serving a term of life imprisonment",
+      "definition": "A prisoner serving a term of life imprisonment.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FILER": {
+      "word": "FILER",
+      "pos": "n.",
+      "gloss": "a party who files a notice with a law court",
+      "definition": "A party who files a notice with a law court.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIFE": {
+      "word": "LIFE",
+      "pos": "n.",
+      "gloss": "a characteristic state or mode of living",
+      "definition": "A characteristic state or mode of living.",
+      "example": "Social life.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FIRE": {
+      "word": "FIRE",
+      "pos": "v.",
+      "gloss": "start firing a weapon",
+      "definition": "Start firing a weapon.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FILE": {
+      "word": "FILE",
+      "pos": "v.",
+      "gloss": "record in a public office or in a court of law",
+      "definition": "Record in a public office or in a court of law.",
+      "example": "File for divorce.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIE": {
+      "word": "LIE",
+      "pos": "v.",
+      "gloss": "be located or situated somewhere",
+      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REF": {
+      "word": "REF",
+      "pos": "n.",
+      "gloss": "the chief official who is expected to ensure fair play",
+      "definition": "(sports) the chief official (as in boxing or American football) who is expected to ensure fair play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ELF": {
+      "word": "ELF",
+      "pos": "n.",
+      "gloss": "fairies that are somewhat mischievous",
+      "definition": "(folklore) fairies that are somewhat mischievous.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIFE": {
+      "word": "RIFE",
+      "pos": "adj.",
+      "gloss": "most frequent or common",
+      "definition": "Most frequent or common.",
+      "example": "Prevailing winds.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

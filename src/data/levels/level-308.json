@@ -1,0 +1,118 @@
+{
+  "id": "level-308",
+  "baseWord": "BALMY",
+  "pool": [
+    "B",
+    "A",
+    "L",
+    "M",
+    "Y"
+  ],
+  "rows": 6,
+  "cols": 5,
+  "placed": [
+    {
+      "word": "BALMY",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LAMB",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "BALM",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "MAY",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "BAY",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "LAY",
+    "LAB",
+    "BAM"
+  ],
+  "entries": {
+    "BALMY": {
+      "word": "BALMY",
+      "pos": "adj.",
+      "gloss": "informal or slang terms for mentally irregular",
+      "definition": "Informal or slang terms for mentally irregular.",
+      "example": "It used to drive my husband balmy.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LAMB": {
+      "word": "LAMB",
+      "pos": "n.",
+      "gloss": "young sheep",
+      "definition": "Young sheep.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BALM": {
+      "word": "BALM",
+      "pos": "n.",
+      "gloss": "any of various aromatic resinous substances used for healing and soothing",
+      "definition": "Any of various aromatic resinous substances used for healing and soothing.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAY": {
+      "word": "MAY",
+      "pos": "n.",
+      "gloss": "thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers…",
+      "definition": "Thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers followed by deep red berries; established as an escape in eastern North America.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAY": {
+      "word": "BAY",
+      "pos": "n.",
+      "gloss": "an indentation of a shoreline larger than a cove but smaller than a gulf",
+      "definition": "An indentation of a shoreline larger than a cove but smaller than a gulf.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAY": {
+      "word": "LAY",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAB": {
+      "word": "LAB",
+      "pos": "n.",
+      "gloss": "a workplace for the conduct of scientific research",
+      "definition": "A workplace for the conduct of scientific research.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAM": {
+      "word": "BAM",
+      "pos": "n.",
+      "gloss": "a sudden very loud noise",
+      "definition": "A sudden very loud noise.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

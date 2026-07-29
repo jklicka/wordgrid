@@ -1,0 +1,159 @@
+{
+  "id": "level-160",
+  "baseWord": "SCANT",
+  "pool": [
+    "S",
+    "C",
+    "A",
+    "N",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SCANT",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "CAST",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "CANT",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SCAN",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SCAT",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "CAN",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "TAN",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ACT",
+    "CAT",
+    "ANT",
+    "SAC"
+  ],
+  "entries": {
+    "SCANT": {
+      "word": "SCANT",
+      "pos": "adj.",
+      "gloss": "less than the correct or legal or full amount often deliberately so",
+      "definition": "Less than the correct or legal or full amount often deliberately so.",
+      "example": "A light pound.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAST": {
+      "word": "CAST",
+      "pos": "v.",
+      "gloss": "put or send forth",
+      "definition": "Put or send forth.",
+      "example": "She threw the flashlight beam into the corner.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CANT": {
+      "word": "CANT",
+      "pos": "n.",
+      "gloss": "stock phrases that have become nonsense through endless repetition",
+      "definition": "Stock phrases that have become nonsense through endless repetition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SCAN": {
+      "word": "SCAN",
+      "pos": "v.",
+      "gloss": "examine minutely or intensely",
+      "definition": "Examine minutely or intensely.",
+      "example": "The surgeon scanned the X-ray.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SCAT": {
+      "word": "SCAT",
+      "pos": "n.",
+      "gloss": "singing jazz",
+      "definition": "Singing jazz; the singer substitutes nonsense syllables for the words of the song and tries to sound like a musical instrument.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAN": {
+      "word": "CAN",
+      "pos": "v.",
+      "gloss": "preserve in a can or tin",
+      "definition": "Preserve in a can or tin.",
+      "example": "Tinned foods are not very tasty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACT": {
+      "word": "ACT",
+      "pos": "v.",
+      "gloss": "perform an action, or work out or perform",
+      "definition": "Perform an action, or work out or perform (an action).",
+      "example": "Think before you act.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAT": {
+      "word": "CAT",
+      "pos": "n.",
+      "gloss": "feline mammal usually having thick soft fur and no ability to roar",
+      "definition": "Feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANT": {
+      "word": "ANT",
+      "pos": "n.",
+      "gloss": "social insect living in organized colonies",
+      "definition": "Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAC": {
+      "word": "SAC",
+      "pos": "n.",
+      "gloss": "an enclosed space",
+      "definition": "An enclosed space.",
+      "example": "The trapped miners found a pocket of air.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

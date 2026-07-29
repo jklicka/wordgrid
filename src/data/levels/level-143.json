@@ -1,0 +1,129 @@
+{
+  "id": "level-143",
+  "baseWord": "CLAMS",
+  "pool": [
+    "C",
+    "L",
+    "A",
+    "M",
+    "S"
+  ],
+  "rows": 8,
+  "cols": 5,
+  "placed": [
+    {
+      "word": "CLAMS",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CALM",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SLAM",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "SCAM",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CLAM",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "CAM",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SAC",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "MAC"
+  ],
+  "entries": {
+    "CLAMS": {
+      "word": "CLAMS",
+      "pos": "n.",
+      "gloss": "informal terms for money",
+      "definition": "Informal terms for money.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CALM": {
+      "word": "CALM",
+      "pos": "v.",
+      "gloss": "make calm or still",
+      "definition": "Make calm or still.",
+      "example": "Quiet the dragons of worry and fear.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SLAM": {
+      "word": "SLAM",
+      "pos": "v.",
+      "gloss": "close violently",
+      "definition": "Close violently.",
+      "example": "He slammed the door shut.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SCAM": {
+      "word": "SCAM",
+      "pos": "n.",
+      "gloss": "a fraudulent business scheme",
+      "definition": "A fraudulent business scheme.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CLAM": {
+      "word": "CLAM",
+      "pos": "n.",
+      "gloss": "burrowing marine mollusk living on sand or mud",
+      "definition": "Burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAM": {
+      "word": "CAM",
+      "pos": "n.",
+      "gloss": "a rotating disk shaped to convert circular into linear motion",
+      "definition": "A rotating disk shaped to convert circular into linear motion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAC": {
+      "word": "SAC",
+      "pos": "n.",
+      "gloss": "an enclosed space",
+      "definition": "An enclosed space.",
+      "example": "The trapped miners found a pocket of air.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAC": {
+      "word": "MAC",
+      "pos": "n.",
+      "gloss": "a waterproof raincoat made of rubberized fabric",
+      "definition": "A waterproof raincoat made of rubberized fabric.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

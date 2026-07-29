@@ -1,0 +1,139 @@
+{
+  "id": "level-195",
+  "baseWord": "BUGGER",
+  "pool": [
+    "B",
+    "U",
+    "G",
+    "G",
+    "E",
+    "R"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "BUGGER",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "URGE",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "BERG",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "GRUB",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "EGG",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "BUG",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BEG",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "RUB",
+    "RUG"
+  ],
+  "entries": {
+    "BUGGER": {
+      "word": "BUGGER",
+      "pos": "n.",
+      "gloss": "someone who engages in anal copulation",
+      "definition": "Someone who engages in anal copulation (especially a male who engages in anal copulation with another male).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "URGE": {
+      "word": "URGE",
+      "pos": "v.",
+      "gloss": "force or impel in an indicated direction",
+      "definition": "Force or impel in an indicated direction.",
+      "example": "I urged him to finish his studies.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BERG": {
+      "word": "BERG",
+      "pos": "n.",
+      "gloss": "a large mass of ice floating at sea",
+      "definition": "A large mass of ice floating at sea; usually broken off of a polar glacier.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GRUB": {
+      "word": "GRUB",
+      "pos": "n.",
+      "gloss": "informal terms for a meal",
+      "definition": "Informal terms for a meal.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "EGG": {
+      "word": "EGG",
+      "pos": "n.",
+      "gloss": "animal reproductive body consisting of an ovum or embryo together with nutritive and…",
+      "definition": "Animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUG": {
+      "word": "BUG",
+      "pos": "n.",
+      "gloss": "general term for any insect or similar creeping or crawling invertebrate",
+      "definition": "General term for any insect or similar creeping or crawling invertebrate.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEG": {
+      "word": "BEG",
+      "pos": "v.",
+      "gloss": "call upon in supplication",
+      "definition": "Call upon in supplication; entreat.",
+      "example": "I beg you to stop!",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUB": {
+      "word": "RUB",
+      "pos": "v.",
+      "gloss": "move over something with pressure",
+      "definition": "Move over something with pressure.",
+      "example": "Rub my hands.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUG": {
+      "word": "RUG",
+      "pos": "n.",
+      "gloss": "floor covering consisting of a piece of thick heavy fabric",
+      "definition": "Floor covering consisting of a piece of thick heavy fabric (usually with nap or pile).",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

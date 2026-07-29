@@ -1,0 +1,142 @@
+{
+  "id": "level-342",
+  "baseWord": "CREVICE",
+  "pool": [
+    "C",
+    "R",
+    "E",
+    "V",
+    "I",
+    "C",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "CREVICE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "RECCE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "EVER",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "VICE",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "RICE",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "VEER",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ICE",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "EVE",
+    "REV"
+  ],
+  "entries": {
+    "CREVICE": {
+      "word": "CREVICE",
+      "pos": "n.",
+      "gloss": "a long narrow depression in a surface",
+      "definition": "A long narrow depression in a surface.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RECCE": {
+      "word": "RECCE",
+      "pos": "n.",
+      "gloss": "reconnaissance",
+      "definition": "Reconnaissance (by shortening).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "EVER": {
+      "word": "EVER",
+      "pos": "adv.",
+      "gloss": "at any time",
+      "definition": "At any time.",
+      "example": "Did you ever smoke?",
+      "band": "common",
+      "tier": "general"
+    },
+    "VICE": {
+      "word": "VICE",
+      "pos": "n.",
+      "gloss": "moral weakness",
+      "definition": "Moral weakness.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RICE": {
+      "word": "RICE",
+      "pos": "n.",
+      "gloss": "grains used as food either unpolished or more often polished",
+      "definition": "Grains used as food either unpolished or more often polished.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VEER": {
+      "word": "VEER",
+      "pos": "v.",
+      "gloss": "turn sharply",
+      "definition": "Turn sharply; change direction abruptly.",
+      "example": "The car cut to the left at the intersection.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ICE": {
+      "word": "ICE",
+      "pos": "n.",
+      "gloss": "water frozen in the solid state",
+      "definition": "Water frozen in the solid state.",
+      "example": "Americans like ice in their drinks.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EVE": {
+      "word": "EVE",
+      "pos": "n.",
+      "gloss": "the day before",
+      "definition": "The day before.",
+      "example": "He always arrives on the eve of her departure.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REV": {
+      "word": "REV",
+      "pos": "v.",
+      "gloss": "increase the number of rotations per minute",
+      "definition": "Increase the number of rotations per minute.",
+      "example": "Rev up an engine.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

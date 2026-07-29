@@ -1,0 +1,149 @@
+{
+  "id": "level-287",
+  "baseWord": "BRAWN",
+  "pool": [
+    "B",
+    "R",
+    "A",
+    "W",
+    "N"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "BRAWN",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "WARN",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "BARN",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "BRAN",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "WAR",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "BAN",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "RAW",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "BAR",
+    "BRA",
+    "WAN"
+  ],
+  "entries": {
+    "BRAWN": {
+      "word": "BRAWN",
+      "pos": "n.",
+      "gloss": "possessing muscular strength",
+      "definition": "Possessing muscular strength.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WARN": {
+      "word": "WARN",
+      "pos": "v.",
+      "gloss": "notify of danger, potential harm, or risk",
+      "definition": "Notify of danger, potential harm, or risk.",
+      "example": "The director warned him that he might be fired.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BARN": {
+      "word": "BARN",
+      "pos": "n.",
+      "gloss": "an outlying farm building for storing grain or animal feed and housing farm animals",
+      "definition": "An outlying farm building for storing grain or animal feed and housing farm animals.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BRAN": {
+      "word": "BRAN",
+      "pos": "n.",
+      "gloss": "broken husks of the seeds of cereal grains that are separated from the flour by sifting",
+      "definition": "Broken husks of the seeds of cereal grains that are separated from the flour by sifting.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WAR": {
+      "word": "WAR",
+      "pos": "n.",
+      "gloss": "the waging of armed conflict against an enemy",
+      "definition": "The waging of armed conflict against an enemy.",
+      "example": "Thousands of people were killed in the war.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAN": {
+      "word": "BAN",
+      "pos": "v.",
+      "gloss": "forbid the public distribution of",
+      "definition": "Forbid the public distribution of ( a movie or a newspaper).",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAW": {
+      "word": "RAW",
+      "pos": "adj.",
+      "gloss": "being unprocessed or manufactured using only simple or minimal processes",
+      "definition": "(used especially of commodities) being unprocessed or manufactured using only simple or minimal processes.",
+      "example": "Natural yogurt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAR": {
+      "word": "BAR",
+      "pos": "n.",
+      "gloss": "a room or establishment where alcoholic drinks are served over a counter",
+      "definition": "A room or establishment where alcoholic drinks are served over a counter.",
+      "example": "He drowned his sorrows in whiskey at the bar.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BRA": {
+      "word": "BRA",
+      "pos": "n.",
+      "gloss": "an undergarment worn by women to support their breasts",
+      "definition": "An undergarment worn by women to support their breasts.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WAN": {
+      "word": "WAN",
+      "pos": "adj.",
+      "gloss": "lacking in intensity or brightness",
+      "definition": "(of light) lacking in intensity or brightness; dim or feeble.",
+      "example": "The pale light of a half moon.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

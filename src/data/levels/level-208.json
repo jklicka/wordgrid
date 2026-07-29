@@ -1,0 +1,219 @@
+{
+  "id": "level-208",
+  "baseWord": "SONNET",
+  "pool": [
+    "S",
+    "O",
+    "N",
+    "N",
+    "E",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SONNET",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "STONE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "ONSET",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "TONNE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TENON",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SENT",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NOTE",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "NOT",
+    "ONE",
+    "SET",
+    "NON",
+    "SON",
+    "TEN",
+    "NONE",
+    "NET",
+    "NOSE",
+    "TONE"
+  ],
+  "entries": {
+    "SONNET": {
+      "word": "SONNET",
+      "pos": "n.",
+      "gloss": "a verse form consisting of 14 lines with a fixed rhyme scheme",
+      "definition": "A verse form consisting of 14 lines with a fixed rhyme scheme.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "STONE": {
+      "word": "STONE",
+      "pos": "n.",
+      "gloss": "a lump or mass of hard consolidated mineral matter",
+      "definition": "A lump or mass of hard consolidated mineral matter.",
+      "example": "He threw a rock at me.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ONSET": {
+      "word": "ONSET",
+      "pos": "n.",
+      "gloss": "the beginning or early stages",
+      "definition": "The beginning or early stages.",
+      "example": "The onset of pneumonia.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TONNE": {
+      "word": "TONNE",
+      "pos": "n.",
+      "gloss": "a unit of weight equivalent to 1000 kilograms",
+      "definition": "A unit of weight equivalent to 1000 kilograms.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TENON": {
+      "word": "TENON",
+      "pos": "n.",
+      "gloss": "a projection at the end of a piece of wood that is shaped to fit into a mortise and…",
+      "definition": "A projection at the end of a piece of wood that is shaped to fit into a mortise and form a mortise joint.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SENT": {
+      "word": "SENT",
+      "pos": "n.",
+      "gloss": "100 senti equal 1 kroon in Estonia",
+      "definition": "100 senti equal 1 kroon in Estonia.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOTE": {
+      "word": "NOTE",
+      "pos": "n.",
+      "gloss": "a brief written record",
+      "definition": "A brief written record.",
+      "example": "He made a note of the appointment.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ONE": {
+      "word": "ONE",
+      "pos": "adj.",
+      "gloss": "used of a single unit or thing",
+      "definition": "Used of a single unit or thing; not two or more.",
+      "example": "`ane' is Scottish.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SET": {
+      "word": "SET",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NON": {
+      "word": "NON",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEN": {
+      "word": "TEN",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of nine and one",
+      "definition": "The cardinal number that is the sum of nine and one; the base of the decimal system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NONE": {
+      "word": "NONE",
+      "pos": "adv.",
+      "gloss": "not at all or in no way",
+      "definition": "Not at all or in no way.",
+      "example": "Seemed none too pleased with his dinner.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NET": {
+      "word": "NET",
+      "pos": "n.",
+      "gloss": "a computer network consisting of a worldwide network of computer networks that use the…",
+      "definition": "A computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOSE": {
+      "word": "NOSE",
+      "pos": "n.",
+      "gloss": "the organ of smell and entrance to the respiratory tract",
+      "definition": "The organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals.",
+      "example": "He has a cold in the nose.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TONE": {
+      "word": "TONE",
+      "pos": "n.",
+      "gloss": "the quality of a person's voice",
+      "definition": "The quality of a person's voice.",
+      "example": "He began in a conversational tone.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

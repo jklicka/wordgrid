@@ -1,0 +1,116 @@
+{
+  "id": "level-198",
+  "baseWord": "GUSTO",
+  "pool": [
+    "G",
+    "U",
+    "S",
+    "T",
+    "O"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "GUSTO",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "GUTS",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "GUST",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "GOUT",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "OUST",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "OUT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "GUT"
+  ],
+  "entries": {
+    "GUSTO": {
+      "word": "GUSTO",
+      "pos": "n.",
+      "gloss": "vigorous and enthusiastic enjoyment",
+      "definition": "Vigorous and enthusiastic enjoyment.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GUTS": {
+      "word": "GUTS",
+      "pos": "n.",
+      "gloss": "fortitude and determination",
+      "definition": "Fortitude and determination.",
+      "example": "He didn't have the guts to try it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUST": {
+      "word": "GUST",
+      "pos": "n.",
+      "gloss": "a strong current of air",
+      "definition": "A strong current of air.",
+      "example": "The tree was bent almost double by the gust.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GOUT": {
+      "word": "GOUT",
+      "pos": "n.",
+      "gloss": "a painful inflammation of the big toe and foot caused by defects in uric acid…",
+      "definition": "A painful inflammation of the big toe and foot caused by defects in uric acid metabolism resulting in deposits of the acid and its salts in the blood and joints.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "OUST": {
+      "word": "OUST",
+      "pos": "v.",
+      "gloss": "remove from a position or office",
+      "definition": "Remove from a position or office.",
+      "example": "The chairman was ousted after he misappropriated funds.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "OUT": {
+      "word": "OUT",
+      "pos": "adj.",
+      "gloss": "not allowed to continue to bat or run",
+      "definition": "Not allowed to continue to bat or run.",
+      "example": "He was tagged out at second on a close play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUT": {
+      "word": "GUT",
+      "pos": "n.",
+      "gloss": "the part of the alimentary canal between the stomach and the anus",
+      "definition": "The part of the alimentary canal between the stomach and the anus.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

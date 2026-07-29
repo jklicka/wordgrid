@@ -1,0 +1,142 @@
+{
+  "id": "level-177",
+  "baseWord": "BUSTY",
+  "pool": [
+    "B",
+    "U",
+    "S",
+    "T",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "BUSTY",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "BUSY",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "BUST",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "STUB",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BUT",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "BUY",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SUB",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "BUS",
+    "TUB"
+  ],
+  "entries": {
+    "BUSTY": {
+      "word": "BUSTY",
+      "pos": "adj.",
+      "gloss": "having a large bosom and pleasing curves",
+      "definition": "(of a woman's body) having a large bosom and pleasing curves.",
+      "example": "Hollywood seems full of curvaceous blondes.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BUSY": {
+      "word": "BUSY",
+      "pos": "adj.",
+      "gloss": "actively or fully engaged or occupied",
+      "definition": "Actively or fully engaged or occupied.",
+      "example": "Busy with her work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUST": {
+      "word": "BUST",
+      "pos": "v.",
+      "gloss": "ruin completely",
+      "definition": "Ruin completely.",
+      "example": "He busted my radio!",
+      "band": "common",
+      "tier": "general"
+    },
+    "STUB": {
+      "word": "STUB",
+      "pos": "n.",
+      "gloss": "a short piece remaining on a trunk or stem where a branch is lost",
+      "definition": "A short piece remaining on a trunk or stem where a branch is lost.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BUT": {
+      "word": "BUT",
+      "pos": "adv.",
+      "gloss": "and nothing more",
+      "definition": "And nothing more.",
+      "example": "I was merely asking.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUY": {
+      "word": "BUY",
+      "pos": "v.",
+      "gloss": "obtain by purchase",
+      "definition": "Obtain by purchase; acquire by means of a financial transaction.",
+      "example": "The family purchased a new car.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUB": {
+      "word": "SUB",
+      "pos": "v.",
+      "gloss": "be a substitute",
+      "definition": "Be a substitute.",
+      "example": "The young teacher had to substitute for the sick colleague.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUS": {
+      "word": "BUS",
+      "pos": "n.",
+      "gloss": "a vehicle carrying many passengers",
+      "definition": "A vehicle carrying many passengers; used for public transport.",
+      "example": "He always rode the bus to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TUB": {
+      "word": "TUB",
+      "pos": "n.",
+      "gloss": "a relatively large open container that you fill with water and use to wash the body",
+      "definition": "A relatively large open container that you fill with water and use to wash the body.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

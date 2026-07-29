@@ -1,0 +1,171 @@
+{
+  "id": "level-278",
+  "baseWord": "UPTICK",
+  "pool": [
+    "U",
+    "P",
+    "T",
+    "I",
+    "C",
+    "K"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "UPTICK",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "PICK",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "TICK",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PUCK",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TUCK",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "PUT",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "CUP",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "CUT",
+    "TIP",
+    "KIT",
+    "PIT",
+    "PIC"
+  ],
+  "entries": {
+    "UPTICK": {
+      "word": "UPTICK",
+      "pos": "n.",
+      "gloss": "a transaction in the stock market at a price above the price of the preceding transaction",
+      "definition": "A transaction in the stock market at a price above the price of the preceding transaction.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PICK": {
+      "word": "PICK",
+      "pos": "v.",
+      "gloss": "select carefully from a group",
+      "definition": "Select carefully from a group.",
+      "example": "She finally picked her successor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TICK": {
+      "word": "TICK",
+      "pos": "n.",
+      "gloss": "a metallic tapping sound",
+      "definition": "A metallic tapping sound.",
+      "example": "He counted the ticks of the clock.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PUCK": {
+      "word": "PUCK",
+      "pos": "n.",
+      "gloss": "a vulcanized rubber disk 3 inches in diameter that is used instead of a ball in ice hockey",
+      "definition": "A vulcanized rubber disk 3 inches in diameter that is used instead of a ball in ice hockey.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TUCK": {
+      "word": "TUCK",
+      "pos": "v.",
+      "gloss": "fit snugly into",
+      "definition": "Fit snugly into.",
+      "example": "Insert your ticket into the slot.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PUT": {
+      "word": "PUT",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CUP": {
+      "word": "CUP",
+      "pos": "n.",
+      "gloss": "a small open container usually used for drinking",
+      "definition": "A small open container usually used for drinking; usually has a handle.",
+      "example": "He put the cup back in the saucer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CUT": {
+      "word": "CUT",
+      "pos": "v.",
+      "gloss": "separate with or as if with an instrument",
+      "definition": "Separate with or as if with an instrument.",
+      "example": "Cut the rope.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIP": {
+      "word": "TIP",
+      "pos": "n.",
+      "gloss": "the extreme end of something",
+      "definition": "The extreme end of something; especially something pointed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "KIT": {
+      "word": "KIT",
+      "pos": "n.",
+      "gloss": "a case for containing a set of articles",
+      "definition": "A case for containing a set of articles.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIT": {
+      "word": "PIT",
+      "pos": "n.",
+      "gloss": "a sizeable hole",
+      "definition": "A sizeable hole (usually in the ground).",
+      "example": "They dug a pit to bury the body.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIC": {
+      "word": "PIC",
+      "pos": "n.",
+      "gloss": "a form of entertainment that enacts a story by sound and a sequence of images giving…",
+      "definition": "A form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement.",
+      "example": "They went to a movie every Saturday night.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

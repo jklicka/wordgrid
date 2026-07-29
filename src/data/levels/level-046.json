@@ -1,0 +1,139 @@
+{
+  "id": "level-046",
+  "baseWord": "KARAOKE",
+  "pool": [
+    "K",
+    "A",
+    "R",
+    "A",
+    "O",
+    "K",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "KARAOKE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "AREA",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "RAKE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "ARE",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ERA",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "EAR",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "OAK",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ORE",
+    "ARK"
+  ],
+  "entries": {
+    "KARAOKE": {
+      "word": "KARAOKE",
+      "pos": "n.",
+      "gloss": "singing popular songs accompanied by a recording of an orchestra",
+      "definition": "Singing popular songs accompanied by a recording of an orchestra (usually in bars or nightclubs).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AREA": {
+      "word": "AREA",
+      "pos": "n.",
+      "gloss": "a particular geographical region of indefinite boundary",
+      "definition": "A particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography).",
+      "example": "It was a mountainous area.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAKE": {
+      "word": "RAKE",
+      "pos": "v.",
+      "gloss": "move through with or as if with a rake",
+      "definition": "Move through with or as if with a rake.",
+      "example": "She raked her fingers through her hair.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OAK": {
+      "word": "OAK",
+      "pos": "n.",
+      "gloss": "the hard durable wood of any oak",
+      "definition": "The hard durable wood of any oak; used especially for furniture and flooring.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ORE": {
+      "word": "ORE",
+      "pos": "n.",
+      "gloss": "a mineral that contains metal that is valuable enough to be mined",
+      "definition": "A mineral that contains metal that is valuable enough to be mined.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARK": {
+      "word": "ARK",
+      "pos": "n.",
+      "gloss": "a boat built by Noah to save his family and animals from the flood",
+      "definition": "A boat built by Noah to save his family and animals from the flood.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "level-266",
+  "baseWord": "GIBBON",
+  "pool": [
+    "G",
+    "I",
+    "B",
+    "B",
+    "O",
+    "N"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "GIBBON",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "BINGO",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "BONG",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BIG",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "BOB",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "GIN",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "BIN",
+    "ION"
+  ],
+  "entries": {
+    "GIBBON": {
+      "word": "GIBBON",
+      "pos": "n.",
+      "gloss": "smallest and most perfectly anthropoid arboreal ape having long arms and no tail",
+      "definition": "Smallest and most perfectly anthropoid arboreal ape having long arms and no tail; of southern Asia and East Indies.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BINGO": {
+      "word": "BINGO",
+      "pos": "n.",
+      "gloss": "a game in which numbered balls are drawn at random and players cover the corresponding…",
+      "definition": "A game in which numbered balls are drawn at random and players cover the corresponding numbers on their cards.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BONG": {
+      "word": "BONG",
+      "pos": "n.",
+      "gloss": "a dull resonant sound as of a bell",
+      "definition": "A dull resonant sound as of a bell.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BIG": {
+      "word": "BIG",
+      "pos": "adj.",
+      "gloss": "above average in size or number or quantity or magnitude or extent",
+      "definition": "Above average in size or number or quantity or magnitude or extent.",
+      "example": "A large city.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOB": {
+      "word": "BOB",
+      "pos": "v.",
+      "gloss": "move up and down repeatedly",
+      "definition": "Move up and down repeatedly.",
+      "example": "Her rucksack bobbed gently on her back.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BIN": {
+      "word": "BIN",
+      "pos": "n.",
+      "gloss": "a container; usually has a lid",
+      "definition": "A container; usually has a lid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ION": {
+      "word": "ION",
+      "pos": "n.",
+      "gloss": "a particle that is electrically charged",
+      "definition": "A particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

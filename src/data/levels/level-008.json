@@ -1,137 +1,136 @@
 {
   "id": "level-008",
-  "baseWord": "GARNER",
+  "baseWord": "SEWAGE",
   "pool": [
-    "G",
-    "A",
-    "R",
-    "N",
+    "S",
     "E",
-    "R"
+    "W",
+    "A",
+    "G",
+    "E"
   ],
-  "rows": 8,
-  "cols": 6,
+  "rows": 7,
+  "cols": 7,
   "placed": [
     {
-      "word": "GARNER",
-      "row": 3,
+      "word": "SEWAGE",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "word": "RANGE",
-      "row": 3,
+      "word": "WAGES",
+      "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "word": "ANGER",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "word": "NEAR",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "word": "RARE",
-      "row": 3,
-      "col": 5,
+      "word": "WAGE",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "word": "EARN",
+      "word": "EASE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SAGE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SWAG",
       "row": 0,
       "col": 3,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "word": "GEAR",
-      "row": 1,
+      "word": "SEE",
+      "row": 0,
       "col": 1,
-      "direction": "across"
+      "direction": "down"
     }
   ],
   "bonus": [
-    "ARE",
+    "SAW",
     "AGE",
-    "ERA",
-    "REAR",
-    "EAR",
-    "GEN",
-    "RAGE",
-    "GRAN"
+    "SEA",
+    "GAS",
+    "WEE",
+    "AWE",
+    "GEE"
   ],
   "entries": {
-    "GARNER": {
-      "word": "GARNER",
-      "pos": "v.",
-      "gloss": "acquire or deserve by one's efforts or actions",
-      "definition": "Acquire or deserve by one's efforts or actions.",
-      "example": "Its beauty won Paris the name 'City of Lights'.",
+    "SEWAGE": {
+      "word": "SEWAGE",
+      "pos": "n.",
+      "gloss": "waste matter carried away in sewers or drains",
+      "definition": "Waste matter carried away in sewers or drains.",
       "band": "teaching",
       "tier": "general"
     },
-    "RANGE": {
-      "word": "RANGE",
+    "WAGES": {
+      "word": "WAGES",
       "pos": "n.",
-      "gloss": "an area in which something acts or operates or has power or control",
-      "definition": "An area in which something acts or operates or has power or control: \"the range of a supersonic jet\".",
-      "example": "A piano has a greater range than the human voice.",
+      "gloss": "a recompense for worthy acts or retribution for wrongdoing",
+      "definition": "A recompense for worthy acts or retribution for wrongdoing.",
+      "example": "The wages of sin is death.",
       "band": "common",
       "tier": "general"
     },
-    "ANGER": {
-      "word": "ANGER",
+    "WAGE": {
+      "word": "WAGE",
       "pos": "n.",
-      "gloss": "a strong emotion",
-      "definition": "A strong emotion; a feeling that is oriented toward some real or supposed grievance.",
+      "gloss": "something that remunerates",
+      "definition": "Something that remunerates.",
+      "example": "Wages were paid by check.",
       "band": "common",
       "tier": "general"
     },
-    "NEAR": {
-      "word": "NEAR",
-      "pos": "adv.",
-      "gloss": "near in time or place or relationship",
-      "definition": "Near in time or place or relationship.",
-      "example": "As the wedding day drew near.",
-      "band": "common",
-      "tier": "general"
-    },
-    "RARE": {
-      "word": "RARE",
-      "pos": "adj.",
-      "gloss": "not widely known",
-      "definition": "Not widely known; especially valued for its uncommonness.",
-      "example": "A rare word.",
-      "band": "common",
-      "tier": "general"
-    },
-    "EARN": {
-      "word": "EARN",
+    "EASE": {
+      "word": "EASE",
       "pos": "v.",
-      "gloss": "earn on some commercial or business transaction",
-      "definition": "Earn on some commercial or business transaction; earn as salary or wages.",
-      "example": "How much do you make a month in your new job?",
+      "gloss": "move gently or carefully",
+      "definition": "Move gently or carefully.",
+      "example": "He eased himself into the chair.",
       "band": "common",
       "tier": "general"
     },
-    "GEAR": {
-      "word": "GEAR",
+    "SAGE": {
+      "word": "SAGE",
       "pos": "n.",
-      "gloss": "a toothed wheel that engages another toothed mechanism in order to change the speed or…",
-      "definition": "A toothed wheel that engages another toothed mechanism in order to change the speed or direction of transmitted motion.",
+      "gloss": "a mentor in spiritual and philosophical topics who is renowned for profound wisdom",
+      "definition": "A mentor in spiritual and philosophical topics who is renowned for profound wisdom.",
       "band": "common",
       "tier": "general"
     },
-    "ARE": {
-      "word": "ARE",
+    "SWAG": {
+      "word": "SWAG",
       "pos": "n.",
-      "gloss": "a unit of surface area equal to 100 square meters",
-      "definition": "A unit of surface area equal to 100 square meters.",
+      "gloss": "valuable goods",
+      "definition": "Valuable goods.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SEE": {
+      "word": "SEE",
+      "pos": "v.",
+      "gloss": "perceive by sight or have the power to perceive by sight",
+      "definition": "Perceive by sight or have the power to perceive by sight.",
+      "example": "You have to be a good observer to see all the details.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAW": {
+      "word": "SAW",
+      "pos": "v.",
+      "gloss": "cut with a saw",
+      "definition": "Cut with a saw.",
+      "example": "Saw wood for the fireplace.",
       "band": "common",
       "tier": "general"
     },
@@ -144,55 +143,46 @@
       "band": "common",
       "tier": "general"
     },
-    "ERA": {
-      "word": "ERA",
+    "SEA": {
+      "word": "SEA",
       "pos": "n.",
-      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
-      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "gloss": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "definition": "A division of an ocean or a large body of salt water partially enclosed by land.",
       "band": "common",
       "tier": "general"
     },
-    "REAR": {
-      "word": "REAR",
+    "GAS": {
+      "word": "GAS",
       "pos": "n.",
-      "gloss": "the back of a military formation or procession",
-      "definition": "The back of a military formation or procession.",
-      "example": "Infantrymen were in the rear.",
+      "gloss": "the state of matter distinguished from the solid and liquid states by",
+      "definition": "The state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container.",
       "band": "common",
       "tier": "general"
     },
-    "EAR": {
-      "word": "EAR",
-      "pos": "n.",
-      "gloss": "the sense organ for hearing and equilibrium",
-      "definition": "The sense organ for hearing and equilibrium.",
+    "WEE": {
+      "word": "WEE",
+      "pos": "adj.",
+      "gloss": "very small",
+      "definition": "(used informally) very small.",
+      "example": "A wee tot.",
       "band": "common",
       "tier": "general"
     },
-    "GEN": {
-      "word": "GEN",
+    "AWE": {
+      "word": "AWE",
       "pos": "n.",
-      "gloss": "informal term for information",
-      "definition": "Informal term for information.",
-      "example": "Give me the gen on your new line of computers.",
+      "gloss": "an overwhelming feeling of wonder or admiration",
+      "definition": "An overwhelming feeling of wonder or admiration.",
+      "example": "He stared over the edge with a feeling of awe.",
       "band": "common",
       "tier": "general"
     },
-    "RAGE": {
-      "word": "RAGE",
+    "GEE": {
+      "word": "GEE",
       "pos": "n.",
-      "gloss": "a feeling of intense anger",
-      "definition": "A feeling of intense anger.",
-      "example": "Hell hath no fury like a woman scorned.",
+      "gloss": "a unit of force equal to the force exerted by gravity",
+      "definition": "A unit of force equal to the force exerted by gravity; used to indicate the force to which a body is subjected when it is accelerated.",
       "band": "common",
-      "tier": "general"
-    },
-    "GRAN": {
-      "word": "GRAN",
-      "pos": "n.",
-      "gloss": "the mother of your father or mother",
-      "definition": "The mother of your father or mother.",
-      "band": "teaching",
       "tier": "general"
     }
   }

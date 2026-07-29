@@ -1,0 +1,154 @@
+{
+  "id": "level-212",
+  "baseWord": "SUNBURN",
+  "pool": [
+    "S",
+    "U",
+    "N",
+    "B",
+    "U",
+    "R",
+    "N"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SUNBURN",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BURN",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "BUNS",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SNUB",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "RUN",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SUN",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "BUS",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SUB",
+    "RUB",
+    "NUN"
+  ],
+  "entries": {
+    "SUNBURN": {
+      "word": "SUNBURN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BURN": {
+      "word": "BURN",
+      "pos": "v.",
+      "gloss": "destroy by fire",
+      "definition": "Destroy by fire.",
+      "example": "They burned the house and his diaries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUNS": {
+      "word": "BUNS",
+      "pos": "n.",
+      "gloss": "the fleshy part of the human body that you sit on",
+      "definition": "The fleshy part of the human body that you sit on.",
+      "example": "He deserves a good kick in the butt.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SNUB": {
+      "word": "SNUB",
+      "pos": "v.",
+      "gloss": "refuse to acknowledge",
+      "definition": "Refuse to acknowledge.",
+      "example": "She cut him dead at the meeting.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RUN": {
+      "word": "RUN",
+      "pos": "v.",
+      "gloss": "move fast by using one's feet, with one foot off the ground at any given time",
+      "definition": "Move fast by using one's feet, with one foot off the ground at any given time.",
+      "example": "Don't run--you'll be out of breath.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUN": {
+      "word": "SUN",
+      "pos": "n.",
+      "gloss": "the star that is the source of light and heat for the planets in the solar system",
+      "definition": "The star that is the source of light and heat for the planets in the solar system.",
+      "example": "The sun contains 99.85% of the mass in the solar system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUS": {
+      "word": "BUS",
+      "pos": "n.",
+      "gloss": "a vehicle carrying many passengers",
+      "definition": "A vehicle carrying many passengers; used for public transport.",
+      "example": "He always rode the bus to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUB": {
+      "word": "SUB",
+      "pos": "v.",
+      "gloss": "be a substitute",
+      "definition": "Be a substitute.",
+      "example": "The young teacher had to substitute for the sick colleague.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUB": {
+      "word": "RUB",
+      "pos": "v.",
+      "gloss": "move over something with pressure",
+      "definition": "Move over something with pressure.",
+      "example": "Rub my hands.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUN": {
+      "word": "NUN",
+      "pos": "n.",
+      "gloss": "a woman religious",
+      "definition": "A woman religious.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

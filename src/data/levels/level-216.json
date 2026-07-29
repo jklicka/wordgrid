@@ -1,0 +1,216 @@
+{
+  "id": "level-216",
+  "baseWord": "TYPHOID",
+  "pool": [
+    "T",
+    "Y",
+    "P",
+    "H",
+    "O",
+    "I",
+    "D"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "TYPHOID",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PITHY",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "HYOID",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "DHOTI",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "PITY",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "TIDY",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "TYPO",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "TOP",
+    "HIT",
+    "HOT",
+    "TIP",
+    "HIP",
+    "HOP",
+    "POT",
+    "TOY",
+    "PIT",
+    "DIP"
+  ],
+  "entries": {
+    "TYPHOID": {
+      "word": "TYPHOID",
+      "pos": "n.",
+      "gloss": "serious infection marked by intestinal inflammation and ulceration",
+      "definition": "Serious infection marked by intestinal inflammation and ulceration; caused by Salmonella typhosa ingested with food or water.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PITHY": {
+      "word": "PITHY",
+      "pos": "adj.",
+      "gloss": "concise and full of meaning",
+      "definition": "Concise and full of meaning.",
+      "example": "Welcomed her pithy comments.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HYOID": {
+      "word": "HYOID",
+      "pos": "n.",
+      "gloss": "a U-shaped bone at the base of the tongue that supports the tongue muscles",
+      "definition": "A U-shaped bone at the base of the tongue that supports the tongue muscles.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DHOTI": {
+      "word": "DHOTI",
+      "pos": "n.",
+      "gloss": "a long loincloth worn by Hindu men",
+      "definition": "A long loincloth worn by Hindu men.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PITY": {
+      "word": "PITY",
+      "pos": "n.",
+      "gloss": "a feeling of sympathy and sorrow for the misfortunes of others",
+      "definition": "A feeling of sympathy and sorrow for the misfortunes of others.",
+      "example": "The blind are too often objects of pity.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIDY": {
+      "word": "TIDY",
+      "pos": "n.",
+      "gloss": "receptacle that holds odds and ends",
+      "definition": "Receptacle that holds odds and ends (as sewing materials).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TYPO": {
+      "word": "TYPO",
+      "pos": "n.",
+      "gloss": "a mistake in printed matter resulting from mechanical failures of some kind",
+      "definition": "A mistake in printed matter resulting from mechanical failures of some kind.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOP": {
+      "word": "TOP",
+      "pos": "n.",
+      "gloss": "the upper part of anything",
+      "definition": "The upper part of anything.",
+      "example": "The mower cuts off the tops of the grass.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HIT": {
+      "word": "HIT",
+      "pos": "v.",
+      "gloss": "cause to move by striking",
+      "definition": "Cause to move by striking.",
+      "example": "Hit a ball.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOT": {
+      "word": "HOT",
+      "pos": "adj.",
+      "gloss": "used of physical heat",
+      "definition": "Used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning.",
+      "example": "Hot stove.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIP": {
+      "word": "TIP",
+      "pos": "n.",
+      "gloss": "the extreme end of something",
+      "definition": "The extreme end of something; especially something pointed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HIP": {
+      "word": "HIP",
+      "pos": "n.",
+      "gloss": "either side of the body below the waist and above the thigh",
+      "definition": "Either side of the body below the waist and above the thigh.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOP": {
+      "word": "HOP",
+      "pos": "v.",
+      "gloss": "jump lightly",
+      "definition": "Jump lightly.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POT": {
+      "word": "POT",
+      "pos": "n.",
+      "gloss": "metal or earthenware cooking vessel that is usually round and deep",
+      "definition": "Metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOY": {
+      "word": "TOY",
+      "pos": "n.",
+      "gloss": "an artifact designed to be played with",
+      "definition": "An artifact designed to be played with.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIT": {
+      "word": "PIT",
+      "pos": "n.",
+      "gloss": "a sizeable hole",
+      "definition": "A sizeable hole (usually in the ground).",
+      "example": "They dug a pit to bury the body.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIP": {
+      "word": "DIP",
+      "pos": "v.",
+      "gloss": "immerse briefly into a liquid so as to wet, coat, or saturate",
+      "definition": "Immerse briefly into a liquid so as to wet, coat, or saturate.",
+      "example": "Dip the garment into the cleaning solution.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

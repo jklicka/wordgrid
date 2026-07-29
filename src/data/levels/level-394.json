@@ -1,0 +1,120 @@
+{
+  "id": "level-394",
+  "baseWord": "HARPY",
+  "pool": [
+    "H",
+    "A",
+    "R",
+    "P",
+    "Y"
+  ],
+  "rows": 5,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "HARPY",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "PRAY",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "HARP",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "RAP",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "HAY",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "PAY",
+    "RAY",
+    "PAR"
+  ],
+  "entries": {
+    "HARPY": {
+      "word": "HARPY",
+      "pos": "n.",
+      "gloss": "a malicious woman with a fierce temper",
+      "definition": "A malicious woman with a fierce temper.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PRAY": {
+      "word": "PRAY",
+      "pos": "v.",
+      "gloss": "address a deity, a prophet, a saint or an object of worship",
+      "definition": "Address a deity, a prophet, a saint or an object of worship; say a prayer.",
+      "example": "Pray to the Lord.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HARP": {
+      "word": "HARP",
+      "pos": "n.",
+      "gloss": "a chordophone that has a triangular frame consisting of a sounding board and a pillar…",
+      "definition": "A chordophone that has a triangular frame consisting of a sounding board and a pillar and a curved neck; the strings stretched between the neck and the soundbox are plucked with the fingers.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RAP": {
+      "word": "RAP",
+      "pos": "n.",
+      "gloss": "a reproach for some lapse or misdeed",
+      "definition": "A reproach for some lapse or misdeed.",
+      "example": "He took the blame for it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAY": {
+      "word": "HAY",
+      "pos": "n.",
+      "gloss": "grass mowed and cured for use as fodder",
+      "definition": "Grass mowed and cured for use as fodder.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAY": {
+      "word": "PAY",
+      "pos": "v.",
+      "gloss": "give money, usually in exchange for goods or services",
+      "definition": "Give money, usually in exchange for goods or services.",
+      "example": "I paid four dollars for this sandwich.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAY": {
+      "word": "RAY",
+      "pos": "n.",
+      "gloss": "a column of light",
+      "definition": "A column of light (as from a beacon).",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAR": {
+      "word": "PAR",
+      "pos": "n.",
+      "gloss": "the standard number of strokes set for each hole on a golf course, or for the entire…",
+      "definition": "(golf) the standard number of strokes set for each hole on a golf course, or for the entire course.",
+      "example": "A par-5 hole.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

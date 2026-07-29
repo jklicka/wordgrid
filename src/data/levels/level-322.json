@@ -1,0 +1,177 @@
+{
+  "id": "level-322",
+  "baseWord": "PENILE",
+  "pool": [
+    "P",
+    "E",
+    "N",
+    "I",
+    "L",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "PENILE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LINE",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "PILE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "PINE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "PEEL",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "LIEN",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "LIE",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "LEE",
+    "PEN",
+    "PIN",
+    "PIE",
+    "LIP",
+    "PEE"
+  ],
+  "entries": {
+    "PENILE": {
+      "word": "PENILE",
+      "pos": "adj.",
+      "gloss": "of or relating to the penis",
+      "definition": "Of or relating to the penis.",
+      "example": "Penile erection.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LINE": {
+      "word": "LINE",
+      "pos": "n.",
+      "gloss": "a formation of people or things one beside another",
+      "definition": "A formation of people or things one beside another.",
+      "example": "The line of soldiers advanced with their bayonets fixed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PILE": {
+      "word": "PILE",
+      "pos": "n.",
+      "gloss": "a collection of objects laid on top of each other",
+      "definition": "A collection of objects laid on top of each other.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PINE": {
+      "word": "PINE",
+      "pos": "n.",
+      "gloss": "a coniferous tree",
+      "definition": "A coniferous tree.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PEEL": {
+      "word": "PEEL",
+      "pos": "v.",
+      "gloss": "strip the skin off",
+      "definition": "Strip the skin off.",
+      "example": "Pare apples.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIEN": {
+      "word": "LIEN",
+      "pos": "n.",
+      "gloss": "the right to take another's property if an obligation is not discharged",
+      "definition": "The right to take another's property if an obligation is not discharged.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIE": {
+      "word": "LIE",
+      "pos": "v.",
+      "gloss": "be located or situated somewhere",
+      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEE": {
+      "word": "LEE",
+      "pos": "n.",
+      "gloss": "the side of something that is sheltered from the wind",
+      "definition": "The side of something that is sheltered from the wind.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PEN": {
+      "word": "PEN",
+      "pos": "n.",
+      "gloss": "a writing implement with a point from which ink flows",
+      "definition": "A writing implement with a point from which ink flows.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIN": {
+      "word": "PIN",
+      "pos": "v.",
+      "gloss": "to hold fast or prevent from moving",
+      "definition": "To hold fast or prevent from moving.",
+      "example": "The child was pinned under the fallen tree.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIE": {
+      "word": "PIE",
+      "pos": "n.",
+      "gloss": "dish baked in pastry-lined pan often with a pastry top",
+      "definition": "Dish baked in pastry-lined pan often with a pastry top.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIP": {
+      "word": "LIP",
+      "pos": "n.",
+      "gloss": "either of two fleshy folds of tissue that surround the mouth and play a role in speaking",
+      "definition": "Either of two fleshy folds of tissue that surround the mouth and play a role in speaking.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PEE": {
+      "word": "PEE",
+      "pos": "n.",
+      "gloss": "liquid excretory product",
+      "definition": "Liquid excretory product.",
+      "example": "There was blood in his urine.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

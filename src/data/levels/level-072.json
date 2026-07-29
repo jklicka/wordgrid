@@ -1,0 +1,158 @@
+{
+  "id": "level-072",
+  "baseWord": "CRAZE",
+  "pool": [
+    "C",
+    "R",
+    "A",
+    "Z",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "CRAZE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CARE",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "RACE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "ACRE",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "CZAR",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "CAR",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "ERA",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ARE",
+    "EAR",
+    "ARC",
+    "ACE"
+  ],
+  "entries": {
+    "CRAZE": {
+      "word": "CRAZE",
+      "pos": "n.",
+      "gloss": "an interest followed with exaggerated zeal",
+      "definition": "An interest followed with exaggerated zeal.",
+      "example": "He always follows the latest fads.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CARE": {
+      "word": "CARE",
+      "pos": "n.",
+      "gloss": "the work of providing treatment for or attending to someone or something",
+      "definition": "The work of providing treatment for or attending to someone or something.",
+      "example": "No medical care was required.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RACE": {
+      "word": "RACE",
+      "pos": "n.",
+      "gloss": "any competition",
+      "definition": "Any competition.",
+      "example": "The race for the presidency.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACRE": {
+      "word": "ACRE",
+      "pos": "n.",
+      "gloss": "a unit of area used in English-speaking countries",
+      "definition": "A unit of area (4840 square yards) used in English-speaking countries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CZAR": {
+      "word": "CZAR",
+      "pos": "n.",
+      "gloss": "a male monarch or emperor",
+      "definition": "A male monarch or emperor (especially of Russia prior to 1917).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAR": {
+      "word": "CAR",
+      "pos": "n.",
+      "gloss": "a motor vehicle with four wheels",
+      "definition": "A motor vehicle with four wheels; usually propelled by an internal combustion engine.",
+      "example": "He needs a car to get to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARC": {
+      "word": "ARC",
+      "pos": "n.",
+      "gloss": "electrical conduction through a gas in an applied electric field",
+      "definition": "Electrical conduction through a gas in an applied electric field.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACE": {
+      "word": "ACE",
+      "pos": "n.",
+      "gloss": "the smallest whole number or a numeral representing this number",
+      "definition": "The smallest whole number or a numeral representing this number.",
+      "example": "He has the one but will need a two and three to go with it.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

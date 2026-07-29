@@ -1,0 +1,148 @@
+{
+  "id": "level-028",
+  "baseWord": "WEBCAM",
+  "pool": [
+    "W",
+    "E",
+    "B",
+    "C",
+    "A",
+    "M"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "WEBCAM",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BEAM",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "MACE",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "WEB",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "MAC",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "ACE",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "CAM",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "CAB",
+    "AWE",
+    "BAM"
+  ],
+  "entries": {
+    "WEBCAM": {
+      "word": "WEBCAM",
+      "pos": "n.",
+      "gloss": "a digital camera designed to take digital photographs and transmit them over the internet",
+      "definition": "A digital camera designed to take digital photographs and transmit them over the internet.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BEAM": {
+      "word": "BEAM",
+      "pos": "n.",
+      "gloss": "a signal transmitted along a narrow path",
+      "definition": "A signal transmitted along a narrow path; guides airplane pilots in darkness or bad weather.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MACE": {
+      "word": "MACE",
+      "pos": "n.",
+      "gloss": "an official who carries a mace of office",
+      "definition": "An official who carries a mace of office.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WEB": {
+      "word": "WEB",
+      "pos": "n.",
+      "gloss": "an intricate network suggesting something that was formed by weaving or interweaving",
+      "definition": "An intricate network suggesting something that was formed by weaving or interweaving.",
+      "example": "The trees cast a delicate web of shadows over the lawn.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAC": {
+      "word": "MAC",
+      "pos": "n.",
+      "gloss": "a waterproof raincoat made of rubberized fabric",
+      "definition": "A waterproof raincoat made of rubberized fabric.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACE": {
+      "word": "ACE",
+      "pos": "n.",
+      "gloss": "the smallest whole number or a numeral representing this number",
+      "definition": "The smallest whole number or a numeral representing this number.",
+      "example": "He has the one but will need a two and three to go with it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAM": {
+      "word": "CAM",
+      "pos": "n.",
+      "gloss": "a rotating disk shaped to convert circular into linear motion",
+      "definition": "A rotating disk shaped to convert circular into linear motion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAB": {
+      "word": "CAB",
+      "pos": "n.",
+      "gloss": "a compartment at the front of a motor vehicle or locomotive where driver sits",
+      "definition": "A compartment at the front of a motor vehicle or locomotive where driver sits.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AWE": {
+      "word": "AWE",
+      "pos": "n.",
+      "gloss": "an overwhelming feeling of wonder or admiration",
+      "definition": "An overwhelming feeling of wonder or admiration.",
+      "example": "He stared over the edge with a feeling of awe.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAM": {
+      "word": "BAM",
+      "pos": "n.",
+      "gloss": "a sudden very loud noise",
+      "definition": "A sudden very loud noise.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

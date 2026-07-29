@@ -1,0 +1,187 @@
+{
+  "id": "level-149",
+  "baseWord": "PATSY",
+  "pool": [
+    "P",
+    "A",
+    "T",
+    "S",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "PATSY",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "PASTY",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "PAST",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "STAY",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SPAT",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SAY",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PAY",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "TAP",
+    "PAT",
+    "SPY",
+    "SPA",
+    "APT",
+    "SAP",
+    "TAPS"
+  ],
+  "entries": {
+    "PATSY": {
+      "word": "PATSY",
+      "pos": "n.",
+      "gloss": "a person who is gullible and easy to take advantage of",
+      "definition": "A person who is gullible and easy to take advantage of.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PASTY": {
+      "word": "PASTY",
+      "pos": "adj.",
+      "gloss": "resembling paste in color",
+      "definition": "Resembling paste in color; pallid.",
+      "example": "He looked pasty and red-eyed.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PAST": {
+      "word": "PAST",
+      "pos": "n.",
+      "gloss": "the time that has elapsed",
+      "definition": "The time that has elapsed.",
+      "example": "Forget the past.",
+      "band": "common",
+      "tier": "general"
+    },
+    "STAY": {
+      "word": "STAY",
+      "pos": "v.",
+      "gloss": "stay the same",
+      "definition": "Stay the same; remain in a certain state.",
+      "example": "The dress remained wet after repeated attempts to dry it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPAT": {
+      "word": "SPAT",
+      "pos": "n.",
+      "gloss": "a quarrel about petty points",
+      "definition": "A quarrel about petty points.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SAY": {
+      "word": "SAY",
+      "pos": "v.",
+      "gloss": "express in words",
+      "definition": "Express in words.",
+      "example": "He said that he wanted to marry her.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAY": {
+      "word": "PAY",
+      "pos": "v.",
+      "gloss": "give money, usually in exchange for goods or services",
+      "definition": "Give money, usually in exchange for goods or services.",
+      "example": "I paid four dollars for this sandwich.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAP": {
+      "word": "TAP",
+      "pos": "v.",
+      "gloss": "cut a female screw thread with a tap",
+      "definition": "Cut a female screw thread with a tap.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAT": {
+      "word": "PAT",
+      "pos": "v.",
+      "gloss": "pat or squeeze fondly or playfully, especially under the chin",
+      "definition": "Pat or squeeze fondly or playfully, especially under the chin.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPY": {
+      "word": "SPY",
+      "pos": "v.",
+      "gloss": "catch sight of",
+      "definition": "Catch sight of.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPA": {
+      "word": "SPA",
+      "pos": "n.",
+      "gloss": "a health resort near a spring or at the seaside",
+      "definition": "A health resort near a spring or at the seaside.",
+      "band": "common",
+      "tier": "general"
+    },
+    "APT": {
+      "word": "APT",
+      "pos": "adj.",
+      "gloss": "naturally disposed toward",
+      "definition": "(usually followed by `to') naturally disposed toward.",
+      "example": "He is apt to ignore matters he considers unimportant.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAP": {
+      "word": "SAP",
+      "pos": "v.",
+      "gloss": "deplete",
+      "definition": "Deplete.",
+      "example": "Exhaust one's savings.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAPS": {
+      "word": "TAPS",
+      "pos": "n.",
+      "gloss": "signal to turn the lights out",
+      "definition": "(military) signal to turn the lights out.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "level-151",
+  "baseWord": "FISSION",
+  "pool": [
+    "F",
+    "I",
+    "S",
+    "S",
+    "I",
+    "O",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "FISSION",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "FINIS",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "INFO",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SON",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SIN",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "ION",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "FIN",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "SIS"
+  ],
+  "entries": {
+    "FISSION": {
+      "word": "FISSION",
+      "pos": "n.",
+      "gloss": "reproduction of some unicellular organisms by division of the cell into two more or…",
+      "definition": "Reproduction of some unicellular organisms by division of the cell into two more or less equal parts.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FINIS": {
+      "word": "FINIS",
+      "pos": "n.",
+      "gloss": "the temporal end",
+      "definition": "The temporal end; the concluding time.",
+      "example": "The stopping point of each round was signaled by a bell.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "INFO": {
+      "word": "INFO",
+      "pos": "n.",
+      "gloss": "a message received and understood",
+      "definition": "A message received and understood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIN": {
+      "word": "SIN",
+      "pos": "n.",
+      "gloss": "estrangement from god",
+      "definition": "Estrangement from god.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ION": {
+      "word": "ION",
+      "pos": "n.",
+      "gloss": "a particle that is electrically charged",
+      "definition": "A particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FIN": {
+      "word": "FIN",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of four and one",
+      "definition": "The cardinal number that is the sum of four and one.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIS": {
+      "word": "SIS",
+      "pos": "n.",
+      "gloss": "a female person who has the same parents as another person",
+      "definition": "A female person who has the same parents as another person.",
+      "example": "My sister married a musician.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": "level-093",
+  "baseWord": "WAFFLE",
+  "pool": [
+    "W",
+    "A",
+    "F",
+    "F",
+    "L",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "WAFFLE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LEAF",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "FLAW",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "FLEA",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "FEW",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "LAW",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "AWE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ALE",
+    "ELF"
+  ],
+  "entries": {
+    "WAFFLE": {
+      "word": "WAFFLE",
+      "pos": "n.",
+      "gloss": "pancake batter baked in a waffle iron",
+      "definition": "Pancake batter baked in a waffle iron.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LEAF": {
+      "word": "LEAF",
+      "pos": "n.",
+      "gloss": "the main organ of photosynthesis and transpiration in higher plants",
+      "definition": "The main organ of photosynthesis and transpiration in higher plants.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FLAW": {
+      "word": "FLAW",
+      "pos": "n.",
+      "gloss": "an imperfection in an object or machine",
+      "definition": "An imperfection in an object or machine.",
+      "example": "A flaw caused the crystal to shatter.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FLEA": {
+      "word": "FLEA",
+      "pos": "n.",
+      "gloss": "any wingless bloodsucking parasitic insect noted for ability to leap",
+      "definition": "Any wingless bloodsucking parasitic insect noted for ability to leap.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FEW": {
+      "word": "FEW",
+      "pos": "adj.",
+      "gloss": "a quantifier that can be used with count nouns and is often preceded by `a'",
+      "definition": "A quantifier that can be used with count nouns and is often preceded by `a'; a small but indefinite number.",
+      "example": "A few weeks ago.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAW": {
+      "word": "LAW",
+      "pos": "n.",
+      "gloss": "the collection of rules imposed by authority",
+      "definition": "The collection of rules imposed by authority.",
+      "example": "Civilization presupposes respect for the law.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AWE": {
+      "word": "AWE",
+      "pos": "n.",
+      "gloss": "an overwhelming feeling of wonder or admiration",
+      "definition": "An overwhelming feeling of wonder or admiration.",
+      "example": "He stared over the edge with a feeling of awe.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALE": {
+      "word": "ALE",
+      "pos": "n.",
+      "gloss": "a general name for beer made with a top fermenting yeast",
+      "definition": "A general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ELF": {
+      "word": "ELF",
+      "pos": "n.",
+      "gloss": "fairies that are somewhat mischievous",
+      "definition": "(folklore) fairies that are somewhat mischievous.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

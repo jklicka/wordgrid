@@ -1,0 +1,115 @@
+{
+  "id": "level-096",
+  "baseWord": "MULLER",
+  "pool": [
+    "M",
+    "U",
+    "L",
+    "L",
+    "E",
+    "R"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "MULLER",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "LEMUR",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "RULE",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "LURE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "MULE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MULL",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "RUM"
+  ],
+  "entries": {
+    "MULLER": {
+      "word": "MULLER",
+      "pos": "n.",
+      "gloss": "a reflective thinker characterized by quiet contemplation",
+      "definition": "A reflective thinker characterized by quiet contemplation.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LEMUR": {
+      "word": "LEMUR",
+      "pos": "n.",
+      "gloss": "large-eyed arboreal prosimian having foxy faces and long furry tails",
+      "definition": "Large-eyed arboreal prosimian having foxy faces and long furry tails.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RULE": {
+      "word": "RULE",
+      "pos": "n.",
+      "gloss": "a principle or condition that customarily governs behavior",
+      "definition": "A principle or condition that customarily governs behavior.",
+      "example": "It was his rule to take a walk before breakfast.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LURE": {
+      "word": "LURE",
+      "pos": "n.",
+      "gloss": "qualities that attract by seeming to promise some kind of reward",
+      "definition": "Qualities that attract by seeming to promise some kind of reward.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MULE": {
+      "word": "MULE",
+      "pos": "n.",
+      "gloss": "hybrid offspring of a male donkey and a female horse",
+      "definition": "Hybrid offspring of a male donkey and a female horse; usually sterile.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MULL": {
+      "word": "MULL",
+      "pos": "v.",
+      "gloss": "reflect deeply on a subject",
+      "definition": "Reflect deeply on a subject.",
+      "example": "I mulled over the events of the afternoon.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RUM": {
+      "word": "RUM",
+      "pos": "n.",
+      "gloss": "liquor distilled from fermented molasses",
+      "definition": "Liquor distilled from fermented molasses.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

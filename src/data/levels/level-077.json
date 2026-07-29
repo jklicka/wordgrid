@@ -1,0 +1,158 @@
+{
+  "id": "level-077",
+  "baseWord": "PARLOR",
+  "pool": [
+    "P",
+    "A",
+    "R",
+    "L",
+    "O",
+    "R"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "PARLOR",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "POLAR",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "ORAL",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ROAR",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "OPAL",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "PARR",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "PRO",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "LAP",
+    "PAR",
+    "RAP",
+    "PAL"
+  ],
+  "entries": {
+    "PARLOR": {
+      "word": "PARLOR",
+      "pos": "n.",
+      "gloss": "reception room in an inn or club where visitors can be received",
+      "definition": "Reception room in an inn or club where visitors can be received.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "POLAR": {
+      "word": "POLAR",
+      "pos": "adj.",
+      "gloss": "having a pair of equal and opposite charges",
+      "definition": "Having a pair of equal and opposite charges.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ORAL": {
+      "word": "ORAL",
+      "pos": "adj.",
+      "gloss": "using speech rather than writing",
+      "definition": "Using speech rather than writing.",
+      "example": "An oral tradition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROAR": {
+      "word": "ROAR",
+      "pos": "v.",
+      "gloss": "make a loud noise, as of wind, water, or vehicles",
+      "definition": "Make a loud noise, as of wind, water, or vehicles.",
+      "example": "The wind was howling in the trees.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OPAL": {
+      "word": "OPAL",
+      "pos": "n.",
+      "gloss": "a translucent mineral consisting of hydrated silica of variable color",
+      "definition": "A translucent mineral consisting of hydrated silica of variable color; some varieties are used as gemstones.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PARR": {
+      "word": "PARR",
+      "pos": "n.",
+      "gloss": "a young salmon up to 2 years old",
+      "definition": "A young salmon up to 2 years old.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PRO": {
+      "word": "PRO",
+      "pos": "n.",
+      "gloss": "an athlete who plays for pay",
+      "definition": "An athlete who plays for pay.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAP": {
+      "word": "LAP",
+      "pos": "v.",
+      "gloss": "lie partly over or alongside of something or of one another",
+      "definition": "Lie partly over or alongside of something or of one another.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAR": {
+      "word": "PAR",
+      "pos": "n.",
+      "gloss": "the standard number of strokes set for each hole on a golf course, or for the entire…",
+      "definition": "(golf) the standard number of strokes set for each hole on a golf course, or for the entire course.",
+      "example": "A par-5 hole.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAP": {
+      "word": "RAP",
+      "pos": "n.",
+      "gloss": "a reproach for some lapse or misdeed",
+      "definition": "A reproach for some lapse or misdeed.",
+      "example": "He took the blame for it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAL": {
+      "word": "PAL",
+      "pos": "n.",
+      "gloss": "a close friend who accompanies his buddies in their activities",
+      "definition": "A close friend who accompanies his buddies in their activities.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

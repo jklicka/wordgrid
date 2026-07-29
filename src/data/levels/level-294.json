@@ -1,0 +1,130 @@
+{
+  "id": "level-294",
+  "baseWord": "STOOGE",
+  "pool": [
+    "S",
+    "T",
+    "O",
+    "O",
+    "G",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "STOOGE",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "GOOSE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "SOOT",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "GET",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "TOO",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SET",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "TOE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "EGO"
+  ],
+  "entries": {
+    "STOOGE": {
+      "word": "STOOGE",
+      "pos": "n.",
+      "gloss": "a person of unquestioning obedience",
+      "definition": "A person of unquestioning obedience.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GOOSE": {
+      "word": "GOOSE",
+      "pos": "n.",
+      "gloss": "web-footed long-necked typically gregarious migratory aquatic birds usually larger and…",
+      "definition": "Web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOOT": {
+      "word": "SOOT",
+      "pos": "n.",
+      "gloss": "a black colloidal substance consisting wholly or principally of amorphous carbon and…",
+      "definition": "A black colloidal substance consisting wholly or principally of amorphous carbon and used to make pigments and ink.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GET": {
+      "word": "GET",
+      "pos": "v.",
+      "gloss": "come into the possession of something concrete or abstract",
+      "definition": "Come into the possession of something concrete or abstract.",
+      "example": "She got a lot of paintings from her uncle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOO": {
+      "word": "TOO",
+      "pos": "adv.",
+      "gloss": "to a degree exceeding normal or proper limits",
+      "definition": "To a degree exceeding normal or proper limits.",
+      "example": "Too big.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SET": {
+      "word": "SET",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOE": {
+      "word": "TOE",
+      "pos": "n.",
+      "gloss": "one of the digits of the foot",
+      "definition": "One of the digits of the foot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EGO": {
+      "word": "EGO",
+      "pos": "n.",
+      "gloss": "an inflated feeling of pride in your superiority to others",
+      "definition": "An inflated feeling of pride in your superiority to others.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

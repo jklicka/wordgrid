@@ -1,0 +1,214 @@
+{
+  "id": "level-224",
+  "baseWord": "PORTA",
+  "pool": [
+    "P",
+    "O",
+    "R",
+    "T",
+    "A"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "PORTA",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PART",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "PORT",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "TRAP",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ATOP",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "TARP",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TARO",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "TOP",
+    "ART",
+    "PRO",
+    "POT",
+    "TAP",
+    "PAT",
+    "RAT",
+    "PAR",
+    "RAP",
+    "OPT"
+  ],
+  "entries": {
+    "PORTA": {
+      "word": "PORTA",
+      "pos": "n.",
+      "gloss": "an aperture or hole that opens into a bodily cavity",
+      "definition": "An aperture or hole that opens into a bodily cavity.",
+      "example": "The orifice into the aorta from the lower left chamber of the heart.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PART": {
+      "word": "PART",
+      "pos": "n.",
+      "gloss": "something determined in relation to something that includes it",
+      "definition": "Something determined in relation to something that includes it.",
+      "example": "He wanted to feel a part of something bigger than himself.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PORT": {
+      "word": "PORT",
+      "pos": "n.",
+      "gloss": "a place where people and merchandise can enter or leave a country",
+      "definition": "A place (seaport or airport) where people and merchandise can enter or leave a country.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TRAP": {
+      "word": "TRAP",
+      "pos": "n.",
+      "gloss": "a device in which something can be caught and penned",
+      "definition": "A device in which something (usually an animal) can be caught and penned.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ATOP": {
+      "word": "ATOP",
+      "pos": "adv.",
+      "gloss": "on, to, or at the top",
+      "definition": "On, to, or at the top.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TARP": {
+      "word": "TARP",
+      "pos": "n.",
+      "gloss": "waterproofed canvas",
+      "definition": "Waterproofed canvas.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TARO": {
+      "word": "TARO",
+      "pos": "n.",
+      "gloss": "edible starchy tuberous root of taro plants",
+      "definition": "Edible starchy tuberous root of taro plants.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOP": {
+      "word": "TOP",
+      "pos": "n.",
+      "gloss": "the upper part of anything",
+      "definition": "The upper part of anything.",
+      "example": "The mower cuts off the tops of the grass.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ART": {
+      "word": "ART",
+      "pos": "n.",
+      "gloss": "the products of human creativity",
+      "definition": "The products of human creativity; works of art collectively.",
+      "example": "An art exhibition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PRO": {
+      "word": "PRO",
+      "pos": "n.",
+      "gloss": "an athlete who plays for pay",
+      "definition": "An athlete who plays for pay.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POT": {
+      "word": "POT",
+      "pos": "n.",
+      "gloss": "metal or earthenware cooking vessel that is usually round and deep",
+      "definition": "Metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAP": {
+      "word": "TAP",
+      "pos": "v.",
+      "gloss": "cut a female screw thread with a tap",
+      "definition": "Cut a female screw thread with a tap.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAT": {
+      "word": "PAT",
+      "pos": "v.",
+      "gloss": "pat or squeeze fondly or playfully, especially under the chin",
+      "definition": "Pat or squeeze fondly or playfully, especially under the chin.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAT": {
+      "word": "RAT",
+      "pos": "n.",
+      "gloss": "any of various long-tailed rodents similar to but larger than a mouse",
+      "definition": "Any of various long-tailed rodents similar to but larger than a mouse.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAR": {
+      "word": "PAR",
+      "pos": "n.",
+      "gloss": "the standard number of strokes set for each hole on a golf course, or for the entire…",
+      "definition": "(golf) the standard number of strokes set for each hole on a golf course, or for the entire course.",
+      "example": "A par-5 hole.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAP": {
+      "word": "RAP",
+      "pos": "n.",
+      "gloss": "a reproach for some lapse or misdeed",
+      "definition": "A reproach for some lapse or misdeed.",
+      "example": "He took the blame for it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OPT": {
+      "word": "OPT",
+      "pos": "v.",
+      "gloss": "select as an alternative over another",
+      "definition": "Select as an alternative over another.",
+      "example": "I always choose the fish over the meat courses in this restaurant.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

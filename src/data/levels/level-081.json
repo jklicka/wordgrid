@@ -1,0 +1,187 @@
+{
+  "id": "level-081",
+  "baseWord": "AIRBUS",
+  "pool": [
+    "A",
+    "I",
+    "R",
+    "B",
+    "U",
+    "S"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "AIRBUS",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "BURSA",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "BARS",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "BIAS",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "AIRS",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "SARI",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "AIR",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SIR",
+    "BAR",
+    "BUS",
+    "SUB",
+    "RUB",
+    "BRA",
+    "IRA"
+  ],
+  "entries": {
+    "AIRBUS": {
+      "word": "AIRBUS",
+      "pos": "n.",
+      "gloss": "a subsonic jet airliner operated over short distances",
+      "definition": "A subsonic jet airliner operated over short distances.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BURSA": {
+      "word": "BURSA",
+      "pos": "n.",
+      "gloss": "a small fluid-filled sac located between movable parts of the body especially at joints",
+      "definition": "A small fluid-filled sac located between movable parts of the body especially at joints.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BARS": {
+      "word": "BARS",
+      "pos": "n.",
+      "gloss": "gymnastic apparatus consisting of two parallel wooden rods supported on uprights",
+      "definition": "Gymnastic apparatus consisting of two parallel wooden rods supported on uprights.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BIAS": {
+      "word": "BIAS",
+      "pos": "n.",
+      "gloss": "a partiality that prevents objective consideration of an issue or situation",
+      "definition": "A partiality that prevents objective consideration of an issue or situation.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIRS": {
+      "word": "AIRS",
+      "pos": "n.",
+      "gloss": "affected manners intended to impress others",
+      "definition": "Affected manners intended to impress others.",
+      "example": "Don't put on airs with me.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SARI": {
+      "word": "SARI",
+      "pos": "n.",
+      "gloss": "a dress worn primarily by Hindu women",
+      "definition": "A dress worn primarily by Hindu women; consists of several yards of light material that is draped around the body.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AIR": {
+      "word": "AIR",
+      "pos": "n.",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIR": {
+      "word": "SIR",
+      "pos": "n.",
+      "gloss": "term of address for a man",
+      "definition": "Term of address for a man.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAR": {
+      "word": "BAR",
+      "pos": "n.",
+      "gloss": "a room or establishment where alcoholic drinks are served over a counter",
+      "definition": "A room or establishment where alcoholic drinks are served over a counter.",
+      "example": "He drowned his sorrows in whiskey at the bar.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUS": {
+      "word": "BUS",
+      "pos": "n.",
+      "gloss": "a vehicle carrying many passengers",
+      "definition": "A vehicle carrying many passengers; used for public transport.",
+      "example": "He always rode the bus to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUB": {
+      "word": "SUB",
+      "pos": "v.",
+      "gloss": "be a substitute",
+      "definition": "Be a substitute.",
+      "example": "The young teacher had to substitute for the sick colleague.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUB": {
+      "word": "RUB",
+      "pos": "v.",
+      "gloss": "move over something with pressure",
+      "definition": "Move over something with pressure.",
+      "example": "Rub my hands.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BRA": {
+      "word": "BRA",
+      "pos": "n.",
+      "gloss": "an undergarment worn by women to support their breasts",
+      "definition": "An undergarment worn by women to support their breasts.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IRA": {
+      "word": "IRA",
+      "pos": "n.",
+      "gloss": "belligerence aroused by a real or supposed wrong",
+      "definition": "Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

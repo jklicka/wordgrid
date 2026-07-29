@@ -1,0 +1,178 @@
+{
+  "id": "level-228",
+  "baseWord": "UNDYING",
+  "pool": [
+    "U",
+    "N",
+    "D",
+    "Y",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "UNDYING",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DYING",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "DINGY",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "GUNNY",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DING",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DUNG",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DIG",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "GUY",
+    "GUN",
+    "INN",
+    "DUG",
+    "GIN",
+    "NUN"
+  ],
+  "entries": {
+    "UNDYING": {
+      "word": "UNDYING",
+      "pos": "adj.",
+      "gloss": "never dying",
+      "definition": "Never dying.",
+      "example": "His undying fame.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DYING": {
+      "word": "DYING",
+      "pos": "n.",
+      "gloss": "the time when something ends",
+      "definition": "The time when something ends.",
+      "example": "It was the death of all his plans.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DINGY": {
+      "word": "DINGY",
+      "pos": "adj.",
+      "gloss": "thickly covered with ingrained dirt or soot",
+      "definition": "Thickly covered with ingrained dirt or soot.",
+      "example": "A miner's begrimed face.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GUNNY": {
+      "word": "GUNNY",
+      "pos": "n.",
+      "gloss": "coarse jute fabric",
+      "definition": "Coarse jute fabric.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DING": {
+      "word": "DING",
+      "pos": "n.",
+      "gloss": "a ringing sound",
+      "definition": "A ringing sound.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUNG": {
+      "word": "DUNG",
+      "pos": "n.",
+      "gloss": "fecal matter of animals",
+      "definition": "Fecal matter of animals.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DIG": {
+      "word": "DIG",
+      "pos": "v.",
+      "gloss": "turn up, loosen, or remove earth",
+      "definition": "Turn up, loosen, or remove earth.",
+      "example": "Dig we must.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUY": {
+      "word": "GUY",
+      "pos": "n.",
+      "gloss": "an informal term for a youth or man",
+      "definition": "An informal term for a youth or man.",
+      "example": "A nice guy.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUN": {
+      "word": "GUN",
+      "pos": "n.",
+      "gloss": "a weapon that discharges a missile at high velocity",
+      "definition": "A weapon that discharges a missile at high velocity (especially from a metal tube or barrel).",
+      "band": "common",
+      "tier": "general"
+    },
+    "INN": {
+      "word": "INN",
+      "pos": "n.",
+      "gloss": "a hotel providing overnight lodging for travelers",
+      "definition": "A hotel providing overnight lodging for travelers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUG": {
+      "word": "DUG",
+      "pos": "n.",
+      "gloss": "an udder or breast or teat",
+      "definition": "An udder or breast or teat.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUN": {
+      "word": "NUN",
+      "pos": "n.",
+      "gloss": "a woman religious",
+      "definition": "A woman religious.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

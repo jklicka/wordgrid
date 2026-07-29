@@ -1,0 +1,128 @@
+{
+  "id": "level-250",
+  "baseWord": "SAWDUST",
+  "pool": [
+    "S",
+    "A",
+    "W",
+    "D",
+    "U",
+    "S",
+    "T"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SAWDUST",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DUST",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "STUD",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SWAT",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SAW",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "DAS",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ASS",
+    "SAD"
+  ],
+  "entries": {
+    "SAWDUST": {
+      "word": "SAWDUST",
+      "pos": "n.",
+      "gloss": "fine particles of wood made by sawing wood",
+      "definition": "Fine particles of wood made by sawing wood.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DUST": {
+      "word": "DUST",
+      "pos": "n.",
+      "gloss": "fine powdery material such as dry earth or pollen that can be blown about in the air",
+      "definition": "Fine powdery material such as dry earth or pollen that can be blown about in the air.",
+      "example": "The furniture was covered with dust.",
+      "band": "common",
+      "tier": "general"
+    },
+    "STUD": {
+      "word": "STUD",
+      "pos": "v.",
+      "gloss": "scatter or intersperse like dots or studs",
+      "definition": "Scatter or intersperse like dots or studs.",
+      "example": "Hills constellated with lights.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SWAT": {
+      "word": "SWAT",
+      "pos": "n.",
+      "gloss": "a sharp blow",
+      "definition": "A sharp blow.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SAW": {
+      "word": "SAW",
+      "pos": "v.",
+      "gloss": "cut with a saw",
+      "definition": "Cut with a saw.",
+      "example": "Saw wood for the fireplace.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAS": {
+      "word": "DAS",
+      "pos": "n.",
+      "gloss": "any of several small ungulate mammals of Africa and Asia with rodent-like incisors and…",
+      "definition": "Any of several small ungulate mammals of Africa and Asia with rodent-like incisors and feet with hooflike toes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ASS": {
+      "word": "ASS",
+      "pos": "n.",
+      "gloss": "the fleshy part of the human body that you sit on",
+      "definition": "The fleshy part of the human body that you sit on.",
+      "example": "He deserves a good kick in the butt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAD": {
+      "word": "SAD",
+      "pos": "adj.",
+      "gloss": "experiencing or showing sorrow or unhappiness",
+      "definition": "Experiencing or showing sorrow or unhappiness.",
+      "example": "Feeling sad because his dog had died.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

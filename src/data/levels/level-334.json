@@ -1,0 +1,157 @@
+{
+  "id": "level-334",
+  "baseWord": "RIPEN",
+  "pool": [
+    "R",
+    "I",
+    "P",
+    "E",
+    "N"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "RIPEN",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PINE",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "PIER",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "RIPE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "REIN",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "PERI",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "PEN",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "REP",
+    "PIN",
+    "RIP",
+    "PIE"
+  ],
+  "entries": {
+    "RIPEN": {
+      "word": "RIPEN",
+      "pos": "v.",
+      "gloss": "cause to ripen or develop fully",
+      "definition": "Cause to ripen or develop fully.",
+      "example": "The sun ripens the fruit.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PINE": {
+      "word": "PINE",
+      "pos": "n.",
+      "gloss": "a coniferous tree",
+      "definition": "A coniferous tree.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIER": {
+      "word": "PIER",
+      "pos": "n.",
+      "gloss": "a platform built out from the shore into the water and supported by piles",
+      "definition": "A platform built out from the shore into the water and supported by piles; provides access to ships and boats.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIPE": {
+      "word": "RIPE",
+      "pos": "adj.",
+      "gloss": "fully developed or matured and ready to be eaten or used",
+      "definition": "Fully developed or matured and ready to be eaten or used.",
+      "example": "Ripe peaches.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REIN": {
+      "word": "REIN",
+      "pos": "n.",
+      "gloss": "one of a pair of long straps used to control a horse",
+      "definition": "One of a pair of long straps (usually connected to the bit or the headpiece) used to control a horse.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PERI": {
+      "word": "PERI",
+      "pos": "n.",
+      "gloss": "a beautiful and graceful girl",
+      "definition": "A beautiful and graceful girl.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PEN": {
+      "word": "PEN",
+      "pos": "n.",
+      "gloss": "a writing implement with a point from which ink flows",
+      "definition": "A writing implement with a point from which ink flows.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REP": {
+      "word": "REP",
+      "pos": "n.",
+      "gloss": "informal abbreviation of `representative'",
+      "definition": "Informal abbreviation of `representative'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIN": {
+      "word": "PIN",
+      "pos": "v.",
+      "gloss": "to hold fast or prevent from moving",
+      "definition": "To hold fast or prevent from moving.",
+      "example": "The child was pinned under the fallen tree.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIP": {
+      "word": "RIP",
+      "pos": "v.",
+      "gloss": "tear or be torn violently",
+      "definition": "Tear or be torn violently.",
+      "example": "The curtain ripped from top to bottom.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIE": {
+      "word": "PIE",
+      "pos": "n.",
+      "gloss": "dish baked in pastry-lined pan often with a pastry top",
+      "definition": "Dish baked in pastry-lined pan often with a pastry top.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

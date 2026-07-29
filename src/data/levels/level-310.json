@@ -1,0 +1,109 @@
+{
+  "id": "level-310",
+  "baseWord": "LEGER",
+  "pool": [
+    "L",
+    "E",
+    "G",
+    "E",
+    "R"
+  ],
+  "rows": 7,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "LEGER",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "REEL",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "GLEE",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "GEL",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "GEE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "LEE",
+    "LEG"
+  ],
+  "entries": {
+    "LEGER": {
+      "word": "LEGER",
+      "pos": "n.",
+      "gloss": "a record in which commercial accounts are recorded",
+      "definition": "A record in which commercial accounts are recorded.",
+      "example": "They got a subpoena to examine our books.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "REEL": {
+      "word": "REEL",
+      "pos": "v.",
+      "gloss": "walk as if unable to control one's movements",
+      "definition": "Walk as if unable to control one's movements.",
+      "example": "The drunken man staggered into the room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GLEE": {
+      "word": "GLEE",
+      "pos": "n.",
+      "gloss": "great merriment",
+      "definition": "Great merriment.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GEL": {
+      "word": "GEL",
+      "pos": "n.",
+      "gloss": "a colloid in a more solid form than a sol",
+      "definition": "A colloid in a more solid form than a sol.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEE": {
+      "word": "GEE",
+      "pos": "n.",
+      "gloss": "a unit of force equal to the force exerted by gravity",
+      "definition": "A unit of force equal to the force exerted by gravity; used to indicate the force to which a body is subjected when it is accelerated.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEE": {
+      "word": "LEE",
+      "pos": "n.",
+      "gloss": "the side of something that is sheltered from the wind",
+      "definition": "The side of something that is sheltered from the wind.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEG": {
+      "word": "LEG",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

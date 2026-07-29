@@ -1,0 +1,131 @@
+{
+  "id": "level-150",
+  "baseWord": "TAROT",
+  "pool": [
+    "T",
+    "A",
+    "R",
+    "O",
+    "T"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "TAROT",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "TART",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "TROT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TORT",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "TARO",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "ART",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "RAT",
+    "ROT",
+    "TAR"
+  ],
+  "entries": {
+    "TAROT": {
+      "word": "TAROT",
+      "pos": "n.",
+      "gloss": "any of a set of cards that include 22 cards representing virtues and vices and death…",
+      "definition": "Any of a set of (usually 78) cards that include 22 cards representing virtues and vices and death and fortune etc.; used for playing card games and for divination by fortunetellers.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TART": {
+      "word": "TART",
+      "pos": "adj.",
+      "gloss": "tasting sour like a lemon",
+      "definition": "Tasting sour like a lemon.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TROT": {
+      "word": "TROT",
+      "pos": "v.",
+      "gloss": "run at a moderately swift pace",
+      "definition": "Run at a moderately swift pace.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TORT": {
+      "word": "TORT",
+      "pos": "n.",
+      "gloss": "any wrongdoing for which an action for damages may be brought",
+      "definition": "(law) any wrongdoing for which an action for damages may be brought.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TARO": {
+      "word": "TARO",
+      "pos": "n.",
+      "gloss": "edible starchy tuberous root of taro plants",
+      "definition": "Edible starchy tuberous root of taro plants.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ART": {
+      "word": "ART",
+      "pos": "n.",
+      "gloss": "the products of human creativity",
+      "definition": "The products of human creativity; works of art collectively.",
+      "example": "An art exhibition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAT": {
+      "word": "RAT",
+      "pos": "n.",
+      "gloss": "any of various long-tailed rodents similar to but larger than a mouse",
+      "definition": "Any of various long-tailed rodents similar to but larger than a mouse.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROT": {
+      "word": "ROT",
+      "pos": "n.",
+      "gloss": "a state of decay usually accompanied by an offensive odor",
+      "definition": "A state of decay usually accompanied by an offensive odor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAR": {
+      "word": "TAR",
+      "pos": "n.",
+      "gloss": "any of various dark heavy viscid substances obtained as a residue",
+      "definition": "Any of various dark heavy viscid substances obtained as a residue.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

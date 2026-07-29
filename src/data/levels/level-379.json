@@ -1,0 +1,122 @@
+{
+  "id": "level-379",
+  "baseWord": "SNUGLY",
+  "pool": [
+    "S",
+    "N",
+    "U",
+    "G",
+    "L",
+    "Y"
+  ],
+  "rows": 5,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SNUGLY",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "UGLY",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "LUNG",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "GUY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "GUN",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SUN",
+    "SLUG",
+    "SNUG"
+  ],
+  "entries": {
+    "SNUGLY": {
+      "word": "SNUGLY",
+      "pos": "adv.",
+      "gloss": "fitting closely",
+      "definition": "Fitting closely.",
+      "example": "The vest fit snugly.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "UGLY": {
+      "word": "UGLY",
+      "pos": "adj.",
+      "gloss": "displeasing to the senses",
+      "definition": "Displeasing to the senses.",
+      "example": "An ugly face.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LUNG": {
+      "word": "LUNG",
+      "pos": "n.",
+      "gloss": "either of two saclike respiratory organs in the chest of vertebrates",
+      "definition": "Either of two saclike respiratory organs in the chest of vertebrates; serves to remove carbon dioxide and provide oxygen to the blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUY": {
+      "word": "GUY",
+      "pos": "n.",
+      "gloss": "an informal term for a youth or man",
+      "definition": "An informal term for a youth or man.",
+      "example": "A nice guy.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUN": {
+      "word": "GUN",
+      "pos": "n.",
+      "gloss": "a weapon that discharges a missile at high velocity",
+      "definition": "A weapon that discharges a missile at high velocity (especially from a metal tube or barrel).",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUN": {
+      "word": "SUN",
+      "pos": "n.",
+      "gloss": "the star that is the source of light and heat for the planets in the solar system",
+      "definition": "The star that is the source of light and heat for the planets in the solar system.",
+      "example": "The sun contains 99.85% of the mass in the solar system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SLUG": {
+      "word": "SLUG",
+      "pos": "n.",
+      "gloss": "a projectile that is fired from a gun",
+      "definition": "A projectile that is fired from a gun.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SNUG": {
+      "word": "SNUG",
+      "pos": "adj.",
+      "gloss": "offering safety",
+      "definition": "Offering safety; well protected or concealed.",
+      "example": "A snug harbor.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

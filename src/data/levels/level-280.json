@@ -1,0 +1,125 @@
+{
+  "id": "level-280",
+  "baseWord": "UNCOOL",
+  "pool": [
+    "U",
+    "N",
+    "C",
+    "O",
+    "O",
+    "L"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "UNCOOL",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "COLON",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "COOL",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "COON",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "CON",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "COL",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "LOCO",
+    "LOON"
+  ],
+  "entries": {
+    "UNCOOL": {
+      "word": "UNCOOL",
+      "pos": "adj.",
+      "gloss": "unfashionable and boring",
+      "definition": "(spoken slang) unfashionable and boring.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "COLON": {
+      "word": "COLON",
+      "pos": "n.",
+      "gloss": "the part of the large intestine between the cecum and the rectum",
+      "definition": "The part of the large intestine between the cecum and the rectum; it extracts moisture from food residues before they are excreted.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COOL": {
+      "word": "COOL",
+      "pos": "v.",
+      "gloss": "make cool or cooler",
+      "definition": "Make cool or cooler.",
+      "example": "Chill the food.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COON": {
+      "word": "COON",
+      "pos": "n.",
+      "gloss": "an eccentric or undignified rustic",
+      "definition": "An eccentric or undignified rustic.",
+      "example": "I'll be a gone coon when the battle starts.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CON": {
+      "word": "CON",
+      "pos": "n.",
+      "gloss": "an argument opposed to a proposal",
+      "definition": "An argument opposed to a proposal.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COL": {
+      "word": "COL",
+      "pos": "n.",
+      "gloss": "a pass between mountain peaks",
+      "definition": "A pass between mountain peaks.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOCO": {
+      "word": "LOCO",
+      "pos": "adj.",
+      "gloss": "informal or slang terms for mentally irregular",
+      "definition": "Informal or slang terms for mentally irregular.",
+      "example": "It used to drive my husband balmy.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LOON": {
+      "word": "LOON",
+      "pos": "n.",
+      "gloss": "a worthless lazy fellow",
+      "definition": "A worthless lazy fellow.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

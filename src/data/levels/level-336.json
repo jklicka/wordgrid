@@ -1,0 +1,120 @@
+{
+  "id": "level-336",
+  "baseWord": "TANGY",
+  "pool": [
+    "T",
+    "A",
+    "N",
+    "G",
+    "Y"
+  ],
+  "rows": 6,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "TANGY",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "YANG",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TANG",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "GAY",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "TAG",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ANY",
+    "TAN",
+    "ANT"
+  ],
+  "entries": {
+    "TANGY": {
+      "word": "TANGY",
+      "pos": "adj.",
+      "gloss": "tasting sour like a lemon",
+      "definition": "Tasting sour like a lemon.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "YANG": {
+      "word": "YANG",
+      "pos": "n.",
+      "gloss": "the bright positive masculine principle in Chinese dualistic cosmology",
+      "definition": "The bright positive masculine principle in Chinese dualistic cosmology.",
+      "example": "Yin and yang together produce everything that comes into existence.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TANG": {
+      "word": "TANG",
+      "pos": "n.",
+      "gloss": "a tart spicy quality",
+      "definition": "A tart spicy quality.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GAY": {
+      "word": "GAY",
+      "pos": "adj.",
+      "gloss": "bright and pleasant",
+      "definition": "Bright and pleasant; promoting a feeling of cheer.",
+      "example": "A cheery hello.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAG": {
+      "word": "TAG",
+      "pos": "v.",
+      "gloss": "attach a tag or label to",
+      "definition": "Attach a tag or label to.",
+      "example": "Label these bottles.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANY": {
+      "word": "ANY",
+      "pos": "adj.",
+      "gloss": "one or some or every or all without specification",
+      "definition": "One or some or every or all without specification.",
+      "example": "Give me any peaches you don't want.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANT": {
+      "word": "ANT",
+      "pos": "n.",
+      "gloss": "social insect living in organized colonies",
+      "definition": "Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

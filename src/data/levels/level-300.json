@@ -1,0 +1,142 @@
+{
+  "id": "level-300",
+  "baseWord": "ASKEW",
+  "pool": [
+    "A",
+    "S",
+    "K",
+    "E",
+    "W"
+  ],
+  "rows": 8,
+  "cols": 5,
+  "placed": [
+    {
+      "word": "ASKEW",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "WAKE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "WEAK",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SAKE",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SKEW",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SAW",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "ASK",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SEA",
+    "AWE"
+  ],
+  "entries": {
+    "ASKEW": {
+      "word": "ASKEW",
+      "pos": "adj.",
+      "gloss": "turned or twisted toward one side",
+      "definition": "Turned or twisted toward one side.",
+      "example": "A...youth with a gorgeous red necktie all awry\"- G.K.Chesterton.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WAKE": {
+      "word": "WAKE",
+      "pos": "v.",
+      "gloss": "be awake, be alert, be there",
+      "definition": "Be awake, be alert, be there.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WEAK": {
+      "word": "WEAK",
+      "pos": "adj.",
+      "gloss": "wanting in physical strength",
+      "definition": "Wanting in physical strength.",
+      "example": "A weak pillar.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAKE": {
+      "word": "SAKE",
+      "pos": "n.",
+      "gloss": "a reason for wanting something done",
+      "definition": "A reason for wanting something done.",
+      "example": "For your sake.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SKEW": {
+      "word": "SKEW",
+      "pos": "v.",
+      "gloss": "turn or place at an angle",
+      "definition": "Turn or place at an angle.",
+      "example": "The lines on the sheet of paper are skewed.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SAW": {
+      "word": "SAW",
+      "pos": "v.",
+      "gloss": "cut with a saw",
+      "definition": "Cut with a saw.",
+      "example": "Saw wood for the fireplace.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ASK": {
+      "word": "ASK",
+      "pos": "v.",
+      "gloss": "make a request or demand for something to somebody",
+      "definition": "Make a request or demand for something to somebody.",
+      "example": "She asked him for a loan.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEA": {
+      "word": "SEA",
+      "pos": "n.",
+      "gloss": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "definition": "A division of an ocean or a large body of salt water partially enclosed by land.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AWE": {
+      "word": "AWE",
+      "pos": "n.",
+      "gloss": "an overwhelming feeling of wonder or admiration",
+      "definition": "An overwhelming feeling of wonder or admiration.",
+      "example": "He stared over the edge with a feeling of awe.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

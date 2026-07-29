@@ -1,0 +1,207 @@
+{
+  "id": "level-347",
+  "baseWord": "LEVITY",
+  "pool": [
+    "L",
+    "E",
+    "V",
+    "I",
+    "T",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "LEVITY",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "LIVE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "EVIL",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "LEVY",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "TILE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "VEIL",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "VILE",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "LET",
+    "YET",
+    "LIE",
+    "TIE",
+    "LIT",
+    "VET",
+    "IVY",
+    "LITE",
+    "YETI"
+  ],
+  "entries": {
+    "LEVITY": {
+      "word": "LEVITY",
+      "pos": "n.",
+      "gloss": "feeling an inappropriate lack of seriousness",
+      "definition": "Feeling an inappropriate lack of seriousness.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIVE": {
+      "word": "LIVE",
+      "pos": "v.",
+      "gloss": "be an inhabitant of or reside in",
+      "definition": "Be an inhabitant of or reside in.",
+      "example": "People lived in Africa millions of years ago.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EVIL": {
+      "word": "EVIL",
+      "pos": "n.",
+      "gloss": "morally objectionable behavior",
+      "definition": "Morally objectionable behavior.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEVY": {
+      "word": "LEVY",
+      "pos": "v.",
+      "gloss": "impose and collect",
+      "definition": "Impose and collect.",
+      "example": "Levy a fine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TILE": {
+      "word": "TILE",
+      "pos": "n.",
+      "gloss": "a flat thin rectangular slab used to cover surfaces",
+      "definition": "A flat thin rectangular slab (as of fired clay or rubber or linoleum) used to cover surfaces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VEIL": {
+      "word": "VEIL",
+      "pos": "n.",
+      "gloss": "a garment that covers the head and face",
+      "definition": "A garment that covers the head and face.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VILE": {
+      "word": "VILE",
+      "pos": "adj.",
+      "gloss": "morally reprehensible",
+      "definition": "Morally reprehensible.",
+      "example": "Would do something as despicable as murder.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LET": {
+      "word": "LET",
+      "pos": "v.",
+      "gloss": "make it possible through a specific action or lack of action for something to happen",
+      "definition": "Make it possible through a specific action or lack of action for something to happen.",
+      "example": "This permits the water to rush in.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YET": {
+      "word": "YET",
+      "pos": "adv.",
+      "gloss": "up to the present time",
+      "definition": "Up to the present time.",
+      "example": "I have yet to see the results.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIE": {
+      "word": "LIE",
+      "pos": "v.",
+      "gloss": "be located or situated somewhere",
+      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIE": {
+      "word": "TIE",
+      "pos": "n.",
+      "gloss": "neckwear consisting of a long narrow piece of material worn under a collar and tied in…",
+      "definition": "Neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front.",
+      "example": "He stood in front of the mirror tightening his necktie.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIT": {
+      "word": "LIT",
+      "pos": "adj.",
+      "gloss": "provided with artificial light",
+      "definition": "Provided with artificial light.",
+      "example": "Illuminated advertising.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VET": {
+      "word": "VET",
+      "pos": "n.",
+      "gloss": "a doctor who practices veterinary medicine",
+      "definition": "A doctor who practices veterinary medicine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IVY": {
+      "word": "IVY",
+      "pos": "n.",
+      "gloss": "Old World vine with lobed evergreen leaves and black berrylike fruits",
+      "definition": "Old World vine with lobed evergreen leaves and black berrylike fruits.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LITE": {
+      "word": "LITE",
+      "pos": "adj.",
+      "gloss": "having relatively few calories",
+      "definition": "Having relatively few calories.",
+      "example": "Diet cola.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "YETI": {
+      "word": "YETI",
+      "pos": "n.",
+      "gloss": "a large hairy humanoid creature said to live in the Himalayas",
+      "definition": "A large hairy humanoid creature said to live in the Himalayas.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

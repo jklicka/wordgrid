@@ -1,0 +1,157 @@
+{
+  "id": "level-062",
+  "baseWord": "KRAFT",
+  "pool": [
+    "K",
+    "R",
+    "A",
+    "F",
+    "T"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "KRAFT",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "FART",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "RAFT",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "FRAT",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "FAR",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "ART",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "FAT",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "RAT",
+    "ARK",
+    "KAT",
+    "TAR"
+  ],
+  "entries": {
+    "KRAFT": {
+      "word": "KRAFT",
+      "pos": "n.",
+      "gloss": "strong wrapping paper made from pulp processed with a sulfur solution",
+      "definition": "Strong wrapping paper made from pulp processed with a sulfur solution.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FART": {
+      "word": "FART",
+      "pos": "n.",
+      "gloss": "a reflex that expels intestinal gas through the anus",
+      "definition": "A reflex that expels intestinal gas through the anus.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RAFT": {
+      "word": "RAFT",
+      "pos": "n.",
+      "gloss": "a flat float that can be used for transport or as a platform for swimmers",
+      "definition": "A flat float (usually made of logs or planks) that can be used for transport or as a platform for swimmers.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FRAT": {
+      "word": "FRAT",
+      "pos": "n.",
+      "gloss": "a social club for male undergraduates",
+      "definition": "A social club for male undergraduates.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FAR": {
+      "word": "FAR",
+      "pos": "adv.",
+      "gloss": "to a considerable degree",
+      "definition": "To a considerable degree; very much.",
+      "example": "A far far better thing that I do.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ART": {
+      "word": "ART",
+      "pos": "n.",
+      "gloss": "the products of human creativity",
+      "definition": "The products of human creativity; works of art collectively.",
+      "example": "An art exhibition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FAT": {
+      "word": "FAT",
+      "pos": "n.",
+      "gloss": "a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids",
+      "definition": "A soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides).",
+      "example": "Pizza has too much fat.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAT": {
+      "word": "RAT",
+      "pos": "n.",
+      "gloss": "any of various long-tailed rodents similar to but larger than a mouse",
+      "definition": "Any of various long-tailed rodents similar to but larger than a mouse.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARK": {
+      "word": "ARK",
+      "pos": "n.",
+      "gloss": "a boat built by Noah to save his family and animals from the flood",
+      "definition": "A boat built by Noah to save his family and animals from the flood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "KAT": {
+      "word": "KAT",
+      "pos": "n.",
+      "gloss": "the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea",
+      "definition": "The leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea; has the effect of a euphoric stimulant.",
+      "example": "In Yemen kat is used daily by 85% of adults.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAR": {
+      "word": "TAR",
+      "pos": "n.",
+      "gloss": "any of various dark heavy viscid substances obtained as a residue",
+      "definition": "Any of various dark heavy viscid substances obtained as a residue.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

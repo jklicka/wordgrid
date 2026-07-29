@@ -1,0 +1,136 @@
+{
+  "id": "level-302",
+  "baseWord": "LOINS",
+  "pool": [
+    "L",
+    "O",
+    "I",
+    "N",
+    "S"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "LOINS",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SOIL",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "LION",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "SILO",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SON",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "OIL",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SIN",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ION",
+    "SOL"
+  ],
+  "entries": {
+    "LOINS": {
+      "word": "LOINS",
+      "pos": "n.",
+      "gloss": "the lower part of the abdomen just above the external genital organs",
+      "definition": "The lower part of the abdomen just above the external genital organs.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SOIL": {
+      "word": "SOIL",
+      "pos": "n.",
+      "gloss": "the state of being covered with unclean things",
+      "definition": "The state of being covered with unclean things.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LION": {
+      "word": "LION",
+      "pos": "n.",
+      "gloss": "large gregarious predatory feline of Africa and India having a tawny coat with a…",
+      "definition": "Large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SILO": {
+      "word": "SILO",
+      "pos": "n.",
+      "gloss": "a cylindrical tower used for storing silage",
+      "definition": "A cylindrical tower used for storing silage.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OIL": {
+      "word": "OIL",
+      "pos": "n.",
+      "gloss": "a slippery or viscous liquid or liquefiable substance not miscible with water",
+      "definition": "A slippery or viscous liquid or liquefiable substance not miscible with water.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIN": {
+      "word": "SIN",
+      "pos": "n.",
+      "gloss": "estrangement from god",
+      "definition": "Estrangement from god.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ION": {
+      "word": "ION",
+      "pos": "n.",
+      "gloss": "a particle that is electrically charged",
+      "definition": "A particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOL": {
+      "word": "SOL",
+      "pos": "n.",
+      "gloss": "a colloid that has a continuous liquid phase in which a solid is suspended in a liquid",
+      "definition": "A colloid that has a continuous liquid phase in which a solid is suspended in a liquid.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

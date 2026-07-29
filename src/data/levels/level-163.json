@@ -1,0 +1,130 @@
+{
+  "id": "level-163",
+  "baseWord": "NUANCE",
+  "pool": [
+    "N",
+    "U",
+    "A",
+    "N",
+    "C",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "NUANCE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NANCE",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "CANE",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "ACNE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "CAN",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "ACE",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "CUE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "NUN"
+  ],
+  "entries": {
+    "NUANCE": {
+      "word": "NUANCE",
+      "pos": "n.",
+      "gloss": "a subtle difference in meaning or opinion or attitude",
+      "definition": "A subtle difference in meaning or opinion or attitude.",
+      "example": "Without understanding the finer nuances you can't enjoy the humor.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NANCE": {
+      "word": "NANCE",
+      "pos": "n.",
+      "gloss": "offensive term for a homosexual man",
+      "definition": "Offensive term for a homosexual man.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CANE": {
+      "word": "CANE",
+      "pos": "n.",
+      "gloss": "a stick that people can lean on to help them walk",
+      "definition": "A stick that people can lean on to help them walk.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACNE": {
+      "word": "ACNE",
+      "pos": "n.",
+      "gloss": "an inflammatory disease involving the sebaceous glands of the skin",
+      "definition": "An inflammatory disease involving the sebaceous glands of the skin; characterized by papules or pustules or comedones.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAN": {
+      "word": "CAN",
+      "pos": "v.",
+      "gloss": "preserve in a can or tin",
+      "definition": "Preserve in a can or tin.",
+      "example": "Tinned foods are not very tasty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACE": {
+      "word": "ACE",
+      "pos": "n.",
+      "gloss": "the smallest whole number or a numeral representing this number",
+      "definition": "The smallest whole number or a numeral representing this number.",
+      "example": "He has the one but will need a two and three to go with it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CUE": {
+      "word": "CUE",
+      "pos": "n.",
+      "gloss": "an actor's line that immediately precedes and serves as a reminder for some action or…",
+      "definition": "An actor's line that immediately precedes and serves as a reminder for some action or speech.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUN": {
+      "word": "NUN",
+      "pos": "n.",
+      "gloss": "a woman religious",
+      "definition": "A woman religious.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

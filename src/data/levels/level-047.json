@@ -1,0 +1,139 @@
+{
+  "id": "level-047",
+  "baseWord": "BRUTE",
+  "pool": [
+    "B",
+    "R",
+    "U",
+    "T",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "BRUTE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TUBER",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "REBUT",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "TRUE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "TUBE",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "BUT",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "BET",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "RUB",
+    "TUB"
+  ],
+  "entries": {
+    "BRUTE": {
+      "word": "BRUTE",
+      "pos": "n.",
+      "gloss": "a cruelly rapacious person",
+      "definition": "A cruelly rapacious person.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TUBER": {
+      "word": "TUBER",
+      "pos": "n.",
+      "gloss": "a fleshy underground stem or root serving for reproductive and food storage",
+      "definition": "A fleshy underground stem or root serving for reproductive and food storage.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "REBUT": {
+      "word": "REBUT",
+      "pos": "v.",
+      "gloss": "overthrow by argument, evidence, or proof",
+      "definition": "Overthrow by argument, evidence, or proof.",
+      "example": "The speaker refuted his opponent's arguments.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TRUE": {
+      "word": "TRUE",
+      "pos": "adj.",
+      "gloss": "consistent with fact or reality",
+      "definition": "Consistent with fact or reality; not false.",
+      "example": "The story is true.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TUBE": {
+      "word": "TUBE",
+      "pos": "n.",
+      "gloss": "conduit consisting of a long hollow object used to hold and conduct objects or liquids…",
+      "definition": "Conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUT": {
+      "word": "BUT",
+      "pos": "adv.",
+      "gloss": "and nothing more",
+      "definition": "And nothing more.",
+      "example": "I was merely asking.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BET": {
+      "word": "BET",
+      "pos": "n.",
+      "gloss": "the money risked on a gamble",
+      "definition": "The money risked on a gamble.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUB": {
+      "word": "RUB",
+      "pos": "v.",
+      "gloss": "move over something with pressure",
+      "definition": "Move over something with pressure.",
+      "example": "Rub my hands.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TUB": {
+      "word": "TUB",
+      "pos": "n.",
+      "gloss": "a relatively large open container that you fill with water and use to wash the body",
+      "definition": "A relatively large open container that you fill with water and use to wash the body.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "level-209",
+  "baseWord": "TAUNT",
+  "pool": [
+    "T",
+    "A",
+    "U",
+    "N",
+    "T"
+  ],
+  "rows": 7,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "TAUNT",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "AUNT",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "TUNA",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "TAUT",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "NUT",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TAN",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ANT"
+  ],
+  "entries": {
+    "TAUNT": {
+      "word": "TAUNT",
+      "pos": "n.",
+      "gloss": "aggravation by deriding or mocking or criticizing",
+      "definition": "Aggravation by deriding or mocking or criticizing.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AUNT": {
+      "word": "AUNT",
+      "pos": "n.",
+      "gloss": "the sister of your father or mother",
+      "definition": "The sister of your father or mother; the wife of your uncle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TUNA": {
+      "word": "TUNA",
+      "pos": "n.",
+      "gloss": "tropical American prickly pear of Jamaica",
+      "definition": "Tropical American prickly pear of Jamaica.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAUT": {
+      "word": "TAUT",
+      "pos": "adj.",
+      "gloss": "pulled or drawn tight",
+      "definition": "Pulled or drawn tight.",
+      "example": "Taut sails.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NUT": {
+      "word": "NUT",
+      "pos": "n.",
+      "gloss": "usually large hard-shelled seed",
+      "definition": "Usually large hard-shelled seed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANT": {
+      "word": "ANT",
+      "pos": "n.",
+      "gloss": "social insect living in organized colonies",
+      "definition": "Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

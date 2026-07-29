@@ -1,0 +1,130 @@
+{
+  "id": "level-095",
+  "baseWord": "LEAFY",
+  "pool": [
+    "L",
+    "E",
+    "A",
+    "F",
+    "Y"
+  ],
+  "rows": 6,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "LEAFY",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "LEAF",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "FLEA",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "FLY",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "LAY",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "YEA",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "ALE",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ELF"
+  ],
+  "entries": {
+    "LEAFY": {
+      "word": "LEAFY",
+      "pos": "adj.",
+      "gloss": "having or covered with leaves",
+      "definition": "Having or covered with leaves.",
+      "example": "Leafy trees.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LEAF": {
+      "word": "LEAF",
+      "pos": "n.",
+      "gloss": "the main organ of photosynthesis and transpiration in higher plants",
+      "definition": "The main organ of photosynthesis and transpiration in higher plants.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FLEA": {
+      "word": "FLEA",
+      "pos": "n.",
+      "gloss": "any wingless bloodsucking parasitic insect noted for ability to leap",
+      "definition": "Any wingless bloodsucking parasitic insect noted for ability to leap.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FLY": {
+      "word": "FLY",
+      "pos": "v.",
+      "gloss": "travel through the air",
+      "definition": "Travel through the air; be airborne.",
+      "example": "Man cannot fly.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAY": {
+      "word": "LAY",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YEA": {
+      "word": "YEA",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "The yeas have it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALE": {
+      "word": "ALE",
+      "pos": "n.",
+      "gloss": "a general name for beer made with a top fermenting yeast",
+      "definition": "A general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ELF": {
+      "word": "ELF",
+      "pos": "n.",
+      "gloss": "fairies that are somewhat mischievous",
+      "definition": "(folklore) fairies that are somewhat mischievous.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

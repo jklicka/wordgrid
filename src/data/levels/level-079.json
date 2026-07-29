@@ -1,0 +1,178 @@
+{
+  "id": "level-079",
+  "baseWord": "DEVOUT",
+  "pool": [
+    "D",
+    "E",
+    "V",
+    "O",
+    "U",
+    "T"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "DEVOUT",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DUVET",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "VOTE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "DOVE",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "VETO",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "OUT",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "DUE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "DUO",
+    "TOE",
+    "DOT",
+    "VET",
+    "DOE",
+    "DUET"
+  ],
+  "entries": {
+    "DEVOUT": {
+      "word": "DEVOUT",
+      "pos": "adj.",
+      "gloss": "deeply religious",
+      "definition": "Deeply religious.",
+      "example": "A god-fearing and law-abiding people\" H.L.Mencken.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DUVET": {
+      "word": "DUVET",
+      "pos": "n.",
+      "gloss": "a soft quilt usually filled with the down of the eider",
+      "definition": "A soft quilt usually filled with the down of the eider.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "VOTE": {
+      "word": "VOTE",
+      "pos": "n.",
+      "gloss": "a choice that is made by counting the number of people in favor of each alternative",
+      "definition": "A choice that is made by counting the number of people in favor of each alternative.",
+      "example": "There were only 17 votes in favor of the motion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOVE": {
+      "word": "DOVE",
+      "pos": "n.",
+      "gloss": "any of numerous small pigeons",
+      "definition": "Any of numerous small pigeons.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VETO": {
+      "word": "VETO",
+      "pos": "v.",
+      "gloss": "vote against",
+      "definition": "Vote against; refuse to endorse; refuse to assent.",
+      "example": "The President vetoed the bill.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OUT": {
+      "word": "OUT",
+      "pos": "adj.",
+      "gloss": "not allowed to continue to bat or run",
+      "definition": "Not allowed to continue to bat or run.",
+      "example": "He was tagged out at second on a close play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUE": {
+      "word": "DUE",
+      "pos": "adj.",
+      "gloss": "owed and payable immediately or on demand",
+      "definition": "Owed and payable immediately or on demand.",
+      "example": "Payment is due.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUO": {
+      "word": "DUO",
+      "pos": "n.",
+      "gloss": "two items of the same kind",
+      "definition": "Two items of the same kind.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOE": {
+      "word": "TOE",
+      "pos": "n.",
+      "gloss": "one of the digits of the foot",
+      "definition": "One of the digits of the foot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOT": {
+      "word": "DOT",
+      "pos": "n.",
+      "gloss": "a very small circular shape",
+      "definition": "A very small circular shape.",
+      "example": "A row of points.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VET": {
+      "word": "VET",
+      "pos": "n.",
+      "gloss": "a doctor who practices veterinary medicine",
+      "definition": "A doctor who practices veterinary medicine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOE": {
+      "word": "DOE",
+      "pos": "n.",
+      "gloss": "mature female of mammals of which the male is called `buck'",
+      "definition": "Mature female of mammals of which the male is called `buck'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUET": {
+      "word": "DUET",
+      "pos": "n.",
+      "gloss": "two items of the same kind",
+      "definition": "Two items of the same kind.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

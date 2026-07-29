@@ -1,0 +1,120 @@
+{
+  "id": "level-083",
+  "baseWord": "GUNMAN",
+  "pool": [
+    "G",
+    "U",
+    "N",
+    "M",
+    "A",
+    "N"
+  ],
+  "rows": 5,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "GUNMAN",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ANNUM",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "MAN",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "GUN",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "GUM",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "MAG",
+    "MUG",
+    "NUN"
+  ],
+  "entries": {
+    "GUNMAN": {
+      "word": "GUNMAN",
+      "pos": "n.",
+      "gloss": "a professional killer who uses a gun",
+      "definition": "A professional killer who uses a gun.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ANNUM": {
+      "word": "ANNUM",
+      "pos": "n.",
+      "gloss": "year",
+      "definition": "(Latin) year.",
+      "example": "Per annum.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAN": {
+      "word": "MAN",
+      "pos": "n.",
+      "gloss": "an adult person who is male",
+      "definition": "An adult person who is male (as opposed to a woman).",
+      "example": "There were two women and six men on the bus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUN": {
+      "word": "GUN",
+      "pos": "n.",
+      "gloss": "a weapon that discharges a missile at high velocity",
+      "definition": "A weapon that discharges a missile at high velocity (especially from a metal tube or barrel).",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUM": {
+      "word": "GUM",
+      "pos": "n.",
+      "gloss": "a preparation for chewing",
+      "definition": "A preparation (usually made of sweetened chicle) for chewing.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAG": {
+      "word": "MAG",
+      "pos": "n.",
+      "gloss": "a periodic publication containing pictures and stories and articles of interest to…",
+      "definition": "A periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it.",
+      "example": "It takes several years before a magazine starts to break even or make money.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MUG": {
+      "word": "MUG",
+      "pos": "n.",
+      "gloss": "the quantity that can be held in a mug",
+      "definition": "The quantity that can be held in a mug.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUN": {
+      "word": "NUN",
+      "pos": "n.",
+      "gloss": "a woman religious",
+      "definition": "A woman religious.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

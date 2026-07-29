@@ -1,0 +1,219 @@
+{
+  "id": "level-179",
+  "baseWord": "WILDCAT",
+  "pool": [
+    "W",
+    "I",
+    "L",
+    "D",
+    "C",
+    "A",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "WILDCAT",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TIDAL",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "WAIT",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "LAID",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "ACID",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TAIL",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "DIAL",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "LAW",
+    "ACT",
+    "WILD",
+    "CAT",
+    "AID",
+    "LIT",
+    "WIT",
+    "LAD",
+    "CLAW",
+    "CLAD"
+  ],
+  "entries": {
+    "WILDCAT": {
+      "word": "WILDCAT",
+      "pos": "n.",
+      "gloss": "an exploratory oil well drilled in land not known to be an oil field",
+      "definition": "An exploratory oil well drilled in land not known to be an oil field.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TIDAL": {
+      "word": "TIDAL",
+      "pos": "adj.",
+      "gloss": "of or relating to or caused by tides",
+      "definition": "Of or relating to or caused by tides.",
+      "example": "Tidal wave.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WAIT": {
+      "word": "WAIT",
+      "pos": "v.",
+      "gloss": "stay in one place and anticipate or expect something",
+      "definition": "Stay in one place and anticipate or expect something.",
+      "example": "I had to wait on line for an hour to get the tickets.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAID": {
+      "word": "LAID",
+      "pos": "adj.",
+      "gloss": "set down according to a plan",
+      "definition": "Set down according to a plan.",
+      "example": "A carefully laid table with places set for four people.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACID": {
+      "word": "ACID",
+      "pos": "n.",
+      "gloss": "any of various water-soluble compounds having a sour taste and capable of turning…",
+      "definition": "Any of various water-soluble compounds having a sour taste and capable of turning litmus red and reacting with a base to form a salt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAIL": {
+      "word": "TAIL",
+      "pos": "n.",
+      "gloss": "the posterior part of the body of a vertebrate especially when elongated and extending…",
+      "definition": "The posterior part of the body of a vertebrate especially when elongated and extending beyond the trunk or main part of the body.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIAL": {
+      "word": "DIAL",
+      "pos": "n.",
+      "gloss": "the face of a timepiece",
+      "definition": "The face of a timepiece; graduated to show the hours.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAW": {
+      "word": "LAW",
+      "pos": "n.",
+      "gloss": "the collection of rules imposed by authority",
+      "definition": "The collection of rules imposed by authority.",
+      "example": "Civilization presupposes respect for the law.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACT": {
+      "word": "ACT",
+      "pos": "v.",
+      "gloss": "perform an action, or work out or perform",
+      "definition": "Perform an action, or work out or perform (an action).",
+      "example": "Think before you act.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WILD": {
+      "word": "WILD",
+      "pos": "adj.",
+      "gloss": "marked by extreme lack of restraint or control",
+      "definition": "Marked by extreme lack of restraint or control.",
+      "example": "Wild talk.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAT": {
+      "word": "CAT",
+      "pos": "n.",
+      "gloss": "feline mammal usually having thick soft fur and no ability to roar",
+      "definition": "Feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AID": {
+      "word": "AID",
+      "pos": "n.",
+      "gloss": "a person or thing that is a resource that helps make something easier or possible to do",
+      "definition": "A person or thing that is a resource that helps make something easier or possible to do.",
+      "example": "Visual aids in teaching.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIT": {
+      "word": "LIT",
+      "pos": "adj.",
+      "gloss": "provided with artificial light",
+      "definition": "Provided with artificial light.",
+      "example": "Illuminated advertising.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WIT": {
+      "word": "WIT",
+      "pos": "n.",
+      "gloss": "a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter",
+      "definition": "A message whose ingenuity or verbal skill or incongruity has the power to evoke laughter.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAD": {
+      "word": "LAD",
+      "pos": "n.",
+      "gloss": "a boy or man",
+      "definition": "A boy or man.",
+      "example": "That chap is your host.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CLAW": {
+      "word": "CLAW",
+      "pos": "n.",
+      "gloss": "sharp curved horny process on the toe of a bird or some mammals or reptiles",
+      "definition": "Sharp curved horny process on the toe of a bird or some mammals or reptiles.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CLAD": {
+      "word": "CLAD",
+      "pos": "adj.",
+      "gloss": "wearing or provided with clothing",
+      "definition": "Wearing or provided with clothing; sometimes used in combination.",
+      "example": "Clothed and in his right mind\"- Bible.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

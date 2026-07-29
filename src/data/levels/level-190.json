@@ -1,0 +1,216 @@
+{
+  "id": "level-190",
+  "baseWord": "ENMITY",
+  "pool": [
+    "E",
+    "N",
+    "M",
+    "I",
+    "T",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "ENMITY",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MINTY",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "TIME",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "MINE",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "TINY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "ITEM",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "MINT",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "YET",
+    "MEN",
+    "TEN",
+    "NET",
+    "TIE",
+    "MIN",
+    "TIN",
+    "YEN",
+    "EMIT",
+    "MITE"
+  ],
+  "entries": {
+    "ENMITY": {
+      "word": "ENMITY",
+      "pos": "n.",
+      "gloss": "a state of deep-seated ill-will",
+      "definition": "A state of deep-seated ill-will.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MINTY": {
+      "word": "MINTY",
+      "pos": "adj.",
+      "gloss": "relating to or suggestive of mint",
+      "definition": "Relating to or suggestive of mint.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TIME": {
+      "word": "TIME",
+      "pos": "n.",
+      "gloss": "an instance or single occasion for some event",
+      "definition": "An instance or single occasion for some event.",
+      "example": "This time he succeeded.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MINE": {
+      "word": "MINE",
+      "pos": "n.",
+      "gloss": "excavation in the earth from which ores and minerals are extracted",
+      "definition": "Excavation in the earth from which ores and minerals are extracted.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TINY": {
+      "word": "TINY",
+      "pos": "adj.",
+      "gloss": "very small",
+      "definition": "Very small.",
+      "example": "Diminutive in stature.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ITEM": {
+      "word": "ITEM",
+      "pos": "n.",
+      "gloss": "a distinct part that can be specified separately in a group of things that could be…",
+      "definition": "A distinct part that can be specified separately in a group of things that could be enumerated on a list.",
+      "example": "He noticed an item in the New York Times.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MINT": {
+      "word": "MINT",
+      "pos": "n.",
+      "gloss": "a large number or amount or extent",
+      "definition": "(often followed by `of') a large number or amount or extent.",
+      "example": "A batch of letters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YET": {
+      "word": "YET",
+      "pos": "adv.",
+      "gloss": "up to the present time",
+      "definition": "Up to the present time.",
+      "example": "I have yet to see the results.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MEN": {
+      "word": "MEN",
+      "pos": "n.",
+      "gloss": "the force of workers available",
+      "definition": "The force of workers available.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEN": {
+      "word": "TEN",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of nine and one",
+      "definition": "The cardinal number that is the sum of nine and one; the base of the decimal system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NET": {
+      "word": "NET",
+      "pos": "n.",
+      "gloss": "a computer network consisting of a worldwide network of computer networks that use the…",
+      "definition": "A computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIE": {
+      "word": "TIE",
+      "pos": "n.",
+      "gloss": "neckwear consisting of a long narrow piece of material worn under a collar and tied in…",
+      "definition": "Neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front.",
+      "example": "He stood in front of the mirror tightening his necktie.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MIN": {
+      "word": "MIN",
+      "pos": "n.",
+      "gloss": "a unit of time equal to 60 seconds or 1/60th of an hour",
+      "definition": "A unit of time equal to 60 seconds or 1/60th of an hour.",
+      "example": "He ran a 4 minute mile.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIN": {
+      "word": "TIN",
+      "pos": "n.",
+      "gloss": "a silvery malleable metallic element that resists corrosion",
+      "definition": "A silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YEN": {
+      "word": "YEN",
+      "pos": "n.",
+      "gloss": "a yearning for something or to do something",
+      "definition": "A yearning for something or to do something.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EMIT": {
+      "word": "EMIT",
+      "pos": "v.",
+      "gloss": "expel",
+      "definition": "Expel (gases or odors).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MITE": {
+      "word": "MITE",
+      "pos": "n.",
+      "gloss": "a slight but appreciable amount",
+      "definition": "A slight but appreciable amount.",
+      "example": "This dish could use a touch of garlic.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

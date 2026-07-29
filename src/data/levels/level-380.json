@@ -1,0 +1,140 @@
+{
+  "id": "level-380",
+  "baseWord": "FLEXOR",
+  "pool": [
+    "F",
+    "L",
+    "E",
+    "X",
+    "O",
+    "R"
+  ],
+  "rows": 6,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "FLEXOR",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ROLE",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "FLEX",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "FORE",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "ORE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "REF",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "ELF",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "FOX",
+    "LORE"
+  ],
+  "entries": {
+    "FLEXOR": {
+      "word": "FLEXOR",
+      "pos": "n.",
+      "gloss": "a skeletal muscle whose contraction bends a joint",
+      "definition": "A skeletal muscle whose contraction bends a joint.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ROLE": {
+      "word": "ROLE",
+      "pos": "n.",
+      "gloss": "the actions and activities assigned to or required or expected of a person or group",
+      "definition": "The actions and activities assigned to or required or expected of a person or group.",
+      "example": "The function of a teacher.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FLEX": {
+      "word": "FLEX",
+      "pos": "v.",
+      "gloss": "contract",
+      "definition": "Contract.",
+      "example": "Flex a muscle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FORE": {
+      "word": "FORE",
+      "pos": "n.",
+      "gloss": "front part of a vessel or aircraft",
+      "definition": "Front part of a vessel or aircraft.",
+      "example": "He pointed the bow of the boat toward the finish line.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ORE": {
+      "word": "ORE",
+      "pos": "n.",
+      "gloss": "a mineral that contains metal that is valuable enough to be mined",
+      "definition": "A mineral that contains metal that is valuable enough to be mined.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REF": {
+      "word": "REF",
+      "pos": "n.",
+      "gloss": "the chief official who is expected to ensure fair play",
+      "definition": "(sports) the chief official (as in boxing or American football) who is expected to ensure fair play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ELF": {
+      "word": "ELF",
+      "pos": "n.",
+      "gloss": "fairies that are somewhat mischievous",
+      "definition": "(folklore) fairies that are somewhat mischievous.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FOX": {
+      "word": "FOX",
+      "pos": "n.",
+      "gloss": "alert carnivorous mammal with pointed muzzle and ears and a bushy tail",
+      "definition": "Alert carnivorous mammal with pointed muzzle and ears and a bushy tail; most are predators that do not hunt in packs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LORE": {
+      "word": "LORE",
+      "pos": "n.",
+      "gloss": "knowledge gained through tradition or anecdote",
+      "definition": "Knowledge gained through tradition or anecdote.",
+      "example": "Early peoples passed on plant and animal lore through legend.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

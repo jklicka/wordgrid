@@ -1,0 +1,150 @@
+{
+  "id": "level-227",
+  "baseWord": "TUNER",
+  "pool": [
+    "T",
+    "U",
+    "N",
+    "E",
+    "R"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "TUNER",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TRUE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TURN",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "RENT",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "TUNE",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "RUNE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "RUN",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "TEN",
+    "NET",
+    "NUT"
+  ],
+  "entries": {
+    "TUNER": {
+      "word": "TUNER",
+      "pos": "n.",
+      "gloss": "someone who tunes pianos",
+      "definition": "Someone who tunes pianos.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TRUE": {
+      "word": "TRUE",
+      "pos": "adj.",
+      "gloss": "consistent with fact or reality",
+      "definition": "Consistent with fact or reality; not false.",
+      "example": "The story is true.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TURN": {
+      "word": "TURN",
+      "pos": "v.",
+      "gloss": "change orientation or direction, also in the abstract sense",
+      "definition": "Change orientation or direction, also in the abstract sense.",
+      "example": "Turn towards me.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RENT": {
+      "word": "RENT",
+      "pos": "v.",
+      "gloss": "let for money",
+      "definition": "Let for money.",
+      "example": "We rented our apartment to friends while we were abroad.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TUNE": {
+      "word": "TUNE",
+      "pos": "n.",
+      "gloss": "a succession of notes forming a distinctive sequence",
+      "definition": "A succession of notes forming a distinctive sequence.",
+      "example": "She was humming an air from Beethoven.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUNE": {
+      "word": "RUNE",
+      "pos": "n.",
+      "gloss": "any character from an ancient Germanic alphabet used in Scandinavia from the 3rd…",
+      "definition": "Any character from an ancient Germanic alphabet used in Scandinavia from the 3rd century to the Middle Ages.",
+      "example": "Each rune had its own magical significance.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RUN": {
+      "word": "RUN",
+      "pos": "v.",
+      "gloss": "move fast by using one's feet, with one foot off the ground at any given time",
+      "definition": "Move fast by using one's feet, with one foot off the ground at any given time.",
+      "example": "Don't run--you'll be out of breath.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEN": {
+      "word": "TEN",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of nine and one",
+      "definition": "The cardinal number that is the sum of nine and one; the base of the decimal system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NET": {
+      "word": "NET",
+      "pos": "n.",
+      "gloss": "a computer network consisting of a worldwide network of computer networks that use the…",
+      "definition": "A computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUT": {
+      "word": "NUT",
+      "pos": "n.",
+      "gloss": "usually large hard-shelled seed",
+      "definition": "Usually large hard-shelled seed.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

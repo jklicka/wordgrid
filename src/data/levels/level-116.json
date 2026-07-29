@@ -1,0 +1,140 @@
+{
+  "id": "level-116",
+  "baseWord": "BUDGE",
+  "pool": [
+    "B",
+    "U",
+    "D",
+    "G",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "BUDGE",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DEBUG",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DUE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "BED",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "BUG",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BUD",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "DUG",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "BEG",
+    "DUB"
+  ],
+  "entries": {
+    "BUDGE": {
+      "word": "BUDGE",
+      "pos": "v.",
+      "gloss": "move very slightly",
+      "definition": "Move very slightly.",
+      "example": "He shifted in his seat.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DEBUG": {
+      "word": "DEBUG",
+      "pos": "v.",
+      "gloss": "locate and correct errors in a computer program code",
+      "definition": "Locate and correct errors in a computer program code.",
+      "example": "Debug this program.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DUE": {
+      "word": "DUE",
+      "pos": "adj.",
+      "gloss": "owed and payable immediately or on demand",
+      "definition": "Owed and payable immediately or on demand.",
+      "example": "Payment is due.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BED": {
+      "word": "BED",
+      "pos": "n.",
+      "gloss": "a piece of furniture that provides a place to sleep",
+      "definition": "A piece of furniture that provides a place to sleep.",
+      "example": "He sat on the edge of the bed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUG": {
+      "word": "BUG",
+      "pos": "n.",
+      "gloss": "general term for any insect or similar creeping or crawling invertebrate",
+      "definition": "General term for any insect or similar creeping or crawling invertebrate.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUD": {
+      "word": "BUD",
+      "pos": "n.",
+      "gloss": "a partially opened flower",
+      "definition": "A partially opened flower.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUG": {
+      "word": "DUG",
+      "pos": "n.",
+      "gloss": "an udder or breast or teat",
+      "definition": "An udder or breast or teat.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEG": {
+      "word": "BEG",
+      "pos": "v.",
+      "gloss": "call upon in supplication",
+      "definition": "Call upon in supplication; entreat.",
+      "example": "I beg you to stop!",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUB": {
+      "word": "DUB",
+      "pos": "v.",
+      "gloss": "give a nickname to",
+      "definition": "Give a nickname to.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "id": "level-213",
+  "baseWord": "TRITON",
+  "pool": [
+    "T",
+    "R",
+    "I",
+    "T",
+    "O",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "TRITON",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "INTRO",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "IRON",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "RIOT",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TORN",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "TRIO",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "TINT",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "NOT",
+    "TON",
+    "ION",
+    "TIN",
+    "ROT",
+    "TROT",
+    "TORT"
+  ],
+  "entries": {
+    "TRITON": {
+      "word": "TRITON",
+      "pos": "n.",
+      "gloss": "tropical marine gastropods having beautifully colored spiral shells",
+      "definition": "Tropical marine gastropods having beautifully colored spiral shells.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "INTRO": {
+      "word": "INTRO",
+      "pos": "n.",
+      "gloss": "formally making a person known to another or to the public",
+      "definition": "Formally making a person known to another or to the public.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IRON": {
+      "word": "IRON",
+      "pos": "n.",
+      "gloss": "a heavy ductile magnetic metallic element",
+      "definition": "A heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIOT": {
+      "word": "RIOT",
+      "pos": "n.",
+      "gloss": "a public act of violence by an unruly mob",
+      "definition": "A public act of violence by an unruly mob.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TORN": {
+      "word": "TORN",
+      "pos": "adj.",
+      "gloss": "having edges that are jagged from injury",
+      "definition": "Having edges that are jagged from injury.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TRIO": {
+      "word": "TRIO",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of one and one and one",
+      "definition": "The cardinal number that is the sum of one and one and one.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TINT": {
+      "word": "TINT",
+      "pos": "n.",
+      "gloss": "a quality of a given color that differs slightly from another color",
+      "definition": "A quality of a given color that differs slightly from another color.",
+      "example": "After several trials he mixed the shade of pink that she wanted.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TON": {
+      "word": "TON",
+      "pos": "n.",
+      "gloss": "a United States unit of weight equivalent to 2000 pounds",
+      "definition": "A United States unit of weight equivalent to 2000 pounds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ION": {
+      "word": "ION",
+      "pos": "n.",
+      "gloss": "a particle that is electrically charged",
+      "definition": "A particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIN": {
+      "word": "TIN",
+      "pos": "n.",
+      "gloss": "a silvery malleable metallic element that resists corrosion",
+      "definition": "A silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROT": {
+      "word": "ROT",
+      "pos": "n.",
+      "gloss": "a state of decay usually accompanied by an offensive odor",
+      "definition": "A state of decay usually accompanied by an offensive odor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TROT": {
+      "word": "TROT",
+      "pos": "v.",
+      "gloss": "run at a moderately swift pace",
+      "definition": "Run at a moderately swift pace.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TORT": {
+      "word": "TORT",
+      "pos": "n.",
+      "gloss": "any wrongdoing for which an action for damages may be brought",
+      "definition": "(law) any wrongdoing for which an action for damages may be brought.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

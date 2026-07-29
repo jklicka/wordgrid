@@ -1,0 +1,154 @@
+{
+  "id": "level-048",
+  "baseWord": "HANDBAG",
+  "pool": [
+    "H",
+    "A",
+    "N",
+    "D",
+    "B",
+    "A",
+    "G"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "HANDBAG",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "HAND",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "BAND",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "HANG",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "BANG",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "NADA",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "BAD",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "BAG",
+    "BAN",
+    "ANA"
+  ],
+  "entries": {
+    "HANDBAG": {
+      "word": "HANDBAG",
+      "pos": "n.",
+      "gloss": "a container used for carrying money and small personal items or accessories",
+      "definition": "A container used for carrying money and small personal items or accessories (especially by women).",
+      "example": "She reached into her bag and found a comb.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HAND": {
+      "word": "HAND",
+      "pos": "n.",
+      "gloss": "the extremity of the superior limb",
+      "definition": "The (prehensile) extremity of the superior limb.",
+      "example": "He had the hands of a surgeon.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAND": {
+      "word": "BAND",
+      "pos": "n.",
+      "gloss": "an unofficial association of people or groups",
+      "definition": "An unofficial association of people or groups.",
+      "example": "The smart set goes there.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HANG": {
+      "word": "HANG",
+      "pos": "v.",
+      "gloss": "be suspended or hanging",
+      "definition": "Be suspended or hanging.",
+      "example": "The flag hung on the wall.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BANG": {
+      "word": "BANG",
+      "pos": "v.",
+      "gloss": "strike violently",
+      "definition": "Strike violently.",
+      "example": "Slam the ball.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NADA": {
+      "word": "NADA",
+      "pos": "n.",
+      "gloss": "a quantity of no importance",
+      "definition": "A quantity of no importance.",
+      "example": "It looked like nothing I had ever seen before.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BAD": {
+      "word": "BAD",
+      "pos": "adj.",
+      "gloss": "having undesirable or negative qualities",
+      "definition": "Having undesirable or negative qualities.",
+      "example": "A bad report card.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAG": {
+      "word": "BAG",
+      "pos": "n.",
+      "gloss": "a flexible container with a single opening",
+      "definition": "A flexible container with a single opening.",
+      "example": "He stuffed his laundry into a large bag.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAN": {
+      "word": "BAN",
+      "pos": "v.",
+      "gloss": "forbid the public distribution of",
+      "definition": "Forbid the public distribution of ( a movie or a newspaper).",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANA": {
+      "word": "ANA",
+      "pos": "n.",
+      "gloss": "a collection of anecdotes about a person or place",
+      "definition": "A collection of anecdotes about a person or place.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

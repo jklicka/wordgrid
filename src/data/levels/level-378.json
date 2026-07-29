@@ -1,0 +1,127 @@
+{
+  "id": "level-378",
+  "baseWord": "BLANCH",
+  "pool": [
+    "B",
+    "L",
+    "A",
+    "N",
+    "C",
+    "H"
+  ],
+  "rows": 6,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "BLANCH",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BLANC",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "CLAN",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "BLAH",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "BACH",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "CAN",
+    "BAN",
+    "LAB",
+    "CAB"
+  ],
+  "entries": {
+    "BLANCH": {
+      "word": "BLANCH",
+      "pos": "v.",
+      "gloss": "turn pale, as if in fear",
+      "definition": "Turn pale, as if in fear.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BLANC": {
+      "word": "BLANC",
+      "pos": "n.",
+      "gloss": "a white sauce of fat, broth, and vegetables",
+      "definition": "A white sauce of fat, broth, and vegetables (used especially with braised meat).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CLAN": {
+      "word": "CLAN",
+      "pos": "n.",
+      "gloss": "group of people related by blood or marriage",
+      "definition": "Group of people related by blood or marriage.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BLAH": {
+      "word": "BLAH",
+      "pos": "n.",
+      "gloss": "pompous or pretentious talk or writing",
+      "definition": "Pompous or pretentious talk or writing.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BACH": {
+      "word": "BACH",
+      "pos": "v.",
+      "gloss": "lead a bachelor's existence",
+      "definition": "Lead a bachelor's existence.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAN": {
+      "word": "CAN",
+      "pos": "v.",
+      "gloss": "preserve in a can or tin",
+      "definition": "Preserve in a can or tin.",
+      "example": "Tinned foods are not very tasty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAN": {
+      "word": "BAN",
+      "pos": "v.",
+      "gloss": "forbid the public distribution of",
+      "definition": "Forbid the public distribution of ( a movie or a newspaper).",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAB": {
+      "word": "LAB",
+      "pos": "n.",
+      "gloss": "a workplace for the conduct of scientific research",
+      "definition": "A workplace for the conduct of scientific research.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAB": {
+      "word": "CAB",
+      "pos": "n.",
+      "gloss": "a compartment at the front of a motor vehicle or locomotive where driver sits",
+      "definition": "A compartment at the front of a motor vehicle or locomotive where driver sits.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

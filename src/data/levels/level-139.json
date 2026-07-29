@@ -1,0 +1,147 @@
+{
+  "id": "level-139",
+  "baseWord": "ACTIN",
+  "pool": [
+    "A",
+    "C",
+    "T",
+    "I",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "ACTIN",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ANTIC",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "ANTI",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "CANT",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "CAN",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "ACT",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CAT",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "TIN",
+    "TAN",
+    "ANT"
+  ],
+  "entries": {
+    "ACTIN": {
+      "word": "ACTIN",
+      "pos": "n.",
+      "gloss": "one of the proteins into which actomyosin can be split",
+      "definition": "One of the proteins into which actomyosin can be split; can exist in either a globular or a fibrous form.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ANTIC": {
+      "word": "ANTIC",
+      "pos": "adj.",
+      "gloss": "ludicrously odd",
+      "definition": "Ludicrously odd.",
+      "example": "Hamlet's assumed antic disposition.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ANTI": {
+      "word": "ANTI",
+      "pos": "adj.",
+      "gloss": "not in favor of",
+      "definition": "Not in favor of (an action or proposal etc.).",
+      "band": "common",
+      "tier": "general"
+    },
+    "CANT": {
+      "word": "CANT",
+      "pos": "n.",
+      "gloss": "stock phrases that have become nonsense through endless repetition",
+      "definition": "Stock phrases that have become nonsense through endless repetition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAN": {
+      "word": "CAN",
+      "pos": "v.",
+      "gloss": "preserve in a can or tin",
+      "definition": "Preserve in a can or tin.",
+      "example": "Tinned foods are not very tasty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACT": {
+      "word": "ACT",
+      "pos": "v.",
+      "gloss": "perform an action, or work out or perform",
+      "definition": "Perform an action, or work out or perform (an action).",
+      "example": "Think before you act.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAT": {
+      "word": "CAT",
+      "pos": "n.",
+      "gloss": "feline mammal usually having thick soft fur and no ability to roar",
+      "definition": "Feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIN": {
+      "word": "TIN",
+      "pos": "n.",
+      "gloss": "a silvery malleable metallic element that resists corrosion",
+      "definition": "A silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANT": {
+      "word": "ANT",
+      "pos": "n.",
+      "gloss": "social insect living in organized colonies",
+      "definition": "Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

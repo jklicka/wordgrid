@@ -1,0 +1,137 @@
+{
+  "id": "level-118",
+  "baseWord": "HUMMING",
+  "pool": [
+    "H",
+    "U",
+    "M",
+    "M",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "HUMMING",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NIGH",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "GUN",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "MIN",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "MUM",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "HUG",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "GUM",
+    "MUG",
+    "GIN"
+  ],
+  "entries": {
+    "HUMMING": {
+      "word": "HUMMING",
+      "pos": "n.",
+      "gloss": "a humming noise",
+      "definition": "A humming noise.",
+      "example": "The hum of distant traffic.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NIGH": {
+      "word": "NIGH",
+      "pos": "adj.",
+      "gloss": "not far distant in time or space or degree or circumstances",
+      "definition": "Not far distant in time or space or degree or circumstances.",
+      "example": "Near neighbors.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GUN": {
+      "word": "GUN",
+      "pos": "n.",
+      "gloss": "a weapon that discharges a missile at high velocity",
+      "definition": "A weapon that discharges a missile at high velocity (especially from a metal tube or barrel).",
+      "band": "common",
+      "tier": "general"
+    },
+    "MIN": {
+      "word": "MIN",
+      "pos": "n.",
+      "gloss": "a unit of time equal to 60 seconds or 1/60th of an hour",
+      "definition": "A unit of time equal to 60 seconds or 1/60th of an hour.",
+      "example": "He ran a 4 minute mile.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MUM": {
+      "word": "MUM",
+      "pos": "adj.",
+      "gloss": "failing to speak or communicate etc when expected to",
+      "definition": "Failing to speak or communicate etc when expected to.",
+      "example": "The witness remained silent.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HUG": {
+      "word": "HUG",
+      "pos": "v.",
+      "gloss": "hold tightly in your arms, usually with fondness",
+      "definition": "Hold (someone) tightly in your arms, usually with fondness.",
+      "example": "Hug me, please.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUM": {
+      "word": "GUM",
+      "pos": "n.",
+      "gloss": "a preparation for chewing",
+      "definition": "A preparation (usually made of sweetened chicle) for chewing.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MUG": {
+      "word": "MUG",
+      "pos": "n.",
+      "gloss": "the quantity that can be held in a mug",
+      "definition": "The quantity that can be held in a mug.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

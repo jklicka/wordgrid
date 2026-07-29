@@ -1,0 +1,203 @@
+{
+  "id": "level-282",
+  "baseWord": "TABOR",
+  "pool": [
+    "T",
+    "A",
+    "B",
+    "O",
+    "R"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "TABOR",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ABORT",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "BOAT",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "BRAT",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BOAR",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TARO",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "ART",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "BAR",
+    "ROB",
+    "BAT",
+    "RAT",
+    "TAB",
+    "BRA",
+    "BOT",
+    "ROT",
+    "TAR"
+  ],
+  "entries": {
+    "TABOR": {
+      "word": "TABOR",
+      "pos": "n.",
+      "gloss": "a small drum with one head of soft calfskin",
+      "definition": "A small drum with one head of soft calfskin.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ABORT": {
+      "word": "ABORT",
+      "pos": "n.",
+      "gloss": "the act of terminating a project or procedure before it is completed",
+      "definition": "The act of terminating a project or procedure before it is completed.",
+      "example": "I wasted a year of my life working on an abort.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BOAT": {
+      "word": "BOAT",
+      "pos": "n.",
+      "gloss": "a small vessel for travel on water",
+      "definition": "A small vessel for travel on water.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BRAT": {
+      "word": "BRAT",
+      "pos": "n.",
+      "gloss": "a very troublesome child",
+      "definition": "A very troublesome child.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BOAR": {
+      "word": "BOAR",
+      "pos": "n.",
+      "gloss": "Old World wild swine having a narrow body and prominent tusks from which most domestic…",
+      "definition": "Old World wild swine having a narrow body and prominent tusks from which most domestic swine come; introduced in United States.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TARO": {
+      "word": "TARO",
+      "pos": "n.",
+      "gloss": "edible starchy tuberous root of taro plants",
+      "definition": "Edible starchy tuberous root of taro plants.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ART": {
+      "word": "ART",
+      "pos": "n.",
+      "gloss": "the products of human creativity",
+      "definition": "The products of human creativity; works of art collectively.",
+      "example": "An art exhibition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAR": {
+      "word": "BAR",
+      "pos": "n.",
+      "gloss": "a room or establishment where alcoholic drinks are served over a counter",
+      "definition": "A room or establishment where alcoholic drinks are served over a counter.",
+      "example": "He drowned his sorrows in whiskey at the bar.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROB": {
+      "word": "ROB",
+      "pos": "v.",
+      "gloss": "take something away by force or without the consent of the owner",
+      "definition": "Take something away by force or without the consent of the owner.",
+      "example": "The burglars robbed him of all his money.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAT": {
+      "word": "BAT",
+      "pos": "n.",
+      "gloss": "nocturnal mouselike mammal with forelimbs modified to form membranous wings and…",
+      "definition": "Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAT": {
+      "word": "RAT",
+      "pos": "n.",
+      "gloss": "any of various long-tailed rodents similar to but larger than a mouse",
+      "definition": "Any of various long-tailed rodents similar to but larger than a mouse.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAB": {
+      "word": "TAB",
+      "pos": "n.",
+      "gloss": "the bill in a restaurant",
+      "definition": "The bill in a restaurant.",
+      "example": "He asked the waiter for the check.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BRA": {
+      "word": "BRA",
+      "pos": "n.",
+      "gloss": "an undergarment worn by women to support their breasts",
+      "definition": "An undergarment worn by women to support their breasts.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOT": {
+      "word": "BOT",
+      "pos": "n.",
+      "gloss": "botfly larva",
+      "definition": "Botfly larva; typically develops inside the body of a horse or sheep or human.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROT": {
+      "word": "ROT",
+      "pos": "n.",
+      "gloss": "a state of decay usually accompanied by an offensive odor",
+      "definition": "A state of decay usually accompanied by an offensive odor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAR": {
+      "word": "TAR",
+      "pos": "n.",
+      "gloss": "any of various dark heavy viscid substances obtained as a residue",
+      "definition": "Any of various dark heavy viscid substances obtained as a residue.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

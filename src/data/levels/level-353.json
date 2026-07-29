@@ -1,0 +1,137 @@
+{
+  "id": "level-353",
+  "baseWord": "TELCO",
+  "pool": [
+    "T",
+    "E",
+    "L",
+    "C",
+    "O"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "TELCO",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "COLE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "COLT",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "CLOT",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "COTE",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "LOT",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "LET",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "TOE",
+    "COL"
+  ],
+  "entries": {
+    "TELCO": {
+      "word": "TELCO",
+      "pos": "n.",
+      "gloss": "a public utility that provides telephone service",
+      "definition": "A public utility that provides telephone service.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "COLE": {
+      "word": "COLE",
+      "pos": "n.",
+      "gloss": "a hardy cabbage with coarse curly leaves that do not form a head",
+      "definition": "A hardy cabbage with coarse curly leaves that do not form a head.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COLT": {
+      "word": "COLT",
+      "pos": "n.",
+      "gloss": "a young male horse under the age of four",
+      "definition": "A young male horse under the age of four.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CLOT": {
+      "word": "CLOT",
+      "pos": "n.",
+      "gloss": "a lump of material formed from the content of a liquid",
+      "definition": "A lump of material formed from the content of a liquid.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "COTE": {
+      "word": "COTE",
+      "pos": "n.",
+      "gloss": "a small shelter for domestic animals",
+      "definition": "A small shelter for domestic animals (as sheep or pigeons).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LOT": {
+      "word": "LOT",
+      "pos": "n.",
+      "gloss": "a large number or amount or extent",
+      "definition": "(often followed by `of') a large number or amount or extent.",
+      "example": "A batch of letters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LET": {
+      "word": "LET",
+      "pos": "v.",
+      "gloss": "make it possible through a specific action or lack of action for something to happen",
+      "definition": "Make it possible through a specific action or lack of action for something to happen.",
+      "example": "This permits the water to rush in.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOE": {
+      "word": "TOE",
+      "pos": "n.",
+      "gloss": "one of the digits of the foot",
+      "definition": "One of the digits of the foot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COL": {
+      "word": "COL",
+      "pos": "n.",
+      "gloss": "a pass between mountain peaks",
+      "definition": "A pass between mountain peaks.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

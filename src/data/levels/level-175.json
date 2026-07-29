@@ -1,0 +1,150 @@
+{
+  "id": "level-175",
+  "baseWord": "DAINTY",
+  "pool": [
+    "D",
+    "A",
+    "I",
+    "N",
+    "T",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "DAINTY",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ANTI",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "TINY",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TIDY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "ANY",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "DAY",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "AID",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "TIN",
+    "TAN",
+    "ANT"
+  ],
+  "entries": {
+    "DAINTY": {
+      "word": "DAINTY",
+      "pos": "adj.",
+      "gloss": "delicately beautiful",
+      "definition": "Delicately beautiful.",
+      "example": "A dainty teacup.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ANTI": {
+      "word": "ANTI",
+      "pos": "adj.",
+      "gloss": "not in favor of",
+      "definition": "Not in favor of (an action or proposal etc.).",
+      "band": "common",
+      "tier": "general"
+    },
+    "TINY": {
+      "word": "TINY",
+      "pos": "adj.",
+      "gloss": "very small",
+      "definition": "Very small.",
+      "example": "Diminutive in stature.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIDY": {
+      "word": "TIDY",
+      "pos": "n.",
+      "gloss": "receptacle that holds odds and ends",
+      "definition": "Receptacle that holds odds and ends (as sewing materials).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ANY": {
+      "word": "ANY",
+      "pos": "adj.",
+      "gloss": "one or some or every or all without specification",
+      "definition": "One or some or every or all without specification.",
+      "example": "Give me any peaches you don't want.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAY": {
+      "word": "DAY",
+      "pos": "n.",
+      "gloss": "time for Earth to make a complete rotation on its axis",
+      "definition": "Time for Earth to make a complete rotation on its axis.",
+      "example": "Two days later they left.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AID": {
+      "word": "AID",
+      "pos": "n.",
+      "gloss": "a person or thing that is a resource that helps make something easier or possible to do",
+      "definition": "A person or thing that is a resource that helps make something easier or possible to do.",
+      "example": "Visual aids in teaching.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIN": {
+      "word": "TIN",
+      "pos": "n.",
+      "gloss": "a silvery malleable metallic element that resists corrosion",
+      "definition": "A silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANT": {
+      "word": "ANT",
+      "pos": "n.",
+      "gloss": "social insect living in organized colonies",
+      "definition": "Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

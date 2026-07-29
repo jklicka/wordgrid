@@ -1,0 +1,199 @@
+{
+  "id": "level-312",
+  "baseWord": "APROPOS",
+  "pool": [
+    "A",
+    "P",
+    "R",
+    "O",
+    "P",
+    "O",
+    "S"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "APROPOS",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PROPS",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SPOOR",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "POOR",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SOAP",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "PROP",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "POOP",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "PRO",
+    "POP",
+    "PAR",
+    "RAP",
+    "SPA",
+    "SAP",
+    "SOAR",
+    "SPAR"
+  ],
+  "entries": {
+    "APROPOS": {
+      "word": "APROPOS",
+      "pos": "adj.",
+      "gloss": "of an appropriate or pertinent nature",
+      "definition": "Of an appropriate or pertinent nature.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PROPS": {
+      "word": "PROPS",
+      "pos": "n.",
+      "gloss": "proper respect",
+      "definition": "Proper respect.",
+      "example": "I have to give my props to the governor for the way he handled the problem.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPOOR": {
+      "word": "SPOOR",
+      "pos": "n.",
+      "gloss": "the trail left by a person or an animal",
+      "definition": "The trail left by a person or an animal; what the hunter follows in pursuing game.",
+      "example": "The hounds followed the fox's spoor.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "POOR": {
+      "word": "POOR",
+      "pos": "adj.",
+      "gloss": "deserving or inciting pity",
+      "definition": "Deserving or inciting pity.",
+      "example": "A hapless victim.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOAP": {
+      "word": "SOAP",
+      "pos": "n.",
+      "gloss": "a cleansing agent made from the salts of vegetable or animal fats",
+      "definition": "A cleansing agent made from the salts of vegetable or animal fats.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PROP": {
+      "word": "PROP",
+      "pos": "n.",
+      "gloss": "a support placed beneath or against something to keep it from shaking or falling",
+      "definition": "A support placed beneath or against something to keep it from shaking or falling.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POOP": {
+      "word": "POOP",
+      "pos": "n.",
+      "gloss": "obscene terms for feces",
+      "definition": "Obscene terms for feces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PRO": {
+      "word": "PRO",
+      "pos": "n.",
+      "gloss": "an athlete who plays for pay",
+      "definition": "An athlete who plays for pay.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POP": {
+      "word": "POP",
+      "pos": "v.",
+      "gloss": "bulge outward",
+      "definition": "Bulge outward.",
+      "example": "His eyes popped.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAR": {
+      "word": "PAR",
+      "pos": "n.",
+      "gloss": "the standard number of strokes set for each hole on a golf course, or for the entire…",
+      "definition": "(golf) the standard number of strokes set for each hole on a golf course, or for the entire course.",
+      "example": "A par-5 hole.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAP": {
+      "word": "RAP",
+      "pos": "n.",
+      "gloss": "a reproach for some lapse or misdeed",
+      "definition": "A reproach for some lapse or misdeed.",
+      "example": "He took the blame for it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPA": {
+      "word": "SPA",
+      "pos": "n.",
+      "gloss": "a health resort near a spring or at the seaside",
+      "definition": "A health resort near a spring or at the seaside.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAP": {
+      "word": "SAP",
+      "pos": "v.",
+      "gloss": "deplete",
+      "definition": "Deplete.",
+      "example": "Exhaust one's savings.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOAR": {
+      "word": "SOAR",
+      "pos": "v.",
+      "gloss": "rise rapidly",
+      "definition": "Rise rapidly.",
+      "example": "The dollar soared against the yen.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SPAR": {
+      "word": "SPAR",
+      "pos": "n.",
+      "gloss": "any of various nonmetallic minerals that are light in color and transparent or…",
+      "definition": "Any of various nonmetallic minerals (calcite or feldspar) that are light in color and transparent or translucent and cleavable.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

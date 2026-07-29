@@ -1,0 +1,211 @@
+{
+  "id": "level-155",
+  "baseWord": "TOPPER",
+  "pool": [
+    "T",
+    "O",
+    "P",
+    "P",
+    "E",
+    "R"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "TOPPER",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "TROPE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "PORT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "POPE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "POET",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "ROPE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "PREP",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "TOP",
+    "PRO",
+    "POP",
+    "PET",
+    "POT",
+    "REP",
+    "ORE",
+    "TOE",
+    "OPT",
+    "PROP"
+  ],
+  "entries": {
+    "TOPPER": {
+      "word": "TOPPER",
+      "pos": "n.",
+      "gloss": "a worker who makes or adds the top to something",
+      "definition": "A worker who makes or adds the top to something.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TROPE": {
+      "word": "TROPE",
+      "pos": "n.",
+      "gloss": "language used in a figurative or nonliteral sense",
+      "definition": "Language used in a figurative or nonliteral sense.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PORT": {
+      "word": "PORT",
+      "pos": "n.",
+      "gloss": "a place where people and merchandise can enter or leave a country",
+      "definition": "A place (seaport or airport) where people and merchandise can enter or leave a country.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POPE": {
+      "word": "POPE",
+      "pos": "n.",
+      "gloss": "the head of the Roman Catholic Church",
+      "definition": "The head of the Roman Catholic Church.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POET": {
+      "word": "POET",
+      "pos": "n.",
+      "gloss": "a writer of poems",
+      "definition": "A writer of poems (the term is usually reserved for writers of good poetry).",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROPE": {
+      "word": "ROPE",
+      "pos": "n.",
+      "gloss": "a strong line",
+      "definition": "A strong line.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PREP": {
+      "word": "PREP",
+      "pos": "n.",
+      "gloss": "preparatory school work done outside school",
+      "definition": "Preparatory school work done outside school (especially at home).",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOP": {
+      "word": "TOP",
+      "pos": "n.",
+      "gloss": "the upper part of anything",
+      "definition": "The upper part of anything.",
+      "example": "The mower cuts off the tops of the grass.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PRO": {
+      "word": "PRO",
+      "pos": "n.",
+      "gloss": "an athlete who plays for pay",
+      "definition": "An athlete who plays for pay.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POP": {
+      "word": "POP",
+      "pos": "v.",
+      "gloss": "bulge outward",
+      "definition": "Bulge outward.",
+      "example": "His eyes popped.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PET": {
+      "word": "PET",
+      "pos": "n.",
+      "gloss": "a domesticated animal kept for companionship or amusement",
+      "definition": "A domesticated animal kept for companionship or amusement.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POT": {
+      "word": "POT",
+      "pos": "n.",
+      "gloss": "metal or earthenware cooking vessel that is usually round and deep",
+      "definition": "Metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REP": {
+      "word": "REP",
+      "pos": "n.",
+      "gloss": "informal abbreviation of `representative'",
+      "definition": "Informal abbreviation of `representative'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ORE": {
+      "word": "ORE",
+      "pos": "n.",
+      "gloss": "a mineral that contains metal that is valuable enough to be mined",
+      "definition": "A mineral that contains metal that is valuable enough to be mined.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOE": {
+      "word": "TOE",
+      "pos": "n.",
+      "gloss": "one of the digits of the foot",
+      "definition": "One of the digits of the foot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OPT": {
+      "word": "OPT",
+      "pos": "v.",
+      "gloss": "select as an alternative over another",
+      "definition": "Select as an alternative over another.",
+      "example": "I always choose the fish over the meat courses in this restaurant.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PROP": {
+      "word": "PROP",
+      "pos": "n.",
+      "gloss": "a support placed beneath or against something to keep it from shaking or falling",
+      "definition": "A support placed beneath or against something to keep it from shaking or falling.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "level-309",
+  "baseWord": "BURLAP",
+  "pool": [
+    "B",
+    "U",
+    "R",
+    "L",
+    "A",
+    "P"
+  ],
+  "rows": 7,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "BURLAP",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BLUR",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "BAR",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "LAB",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "PUB",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "LAP",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RAP",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "PAR",
+    "PAL",
+    "RUB",
+    "BRA"
+  ],
+  "entries": {
+    "BURLAP": {
+      "word": "BURLAP",
+      "pos": "n.",
+      "gloss": "coarse jute fabric",
+      "definition": "Coarse jute fabric.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BLUR": {
+      "word": "BLUR",
+      "pos": "v.",
+      "gloss": "become glassy",
+      "definition": "Become glassy; lose clear vision.",
+      "example": "Her eyes glazed over from lack of sleep.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BAR": {
+      "word": "BAR",
+      "pos": "n.",
+      "gloss": "a room or establishment where alcoholic drinks are served over a counter",
+      "definition": "A room or establishment where alcoholic drinks are served over a counter.",
+      "example": "He drowned his sorrows in whiskey at the bar.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAB": {
+      "word": "LAB",
+      "pos": "n.",
+      "gloss": "a workplace for the conduct of scientific research",
+      "definition": "A workplace for the conduct of scientific research.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PUB": {
+      "word": "PUB",
+      "pos": "n.",
+      "gloss": "tavern consisting of a building with a bar and public rooms",
+      "definition": "Tavern consisting of a building with a bar and public rooms; often provides light meals.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAP": {
+      "word": "LAP",
+      "pos": "v.",
+      "gloss": "lie partly over or alongside of something or of one another",
+      "definition": "Lie partly over or alongside of something or of one another.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAP": {
+      "word": "RAP",
+      "pos": "n.",
+      "gloss": "a reproach for some lapse or misdeed",
+      "definition": "A reproach for some lapse or misdeed.",
+      "example": "He took the blame for it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAR": {
+      "word": "PAR",
+      "pos": "n.",
+      "gloss": "the standard number of strokes set for each hole on a golf course, or for the entire…",
+      "definition": "(golf) the standard number of strokes set for each hole on a golf course, or for the entire course.",
+      "example": "A par-5 hole.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAL": {
+      "word": "PAL",
+      "pos": "n.",
+      "gloss": "a close friend who accompanies his buddies in their activities",
+      "definition": "A close friend who accompanies his buddies in their activities.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUB": {
+      "word": "RUB",
+      "pos": "v.",
+      "gloss": "move over something with pressure",
+      "definition": "Move over something with pressure.",
+      "example": "Rub my hands.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BRA": {
+      "word": "BRA",
+      "pos": "n.",
+      "gloss": "an undergarment worn by women to support their breasts",
+      "definition": "An undergarment worn by women to support their breasts.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

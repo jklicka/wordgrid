@@ -1,0 +1,115 @@
+{
+  "id": "level-092",
+  "baseWord": "PILING",
+  "pool": [
+    "P",
+    "I",
+    "L",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "PILING",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PING",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "LING",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "PIN",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "PIG",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "GIN",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "LIP"
+  ],
+  "entries": {
+    "PILING": {
+      "word": "PILING",
+      "pos": "n.",
+      "gloss": "a column of wood or steel or concrete that is driven into the ground to provide…",
+      "definition": "A column of wood or steel or concrete that is driven into the ground to provide support for a structure.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PING": {
+      "word": "PING",
+      "pos": "v.",
+      "gloss": "hit with a pinging noise",
+      "definition": "Hit with a pinging noise.",
+      "example": "The bugs pinged the lamp shade.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LING": {
+      "word": "LING",
+      "pos": "n.",
+      "gloss": "water chestnut whose spiny fruit has two rather than 4 prongs",
+      "definition": "Water chestnut whose spiny fruit has two rather than 4 prongs.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PIN": {
+      "word": "PIN",
+      "pos": "v.",
+      "gloss": "to hold fast or prevent from moving",
+      "definition": "To hold fast or prevent from moving.",
+      "example": "The child was pinned under the fallen tree.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIG": {
+      "word": "PIG",
+      "pos": "n.",
+      "gloss": "domestic swine",
+      "definition": "Domestic swine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIP": {
+      "word": "LIP",
+      "pos": "n.",
+      "gloss": "either of two fleshy folds of tissue that surround the mouth and play a role in speaking",
+      "definition": "Either of two fleshy folds of tissue that surround the mouth and play a role in speaking.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

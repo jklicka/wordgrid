@@ -1,0 +1,155 @@
+{
+  "id": "level-369",
+  "baseWord": "MANTUA",
+  "pool": [
+    "M",
+    "A",
+    "N",
+    "T",
+    "U",
+    "A"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "MANTUA",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "MANTA",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "AUNT",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TUNA",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "MAN",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NUT",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "ANA",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "TAN",
+    "ANT",
+    "ATM",
+    "MAT"
+  ],
+  "entries": {
+    "MANTUA": {
+      "word": "MANTUA",
+      "pos": "n.",
+      "gloss": "loose gown of the 17th and 18th centuries",
+      "definition": "Loose gown of the 17th and 18th centuries.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MANTA": {
+      "word": "MANTA",
+      "pos": "n.",
+      "gloss": "a blanket that is used as a cloak or shawl",
+      "definition": "A blanket that is used as a cloak or shawl.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AUNT": {
+      "word": "AUNT",
+      "pos": "n.",
+      "gloss": "the sister of your father or mother",
+      "definition": "The sister of your father or mother; the wife of your uncle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TUNA": {
+      "word": "TUNA",
+      "pos": "n.",
+      "gloss": "tropical American prickly pear of Jamaica",
+      "definition": "Tropical American prickly pear of Jamaica.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAN": {
+      "word": "MAN",
+      "pos": "n.",
+      "gloss": "an adult person who is male",
+      "definition": "An adult person who is male (as opposed to a woman).",
+      "example": "There were two women and six men on the bus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUT": {
+      "word": "NUT",
+      "pos": "n.",
+      "gloss": "usually large hard-shelled seed",
+      "definition": "Usually large hard-shelled seed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANA": {
+      "word": "ANA",
+      "pos": "n.",
+      "gloss": "a collection of anecdotes about a person or place",
+      "definition": "A collection of anecdotes about a person or place.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANT": {
+      "word": "ANT",
+      "pos": "n.",
+      "gloss": "social insect living in organized colonies",
+      "definition": "Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ATM": {
+      "word": "ATM",
+      "pos": "n.",
+      "gloss": "a unit of pressure",
+      "definition": "A unit of pressure: the pressure that will support a column of mercury 760 mm high at sea level and 0 degrees centigrade.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAT": {
+      "word": "MAT",
+      "pos": "n.",
+      "gloss": "a thick flat pad used as a floor covering",
+      "definition": "A thick flat pad used as a floor covering.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

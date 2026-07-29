@@ -1,0 +1,142 @@
+{
+  "id": "level-137",
+  "baseWord": "SEVER",
+  "pool": [
+    "S",
+    "E",
+    "V",
+    "E",
+    "R"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SEVER",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SERVE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "VERSE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "EVER",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "VEER",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "SEER",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SEE",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "EVE",
+    "REV"
+  ],
+  "entries": {
+    "SEVER": {
+      "word": "SEVER",
+      "pos": "v.",
+      "gloss": "set or keep apart",
+      "definition": "Set or keep apart.",
+      "example": "Sever a relationship.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SERVE": {
+      "word": "SERVE",
+      "pos": "v.",
+      "gloss": "serve a purpose, role, or function",
+      "definition": "Serve a purpose, role, or function.",
+      "example": "The tree stump serves as a table.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VERSE": {
+      "word": "VERSE",
+      "pos": "n.",
+      "gloss": "literature in metrical form",
+      "definition": "Literature in metrical form.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EVER": {
+      "word": "EVER",
+      "pos": "adv.",
+      "gloss": "at any time",
+      "definition": "At any time.",
+      "example": "Did you ever smoke?",
+      "band": "common",
+      "tier": "general"
+    },
+    "VEER": {
+      "word": "VEER",
+      "pos": "v.",
+      "gloss": "turn sharply",
+      "definition": "Turn sharply; change direction abruptly.",
+      "example": "The car cut to the left at the intersection.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SEER": {
+      "word": "SEER",
+      "pos": "n.",
+      "gloss": "a person with unusual powers of foresight",
+      "definition": "A person with unusual powers of foresight.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SEE": {
+      "word": "SEE",
+      "pos": "v.",
+      "gloss": "perceive by sight or have the power to perceive by sight",
+      "definition": "Perceive by sight or have the power to perceive by sight.",
+      "example": "You have to be a good observer to see all the details.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EVE": {
+      "word": "EVE",
+      "pos": "n.",
+      "gloss": "the day before",
+      "definition": "The day before.",
+      "example": "He always arrives on the eve of her departure.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REV": {
+      "word": "REV",
+      "pos": "v.",
+      "gloss": "increase the number of rotations per minute",
+      "definition": "Increase the number of rotations per minute.",
+      "example": "Rev up an engine.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

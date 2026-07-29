@@ -1,149 +1,216 @@
 {
   "id": "level-013",
-  "baseWord": "FLAIR",
+  "baseWord": "DAGGER",
   "pool": [
-    "F",
-    "L",
+    "D",
     "A",
-    "I",
+    "G",
+    "G",
+    "E",
     "R"
   ],
-  "rows": 7,
-  "cols": 8,
+  "rows": 8,
+  "cols": 7,
   "placed": [
     {
-      "word": "FLAIR",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "word": "FRAIL",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "word": "FAIR",
+      "word": "DAGGER",
       "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "word": "FAIL",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "word": "RAIL",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "word": "LIAR",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "word": "LAIR",
-      "row": 1,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RAGGED",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "GRADE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "READ",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DEAR",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "AGED",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "ARE",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     }
   ],
   "bonus": [
-    "FAR",
-    "AIR",
-    "LIRA"
+    "AGE",
+    "RED",
+    "ERA",
+    "GEAR",
+    "EGG",
+    "EAR",
+    "DARE",
+    "DRAG",
+    "RAGE",
+    "GAG"
   ],
   "entries": {
-    "FLAIR": {
-      "word": "FLAIR",
+    "DAGGER": {
+      "word": "DAGGER",
       "pos": "n.",
-      "gloss": "a natural talent",
-      "definition": "A natural talent.",
-      "example": "He has a flair for mathematics.",
+      "gloss": "a short knife with a pointed blade used for piercing or stabbing",
+      "definition": "A short knife with a pointed blade used for piercing or stabbing.",
       "band": "teaching",
       "tier": "general"
     },
-    "FRAIL": {
-      "word": "FRAIL",
+    "RAGGED": {
+      "word": "RAGGED",
       "pos": "adj.",
-      "gloss": "physically weak",
-      "definition": "Physically weak.",
-      "example": "An invalid's frail body.",
+      "gloss": "being or dressed in clothes that are worn or torn",
+      "definition": "Being or dressed in clothes that are worn or torn.",
+      "example": "Clothes as ragged as a scarecrow's.",
       "band": "teaching",
       "tier": "general"
     },
-    "FAIR": {
-      "word": "FAIR",
-      "pos": "adj.",
-      "gloss": "free from favoritism or self-interest or bias or deception",
-      "definition": "Free from favoritism or self-interest or bias or deception; conforming with established standards or rules.",
-      "example": "A fair referee.",
+    "GRADE": {
+      "word": "GRADE",
+      "pos": "n.",
+      "gloss": "a body of students who are taught together",
+      "definition": "A body of students who are taught together.",
+      "example": "Early morning classes are always sleepy.",
       "band": "common",
       "tier": "general"
     },
-    "FAIL": {
-      "word": "FAIL",
+    "READ": {
+      "word": "READ",
       "pos": "v.",
-      "gloss": "fail to do something",
-      "definition": "Fail to do something; leave something undone.",
-      "example": "She failed to notice that her child was no longer in his crib.",
+      "gloss": "interpret something that is written or printed",
+      "definition": "Interpret something that is written or printed.",
+      "example": "Read the advertisement.",
       "band": "common",
       "tier": "general"
     },
-    "RAIL": {
-      "word": "RAIL",
-      "pos": "n.",
-      "gloss": "a barrier consisting of a horizontal bar and supports",
-      "definition": "A barrier consisting of a horizontal bar and supports.",
+    "DEAR": {
+      "word": "DEAR",
+      "pos": "adj.",
+      "gloss": "dearly loved",
+      "definition": "Dearly loved.",
       "band": "common",
       "tier": "general"
     },
-    "LIAR": {
-      "word": "LIAR",
-      "pos": "n.",
-      "gloss": "a person who has lied or who lies repeatedly",
-      "definition": "A person who has lied or who lies repeatedly.",
+    "AGED": {
+      "word": "AGED",
+      "pos": "adj.",
+      "gloss": "advanced in years",
+      "definition": "Advanced in years; (`aged' is pronounced as two syllables).",
+      "example": "Aged members of the society.",
       "band": "common",
       "tier": "general"
     },
-    "LAIR": {
-      "word": "LAIR",
+    "ARE": {
+      "word": "ARE",
       "pos": "n.",
-      "gloss": "the habitation of wild animals",
-      "definition": "The habitation of wild animals.",
-      "band": "teaching",
-      "tier": "general"
-    },
-    "FAR": {
-      "word": "FAR",
-      "pos": "adv.",
-      "gloss": "to a considerable degree",
-      "definition": "To a considerable degree; very much.",
-      "example": "A far far better thing that I do.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
       "band": "common",
       "tier": "general"
     },
-    "AIR": {
-      "word": "AIR",
+    "AGE": {
+      "word": "AGE",
       "pos": "n.",
-      "gloss": "a mixture of gases required for breathing",
-      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
-      "example": "Air pollution.",
+      "gloss": "how long something has existed",
+      "definition": "How long something has existed.",
+      "example": "It was replaced because of its age.",
       "band": "common",
       "tier": "general"
     },
-    "LIRA": {
-      "word": "LIRA",
+    "RED": {
+      "word": "RED",
       "pos": "n.",
-      "gloss": "the basic unit of money on Malta",
-      "definition": "The basic unit of money on Malta; equal to 100 cents.",
-      "band": "teaching",
+      "gloss": "red color or pigment",
+      "definition": "Red color or pigment; the chromatic color resembling the hue of blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEAR": {
+      "word": "GEAR",
+      "pos": "n.",
+      "gloss": "a toothed wheel that engages another toothed mechanism in order to change the speed or…",
+      "definition": "A toothed wheel that engages another toothed mechanism in order to change the speed or direction of transmitted motion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EGG": {
+      "word": "EGG",
+      "pos": "n.",
+      "gloss": "animal reproductive body consisting of an ovum or embryo together with nutritive and…",
+      "definition": "Animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DARE": {
+      "word": "DARE",
+      "pos": "v.",
+      "gloss": "take upon oneself",
+      "definition": "Take upon oneself; act presumptuously, without permission.",
+      "example": "How dare you call my lawyer?",
+      "band": "common",
+      "tier": "general"
+    },
+    "DRAG": {
+      "word": "DRAG",
+      "pos": "v.",
+      "gloss": "pull, as against a resistance",
+      "definition": "Pull, as against a resistance.",
+      "example": "He dragged the big suitcase behind him.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAGE": {
+      "word": "RAGE",
+      "pos": "n.",
+      "gloss": "a feeling of intense anger",
+      "definition": "A feeling of intense anger.",
+      "example": "Hell hath no fury like a woman scorned.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAG": {
+      "word": "GAG",
+      "pos": "n.",
+      "gloss": "a humorous anecdote or remark intended to provoke laughter",
+      "definition": "A humorous anecdote or remark intended to provoke laughter.",
+      "example": "He told a very funny joke.",
+      "band": "common",
       "tier": "general"
     }
   }

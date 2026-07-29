@@ -1,0 +1,177 @@
+{
+  "id": "level-245",
+  "baseWord": "TRYOUT",
+  "pool": [
+    "T",
+    "R",
+    "Y",
+    "O",
+    "U",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "TRYOUT",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "TROUT",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "TUTOR",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "TOUR",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "TROY",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "TROT",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TOUT",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "OUT",
+    "TRY",
+    "TOY",
+    "ROT",
+    "TORT",
+    "ROUT"
+  ],
+  "entries": {
+    "TRYOUT": {
+      "word": "TRYOUT",
+      "pos": "n.",
+      "gloss": "trying something to find out about it",
+      "definition": "Trying something to find out about it.",
+      "example": "A sample for ten days free trial.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TROUT": {
+      "word": "TROUT",
+      "pos": "n.",
+      "gloss": "flesh of any of several primarily freshwater game and food fishes",
+      "definition": "Flesh of any of several primarily freshwater game and food fishes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TUTOR": {
+      "word": "TUTOR",
+      "pos": "n.",
+      "gloss": "a person who gives private instruction",
+      "definition": "A person who gives private instruction (as in singing, acting, etc.).",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOUR": {
+      "word": "TOUR",
+      "pos": "n.",
+      "gloss": "a journey or route all the way around a particular place or area",
+      "definition": "A journey or route all the way around a particular place or area.",
+      "example": "They took an extended tour of Europe.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TROY": {
+      "word": "TROY",
+      "pos": "n.",
+      "gloss": "a system of weights used for precious metals and gemstones",
+      "definition": "A system of weights used for precious metals and gemstones; based on a 12-ounce pound and an ounce of 480 grains.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TROT": {
+      "word": "TROT",
+      "pos": "v.",
+      "gloss": "run at a moderately swift pace",
+      "definition": "Run at a moderately swift pace.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOUT": {
+      "word": "TOUT",
+      "pos": "n.",
+      "gloss": "someone who buys tickets to an event in order to resell them at a profit",
+      "definition": "Someone who buys tickets to an event in order to resell them at a profit.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "OUT": {
+      "word": "OUT",
+      "pos": "adj.",
+      "gloss": "not allowed to continue to bat or run",
+      "definition": "Not allowed to continue to bat or run.",
+      "example": "He was tagged out at second on a close play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TRY": {
+      "word": "TRY",
+      "pos": "v.",
+      "gloss": "make an effort or attempt",
+      "definition": "Make an effort or attempt.",
+      "example": "He tried to shake off his fears.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOY": {
+      "word": "TOY",
+      "pos": "n.",
+      "gloss": "an artifact designed to be played with",
+      "definition": "An artifact designed to be played with.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROT": {
+      "word": "ROT",
+      "pos": "n.",
+      "gloss": "a state of decay usually accompanied by an offensive odor",
+      "definition": "A state of decay usually accompanied by an offensive odor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TORT": {
+      "word": "TORT",
+      "pos": "n.",
+      "gloss": "any wrongdoing for which an action for damages may be brought",
+      "definition": "(law) any wrongdoing for which an action for damages may be brought.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ROUT": {
+      "word": "ROUT",
+      "pos": "v.",
+      "gloss": "cause to flee",
+      "definition": "Cause to flee.",
+      "example": "Rout out the fighters from their caves.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

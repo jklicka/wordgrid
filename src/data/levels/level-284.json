@@ -1,0 +1,176 @@
+{
+  "id": "level-284",
+  "baseWord": "BARMAN",
+  "pool": [
+    "B",
+    "A",
+    "R",
+    "M",
+    "A",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "BARMAN",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "BARN",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "MARA",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "BRAN",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "MAN",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ARM",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "MAR",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "BAR",
+    "BAN",
+    "RAM",
+    "ANA",
+    "BRA",
+    "BAM"
+  ],
+  "entries": {
+    "BARMAN": {
+      "word": "BARMAN",
+      "pos": "n.",
+      "gloss": "an employee who mixes and serves alcoholic drinks at a bar",
+      "definition": "An employee who mixes and serves alcoholic drinks at a bar.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BARN": {
+      "word": "BARN",
+      "pos": "n.",
+      "gloss": "an outlying farm building for storing grain or animal feed and housing farm animals",
+      "definition": "An outlying farm building for storing grain or animal feed and housing farm animals.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MARA": {
+      "word": "MARA",
+      "pos": "n.",
+      "gloss": "hare-like rodent of the pampas of Argentina",
+      "definition": "Hare-like rodent of the pampas of Argentina.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BRAN": {
+      "word": "BRAN",
+      "pos": "n.",
+      "gloss": "broken husks of the seeds of cereal grains that are separated from the flour by sifting",
+      "definition": "Broken husks of the seeds of cereal grains that are separated from the flour by sifting.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAN": {
+      "word": "MAN",
+      "pos": "n.",
+      "gloss": "an adult person who is male",
+      "definition": "An adult person who is male (as opposed to a woman).",
+      "example": "There were two women and six men on the bus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARM": {
+      "word": "ARM",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAR": {
+      "word": "MAR",
+      "pos": "v.",
+      "gloss": "make imperfect",
+      "definition": "Make imperfect.",
+      "example": "Nothing marred her beauty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAR": {
+      "word": "BAR",
+      "pos": "n.",
+      "gloss": "a room or establishment where alcoholic drinks are served over a counter",
+      "definition": "A room or establishment where alcoholic drinks are served over a counter.",
+      "example": "He drowned his sorrows in whiskey at the bar.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAN": {
+      "word": "BAN",
+      "pos": "v.",
+      "gloss": "forbid the public distribution of",
+      "definition": "Forbid the public distribution of ( a movie or a newspaper).",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAM": {
+      "word": "RAM",
+      "pos": "v.",
+      "gloss": "strike or drive against with a heavy impact",
+      "definition": "Strike or drive against with a heavy impact.",
+      "example": "Ram the gate with a sledgehammer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANA": {
+      "word": "ANA",
+      "pos": "n.",
+      "gloss": "a collection of anecdotes about a person or place",
+      "definition": "A collection of anecdotes about a person or place.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BRA": {
+      "word": "BRA",
+      "pos": "n.",
+      "gloss": "an undergarment worn by women to support their breasts",
+      "definition": "An undergarment worn by women to support their breasts.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAM": {
+      "word": "BAM",
+      "pos": "n.",
+      "gloss": "a sudden very loud noise",
+      "definition": "A sudden very loud noise.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

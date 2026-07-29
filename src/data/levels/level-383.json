@@ -1,0 +1,130 @@
+{
+  "id": "level-383",
+  "baseWord": "WEBBED",
+  "pool": [
+    "W",
+    "E",
+    "B",
+    "B",
+    "E",
+    "D"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "WEBBED",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DWEEB",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "WEED",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BED",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "WEB",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "BEE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "WEE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "WED"
+  ],
+  "entries": {
+    "WEBBED": {
+      "word": "WEBBED",
+      "pos": "adj.",
+      "gloss": "having the digits connected by a thin fold of skin",
+      "definition": "(of the feet of some animals) having the digits connected by a thin fold of skin.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DWEEB": {
+      "word": "DWEEB",
+      "pos": "n.",
+      "gloss": "an insignificant student who is ridiculed as being affected or boringly studious",
+      "definition": "An insignificant student who is ridiculed as being affected or boringly studious.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WEED": {
+      "word": "WEED",
+      "pos": "n.",
+      "gloss": "any plant that crowds out cultivated plants",
+      "definition": "Any plant that crowds out cultivated plants.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BED": {
+      "word": "BED",
+      "pos": "n.",
+      "gloss": "a piece of furniture that provides a place to sleep",
+      "definition": "A piece of furniture that provides a place to sleep.",
+      "example": "He sat on the edge of the bed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WEB": {
+      "word": "WEB",
+      "pos": "n.",
+      "gloss": "an intricate network suggesting something that was formed by weaving or interweaving",
+      "definition": "An intricate network suggesting something that was formed by weaving or interweaving.",
+      "example": "The trees cast a delicate web of shadows over the lawn.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEE": {
+      "word": "BEE",
+      "pos": "n.",
+      "gloss": "any of numerous hairy-bodied insects including social and solitary species",
+      "definition": "Any of numerous hairy-bodied insects including social and solitary species.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WEE": {
+      "word": "WEE",
+      "pos": "adj.",
+      "gloss": "very small",
+      "definition": "(used informally) very small.",
+      "example": "A wee tot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WED": {
+      "word": "WED",
+      "pos": "v.",
+      "gloss": "take in marriage",
+      "definition": "Take in marriage.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

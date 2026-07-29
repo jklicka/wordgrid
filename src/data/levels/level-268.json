@@ -1,0 +1,111 @@
+{
+  "id": "level-268",
+  "baseWord": "TONGS",
+  "pool": [
+    "T",
+    "O",
+    "N",
+    "G",
+    "S"
+  ],
+  "rows": 5,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "TONGS",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SONG",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TONS",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SNOT",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "NOT",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "SON",
+    "TON"
+  ],
+  "entries": {
+    "TONGS": {
+      "word": "TONGS",
+      "pos": "n.",
+      "gloss": "any of various devices for taking hold of objects",
+      "definition": "Any of various devices for taking hold of objects; usually have two hinged legs with handles above and pointed hooks below.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SONG": {
+      "word": "SONG",
+      "pos": "n.",
+      "gloss": "a short musical composition with words",
+      "definition": "A short musical composition with words.",
+      "example": "A successful musical must have at least three good songs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TONS": {
+      "word": "TONS",
+      "pos": "n.",
+      "gloss": "a large number or amount",
+      "definition": "A large number or amount.",
+      "example": "Made lots of new friends.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SNOT": {
+      "word": "SNOT",
+      "pos": "n.",
+      "gloss": "a person regarded as arrogant and annoying",
+      "definition": "A person regarded as arrogant and annoying.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TON": {
+      "word": "TON",
+      "pos": "n.",
+      "gloss": "a United States unit of weight equivalent to 2000 pounds",
+      "definition": "A United States unit of weight equivalent to 2000 pounds.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

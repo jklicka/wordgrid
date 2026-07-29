@@ -1,0 +1,149 @@
+{
+  "id": "level-377",
+  "baseWord": "TAUPE",
+  "pool": [
+    "T",
+    "A",
+    "U",
+    "P",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "TAUPE",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "TAPE",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "PEAT",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "PUT",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "PET",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TAP",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PAT",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "EAT",
+    "TEA",
+    "APT"
+  ],
+  "entries": {
+    "TAUPE": {
+      "word": "TAUPE",
+      "pos": "n.",
+      "gloss": "a greyish brown",
+      "definition": "A greyish brown.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TAPE": {
+      "word": "TAPE",
+      "pos": "n.",
+      "gloss": "a long thin piece of cloth or paper as used for binding or fastening",
+      "definition": "A long thin piece of cloth or paper as used for binding or fastening.",
+      "example": "He used a piece of tape for a belt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PEAT": {
+      "word": "PEAT",
+      "pos": "n.",
+      "gloss": "partially carbonized vegetable matter saturated with water",
+      "definition": "Partially carbonized vegetable matter saturated with water; can be used as a fuel when dried.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PUT": {
+      "word": "PUT",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PET": {
+      "word": "PET",
+      "pos": "n.",
+      "gloss": "a domesticated animal kept for companionship or amusement",
+      "definition": "A domesticated animal kept for companionship or amusement.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAP": {
+      "word": "TAP",
+      "pos": "v.",
+      "gloss": "cut a female screw thread with a tap",
+      "definition": "Cut a female screw thread with a tap.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAT": {
+      "word": "PAT",
+      "pos": "v.",
+      "gloss": "pat or squeeze fondly or playfully, especially under the chin",
+      "definition": "Pat or squeeze fondly or playfully, especially under the chin.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAT": {
+      "word": "EAT",
+      "pos": "v.",
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "APT": {
+      "word": "APT",
+      "pos": "adj.",
+      "gloss": "naturally disposed toward",
+      "definition": "(usually followed by `to') naturally disposed toward.",
+      "example": "He is apt to ignore matters he considers unimportant.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

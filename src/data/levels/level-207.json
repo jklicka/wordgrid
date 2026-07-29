@@ -1,0 +1,116 @@
+{
+  "id": "level-207",
+  "baseWord": "BUMBLE",
+  "pool": [
+    "B",
+    "U",
+    "M",
+    "B",
+    "L",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "BUMBLE",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "BLUE",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "BULB",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "MULE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BLEU",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "BUM",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "LUBE"
+  ],
+  "entries": {
+    "BUMBLE": {
+      "word": "BUMBLE",
+      "pos": "v.",
+      "gloss": "make a mess of, destroy or ruin",
+      "definition": "Make a mess of, destroy or ruin.",
+      "example": "I botched the dinner and we had to eat out.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BLUE": {
+      "word": "BLUE",
+      "pos": "n.",
+      "gloss": "blue color or pigment",
+      "definition": "Blue color or pigment; resembling the color of the clear sky in the daytime.",
+      "example": "He had eyes of bright blue.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BULB": {
+      "word": "BULB",
+      "pos": "n.",
+      "gloss": "a modified bud consisting of a thickened globular underground stem serving as a…",
+      "definition": "A modified bud consisting of a thickened globular underground stem serving as a reproductive structure.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MULE": {
+      "word": "MULE",
+      "pos": "n.",
+      "gloss": "hybrid offspring of a male donkey and a female horse",
+      "definition": "Hybrid offspring of a male donkey and a female horse; usually sterile.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BLEU": {
+      "word": "BLEU",
+      "pos": "n.",
+      "gloss": "cheese containing a blue mold",
+      "definition": "Cheese containing a blue mold.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BUM": {
+      "word": "BUM",
+      "pos": "n.",
+      "gloss": "a person who is deemed to be despicable or contemptible",
+      "definition": "A person who is deemed to be despicable or contemptible.",
+      "example": "Only a rotter would do that.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LUBE": {
+      "word": "LUBE",
+      "pos": "n.",
+      "gloss": "a substance capable of reducing friction by making surfaces smooth or slippery",
+      "definition": "A substance capable of reducing friction by making surfaces smooth or slippery.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

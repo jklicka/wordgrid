@@ -1,0 +1,159 @@
+{
+  "id": "level-111",
+  "baseWord": "CYPRESS",
+  "pool": [
+    "C",
+    "Y",
+    "P",
+    "R",
+    "E",
+    "S",
+    "S"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "CYPRESS",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PRESS",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "SPECS",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "CRESS",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "PREY",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SPEC",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "CRY",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "YES",
+    "REP",
+    "SEC",
+    "SPY"
+  ],
+  "entries": {
+    "CYPRESS": {
+      "word": "CYPRESS",
+      "pos": "n.",
+      "gloss": "wood of any of various cypress trees especially of the genus Cupressus",
+      "definition": "Wood of any of various cypress trees especially of the genus Cupressus.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PRESS": {
+      "word": "PRESS",
+      "pos": "v.",
+      "gloss": "exert pressure or force to or upon",
+      "definition": "Exert pressure or force to or upon.",
+      "example": "He pressed down on the boards.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPECS": {
+      "word": "SPECS",
+      "pos": "n.",
+      "gloss": "optical instrument consisting of a frame that holds a pair of lenses for correcting…",
+      "definition": "(plural) optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CRESS": {
+      "word": "CRESS",
+      "pos": "n.",
+      "gloss": "any of various plants of the family Cruciferae with edible leaves that have a pungent…",
+      "definition": "Any of various plants of the family Cruciferae with edible leaves that have a pungent taste.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PREY": {
+      "word": "PREY",
+      "pos": "n.",
+      "gloss": "a person who is the aim of an attack by some hostile person or influence",
+      "definition": "A person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence.",
+      "example": "He fell prey to muggers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPEC": {
+      "word": "SPEC",
+      "pos": "n.",
+      "gloss": "a detailed description of design criteria for a piece of work",
+      "definition": "A detailed description of design criteria for a piece of work.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CRY": {
+      "word": "CRY",
+      "pos": "n.",
+      "gloss": "a loud utterance",
+      "definition": "A loud utterance; often in protest or opposition.",
+      "example": "The speaker was interrupted by loud cries from the rear of the audience.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YES": {
+      "word": "YES",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "I was hoping for a yes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REP": {
+      "word": "REP",
+      "pos": "n.",
+      "gloss": "informal abbreviation of `representative'",
+      "definition": "Informal abbreviation of `representative'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEC": {
+      "word": "SEC",
+      "pos": "n.",
+      "gloss": "1/60 of a minute",
+      "definition": "1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPY": {
+      "word": "SPY",
+      "pos": "v.",
+      "gloss": "catch sight of",
+      "definition": "Catch sight of.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

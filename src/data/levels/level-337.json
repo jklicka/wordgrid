@@ -1,0 +1,217 @@
+{
+  "id": "level-337",
+  "baseWord": "UNKEMPT",
+  "pool": [
+    "U",
+    "N",
+    "K",
+    "E",
+    "M",
+    "P",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "UNKEMPT",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "KEPT",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "TUNE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "MENU",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "MUTE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NUKE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "PUKE",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "PUT",
+    "MEN",
+    "TEN",
+    "NET",
+    "PET",
+    "PEN",
+    "KEN",
+    "PUNK",
+    "NUT",
+    "TEMP"
+  ],
+  "entries": {
+    "UNKEMPT": {
+      "word": "UNKEMPT",
+      "pos": "adj.",
+      "gloss": "not neatly combed",
+      "definition": "Not neatly combed.",
+      "example": "Wild unkempt hair.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "KEPT": {
+      "word": "KEPT",
+      "pos": "adj.",
+      "gloss": "not violated or disregarded",
+      "definition": "(especially of promises or contracts) not violated or disregarded.",
+      "example": "Unbroken promises.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TUNE": {
+      "word": "TUNE",
+      "pos": "n.",
+      "gloss": "a succession of notes forming a distinctive sequence",
+      "definition": "A succession of notes forming a distinctive sequence.",
+      "example": "She was humming an air from Beethoven.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MENU": {
+      "word": "MENU",
+      "pos": "n.",
+      "gloss": "a list of dishes available at a restaurant",
+      "definition": "A list of dishes available at a restaurant.",
+      "example": "The menu was in French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MUTE": {
+      "word": "MUTE",
+      "pos": "adj.",
+      "gloss": "expressed without speech",
+      "definition": "Expressed without speech.",
+      "example": "A mute appeal.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUKE": {
+      "word": "NUKE",
+      "pos": "n.",
+      "gloss": "the warhead of a missile designed to deliver an atom bomb",
+      "definition": "The warhead of a missile designed to deliver an atom bomb.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PUKE": {
+      "word": "PUKE",
+      "pos": "n.",
+      "gloss": "a person who is deemed to be despicable or contemptible",
+      "definition": "A person who is deemed to be despicable or contemptible.",
+      "example": "Only a rotter would do that.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PUT": {
+      "word": "PUT",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MEN": {
+      "word": "MEN",
+      "pos": "n.",
+      "gloss": "the force of workers available",
+      "definition": "The force of workers available.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEN": {
+      "word": "TEN",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of nine and one",
+      "definition": "The cardinal number that is the sum of nine and one; the base of the decimal system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NET": {
+      "word": "NET",
+      "pos": "n.",
+      "gloss": "a computer network consisting of a worldwide network of computer networks that use the…",
+      "definition": "A computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PET": {
+      "word": "PET",
+      "pos": "n.",
+      "gloss": "a domesticated animal kept for companionship or amusement",
+      "definition": "A domesticated animal kept for companionship or amusement.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PEN": {
+      "word": "PEN",
+      "pos": "n.",
+      "gloss": "a writing implement with a point from which ink flows",
+      "definition": "A writing implement with a point from which ink flows.",
+      "band": "common",
+      "tier": "general"
+    },
+    "KEN": {
+      "word": "KEN",
+      "pos": "n.",
+      "gloss": "range of what one can know or understand",
+      "definition": "Range of what one can know or understand.",
+      "example": "Beyond my ken.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PUNK": {
+      "word": "PUNK",
+      "pos": "n.",
+      "gloss": "an aggressive and violent young criminal",
+      "definition": "An aggressive and violent young criminal.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUT": {
+      "word": "NUT",
+      "pos": "n.",
+      "gloss": "usually large hard-shelled seed",
+      "definition": "Usually large hard-shelled seed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEMP": {
+      "word": "TEMP",
+      "pos": "n.",
+      "gloss": "a worker hired on a temporary basis",
+      "definition": "A worker (especially in an office) hired on a temporary basis.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

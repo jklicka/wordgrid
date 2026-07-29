@@ -1,0 +1,131 @@
+{
+  "id": "level-226",
+  "baseWord": "LUNACY",
+  "pool": [
+    "L",
+    "U",
+    "N",
+    "A",
+    "C",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "LUNACY",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CLAY",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "CLAN",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "YUAN",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LACY",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ANY",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "LAY",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "CAN"
+  ],
+  "entries": {
+    "LUNACY": {
+      "word": "LUNACY",
+      "pos": "n.",
+      "gloss": "obsolete terms for legal insanity",
+      "definition": "Obsolete terms for legal insanity.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CLAY": {
+      "word": "CLAY",
+      "pos": "n.",
+      "gloss": "a very fine-grained soil that is plastic when moist but hard when fired",
+      "definition": "A very fine-grained soil that is plastic when moist but hard when fired.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CLAN": {
+      "word": "CLAN",
+      "pos": "n.",
+      "gloss": "group of people related by blood or marriage",
+      "definition": "Group of people related by blood or marriage.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YUAN": {
+      "word": "YUAN",
+      "pos": "n.",
+      "gloss": "the basic unit of money in China",
+      "definition": "The basic unit of money in China.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LACY": {
+      "word": "LACY",
+      "pos": "adj.",
+      "gloss": "made of or resembling lace",
+      "definition": "Made of or resembling lace.",
+      "example": "A lacy gown.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ANY": {
+      "word": "ANY",
+      "pos": "adj.",
+      "gloss": "one or some or every or all without specification",
+      "definition": "One or some or every or all without specification.",
+      "example": "Give me any peaches you don't want.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAY": {
+      "word": "LAY",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAN": {
+      "word": "CAN",
+      "pos": "v.",
+      "gloss": "preserve in a can or tin",
+      "definition": "Preserve in a can or tin.",
+      "example": "Tinned foods are not very tasty.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

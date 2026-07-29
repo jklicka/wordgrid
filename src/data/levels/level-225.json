@@ -1,0 +1,218 @@
+{
+  "id": "level-225",
+  "baseWord": "GONDOLA",
+  "pool": [
+    "G",
+    "O",
+    "N",
+    "D",
+    "O",
+    "L",
+    "A"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "GONDOLA",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LAGOON",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ALONG",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "GLAND",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "GOOD",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LONG",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "LAND",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "OLD",
+    "GOD",
+    "AGO",
+    "GOLD",
+    "DOG",
+    "GOAL",
+    "GLAD",
+    "LOAN",
+    "DON",
+    "LOAD"
+  ],
+  "entries": {
+    "GONDOLA": {
+      "word": "GONDOLA",
+      "pos": "n.",
+      "gloss": "a low flat-bottomed freight car with fixed sides but no roof",
+      "definition": "A low flat-bottomed freight car with fixed sides but no roof.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LAGOON": {
+      "word": "LAGOON",
+      "pos": "n.",
+      "gloss": "a body of water cut off from a larger body by a reef of sand or coral",
+      "definition": "A body of water cut off from a larger body by a reef of sand or coral.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ALONG": {
+      "word": "ALONG",
+      "pos": "adv.",
+      "gloss": "with a forward motion",
+      "definition": "With a forward motion.",
+      "example": "We drove along admiring the view.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GLAND": {
+      "word": "GLAND",
+      "pos": "n.",
+      "gloss": "any of various organs that synthesize substances needed by the body and release it…",
+      "definition": "Any of various organs that synthesize substances needed by the body and release it through ducts or directly into the bloodstream.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GOOD": {
+      "word": "GOOD",
+      "pos": "adj.",
+      "gloss": "having desirable or positive qualities especially those suitable for a thing specified",
+      "definition": "Having desirable or positive qualities especially those suitable for a thing specified.",
+      "example": "Good news from the hospital.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LONG": {
+      "word": "LONG",
+      "pos": "adj.",
+      "gloss": "primarily temporal sense",
+      "definition": "Primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified.",
+      "example": "A long life.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAND": {
+      "word": "LAND",
+      "pos": "n.",
+      "gloss": "the land on which real estate is located",
+      "definition": "The land on which real estate is located.",
+      "example": "He built the house on land leased from the city.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OLD": {
+      "word": "OLD",
+      "pos": "adj.",
+      "gloss": "having lived for a relatively long time or attained a specific age",
+      "definition": "(used especially of persons) having lived for a relatively long time or attained a specific age.",
+      "example": "His mother is very old.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GOD": {
+      "word": "GOD",
+      "pos": "n.",
+      "gloss": "any supernatural being worshipped as controlling some part of the world or some aspect…",
+      "definition": "Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AGO": {
+      "word": "AGO",
+      "pos": "adv.",
+      "gloss": "in the past",
+      "definition": "In the past.",
+      "example": "Long ago.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GOLD": {
+      "word": "GOLD",
+      "pos": "n.",
+      "gloss": "coins made of gold",
+      "definition": "Coins made of gold.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOG": {
+      "word": "DOG",
+      "pos": "n.",
+      "gloss": "a member of the genus Canis that has been domesticated by man since prehistoric times",
+      "definition": "A member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds.",
+      "example": "The dog barked all night.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GOAL": {
+      "word": "GOAL",
+      "pos": "n.",
+      "gloss": "the state of affairs that a plan is intended to achieve and that terminates behavior…",
+      "definition": "The state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it.",
+      "example": "The ends justify the means.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GLAD": {
+      "word": "GLAD",
+      "pos": "adj.",
+      "gloss": "showing or causing joy and pleasure",
+      "definition": "Showing or causing joy and pleasure; especially made happy.",
+      "example": "Glad you are here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOAN": {
+      "word": "LOAN",
+      "pos": "n.",
+      "gloss": "the temporary provision of money",
+      "definition": "The temporary provision of money (usually at interest).",
+      "band": "common",
+      "tier": "general"
+    },
+    "DON": {
+      "word": "DON",
+      "pos": "n.",
+      "gloss": "teacher at a university or college",
+      "definition": "Teacher at a university or college (especially at Cambridge or Oxford).",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOAD": {
+      "word": "LOAD",
+      "pos": "n.",
+      "gloss": "weight to be borne or conveyed",
+      "definition": "Weight to be borne or conveyed.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

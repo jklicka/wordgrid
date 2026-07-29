@@ -1,0 +1,128 @@
+{
+  "id": "level-191",
+  "baseWord": "LINGO",
+  "pool": [
+    "L",
+    "I",
+    "N",
+    "G",
+    "O"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "LINGO",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "LONG",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "LION",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LING",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "OIL",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "LOG",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "ION",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "GIN"
+  ],
+  "entries": {
+    "LINGO": {
+      "word": "LINGO",
+      "pos": "n.",
+      "gloss": "a characteristic language of a particular group",
+      "definition": "A characteristic language of a particular group (as among thieves).",
+      "example": "They don't speak our lingo.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LONG": {
+      "word": "LONG",
+      "pos": "adj.",
+      "gloss": "primarily temporal sense",
+      "definition": "Primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified.",
+      "example": "A long life.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LION": {
+      "word": "LION",
+      "pos": "n.",
+      "gloss": "large gregarious predatory feline of Africa and India having a tawny coat with a…",
+      "definition": "Large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LING": {
+      "word": "LING",
+      "pos": "n.",
+      "gloss": "water chestnut whose spiny fruit has two rather than 4 prongs",
+      "definition": "Water chestnut whose spiny fruit has two rather than 4 prongs.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "OIL": {
+      "word": "OIL",
+      "pos": "n.",
+      "gloss": "a slippery or viscous liquid or liquefiable substance not miscible with water",
+      "definition": "A slippery or viscous liquid or liquefiable substance not miscible with water.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOG": {
+      "word": "LOG",
+      "pos": "v.",
+      "gloss": "enter into a log, as on ships and planes",
+      "definition": "Enter into a log, as on ships and planes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ION": {
+      "word": "ION",
+      "pos": "n.",
+      "gloss": "a particle that is electrically charged",
+      "definition": "A particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "id": "level-265",
+  "baseWord": "CRAPS",
+  "pool": [
+    "C",
+    "R",
+    "A",
+    "P",
+    "S"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "CRAPS",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SCRAP",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SCARP",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "CRAP",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SCAR",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "CARP",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SPAR",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "CAR",
+    "CAP",
+    "ARC",
+    "PAR",
+    "RAP",
+    "SPA",
+    "SAC",
+    "SAP"
+  ],
+  "entries": {
+    "CRAPS": {
+      "word": "CRAPS",
+      "pos": "n.",
+      "gloss": "expressions used when when two dice are thrown and both come up showing one spot",
+      "definition": "Expressions used when when two dice are thrown and both come up showing one spot.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SCRAP": {
+      "word": "SCRAP",
+      "pos": "n.",
+      "gloss": "a small fragment of something broken off from the whole",
+      "definition": "A small fragment of something broken off from the whole.",
+      "example": "A bit of rock caught him in the eye.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SCARP": {
+      "word": "SCARP",
+      "pos": "n.",
+      "gloss": "a long steep slope or cliff at the edge of a plateau or ridge",
+      "definition": "A long steep slope or cliff at the edge of a plateau or ridge; usually formed by erosion.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CRAP": {
+      "word": "CRAP",
+      "pos": "n.",
+      "gloss": "obscene terms for feces",
+      "definition": "Obscene terms for feces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SCAR": {
+      "word": "SCAR",
+      "pos": "n.",
+      "gloss": "a mark left by the healing of injured tissue",
+      "definition": "A mark left (usually on the skin) by the healing of injured tissue.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CARP": {
+      "word": "CARP",
+      "pos": "n.",
+      "gloss": "the lean flesh of a fish that is often farmed",
+      "definition": "The lean flesh of a fish that is often farmed; can be baked or braised.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SPAR": {
+      "word": "SPAR",
+      "pos": "n.",
+      "gloss": "any of various nonmetallic minerals that are light in color and transparent or…",
+      "definition": "Any of various nonmetallic minerals (calcite or feldspar) that are light in color and transparent or translucent and cleavable.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAR": {
+      "word": "CAR",
+      "pos": "n.",
+      "gloss": "a motor vehicle with four wheels",
+      "definition": "A motor vehicle with four wheels; usually propelled by an internal combustion engine.",
+      "example": "He needs a car to get to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAP": {
+      "word": "CAP",
+      "pos": "n.",
+      "gloss": "a tight-fitting headdress",
+      "definition": "A tight-fitting headdress.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARC": {
+      "word": "ARC",
+      "pos": "n.",
+      "gloss": "electrical conduction through a gas in an applied electric field",
+      "definition": "Electrical conduction through a gas in an applied electric field.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAR": {
+      "word": "PAR",
+      "pos": "n.",
+      "gloss": "the standard number of strokes set for each hole on a golf course, or for the entire…",
+      "definition": "(golf) the standard number of strokes set for each hole on a golf course, or for the entire course.",
+      "example": "A par-5 hole.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAP": {
+      "word": "RAP",
+      "pos": "n.",
+      "gloss": "a reproach for some lapse or misdeed",
+      "definition": "A reproach for some lapse or misdeed.",
+      "example": "He took the blame for it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPA": {
+      "word": "SPA",
+      "pos": "n.",
+      "gloss": "a health resort near a spring or at the seaside",
+      "definition": "A health resort near a spring or at the seaside.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAC": {
+      "word": "SAC",
+      "pos": "n.",
+      "gloss": "an enclosed space",
+      "definition": "An enclosed space.",
+      "example": "The trapped miners found a pocket of air.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAP": {
+      "word": "SAP",
+      "pos": "v.",
+      "gloss": "deplete",
+      "definition": "Deplete.",
+      "example": "Exhaust one's savings.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

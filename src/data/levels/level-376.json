@@ -1,0 +1,128 @@
+{
+  "id": "level-376",
+  "baseWord": "NOGGIN",
+  "pool": [
+    "N",
+    "O",
+    "G",
+    "G",
+    "I",
+    "N"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "NOGGIN",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "GOING",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "GONG",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "NON",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ION",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "INN",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "GIG",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "GIN"
+  ],
+  "entries": {
+    "NOGGIN": {
+      "word": "NOGGIN",
+      "pos": "n.",
+      "gloss": "informal terms for a human head",
+      "definition": "Informal terms for a human head.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GOING": {
+      "word": "GOING",
+      "pos": "n.",
+      "gloss": "the act of departing",
+      "definition": "The act of departing.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GONG": {
+      "word": "GONG",
+      "pos": "n.",
+      "gloss": "a percussion instrument consisting of a metal plate that is struck with a softheaded…",
+      "definition": "A percussion instrument consisting of a metal plate that is struck with a softheaded drumstick.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NON": {
+      "word": "NON",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ION": {
+      "word": "ION",
+      "pos": "n.",
+      "gloss": "a particle that is electrically charged",
+      "definition": "A particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons.",
+      "band": "common",
+      "tier": "general"
+    },
+    "INN": {
+      "word": "INN",
+      "pos": "n.",
+      "gloss": "a hotel providing overnight lodging for travelers",
+      "definition": "A hotel providing overnight lodging for travelers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIG": {
+      "word": "GIG",
+      "pos": "n.",
+      "gloss": "long and light rowing boat",
+      "definition": "Long and light rowing boat; especially for racing.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

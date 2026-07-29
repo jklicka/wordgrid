@@ -1,0 +1,131 @@
+{
+  "id": "level-382",
+  "baseWord": "SIMIAN",
+  "pool": [
+    "S",
+    "I",
+    "M",
+    "I",
+    "A",
+    "N"
+  ],
+  "rows": 7,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "SIMIAN",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MAIN",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "MINI",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "MINA",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "MAN",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "AIM",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "MIN",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SIN"
+  ],
+  "entries": {
+    "SIMIAN": {
+      "word": "SIMIAN",
+      "pos": "n.",
+      "gloss": "an ape or monkey",
+      "definition": "An ape or monkey.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAIN": {
+      "word": "MAIN",
+      "pos": "adj.",
+      "gloss": "most important element",
+      "definition": "Most important element.",
+      "example": "The chief aim of living.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MINI": {
+      "word": "MINI",
+      "pos": "n.",
+      "gloss": "a very short skirt",
+      "definition": "A very short skirt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MINA": {
+      "word": "MINA",
+      "pos": "n.",
+      "gloss": "tropical Asian starlings",
+      "definition": "Tropical Asian starlings.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAN": {
+      "word": "MAN",
+      "pos": "n.",
+      "gloss": "an adult person who is male",
+      "definition": "An adult person who is male (as opposed to a woman).",
+      "example": "There were two women and six men on the bus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIM": {
+      "word": "AIM",
+      "pos": "v.",
+      "gloss": "point or cause to go towards",
+      "definition": "Point or cause to go (blows, weapons, or objects such as photographic equipment) towards.",
+      "example": "Please don't aim at your little brother!",
+      "band": "common",
+      "tier": "general"
+    },
+    "MIN": {
+      "word": "MIN",
+      "pos": "n.",
+      "gloss": "a unit of time equal to 60 seconds or 1/60th of an hour",
+      "definition": "A unit of time equal to 60 seconds or 1/60th of an hour.",
+      "example": "He ran a 4 minute mile.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIN": {
+      "word": "SIN",
+      "pos": "n.",
+      "gloss": "estrangement from god",
+      "definition": "Estrangement from god.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

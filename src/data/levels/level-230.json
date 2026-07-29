@@ -1,0 +1,167 @@
+{
+  "id": "level-230",
+  "baseWord": "WELDER",
+  "pool": [
+    "W",
+    "E",
+    "L",
+    "D",
+    "E",
+    "R"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "WELDER",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ELDER",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "WEED",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DEER",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "REED",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "REEL",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "LEWD",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "RED",
+    "LEE",
+    "WEE",
+    "WED",
+    "WELD"
+  ],
+  "entries": {
+    "WELDER": {
+      "word": "WELDER",
+      "pos": "n.",
+      "gloss": "joins pieces of metal by welding them together",
+      "definition": "Joins pieces of metal by welding them together.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ELDER": {
+      "word": "ELDER",
+      "pos": "n.",
+      "gloss": "a person who is older than you are",
+      "definition": "A person who is older than you are.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WEED": {
+      "word": "WEED",
+      "pos": "n.",
+      "gloss": "any plant that crowds out cultivated plants",
+      "definition": "Any plant that crowds out cultivated plants.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEER": {
+      "word": "DEER",
+      "pos": "n.",
+      "gloss": "distinguished from Bovidae by the male's having solid deciduous antlers",
+      "definition": "Distinguished from Bovidae by the male's having solid deciduous antlers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REED": {
+      "word": "REED",
+      "pos": "n.",
+      "gloss": "tall woody perennial grasses with hollow slender stems especially of the genera Arundo…",
+      "definition": "Tall woody perennial grasses with hollow slender stems especially of the genera Arundo and Phragmites.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REEL": {
+      "word": "REEL",
+      "pos": "v.",
+      "gloss": "walk as if unable to control one's movements",
+      "definition": "Walk as if unable to control one's movements.",
+      "example": "The drunken man staggered into the room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEWD": {
+      "word": "LEWD",
+      "pos": "adj.",
+      "gloss": "suggestive of or tending to moral looseness",
+      "definition": "Suggestive of or tending to moral looseness.",
+      "example": "Lewd pictures.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RED": {
+      "word": "RED",
+      "pos": "n.",
+      "gloss": "red color or pigment",
+      "definition": "Red color or pigment; the chromatic color resembling the hue of blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEE": {
+      "word": "LEE",
+      "pos": "n.",
+      "gloss": "the side of something that is sheltered from the wind",
+      "definition": "The side of something that is sheltered from the wind.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WEE": {
+      "word": "WEE",
+      "pos": "adj.",
+      "gloss": "very small",
+      "definition": "(used informally) very small.",
+      "example": "A wee tot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WED": {
+      "word": "WED",
+      "pos": "v.",
+      "gloss": "take in marriage",
+      "definition": "Take in marriage.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WELD": {
+      "word": "WELD",
+      "pos": "v.",
+      "gloss": "join together by heating",
+      "definition": "Join together by heating.",
+      "example": "Weld metal.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

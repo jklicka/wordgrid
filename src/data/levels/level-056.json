@@ -1,0 +1,117 @@
+{
+  "id": "level-056",
+  "baseWord": "BROTH",
+  "pool": [
+    "B",
+    "R",
+    "O",
+    "T",
+    "H"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "BROTH",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "THROB",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "BOTH",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "HOT",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "BOT",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ROT",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ROB"
+  ],
+  "entries": {
+    "BROTH": {
+      "word": "BROTH",
+      "pos": "n.",
+      "gloss": "liquid in which meat and vegetables are simmered",
+      "definition": "Liquid in which meat and vegetables are simmered; used as a basis for e.g. soups or sauces.",
+      "example": "She made gravy with a base of beef stock.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "THROB": {
+      "word": "THROB",
+      "pos": "v.",
+      "gloss": "pulsate or pound with abnormal force",
+      "definition": "Pulsate or pound with abnormal force.",
+      "example": "My head is throbbing.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BOTH": {
+      "word": "BOTH",
+      "pos": "adj.",
+      "gloss": "two considered together",
+      "definition": "(used with count nouns) two considered together; the two.",
+      "example": "Both girls are pretty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOT": {
+      "word": "HOT",
+      "pos": "adj.",
+      "gloss": "used of physical heat",
+      "definition": "Used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning.",
+      "example": "Hot stove.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOT": {
+      "word": "BOT",
+      "pos": "n.",
+      "gloss": "botfly larva",
+      "definition": "Botfly larva; typically develops inside the body of a horse or sheep or human.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROT": {
+      "word": "ROT",
+      "pos": "n.",
+      "gloss": "a state of decay usually accompanied by an offensive odor",
+      "definition": "A state of decay usually accompanied by an offensive odor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROB": {
+      "word": "ROB",
+      "pos": "v.",
+      "gloss": "take something away by force or without the consent of the owner",
+      "definition": "Take something away by force or without the consent of the owner.",
+      "example": "The burglars robbed him of all his money.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

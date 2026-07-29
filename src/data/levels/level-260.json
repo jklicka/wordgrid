@@ -1,0 +1,215 @@
+{
+  "id": "level-260",
+  "baseWord": "PIGLET",
+  "pool": [
+    "P",
+    "I",
+    "G",
+    "L",
+    "E",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "PIGLET",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PILE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TILE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "LITE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "GILT",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "GET",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "LET",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "LIE",
+    "LEG",
+    "TIP",
+    "TIE",
+    "PET",
+    "PIT",
+    "LIT",
+    "PIE",
+    "PIG",
+    "LIP"
+  ],
+  "entries": {
+    "PIGLET": {
+      "word": "PIGLET",
+      "pos": "n.",
+      "gloss": "a young pig",
+      "definition": "A young pig.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PILE": {
+      "word": "PILE",
+      "pos": "n.",
+      "gloss": "a collection of objects laid on top of each other",
+      "definition": "A collection of objects laid on top of each other.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TILE": {
+      "word": "TILE",
+      "pos": "n.",
+      "gloss": "a flat thin rectangular slab used to cover surfaces",
+      "definition": "A flat thin rectangular slab (as of fired clay or rubber or linoleum) used to cover surfaces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LITE": {
+      "word": "LITE",
+      "pos": "adj.",
+      "gloss": "having relatively few calories",
+      "definition": "Having relatively few calories.",
+      "example": "Diet cola.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GILT": {
+      "word": "GILT",
+      "pos": "adj.",
+      "gloss": "having the deep slightly brownish color of gold",
+      "definition": "Having the deep slightly brownish color of gold.",
+      "example": "Long aureate (or golden) hair.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GET": {
+      "word": "GET",
+      "pos": "v.",
+      "gloss": "come into the possession of something concrete or abstract",
+      "definition": "Come into the possession of something concrete or abstract.",
+      "example": "She got a lot of paintings from her uncle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LET": {
+      "word": "LET",
+      "pos": "v.",
+      "gloss": "make it possible through a specific action or lack of action for something to happen",
+      "definition": "Make it possible through a specific action or lack of action for something to happen.",
+      "example": "This permits the water to rush in.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIE": {
+      "word": "LIE",
+      "pos": "v.",
+      "gloss": "be located or situated somewhere",
+      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEG": {
+      "word": "LEG",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIP": {
+      "word": "TIP",
+      "pos": "n.",
+      "gloss": "the extreme end of something",
+      "definition": "The extreme end of something; especially something pointed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIE": {
+      "word": "TIE",
+      "pos": "n.",
+      "gloss": "neckwear consisting of a long narrow piece of material worn under a collar and tied in…",
+      "definition": "Neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front.",
+      "example": "He stood in front of the mirror tightening his necktie.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PET": {
+      "word": "PET",
+      "pos": "n.",
+      "gloss": "a domesticated animal kept for companionship or amusement",
+      "definition": "A domesticated animal kept for companionship or amusement.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIT": {
+      "word": "PIT",
+      "pos": "n.",
+      "gloss": "a sizeable hole",
+      "definition": "A sizeable hole (usually in the ground).",
+      "example": "They dug a pit to bury the body.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIT": {
+      "word": "LIT",
+      "pos": "adj.",
+      "gloss": "provided with artificial light",
+      "definition": "Provided with artificial light.",
+      "example": "Illuminated advertising.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIE": {
+      "word": "PIE",
+      "pos": "n.",
+      "gloss": "dish baked in pastry-lined pan often with a pastry top",
+      "definition": "Dish baked in pastry-lined pan often with a pastry top.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIG": {
+      "word": "PIG",
+      "pos": "n.",
+      "gloss": "domestic swine",
+      "definition": "Domestic swine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIP": {
+      "word": "LIP",
+      "pos": "n.",
+      "gloss": "either of two fleshy folds of tissue that surround the mouth and play a role in speaking",
+      "definition": "Either of two fleshy folds of tissue that surround the mouth and play a role in speaking.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

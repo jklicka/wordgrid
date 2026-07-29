@@ -1,0 +1,158 @@
+{
+  "id": "level-199",
+  "baseWord": "KINGPIN",
+  "pool": [
+    "K",
+    "I",
+    "N",
+    "G",
+    "P",
+    "I",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "KINGPIN",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PINING",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "KING",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "PINK",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "PING",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "PIN",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "PIG",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "INK",
+    "INN",
+    "GIN",
+    "KIN"
+  ],
+  "entries": {
+    "KINGPIN": {
+      "word": "KINGPIN",
+      "pos": "n.",
+      "gloss": "the most important person in a group or undertaking",
+      "definition": "The most important person in a group or undertaking.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PINING": {
+      "word": "PINING",
+      "pos": "n.",
+      "gloss": "a feeling of deep longing",
+      "definition": "A feeling of deep longing.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "KING": {
+      "word": "KING",
+      "pos": "n.",
+      "gloss": "a male sovereign",
+      "definition": "A male sovereign; ruler of a kingdom.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PINK": {
+      "word": "PINK",
+      "pos": "n.",
+      "gloss": "a light shade of red",
+      "definition": "A light shade of red.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PING": {
+      "word": "PING",
+      "pos": "v.",
+      "gloss": "hit with a pinging noise",
+      "definition": "Hit with a pinging noise.",
+      "example": "The bugs pinged the lamp shade.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIN": {
+      "word": "PIN",
+      "pos": "v.",
+      "gloss": "to hold fast or prevent from moving",
+      "definition": "To hold fast or prevent from moving.",
+      "example": "The child was pinned under the fallen tree.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIG": {
+      "word": "PIG",
+      "pos": "n.",
+      "gloss": "domestic swine",
+      "definition": "Domestic swine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "INK": {
+      "word": "INK",
+      "pos": "n.",
+      "gloss": "a liquid used for printing or writing or drawing",
+      "definition": "A liquid used for printing or writing or drawing.",
+      "band": "common",
+      "tier": "general"
+    },
+    "INN": {
+      "word": "INN",
+      "pos": "n.",
+      "gloss": "a hotel providing overnight lodging for travelers",
+      "definition": "A hotel providing overnight lodging for travelers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "KIN": {
+      "word": "KIN",
+      "pos": "n.",
+      "gloss": "a person having kinship with another or others",
+      "definition": "A person having kinship with another or others.",
+      "example": "He's kin.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

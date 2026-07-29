@@ -1,0 +1,176 @@
+{
+  "id": "level-217",
+  "baseWord": "POTTED",
+  "pool": [
+    "P",
+    "O",
+    "T",
+    "T",
+    "E",
+    "D"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "POTTED",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DEPOT",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "POET",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DOPE",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "TOTE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "TOP",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "PET",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "POT",
+    "TOE",
+    "DOT",
+    "OPT",
+    "DOE",
+    "POD"
+  ],
+  "entries": {
+    "POTTED": {
+      "word": "POTTED",
+      "pos": "adj.",
+      "gloss": "of plants; planted or grown in a pot",
+      "definition": "Of plants; planted or grown in a pot.",
+      "example": "Potted geraniums.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DEPOT": {
+      "word": "DEPOT",
+      "pos": "n.",
+      "gloss": "station where transport vehicles load or unload passengers or goods",
+      "definition": "Station where transport vehicles load or unload passengers or goods.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POET": {
+      "word": "POET",
+      "pos": "n.",
+      "gloss": "a writer of poems",
+      "definition": "A writer of poems (the term is usually reserved for writers of good poetry).",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOPE": {
+      "word": "DOPE",
+      "pos": "n.",
+      "gloss": "street names for marijuana",
+      "definition": "Street names for marijuana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOTE": {
+      "word": "TOTE",
+      "pos": "n.",
+      "gloss": "a capacious bag or basket",
+      "definition": "A capacious bag or basket.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOP": {
+      "word": "TOP",
+      "pos": "n.",
+      "gloss": "the upper part of anything",
+      "definition": "The upper part of anything.",
+      "example": "The mower cuts off the tops of the grass.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PET": {
+      "word": "PET",
+      "pos": "n.",
+      "gloss": "a domesticated animal kept for companionship or amusement",
+      "definition": "A domesticated animal kept for companionship or amusement.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POT": {
+      "word": "POT",
+      "pos": "n.",
+      "gloss": "metal or earthenware cooking vessel that is usually round and deep",
+      "definition": "Metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOE": {
+      "word": "TOE",
+      "pos": "n.",
+      "gloss": "one of the digits of the foot",
+      "definition": "One of the digits of the foot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOT": {
+      "word": "DOT",
+      "pos": "n.",
+      "gloss": "a very small circular shape",
+      "definition": "A very small circular shape.",
+      "example": "A row of points.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OPT": {
+      "word": "OPT",
+      "pos": "v.",
+      "gloss": "select as an alternative over another",
+      "definition": "Select as an alternative over another.",
+      "example": "I always choose the fish over the meat courses in this restaurant.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOE": {
+      "word": "DOE",
+      "pos": "n.",
+      "gloss": "mature female of mammals of which the male is called `buck'",
+      "definition": "Mature female of mammals of which the male is called `buck'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POD": {
+      "word": "POD",
+      "pos": "n.",
+      "gloss": "the vessel that contains the seeds of a plant",
+      "definition": "The vessel that contains the seeds of a plant (not the seeds themselves).",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

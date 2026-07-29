@@ -1,0 +1,152 @@
+{
+  "id": "level-368",
+  "baseWord": "MALADY",
+  "pool": [
+    "M",
+    "A",
+    "L",
+    "A",
+    "D",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "MALADY",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MADLY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "LADY",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "LAMA",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "MAY",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "DAY",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LAY",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "MAD",
+    "DAM",
+    "LAD"
+  ],
+  "entries": {
+    "MALADY": {
+      "word": "MALADY",
+      "pos": "n.",
+      "gloss": "any unwholesome or desperate condition",
+      "definition": "Any unwholesome or desperate condition.",
+      "example": "What maladies afflict our nation?",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MADLY": {
+      "word": "MADLY",
+      "pos": "adv.",
+      "gloss": "in an uncontrolled manner",
+      "definition": "In an uncontrolled manner.",
+      "example": "She fought back madly.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LADY": {
+      "word": "LADY",
+      "pos": "n.",
+      "gloss": "a polite name for any woman",
+      "definition": "A polite name for any woman.",
+      "example": "A nice lady at the library helped me.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAMA": {
+      "word": "LAMA",
+      "pos": "n.",
+      "gloss": "a Tibetan or Mongolian priest of Lamaism",
+      "definition": "A Tibetan or Mongolian priest of Lamaism.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAY": {
+      "word": "MAY",
+      "pos": "n.",
+      "gloss": "thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers…",
+      "definition": "Thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers followed by deep red berries; established as an escape in eastern North America.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAY": {
+      "word": "DAY",
+      "pos": "n.",
+      "gloss": "time for Earth to make a complete rotation on its axis",
+      "definition": "Time for Earth to make a complete rotation on its axis.",
+      "example": "Two days later they left.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAY": {
+      "word": "LAY",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAD": {
+      "word": "MAD",
+      "pos": "adj.",
+      "gloss": "roused to anger",
+      "definition": "Roused to anger.",
+      "example": "Stayed huffy a good while\"- Mark Twain.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAM": {
+      "word": "DAM",
+      "pos": "n.",
+      "gloss": "a barrier constructed to contain the flow of water or to keep out the sea",
+      "definition": "A barrier constructed to contain the flow of water or to keep out the sea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAD": {
+      "word": "LAD",
+      "pos": "n.",
+      "gloss": "a boy or man",
+      "definition": "A boy or man.",
+      "example": "That chap is your host.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

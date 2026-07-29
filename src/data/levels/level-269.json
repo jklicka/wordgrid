@@ -1,0 +1,140 @@
+{
+  "id": "level-269",
+  "baseWord": "SCULPT",
+  "pool": [
+    "S",
+    "C",
+    "U",
+    "L",
+    "P",
+    "T"
+  ],
+  "rows": 6,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "SCULPT",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "PLUS",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "CULT",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SLUT",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "LUST",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PUT",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "CUP",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "CUT",
+    "CUSP"
+  ],
+  "entries": {
+    "SCULPT": {
+      "word": "SCULPT",
+      "pos": "v.",
+      "gloss": "create by shaping stone or wood or any other hard material",
+      "definition": "Create by shaping stone or wood or any other hard material.",
+      "example": "Sculpt a swan out of a block of ice.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PLUS": {
+      "word": "PLUS",
+      "pos": "n.",
+      "gloss": "a useful or valuable quality",
+      "definition": "A useful or valuable quality.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CULT": {
+      "word": "CULT",
+      "pos": "n.",
+      "gloss": "followers of an exclusive system of beliefs and practices",
+      "definition": "Followers of an exclusive system of beliefs and practices.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SLUT": {
+      "word": "SLUT",
+      "pos": "n.",
+      "gloss": "a dirty untidy woman",
+      "definition": "A dirty untidy woman.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LUST": {
+      "word": "LUST",
+      "pos": "n.",
+      "gloss": "a strong sexual desire",
+      "definition": "A strong sexual desire.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PUT": {
+      "word": "PUT",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CUP": {
+      "word": "CUP",
+      "pos": "n.",
+      "gloss": "a small open container usually used for drinking",
+      "definition": "A small open container usually used for drinking; usually has a handle.",
+      "example": "He put the cup back in the saucer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CUT": {
+      "word": "CUT",
+      "pos": "v.",
+      "gloss": "separate with or as if with an instrument",
+      "definition": "Separate with or as if with an instrument.",
+      "example": "Cut the rope.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CUSP": {
+      "word": "CUSP",
+      "pos": "n.",
+      "gloss": "point formed by two intersecting arcs",
+      "definition": "Point formed by two intersecting arcs (as from the intrados of a Gothic arch).",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

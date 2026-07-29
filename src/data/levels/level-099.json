@@ -1,0 +1,129 @@
+{
+  "id": "level-099",
+  "baseWord": "HASTY",
+  "pool": [
+    "H",
+    "A",
+    "S",
+    "T",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "HASTY",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "STAY",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "SHAY",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SAY",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "ASH",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "SHY",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "HAY",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "HAT"
+  ],
+  "entries": {
+    "HASTY": {
+      "word": "HASTY",
+      "pos": "adj.",
+      "gloss": "excessively quick",
+      "definition": "Excessively quick.",
+      "example": "Made a hasty exit.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "STAY": {
+      "word": "STAY",
+      "pos": "v.",
+      "gloss": "stay the same",
+      "definition": "Stay the same; remain in a certain state.",
+      "example": "The dress remained wet after repeated attempts to dry it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SHAY": {
+      "word": "SHAY",
+      "pos": "n.",
+      "gloss": "a carriage consisting of two wheels and a calash top",
+      "definition": "A carriage consisting of two wheels and a calash top; drawn by a single horse.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SAY": {
+      "word": "SAY",
+      "pos": "v.",
+      "gloss": "express in words",
+      "definition": "Express in words.",
+      "example": "He said that he wanted to marry her.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ASH": {
+      "word": "ASH",
+      "pos": "n.",
+      "gloss": "the residue that remains when something is burned",
+      "definition": "The residue that remains when something is burned.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SHY": {
+      "word": "SHY",
+      "pos": "v.",
+      "gloss": "start suddenly, as from fright",
+      "definition": "Start suddenly, as from fright.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAY": {
+      "word": "HAY",
+      "pos": "n.",
+      "gloss": "grass mowed and cured for use as fodder",
+      "definition": "Grass mowed and cured for use as fodder.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAT": {
+      "word": "HAT",
+      "pos": "n.",
+      "gloss": "headdress that protects the head from bad weather",
+      "definition": "Headdress that protects the head from bad weather; has shaped crown and usually a brim.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

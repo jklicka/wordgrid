@@ -1,0 +1,195 @@
+{
+  "id": "level-157",
+  "baseWord": "SNITCH",
+  "pool": [
+    "S",
+    "N",
+    "I",
+    "T",
+    "C",
+    "H"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SNITCH",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SHIT",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "INCH",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "THIN",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "HINT",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "CHIN",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SHIN",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "HIT",
+    "SIT",
+    "SIN",
+    "TIN",
+    "CHI",
+    "SIC",
+    "ITCH",
+    "CHIT"
+  ],
+  "entries": {
+    "SNITCH": {
+      "word": "SNITCH",
+      "pos": "n.",
+      "gloss": "someone acting as an informer or decoy for the police",
+      "definition": "Someone acting as an informer or decoy for the police.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SHIT": {
+      "word": "SHIT",
+      "pos": "n.",
+      "gloss": "obscene terms for feces",
+      "definition": "Obscene terms for feces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "INCH": {
+      "word": "INCH",
+      "pos": "n.",
+      "gloss": "a unit of length equal to one twelfth of a foot",
+      "definition": "A unit of length equal to one twelfth of a foot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "THIN": {
+      "word": "THIN",
+      "pos": "adj.",
+      "gloss": "of relatively small extent from one surface to the opposite or in cross section",
+      "definition": "Of relatively small extent from one surface to the opposite or in cross section.",
+      "example": "Thin wire.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HINT": {
+      "word": "HINT",
+      "pos": "n.",
+      "gloss": "an indirect suggestion",
+      "definition": "An indirect suggestion.",
+      "example": "Not a breath of scandal ever touched her.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CHIN": {
+      "word": "CHIN",
+      "pos": "n.",
+      "gloss": "the protruding part of the lower jaw",
+      "definition": "The protruding part of the lower jaw.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SHIN": {
+      "word": "SHIN",
+      "pos": "n.",
+      "gloss": "the front part of the human leg between the knee and the ankle",
+      "definition": "The front part of the human leg between the knee and the ankle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HIT": {
+      "word": "HIT",
+      "pos": "v.",
+      "gloss": "cause to move by striking",
+      "definition": "Cause to move by striking.",
+      "example": "Hit a ball.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIT": {
+      "word": "SIT",
+      "pos": "v.",
+      "gloss": "be seated",
+      "definition": "Be seated.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIN": {
+      "word": "SIN",
+      "pos": "n.",
+      "gloss": "estrangement from god",
+      "definition": "Estrangement from god.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIN": {
+      "word": "TIN",
+      "pos": "n.",
+      "gloss": "a silvery malleable metallic element that resists corrosion",
+      "definition": "A silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CHI": {
+      "word": "CHI",
+      "pos": "n.",
+      "gloss": "the circulating life energy that in Chinese philosophy is thought to be inherent in…",
+      "definition": "The circulating life energy that in Chinese philosophy is thought to be inherent in all things; in traditional Chinese medicine the balance of negative and positive forms in the body is believed to be essential for good health.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIC": {
+      "word": "SIC",
+      "pos": "adv.",
+      "gloss": "intentionally so written",
+      "definition": "Intentionally so written (used after a printed word or phrase).",
+      "band": "common",
+      "tier": "general"
+    },
+    "ITCH": {
+      "word": "ITCH",
+      "pos": "v.",
+      "gloss": "scrape or rub as if to relieve itching",
+      "definition": "Scrape or rub as if to relieve itching.",
+      "example": "Don't scratch your insect bites!",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CHIT": {
+      "word": "CHIT",
+      "pos": "n.",
+      "gloss": "a dismissive term for a girl who is immature or who lacks respect",
+      "definition": "A dismissive term for a girl who is immature or who lacks respect.",
+      "example": "She was incensed that this chit of a girl should dare to make a fool of her in front of the class.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

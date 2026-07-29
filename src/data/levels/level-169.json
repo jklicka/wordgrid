@@ -1,0 +1,114 @@
+{
+  "id": "level-169",
+  "baseWord": "ACORN",
+  "pool": [
+    "A",
+    "C",
+    "O",
+    "R",
+    "N"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "ACORN",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "CORN",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ORCA",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "CAN",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CAR",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "ARC",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "CON"
+  ],
+  "entries": {
+    "ACORN": {
+      "word": "ACORN",
+      "pos": "n.",
+      "gloss": "fruit of the oak tree",
+      "definition": "Fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CORN": {
+      "word": "CORN",
+      "pos": "n.",
+      "gloss": "tall annual cereal grass bearing kernels on large ears",
+      "definition": "Tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ORCA": {
+      "word": "ORCA",
+      "pos": "n.",
+      "gloss": "predatory black-and-white toothed whale with large dorsal fin",
+      "definition": "Predatory black-and-white toothed whale with large dorsal fin; common in cold seas.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAN": {
+      "word": "CAN",
+      "pos": "v.",
+      "gloss": "preserve in a can or tin",
+      "definition": "Preserve in a can or tin.",
+      "example": "Tinned foods are not very tasty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAR": {
+      "word": "CAR",
+      "pos": "n.",
+      "gloss": "a motor vehicle with four wheels",
+      "definition": "A motor vehicle with four wheels; usually propelled by an internal combustion engine.",
+      "example": "He needs a car to get to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARC": {
+      "word": "ARC",
+      "pos": "n.",
+      "gloss": "electrical conduction through a gas in an applied electric field",
+      "definition": "Electrical conduction through a gas in an applied electric field.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CON": {
+      "word": "CON",
+      "pos": "n.",
+      "gloss": "an argument opposed to a proposal",
+      "definition": "An argument opposed to a proposal.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

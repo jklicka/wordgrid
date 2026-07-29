@@ -1,0 +1,182 @@
+{
+  "id": "level-189",
+  "baseWord": "NAPPING",
+  "pool": [
+    "N",
+    "A",
+    "P",
+    "P",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "NAPPING",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PINNA",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "PAIN",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "GAIN",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "PING",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PANG",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "GAP",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "PAN",
+    "PIN",
+    "PIG",
+    "INN",
+    "NAP",
+    "GIN"
+  ],
+  "entries": {
+    "NAPPING": {
+      "word": "NAPPING",
+      "pos": "adj.",
+      "gloss": "not prepared or vigilant",
+      "definition": "Not prepared or vigilant.",
+      "example": "The blow caught him napping.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PINNA": {
+      "word": "PINNA",
+      "pos": "n.",
+      "gloss": "division of a usually pinnately divided leaf",
+      "definition": "Division of a usually pinnately divided leaf.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PAIN": {
+      "word": "PAIN",
+      "pos": "n.",
+      "gloss": "a symptom of some physical hurt or disorder",
+      "definition": "A symptom of some physical hurt or disorder.",
+      "example": "The patient developed severe pain and distension.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAIN": {
+      "word": "GAIN",
+      "pos": "v.",
+      "gloss": "obtain",
+      "definition": "Obtain.",
+      "example": "Derive pleasure from one's garden.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PING": {
+      "word": "PING",
+      "pos": "v.",
+      "gloss": "hit with a pinging noise",
+      "definition": "Hit with a pinging noise.",
+      "example": "The bugs pinged the lamp shade.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PANG": {
+      "word": "PANG",
+      "pos": "n.",
+      "gloss": "a sudden sharp feeling",
+      "definition": "A sudden sharp feeling.",
+      "example": "Pangs of regret.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GAP": {
+      "word": "GAP",
+      "pos": "n.",
+      "gloss": "a conspicuous disparity or difference as between two figures",
+      "definition": "A conspicuous disparity or difference as between two figures.",
+      "example": "Gap between income and outgo.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAN": {
+      "word": "PAN",
+      "pos": "v.",
+      "gloss": "make a sweeping movement",
+      "definition": "Make a sweeping movement.",
+      "example": "The camera panned across the room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIN": {
+      "word": "PIN",
+      "pos": "v.",
+      "gloss": "to hold fast or prevent from moving",
+      "definition": "To hold fast or prevent from moving.",
+      "example": "The child was pinned under the fallen tree.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIG": {
+      "word": "PIG",
+      "pos": "n.",
+      "gloss": "domestic swine",
+      "definition": "Domestic swine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "INN": {
+      "word": "INN",
+      "pos": "n.",
+      "gloss": "a hotel providing overnight lodging for travelers",
+      "definition": "A hotel providing overnight lodging for travelers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NAP": {
+      "word": "NAP",
+      "pos": "n.",
+      "gloss": "a period of time spent sleeping",
+      "definition": "A period of time spent sleeping.",
+      "example": "He felt better after a little sleep.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

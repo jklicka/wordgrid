@@ -1,0 +1,190 @@
+{
+  "id": "level-387",
+  "baseWord": "WATTLE",
+  "pool": [
+    "W",
+    "A",
+    "T",
+    "T",
+    "L",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "WATTLE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LATTE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "LATE",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "TALE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "WATT",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "TWAT",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "TEAL",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "LET",
+    "LAW",
+    "EAT",
+    "TEA",
+    "WET",
+    "AWE",
+    "ALE"
+  ],
+  "entries": {
+    "WATTLE": {
+      "word": "WATTLE",
+      "pos": "n.",
+      "gloss": "a fleshy wrinkled and often brightly colored fold of skin hanging from the neck or…",
+      "definition": "A fleshy wrinkled and often brightly colored fold of skin hanging from the neck or throat of certain birds (chickens and turkeys) or lizards.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LATTE": {
+      "word": "LATTE",
+      "pos": "n.",
+      "gloss": "strong espresso coffee with a topping of frothed steamed milk",
+      "definition": "Strong espresso coffee with a topping of frothed steamed milk.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LATE": {
+      "word": "LATE",
+      "pos": "adj.",
+      "gloss": "being or occurring at an advanced period of time or after a usual or expected time",
+      "definition": "Being or occurring at an advanced period of time or after a usual or expected time.",
+      "example": "Late evening.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TALE": {
+      "word": "TALE",
+      "pos": "n.",
+      "gloss": "a message that tells the particulars of an act or occurrence or course of events",
+      "definition": "A message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program.",
+      "example": "His narrative was interesting.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WATT": {
+      "word": "WATT",
+      "pos": "n.",
+      "gloss": "a unit of power equal to 1 joule per second",
+      "definition": "A unit of power equal to 1 joule per second; the power dissipated by a current of 1 ampere flowing across a resistance of 1 ohm.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TWAT": {
+      "word": "TWAT",
+      "pos": "n.",
+      "gloss": "a man who is a stupid incompetent fool",
+      "definition": "A man who is a stupid incompetent fool.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TEAL": {
+      "word": "TEAL",
+      "pos": "n.",
+      "gloss": "a blue-green color or pigment",
+      "definition": "A blue-green color or pigment.",
+      "example": "They painted it a light shade of bluish green.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LET": {
+      "word": "LET",
+      "pos": "v.",
+      "gloss": "make it possible through a specific action or lack of action for something to happen",
+      "definition": "Make it possible through a specific action or lack of action for something to happen.",
+      "example": "This permits the water to rush in.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAW": {
+      "word": "LAW",
+      "pos": "n.",
+      "gloss": "the collection of rules imposed by authority",
+      "definition": "The collection of rules imposed by authority.",
+      "example": "Civilization presupposes respect for the law.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAT": {
+      "word": "EAT",
+      "pos": "v.",
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WET": {
+      "word": "WET",
+      "pos": "n.",
+      "gloss": "wetness caused by water",
+      "definition": "Wetness caused by water.",
+      "example": "Drops of wet gleamed on the window.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AWE": {
+      "word": "AWE",
+      "pos": "n.",
+      "gloss": "an overwhelming feeling of wonder or admiration",
+      "definition": "An overwhelming feeling of wonder or admiration.",
+      "example": "He stared over the edge with a feeling of awe.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALE": {
+      "word": "ALE",
+      "pos": "n.",
+      "gloss": "a general name for beer made with a top fermenting yeast",
+      "definition": "A general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

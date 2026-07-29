@@ -1,0 +1,150 @@
+{
+  "id": "level-130",
+  "baseWord": "ARDUOUS",
+  "pool": [
+    "A",
+    "R",
+    "D",
+    "U",
+    "O",
+    "U",
+    "S"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "ARDUOUS",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ROADS",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ROAD",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SODA",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "SOUR",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "SOAR",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "SAD",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ROD",
+    "DUO",
+    "DAS"
+  ],
+  "entries": {
+    "ARDUOUS": {
+      "word": "ARDUOUS",
+      "pos": "adj.",
+      "gloss": "characterized by effort to the point of exhaustion",
+      "definition": "Characterized by effort to the point of exhaustion; especially physical effort.",
+      "example": "Worked their arduous way up the mining valley.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ROADS": {
+      "word": "ROADS",
+      "pos": "n.",
+      "gloss": "a partly sheltered anchorage",
+      "definition": "A partly sheltered anchorage.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROAD": {
+      "word": "ROAD",
+      "pos": "n.",
+      "gloss": "an open way for travel or transportation",
+      "definition": "An open way (generally public) for travel or transportation.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SODA": {
+      "word": "SODA",
+      "pos": "n.",
+      "gloss": "a sodium salt of carbonic acid",
+      "definition": "A sodium salt of carbonic acid; used in making soap powders and glass and paper.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOUR": {
+      "word": "SOUR",
+      "pos": "v.",
+      "gloss": "go sour or spoil",
+      "definition": "Go sour or spoil.",
+      "example": "The milk has soured.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOAR": {
+      "word": "SOAR",
+      "pos": "v.",
+      "gloss": "rise rapidly",
+      "definition": "Rise rapidly.",
+      "example": "The dollar soared against the yen.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SAD": {
+      "word": "SAD",
+      "pos": "adj.",
+      "gloss": "experiencing or showing sorrow or unhappiness",
+      "definition": "Experiencing or showing sorrow or unhappiness.",
+      "example": "Feeling sad because his dog had died.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROD": {
+      "word": "ROD",
+      "pos": "n.",
+      "gloss": "a long thin implement made of metal or wood",
+      "definition": "A long thin implement made of metal or wood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUO": {
+      "word": "DUO",
+      "pos": "n.",
+      "gloss": "two items of the same kind",
+      "definition": "Two items of the same kind.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAS": {
+      "word": "DAS",
+      "pos": "n.",
+      "gloss": "any of several small ungulate mammals of Africa and Asia with rodent-like incisors and…",
+      "definition": "Any of several small ungulate mammals of Africa and Asia with rodent-like incisors and feet with hooflike toes.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

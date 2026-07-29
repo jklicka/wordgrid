@@ -1,0 +1,176 @@
+{
+  "id": "level-129",
+  "baseWord": "SABER",
+  "pool": [
+    "S",
+    "A",
+    "B",
+    "E",
+    "R"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SABER",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SABRE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "BASE",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "BEAR",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "BARS",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "BARE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ARSE",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ARE",
+    "SEA",
+    "BAR",
+    "ERA",
+    "EAR",
+    "BRA"
+  ],
+  "entries": {
+    "SABER": {
+      "word": "SABER",
+      "pos": "n.",
+      "gloss": "a fencing sword with a v-shaped blade and a slightly curved handle",
+      "definition": "A fencing sword with a v-shaped blade and a slightly curved handle.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SABRE": {
+      "word": "SABRE",
+      "pos": "n.",
+      "gloss": "a fencing sword with a v-shaped blade and a slightly curved handle",
+      "definition": "A fencing sword with a v-shaped blade and a slightly curved handle.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BASE": {
+      "word": "BASE",
+      "pos": "n.",
+      "gloss": "installation from which a military force initiates operations",
+      "definition": "Installation from which a military force initiates operations.",
+      "example": "The attack wiped out our forward bases.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEAR": {
+      "word": "BEAR",
+      "pos": "v.",
+      "gloss": "have",
+      "definition": "Have.",
+      "example": "Bear a resemblance.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BARS": {
+      "word": "BARS",
+      "pos": "n.",
+      "gloss": "gymnastic apparatus consisting of two parallel wooden rods supported on uprights",
+      "definition": "Gymnastic apparatus consisting of two parallel wooden rods supported on uprights.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BARE": {
+      "word": "BARE",
+      "pos": "adj.",
+      "gloss": "completely unclothed",
+      "definition": "Completely unclothed.",
+      "example": "Bare bodies.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARSE": {
+      "word": "ARSE",
+      "pos": "n.",
+      "gloss": "the fleshy part of the human body that you sit on",
+      "definition": "The fleshy part of the human body that you sit on.",
+      "example": "He deserves a good kick in the butt.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEA": {
+      "word": "SEA",
+      "pos": "n.",
+      "gloss": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "definition": "A division of an ocean or a large body of salt water partially enclosed by land.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAR": {
+      "word": "BAR",
+      "pos": "n.",
+      "gloss": "a room or establishment where alcoholic drinks are served over a counter",
+      "definition": "A room or establishment where alcoholic drinks are served over a counter.",
+      "example": "He drowned his sorrows in whiskey at the bar.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BRA": {
+      "word": "BRA",
+      "pos": "n.",
+      "gloss": "an undergarment worn by women to support their breasts",
+      "definition": "An undergarment worn by women to support their breasts.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "level-044",
+  "baseWord": "PARRY",
+  "pool": [
+    "P",
+    "A",
+    "R",
+    "R",
+    "Y"
+  ],
+  "rows": 5,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "PARRY",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "PRAY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "PARR",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "RAY",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "PAR",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RAP",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "PAY"
+  ],
+  "entries": {
+    "PARRY": {
+      "word": "PARRY",
+      "pos": "v.",
+      "gloss": "impede the movement of",
+      "definition": "Impede the movement of (an opponent or a ball).",
+      "example": "Block an attack.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PRAY": {
+      "word": "PRAY",
+      "pos": "v.",
+      "gloss": "address a deity, a prophet, a saint or an object of worship",
+      "definition": "Address a deity, a prophet, a saint or an object of worship; say a prayer.",
+      "example": "Pray to the Lord.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PARR": {
+      "word": "PARR",
+      "pos": "n.",
+      "gloss": "a young salmon up to 2 years old",
+      "definition": "A young salmon up to 2 years old.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RAY": {
+      "word": "RAY",
+      "pos": "n.",
+      "gloss": "a column of light",
+      "definition": "A column of light (as from a beacon).",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAR": {
+      "word": "PAR",
+      "pos": "n.",
+      "gloss": "the standard number of strokes set for each hole on a golf course, or for the entire…",
+      "definition": "(golf) the standard number of strokes set for each hole on a golf course, or for the entire course.",
+      "example": "A par-5 hole.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAP": {
+      "word": "RAP",
+      "pos": "n.",
+      "gloss": "a reproach for some lapse or misdeed",
+      "definition": "A reproach for some lapse or misdeed.",
+      "example": "He took the blame for it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAY": {
+      "word": "PAY",
+      "pos": "v.",
+      "gloss": "give money, usually in exchange for goods or services",
+      "definition": "Give money, usually in exchange for goods or services.",
+      "example": "I paid four dollars for this sandwich.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

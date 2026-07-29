@@ -61,28 +61,19 @@ function minZipfFor(length: number): number {
 const ROMAN = /^[IVXLCDM]+$/
 
 /**
- * Vulgar and slur terms WordNet carries as ordinary entries. This game has no
- * age gate and is aimed at general vocabulary learners, so they are excluded
- * outright rather than banded. CLIT reached a generated level before this.
- * Not exhaustive — a blocklist never is — but it covers what WordNet actually
- * contains within the 3-8 letter range.
- */
-const BLOCKED_STEMS = `CLIT CUNT TWAT PUSSY COCK DICK PRICK WANK JIZZ SHIT CRAP TURD PISS FUCK
-   SHAG BONK HORNY SLUT WHORE HOOKER HUSSY BIMBO
-   NIGGER SPIC WOP KIKE CHINK GOOK DAGO COON WETBACK
-   RETARD SPAZ MONGOL FAGGOT DYKE TRANNY
-   RAPE INCEST PEDO`
-  .split(/\s+/)
-  .filter(Boolean)
-
-/**
- * Expand each stem over common inflections. Exact matching alone let PISSING
- * through as a level's base word.
+ * Content blocklist — deliberately EMPTY.
  *
- * Deliberately NOT substring matching: that would take COCKTAIL, PEACOCK,
- * DOCUMENT and START with it. Suffixing is the narrow version that catches
- * inflections without the collateral damage.
+ * Product decision (2026-07-28): the audience is adults and no word is off
+ * limits, so profanity and vulgar terms are allowed through as ordinary
+ * vocabulary. The mechanism is kept because it costs nothing and makes the
+ * decision reversible: add stems here and inflections expand automatically.
+ *
+ * If it is ever re-enabled, note that matching must be by stem+suffix and NOT
+ * by substring — substring matching takes COCKTAIL, PEACOCK, DOCUMENT and
+ * START down with it.
  */
+const BLOCKED_STEMS: string[] = []
+
 const BLOCKED = new Set<string>()
 for (const stem of BLOCKED_STEMS) {
   BLOCKED.add(stem)
@@ -106,6 +97,17 @@ const POS_LABEL: Record<string, string> = {
   s: 'adj.',
   r: 'adv.',
 }
+
+/**
+ * WordNet labels offensive senses in the gloss itself. Filtering on its own
+ * markers beats a hand-written word list: it is maintained by lexicographers
+ * and it distinguishes a slur from a swear word, which a name-based list
+ * cannot.
+ *
+ * Deliberately excludes bare "pejorative" — SODDING is glossed "(often
+ * pejorative) intensifier", which is profanity, and profanity is allowed.
+ */
+const SLUR_MARKER = /\([^)]*\b(?:slur|disparaging|derogatory|contemptuous)\b[^)]*\)/i
 
 interface Sense {
   pos: string
@@ -140,13 +142,18 @@ function readIndex(): Map<string, Sense[]> {
       const pCnt = Number(f[3])
       // Skip the pointer symbols to reach sense_cnt / tagsense_cnt / offsets.
       const after = 4 + pCnt
+      const senseCnt = Number(f[after])
       const tagged = Number(f[after + 1])
-      const firstOffset = f[after + 2]
-      if (!firstOffset) continue
+      const offsets = f.slice(after + 2, after + 2 + (Number.isFinite(senseCnt) ? senseCnt : 1))
+      if (offsets.length === 0) continue
 
+      // Every sense, in WordNet's own order (most common first). Keeping the
+      // alternatives lets a word fall back when its top sense is unusable.
       const key = lemma.toUpperCase()
       const list = senses.get(key) ?? []
-      list.push({ pos: posChar, offset: firstOffset, tagged: Number.isFinite(tagged) ? tagged : 0 })
+      for (const offset of offsets) {
+        list.push({ pos: posChar, offset, tagged: Number.isFinite(tagged) ? tagged : 0 })
+      }
       senses.set(key, list)
     }
   }
@@ -234,6 +241,7 @@ const counts = {
   skippedProperOrAcronym: 0,
   skippedBlocked: 0,
   skippedTooRareForLength: 0,
+  skippedSlurOnly: 0,
 }
 
 for (const [word, list] of senses) {
@@ -257,20 +265,41 @@ for (const [word, list] of senses) {
     continue
   }
 
-  // Pick the part of speech this word is most often used as.
-  const best = list.reduce((a, b) => (b.tagged > a.tagged ? b : a))
-  const posDir = best.pos === 'n' ? 'noun' : best.pos === 'v' ? 'verb' : best.pos === 'r' ? 'adv' : 'adj'
-  const entry = glosses.get(`${posDir}:${best.offset}`)
-  if (!entry) {
-    counts.skippedNoGloss++
-    continue
+  // Walk senses most-common-first and take the first usable one. Falling back
+  // rather than dropping the word is what keeps TACO (the food) and CHINK (a
+  // narrow crack) playable even though WordNet ranks their slur senses first.
+  const ordered = [...list].sort((a, b) => b.tagged - a.tagged)
+  let best: Sense | undefined
+  let entry: { definition: string; example?: string; surfaces: string[] } | undefined
+  let sawSlur = false
+  let sawCapitalised = false
+
+  for (const sense of ordered) {
+    const dir = sense.pos === 'n' ? 'noun' : sense.pos === 'v' ? 'verb' : sense.pos === 'r' ? 'adv' : 'adj'
+    const candidate = glosses.get(`${dir}:${sense.offset}`)
+    if (!candidate) continue
+
+    // The lemma must appear in its own synset as pure lowercase. Proper nouns
+    // (Augusta, Tagus) and acronyms (GSA, TSA) carry capitals.
+    const surface = candidate.surfaces.find((s) => s.toUpperCase() === word)
+    if (!surface || surface !== surface.toLowerCase()) {
+      sawCapitalised = true
+      continue
+    }
+    if (SLUR_MARKER.test(candidate.definition)) {
+      sawSlur = true
+      continue
+    }
+
+    best = sense
+    entry = candidate
+    break
   }
 
-  // The lemma must appear in its own synset as pure lowercase. Proper nouns
-  // (Augusta, Tagus) and acronyms (GSA, TSA) carry capitals and are dropped.
-  const surface = entry.surfaces.find((s) => s.toUpperCase() === word)
-  if (!surface || surface !== surface.toLowerCase()) {
-    counts.skippedProperOrAcronym++
+  if (!best || !entry) {
+    if (sawSlur) counts.skippedSlurOnly++
+    else if (sawCapitalised) counts.skippedProperOrAcronym++
+    else counts.skippedNoGloss++
     continue
   }
 
@@ -299,3 +328,4 @@ console.log(`  skipped — no frequency: ${counts.skippedNoZipf.toLocaleString()
 console.log(`            proper noun/acronym: ${counts.skippedProperOrAcronym.toLocaleString()}`)
 console.log(`            too rare for length: ${counts.skippedTooRareForLength.toLocaleString()}`)
 console.log(`            blocked/roman:       ${counts.skippedBlocked.toLocaleString()}`)
+console.log(`            slur-only senses:    ${counts.skippedSlurOnly.toLocaleString()}`)

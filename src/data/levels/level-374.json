@@ -1,0 +1,132 @@
+{
+  "id": "level-374",
+  "baseWord": "EVERT",
+  "pool": [
+    "E",
+    "V",
+    "E",
+    "R",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "EVERT",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "EVER",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TREE",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "VEER",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "EVE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "REV",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "VET",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "TEE"
+  ],
+  "entries": {
+    "EVERT": {
+      "word": "EVERT",
+      "pos": "v.",
+      "gloss": "turn inside out",
+      "definition": "Turn inside out; turn the inner surface of outward.",
+      "example": "Evert the eyelid.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "EVER": {
+      "word": "EVER",
+      "pos": "adv.",
+      "gloss": "at any time",
+      "definition": "At any time.",
+      "example": "Did you ever smoke?",
+      "band": "common",
+      "tier": "general"
+    },
+    "TREE": {
+      "word": "TREE",
+      "pos": "n.",
+      "gloss": "a tall perennial woody plant having a main trunk and branches forming a distinct…",
+      "definition": "A tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VEER": {
+      "word": "VEER",
+      "pos": "v.",
+      "gloss": "turn sharply",
+      "definition": "Turn sharply; change direction abruptly.",
+      "example": "The car cut to the left at the intersection.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "EVE": {
+      "word": "EVE",
+      "pos": "n.",
+      "gloss": "the day before",
+      "definition": "The day before.",
+      "example": "He always arrives on the eve of her departure.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REV": {
+      "word": "REV",
+      "pos": "v.",
+      "gloss": "increase the number of rotations per minute",
+      "definition": "Increase the number of rotations per minute.",
+      "example": "Rev up an engine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VET": {
+      "word": "VET",
+      "pos": "n.",
+      "gloss": "a doctor who practices veterinary medicine",
+      "definition": "A doctor who practices veterinary medicine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEE": {
+      "word": "TEE",
+      "pos": "n.",
+      "gloss": "the starting place for each hole on a golf course",
+      "definition": "The starting place for each hole on a golf course.",
+      "example": "They were waiting on the first tee.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

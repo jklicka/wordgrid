@@ -1,0 +1,109 @@
+{
+  "id": "level-320",
+  "baseWord": "BILGE",
+  "pool": [
+    "B",
+    "I",
+    "L",
+    "G",
+    "E"
+  ],
+  "rows": 6,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "BILGE",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BILE",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "BIG",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "LIE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BEG",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "LEG",
+    "GEL"
+  ],
+  "entries": {
+    "BILGE": {
+      "word": "BILGE",
+      "pos": "n.",
+      "gloss": "water accumulated in the bilge of a ship",
+      "definition": "Water accumulated in the bilge of a ship.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BILE": {
+      "word": "BILE",
+      "pos": "n.",
+      "gloss": "a digestive juice secreted by the liver and stored in the gallbladder",
+      "definition": "A digestive juice secreted by the liver and stored in the gallbladder; aids in the digestion of fats.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BIG": {
+      "word": "BIG",
+      "pos": "adj.",
+      "gloss": "above average in size or number or quantity or magnitude or extent",
+      "definition": "Above average in size or number or quantity or magnitude or extent.",
+      "example": "A large city.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIE": {
+      "word": "LIE",
+      "pos": "v.",
+      "gloss": "be located or situated somewhere",
+      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEG": {
+      "word": "BEG",
+      "pos": "v.",
+      "gloss": "call upon in supplication",
+      "definition": "Call upon in supplication; entreat.",
+      "example": "I beg you to stop!",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEG": {
+      "word": "LEG",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEL": {
+      "word": "GEL",
+      "pos": "n.",
+      "gloss": "a colloid in a more solid form than a sol",
+      "definition": "A colloid in a more solid form than a sol.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

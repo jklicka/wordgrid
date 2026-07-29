@@ -1,0 +1,112 @@
+{
+  "id": "level-108",
+  "baseWord": "MACHO",
+  "pool": [
+    "M",
+    "A",
+    "C",
+    "H",
+    "O"
+  ],
+  "rows": 5,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "MACHO",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "MOCHA",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "COMA",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CAMO",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "MAC",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "CAM",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "HAM"
+  ],
+  "entries": {
+    "MACHO": {
+      "word": "MACHO",
+      "pos": "n.",
+      "gloss": "a male exhibiting or characterized by machismo",
+      "definition": "A male exhibiting or characterized by machismo.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MOCHA": {
+      "word": "MOCHA",
+      "pos": "n.",
+      "gloss": "soft suede glove leather from goatskin",
+      "definition": "Soft suede glove leather from goatskin.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "COMA": {
+      "word": "COMA",
+      "pos": "n.",
+      "gloss": "a state of deep and often prolonged unconsciousness",
+      "definition": "A state of deep and often prolonged unconsciousness; usually the result of disease or injury.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAMO": {
+      "word": "CAMO",
+      "pos": "n.",
+      "gloss": "fabric dyed with splotches of green and brown and black and tan",
+      "definition": "Fabric dyed with splotches of green and brown and black and tan; intended to make the wearer of a garment made of this fabric hard to distinguish from the background.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAC": {
+      "word": "MAC",
+      "pos": "n.",
+      "gloss": "a waterproof raincoat made of rubberized fabric",
+      "definition": "A waterproof raincoat made of rubberized fabric.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAM": {
+      "word": "CAM",
+      "pos": "n.",
+      "gloss": "a rotating disk shaped to convert circular into linear motion",
+      "definition": "A rotating disk shaped to convert circular into linear motion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAM": {
+      "word": "HAM",
+      "pos": "n.",
+      "gloss": "meat cut from the thigh of a hog",
+      "definition": "Meat cut from the thigh of a hog (usually smoked).",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

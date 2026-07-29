@@ -1,0 +1,198 @@
+{
+  "id": "level-263",
+  "baseWord": "RAUNCHY",
+  "pool": [
+    "R",
+    "A",
+    "U",
+    "N",
+    "C",
+    "H",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "RAUNCHY",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RANCH",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "CHURN",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ARCH",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "YUAN",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "ANY",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "RUN",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "CAN",
+    "CAR",
+    "RAY",
+    "CRY",
+    "ARC",
+    "HAY",
+    "YARN",
+    "CHAR"
+  ],
+  "entries": {
+    "RAUNCHY": {
+      "word": "RAUNCHY",
+      "pos": "adj.",
+      "gloss": "earthy and sexually explicit",
+      "definition": "Earthy and sexually explicit.",
+      "example": "A raunchy novel.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RANCH": {
+      "word": "RANCH",
+      "pos": "n.",
+      "gloss": "farm consisting of a large tract of land along with facilities needed to raise livestock",
+      "definition": "Farm consisting of a large tract of land along with facilities needed to raise livestock (especially cattle).",
+      "band": "common",
+      "tier": "general"
+    },
+    "CHURN": {
+      "word": "CHURN",
+      "pos": "v.",
+      "gloss": "stir vigorously in order to make butter",
+      "definition": "Stir (cream) vigorously in order to make butter.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ARCH": {
+      "word": "ARCH",
+      "pos": "n.",
+      "gloss": "a curved shape in the vertical plane that spans an opening",
+      "definition": "A curved shape in the vertical plane that spans an opening.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YUAN": {
+      "word": "YUAN",
+      "pos": "n.",
+      "gloss": "the basic unit of money in China",
+      "definition": "The basic unit of money in China.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANY": {
+      "word": "ANY",
+      "pos": "adj.",
+      "gloss": "one or some or every or all without specification",
+      "definition": "One or some or every or all without specification.",
+      "example": "Give me any peaches you don't want.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUN": {
+      "word": "RUN",
+      "pos": "v.",
+      "gloss": "move fast by using one's feet, with one foot off the ground at any given time",
+      "definition": "Move fast by using one's feet, with one foot off the ground at any given time.",
+      "example": "Don't run--you'll be out of breath.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAN": {
+      "word": "CAN",
+      "pos": "v.",
+      "gloss": "preserve in a can or tin",
+      "definition": "Preserve in a can or tin.",
+      "example": "Tinned foods are not very tasty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAR": {
+      "word": "CAR",
+      "pos": "n.",
+      "gloss": "a motor vehicle with four wheels",
+      "definition": "A motor vehicle with four wheels; usually propelled by an internal combustion engine.",
+      "example": "He needs a car to get to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAY": {
+      "word": "RAY",
+      "pos": "n.",
+      "gloss": "a column of light",
+      "definition": "A column of light (as from a beacon).",
+      "band": "common",
+      "tier": "general"
+    },
+    "CRY": {
+      "word": "CRY",
+      "pos": "n.",
+      "gloss": "a loud utterance",
+      "definition": "A loud utterance; often in protest or opposition.",
+      "example": "The speaker was interrupted by loud cries from the rear of the audience.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARC": {
+      "word": "ARC",
+      "pos": "n.",
+      "gloss": "electrical conduction through a gas in an applied electric field",
+      "definition": "Electrical conduction through a gas in an applied electric field.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAY": {
+      "word": "HAY",
+      "pos": "n.",
+      "gloss": "grass mowed and cured for use as fodder",
+      "definition": "Grass mowed and cured for use as fodder.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YARN": {
+      "word": "YARN",
+      "pos": "n.",
+      "gloss": "the act of giving an account describing incidents or a course of events",
+      "definition": "The act of giving an account describing incidents or a course of events.",
+      "example": "His narration was hesitant.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CHAR": {
+      "word": "CHAR",
+      "pos": "n.",
+      "gloss": "a charred substance",
+      "definition": "A charred substance.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

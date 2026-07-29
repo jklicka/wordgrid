@@ -1,0 +1,129 @@
+{
+  "id": "level-290",
+  "baseWord": "WRING",
+  "pool": [
+    "W",
+    "R",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "WRING",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "RING",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "WING",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "GRIN",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "WIN",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "RIG",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "GIN",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "WIG"
+  ],
+  "entries": {
+    "WRING": {
+      "word": "WRING",
+      "pos": "v.",
+      "gloss": "twist and press out of shape",
+      "definition": "Twist and press out of shape.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RING": {
+      "word": "RING",
+      "pos": "v.",
+      "gloss": "sound loudly and sonorously",
+      "definition": "Sound loudly and sonorously.",
+      "example": "The bells rang.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WING": {
+      "word": "WING",
+      "pos": "n.",
+      "gloss": "a movable organ for flying",
+      "definition": "A movable organ for flying (one of a pair).",
+      "band": "common",
+      "tier": "general"
+    },
+    "GRIN": {
+      "word": "GRIN",
+      "pos": "n.",
+      "gloss": "a facial expression characterized by turning up the corners of the mouth",
+      "definition": "A facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WIN": {
+      "word": "WIN",
+      "pos": "v.",
+      "gloss": "be the winner in a contest or competition",
+      "definition": "Be the winner in a contest or competition; be victorious.",
+      "example": "He won the Gold Medal in skating.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIG": {
+      "word": "RIG",
+      "pos": "v.",
+      "gloss": "arrange the outcome of by means of deceit",
+      "definition": "Arrange the outcome of by means of deceit.",
+      "example": "Rig an election.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WIG": {
+      "word": "WIG",
+      "pos": "n.",
+      "gloss": "hairpiece covering the head and made of real or synthetic hair",
+      "definition": "Hairpiece covering the head and made of real or synthetic hair.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

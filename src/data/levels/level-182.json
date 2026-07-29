@@ -1,0 +1,128 @@
+{
+  "id": "level-182",
+  "baseWord": "DECOY",
+  "pool": [
+    "D",
+    "E",
+    "C",
+    "O",
+    "Y"
+  ],
+  "rows": 6,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "DECOY",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "CODE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DECO",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "DOC",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DEC",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "COD",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "DOE",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "DYE"
+  ],
+  "entries": {
+    "DECOY": {
+      "word": "DECOY",
+      "pos": "n.",
+      "gloss": "a beguiler who leads someone into danger",
+      "definition": "A beguiler who leads someone into danger (usually as part of a plot).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CODE": {
+      "word": "CODE",
+      "pos": "n.",
+      "gloss": "a set of rules or principles or laws",
+      "definition": "A set of rules or principles or laws (especially written ones).",
+      "band": "common",
+      "tier": "general"
+    },
+    "DECO": {
+      "word": "DECO",
+      "pos": "n.",
+      "gloss": "a style of design that was popular in the 1920s and 1930s",
+      "definition": "A style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DOC": {
+      "word": "DOC",
+      "pos": "n.",
+      "gloss": "a licensed medical practitioner",
+      "definition": "A licensed medical practitioner.",
+      "example": "I felt so bad I went to see my doctor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEC": {
+      "word": "DEC",
+      "pos": "n.",
+      "gloss": "the angular distance of a celestial body north or to the south of the celestial equator",
+      "definition": "(astronomy) the angular distance of a celestial body north or to the south of the celestial equator; expressed in degrees; used with right ascension to specify positions on the celestial sphere.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COD": {
+      "word": "COD",
+      "pos": "n.",
+      "gloss": "the vessel that contains the seeds of a plant",
+      "definition": "The vessel that contains the seeds of a plant (not the seeds themselves).",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOE": {
+      "word": "DOE",
+      "pos": "n.",
+      "gloss": "mature female of mammals of which the male is called `buck'",
+      "definition": "Mature female of mammals of which the male is called `buck'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DYE": {
+      "word": "DYE",
+      "pos": "v.",
+      "gloss": "color with dye",
+      "definition": "Color with dye.",
+      "example": "Please dye these shoes.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

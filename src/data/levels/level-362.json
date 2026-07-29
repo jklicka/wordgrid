@@ -1,0 +1,155 @@
+{
+  "id": "level-362",
+  "baseWord": "GODSON",
+  "pool": [
+    "G",
+    "O",
+    "D",
+    "S",
+    "O",
+    "N"
+  ],
+  "rows": 7,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "GODSON",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "GOOD",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "SOON",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SONG",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "GOON",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "GOD",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SON",
+    "DOG",
+    "DON",
+    "DONG",
+    "NOD"
+  ],
+  "entries": {
+    "GODSON": {
+      "word": "GODSON",
+      "pos": "n.",
+      "gloss": "a male godchild",
+      "definition": "A male godchild.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GOOD": {
+      "word": "GOOD",
+      "pos": "adj.",
+      "gloss": "having desirable or positive qualities especially those suitable for a thing specified",
+      "definition": "Having desirable or positive qualities especially those suitable for a thing specified.",
+      "example": "Good news from the hospital.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOON": {
+      "word": "SOON",
+      "pos": "adv.",
+      "gloss": "in the near future",
+      "definition": "In the near future.",
+      "example": "The doctor will soon be here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SONG": {
+      "word": "SONG",
+      "pos": "n.",
+      "gloss": "a short musical composition with words",
+      "definition": "A short musical composition with words.",
+      "example": "A successful musical must have at least three good songs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GOON": {
+      "word": "GOON",
+      "pos": "n.",
+      "gloss": "an awkward stupid person",
+      "definition": "An awkward stupid person.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GOD": {
+      "word": "GOD",
+      "pos": "n.",
+      "gloss": "any supernatural being worshipped as controlling some part of the world or some aspect…",
+      "definition": "Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOG": {
+      "word": "DOG",
+      "pos": "n.",
+      "gloss": "a member of the genus Canis that has been domesticated by man since prehistoric times",
+      "definition": "A member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds.",
+      "example": "The dog barked all night.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DON": {
+      "word": "DON",
+      "pos": "n.",
+      "gloss": "teacher at a university or college",
+      "definition": "Teacher at a university or college (especially at Cambridge or Oxford).",
+      "band": "common",
+      "tier": "general"
+    },
+    "DONG": {
+      "word": "DONG",
+      "pos": "n.",
+      "gloss": "the basic unit of money in Vietnam",
+      "definition": "The basic unit of money in Vietnam.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOD": {
+      "word": "NOD",
+      "pos": "v.",
+      "gloss": "express or signify by nodding",
+      "definition": "Express or signify by nodding.",
+      "example": "He nodded his approval.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

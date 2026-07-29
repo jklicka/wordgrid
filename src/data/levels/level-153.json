@@ -1,0 +1,131 @@
+{
+  "id": "level-153",
+  "baseWord": "SLALOM",
+  "pool": [
+    "S",
+    "L",
+    "A",
+    "L",
+    "O",
+    "M"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SLALOM",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SMALL",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "ALSO",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "MALL",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SLAM",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SOMA",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ALL",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SOL"
+  ],
+  "entries": {
+    "SLALOM": {
+      "word": "SLALOM",
+      "pos": "n.",
+      "gloss": "a downhill race over a winding course defined by upright poles",
+      "definition": "A downhill race over a winding course defined by upright poles.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SMALL": {
+      "word": "SMALL",
+      "pos": "adj.",
+      "gloss": "limited or below average in number or quantity or magnitude or extent",
+      "definition": "Limited or below average in number or quantity or magnitude or extent.",
+      "example": "A little dining room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALSO": {
+      "word": "ALSO",
+      "pos": "adv.",
+      "gloss": "in addition",
+      "definition": "In addition.",
+      "example": "He has a Mercedes, too.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MALL": {
+      "word": "MALL",
+      "pos": "n.",
+      "gloss": "a public area set aside as a pedestrian walk",
+      "definition": "A public area set aside as a pedestrian walk.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SLAM": {
+      "word": "SLAM",
+      "pos": "v.",
+      "gloss": "close violently",
+      "definition": "Close violently.",
+      "example": "He slammed the door shut.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOMA": {
+      "word": "SOMA",
+      "pos": "n.",
+      "gloss": "leafless East Indian vine",
+      "definition": "Leafless East Indian vine; its sour milky juice formerly used to make an intoxicating drink.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ALL": {
+      "word": "ALL",
+      "pos": "adj.",
+      "gloss": "used with either mass or count nouns to indicate the whole number or amount of or…",
+      "definition": "(quantifier) used with either mass or count nouns to indicate the whole number or amount of or every one of a class.",
+      "example": "We sat up all night.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOL": {
+      "word": "SOL",
+      "pos": "n.",
+      "gloss": "a colloid that has a continuous liquid phase in which a solid is suspended in a liquid",
+      "definition": "A colloid that has a continuous liquid phase in which a solid is suspended in a liquid.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

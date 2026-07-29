@@ -26,11 +26,14 @@ once teaches nothing.
 
 The most important content rule in the game:
 
-| Band | Frequency | On solve |
+| Band | Zipf frequency | On solve |
 | --- | --- | --- |
-| `common` | rank < 5k | Fills the grid, checkmark only, **no panel** |
-| `teaching` | 5k–20k | Full definition panel + Words Learned |
-| `rare` | > 20k | Excluded from generation |
+| `common` | ≥ 3.6 | Fills the grid, checkmark only, **no panel** |
+| `teaching` | 2.0 – 3.6 | Full definition panel + Words Learned |
+| `rare` | < 2.0 | Excluded from generation |
+
+(Zipf is log10: 6 ≈ once per thousand words, 3 ≈ once per million. Thresholds
+were calibrated against real data, not assumed — see the content pipeline.)
 
 If `CAT` fired the definition panel, players would learn to ignore it within a
 dozen levels and the mechanic would be dead. Silence on common words is what
@@ -44,9 +47,10 @@ discovering `CONICAL` teaches even though it never touches the grid.
 ```
 src/game/engine.ts     PURE functions. No React, no DOM, no randomness.
 src/game/anagram.ts    Signature + multiset-subset helpers.
-src/game/store.ts      Zustand shell + localStorage persistence.
+src/game/progress.ts   PURE. Daily level, streaks, stats.
+src/game/store.ts      Zustand shell: content loading, the clock, localStorage.
 src/components/        Presentation only.
-src/data/levels/       Level JSON (hand-built for now, generated in Phase 4).
+src/data/levels/       400 generated levels, loaded as lazy chunks.
 tools/                 Build-time scripts. Never shipped.
 ```
 
@@ -93,11 +97,32 @@ failures costs nothing. At runtime it would be unusable.
   word scores ≥3.5 Zipf; the junk WordNet carries at that length (`IVA`, `LAV`,
   `LEU`) sits below.
 
+## Install and offline
+
+Built as a PWA: installable from Safari or Chrome, portrait, standalone, and
+precached so it runs with no network. 400 levels ship, which is over a year of
+daily puzzles.
+
+**Levels are lazy chunks, deliberately.** Eager-importing them compiled the
+whole catalogue into the JS bundle — 1.4 MB of content masquerading as code,
+growing linearly with the level count. Lazy loading cut the entry bundle to
+245 kB (74 kB gzipped) while the service worker still precaches all 400 chunks,
+so offline play covers every level rather than only the one you booted on.
+
+**Daily puzzle** is picked by stepping through the catalogue with a stride
+coprime to its size, so every level is used once before any repeats. Hashing
+the date instead would collide within about a month.
+
+**Streaks** count consecutive local days with a completed level. Local, not
+UTC — a UTC boundary would roll the streak over at 7pm for a player in
+California. The displayed streak is recomputed against today rather than read
+from storage, so a streak you have already broken never shows as alive.
+
 ## Testing
 
 ```bash
-npm run test       # vitest (44) + level validation
-npm run test:e2e   # playwright on WebKit at iPhone 13 (10 tests)
+npm run test       # vitest (70) + level validation
+npm run test:e2e   # playwright — 12 on WebKit at iPhone 13, 3 against a production build
 npm run typecheck
 ```
 
@@ -106,14 +131,22 @@ testing a layout no player uses. Unit tests assert against a frozen fixture
 (`tests/fixtures/level-laconic.json`) so regenerating content cannot break
 them; e2e derives its subjects from the real level data for the same reason.
 
+**One honest gap.** The offline tests verify the *preconditions* — the worker
+registers and takes control, and all 409 assets including every level chunk are
+in the cache — but they do not drive the game with the network cut. Playwright
+offers three ways to simulate offline and all of them intercept above the
+service worker, so the worker never gets a chance to serve and the failure says
+nothing about the app. Airplane mode is a manual device check: install from
+Safari, enable airplane mode, play a level, advance to the next.
+
 ## Roadmap
 
 | Phase | Status |
 | --- | --- |
 | 0–3 · Playable level, tap input, full vocabulary loop | ✅ done |
-| 4 · WordNet word list + level generator + validator + 20 levels | ✅ done |
-| 5 · PWA, offline, daily level, streak, stats | next |
-| 6 · Swipe-to-connect; pool ramp 5→7 letters | |
+| 4 · WordNet word list + level generator + validator | ✅ done |
+| 5 · PWA + offline, 400 levels, daily puzzle, streak, stats | ✅ done |
+| 6 · Swipe-to-connect; pool ramp 5→7 letters | next |
 | 7 · Capacitor wrap → App Store (needs Xcode 26) | |
 
 ## License

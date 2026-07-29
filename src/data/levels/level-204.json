@@ -1,0 +1,204 @@
+{
+  "id": "level-204",
+  "baseWord": "ALDER",
+  "pool": [
+    "A",
+    "L",
+    "D",
+    "E",
+    "R"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "ALDER",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "REAL",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "READ",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "LEAD",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DEAR",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DARE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "EARL",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ARE",
+    "DEAL",
+    "RED",
+    "ERA",
+    "EAR",
+    "DALE",
+    "LAD",
+    "ALE",
+    "LARD"
+  ],
+  "entries": {
+    "ALDER": {
+      "word": "ALDER",
+      "pos": "n.",
+      "gloss": "wood of any of various alder trees",
+      "definition": "Wood of any of various alder trees; resistant to underwater rot; used for bridges etc.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "REAL": {
+      "word": "REAL",
+      "pos": "adj.",
+      "gloss": "being or occurring in fact or actuality",
+      "definition": "Being or occurring in fact or actuality; having verified existence; not illusory.",
+      "example": "Real objects.",
+      "band": "common",
+      "tier": "general"
+    },
+    "READ": {
+      "word": "READ",
+      "pos": "v.",
+      "gloss": "interpret something that is written or printed",
+      "definition": "Interpret something that is written or printed.",
+      "example": "Read the advertisement.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEAD": {
+      "word": "LEAD",
+      "pos": "v.",
+      "gloss": "take somebody somewhere",
+      "definition": "Take somebody somewhere.",
+      "example": "We lead him to our chief.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEAR": {
+      "word": "DEAR",
+      "pos": "adj.",
+      "gloss": "dearly loved",
+      "definition": "Dearly loved.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DARE": {
+      "word": "DARE",
+      "pos": "v.",
+      "gloss": "take upon oneself",
+      "definition": "Take upon oneself; act presumptuously, without permission.",
+      "example": "How dare you call my lawyer?",
+      "band": "common",
+      "tier": "general"
+    },
+    "EARL": {
+      "word": "EARL",
+      "pos": "n.",
+      "gloss": "a British peer ranking below a marquess and above a viscount",
+      "definition": "A British peer ranking below a marquess and above a viscount.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEAL": {
+      "word": "DEAL",
+      "pos": "v.",
+      "gloss": "act on verbally or in some form of artistic expression",
+      "definition": "Act on verbally or in some form of artistic expression.",
+      "example": "This book deals with incest.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RED": {
+      "word": "RED",
+      "pos": "n.",
+      "gloss": "red color or pigment",
+      "definition": "Red color or pigment; the chromatic color resembling the hue of blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DALE": {
+      "word": "DALE",
+      "pos": "n.",
+      "gloss": "an open river valley",
+      "definition": "An open river valley (in a hilly area).",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAD": {
+      "word": "LAD",
+      "pos": "n.",
+      "gloss": "a boy or man",
+      "definition": "A boy or man.",
+      "example": "That chap is your host.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALE": {
+      "word": "ALE",
+      "pos": "n.",
+      "gloss": "a general name for beer made with a top fermenting yeast",
+      "definition": "A general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LARD": {
+      "word": "LARD",
+      "pos": "n.",
+      "gloss": "soft white semisolid fat obtained by rendering the fatty tissue of the hog",
+      "definition": "Soft white semisolid fat obtained by rendering the fatty tissue of the hog.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

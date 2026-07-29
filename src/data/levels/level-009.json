@@ -1,129 +1,126 @@
 {
   "id": "level-009",
-  "baseWord": "PLURAL",
+  "baseWord": "SLANG",
   "pool": [
-    "P",
+    "S",
     "L",
-    "U",
-    "R",
     "A",
-    "L"
+    "N",
+    "G"
   ],
-  "rows": 7,
+  "rows": 8,
   "cols": 8,
   "placed": [
     {
-      "word": "PLURAL",
-      "row": 2,
-      "col": 2,
+      "word": "SLANG",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "word": "PULL",
+      "word": "GLANS",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SANG",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "SNAG",
       "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "word": "PALL",
-      "row": 4,
-      "col": 1,
+      "word": "SLAG",
+      "row": 1,
+      "col": 4,
       "direction": "across"
     },
     {
-      "word": "ALL",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "word": "LAP",
-      "row": 1,
+      "word": "GAS",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "word": "RAP",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "word": "PAL",
-      "row": 6,
+      "word": "LAG",
+      "row": 2,
       "col": 0,
       "direction": "across"
     }
   ],
   "bonus": [
-    "PAR"
+    "GAL"
   ],
   "entries": {
-    "PLURAL": {
-      "word": "PLURAL",
+    "SLANG": {
+      "word": "SLANG",
       "pos": "n.",
-      "gloss": "the form of a word that is used to denote more than one",
-      "definition": "The form of a word that is used to denote more than one.",
+      "gloss": "informal language consisting of words and expressions that are not considered…",
+      "definition": "Informal language consisting of words and expressions that are not considered appropriate for formal occasions; often vituperative or vulgar.",
+      "example": "Their speech was full of slang expressions.",
       "band": "teaching",
       "tier": "general"
     },
-    "PULL": {
-      "word": "PULL",
-      "pos": "v.",
-      "gloss": "cause to move by pulling",
-      "definition": "Cause to move by pulling.",
-      "example": "Draw a wagon.",
-      "band": "common",
-      "tier": "general"
-    },
-    "PALL": {
-      "word": "PALL",
-      "pos": "v.",
-      "gloss": "become less interesting or attractive",
-      "definition": "Become less interesting or attractive.",
+    "GLANS": {
+      "word": "GLANS",
+      "pos": "n.",
+      "gloss": "a small rounded structure",
+      "definition": "A small rounded structure; especially that at the end of the penis or clitoris.",
       "band": "teaching",
       "tier": "general"
     },
-    "ALL": {
-      "word": "ALL",
-      "pos": "adj.",
-      "gloss": "used with either mass or count nouns to indicate the whole number or amount of or…",
-      "definition": "(quantifier) used with either mass or count nouns to indicate the whole number or amount of or every one of a class.",
-      "example": "We sat up all night.",
+    "SANG": {
+      "word": "SANG",
+      "pos": "n.",
+      "gloss": "North American woodland herb similar to and used as substitute for the Chinese ginseng",
+      "definition": "North American woodland herb similar to and used as substitute for the Chinese ginseng.",
       "band": "common",
       "tier": "general"
     },
-    "LAP": {
-      "word": "LAP",
+    "SNAG": {
+      "word": "SNAG",
       "pos": "v.",
-      "gloss": "lie partly over or alongside of something or of one another",
-      "definition": "Lie partly over or alongside of something or of one another.",
+      "gloss": "catch on a snag",
+      "definition": "Catch on a snag.",
+      "example": "I snagged my stocking.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SLAG": {
+      "word": "SLAG",
+      "pos": "n.",
+      "gloss": "the scum formed by oxidation at the surface of molten metals",
+      "definition": "The scum formed by oxidation at the surface of molten metals.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GAS": {
+      "word": "GAS",
+      "pos": "n.",
+      "gloss": "the state of matter distinguished from the solid and liquid states by",
+      "definition": "The state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container.",
       "band": "common",
       "tier": "general"
     },
-    "RAP": {
-      "word": "RAP",
+    "LAG": {
+      "word": "LAG",
       "pos": "n.",
-      "gloss": "a reproach for some lapse or misdeed",
-      "definition": "A reproach for some lapse or misdeed.",
-      "example": "He took the blame for it.",
+      "gloss": "the act of slowing down or falling behind",
+      "definition": "The act of slowing down or falling behind.",
       "band": "common",
       "tier": "general"
     },
-    "PAL": {
-      "word": "PAL",
+    "GAL": {
+      "word": "GAL",
       "pos": "n.",
-      "gloss": "a close friend who accompanies his buddies in their activities",
-      "definition": "A close friend who accompanies his buddies in their activities.",
-      "band": "common",
-      "tier": "general"
-    },
-    "PAR": {
-      "word": "PAR",
-      "pos": "n.",
-      "gloss": "the standard number of strokes set for each hole on a golf course, or for the entire…",
-      "definition": "(golf) the standard number of strokes set for each hole on a golf course, or for the entire course.",
-      "example": "A par-5 hole.",
+      "gloss": "United States liquid unit equal to 4 quarts or 3.785 liters",
+      "definition": "United States liquid unit equal to 4 quarts or 3.785 liters.",
       "band": "common",
       "tier": "general"
     }

@@ -1,0 +1,149 @@
+{
+  "id": "level-025",
+  "baseWord": "SHARIA",
+  "pool": [
+    "S",
+    "H",
+    "A",
+    "R",
+    "I",
+    "A"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "SHARIA",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "HAIR",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "RASH",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "AIRS",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ARIA",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SARI",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "AIR",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SIR",
+    "ASH",
+    "IRA"
+  ],
+  "entries": {
+    "SHARIA": {
+      "word": "SHARIA",
+      "pos": "n.",
+      "gloss": "the code of law derived from the Koran and from the teachings and example of Mohammed",
+      "definition": "The code of law derived from the Koran and from the teachings and example of Mohammed.",
+      "example": "Sharia is only applicable to Muslims.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HAIR": {
+      "word": "HAIR",
+      "pos": "n.",
+      "gloss": "a covering for the body consisting of a dense growth of threadlike structures",
+      "definition": "A covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss.",
+      "example": "He combed his hair.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RASH": {
+      "word": "RASH",
+      "pos": "n.",
+      "gloss": "any red eruption of the skin",
+      "definition": "Any red eruption of the skin.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIRS": {
+      "word": "AIRS",
+      "pos": "n.",
+      "gloss": "affected manners intended to impress others",
+      "definition": "Affected manners intended to impress others.",
+      "example": "Don't put on airs with me.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ARIA": {
+      "word": "ARIA",
+      "pos": "n.",
+      "gloss": "an elaborate song for solo voice",
+      "definition": "An elaborate song for solo voice.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SARI": {
+      "word": "SARI",
+      "pos": "n.",
+      "gloss": "a dress worn primarily by Hindu women",
+      "definition": "A dress worn primarily by Hindu women; consists of several yards of light material that is draped around the body.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AIR": {
+      "word": "AIR",
+      "pos": "n.",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIR": {
+      "word": "SIR",
+      "pos": "n.",
+      "gloss": "term of address for a man",
+      "definition": "Term of address for a man.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ASH": {
+      "word": "ASH",
+      "pos": "n.",
+      "gloss": "the residue that remains when something is burned",
+      "definition": "The residue that remains when something is burned.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IRA": {
+      "word": "IRA",
+      "pos": "n.",
+      "gloss": "belligerence aroused by a real or supposed wrong",
+      "definition": "Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

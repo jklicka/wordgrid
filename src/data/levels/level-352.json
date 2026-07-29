@@ -1,0 +1,169 @@
+{
+  "id": "level-352",
+  "baseWord": "JODHPUR",
+  "pool": [
+    "J",
+    "O",
+    "D",
+    "H",
+    "P",
+    "U",
+    "R"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "JODHPUR",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PROUD",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "HOUR",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "DROP",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "POUR",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "JUDO",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "PROD",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "PRO",
+    "HOP",
+    "ROD",
+    "DUO",
+    "POD"
+  ],
+  "entries": {
+    "JODHPUR": {
+      "word": "JODHPUR",
+      "pos": "n.",
+      "gloss": "a short riding boot that fastens with a buckle at the side",
+      "definition": "A short riding boot that fastens with a buckle at the side.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PROUD": {
+      "word": "PROUD",
+      "pos": "adj.",
+      "gloss": "feeling self-respect or pleasure in something by which you measure your self-worth",
+      "definition": "Feeling self-respect or pleasure in something by which you measure your self-worth; or being a reason for pride.",
+      "example": "Proud parents.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOUR": {
+      "word": "HOUR",
+      "pos": "n.",
+      "gloss": "a period of time equal to 1/24th of a day",
+      "definition": "A period of time equal to 1/24th of a day.",
+      "example": "The job will take more than an hour.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DROP": {
+      "word": "DROP",
+      "pos": "v.",
+      "gloss": "let fall to the ground",
+      "definition": "Let fall to the ground.",
+      "example": "Don't drop the dishes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POUR": {
+      "word": "POUR",
+      "pos": "v.",
+      "gloss": "cause to run",
+      "definition": "Cause to run.",
+      "example": "Pour water over the floor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "JUDO": {
+      "word": "JUDO",
+      "pos": "n.",
+      "gloss": "a sport adapted from jujitsu and similar to wrestling",
+      "definition": "A sport adapted from jujitsu (using principles of not resisting) and similar to wrestling; developed in Japan.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PROD": {
+      "word": "PROD",
+      "pos": "v.",
+      "gloss": "to push against gently",
+      "definition": "To push against gently.",
+      "example": "She nudged my elbow when she saw her friend enter the restaurant.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PRO": {
+      "word": "PRO",
+      "pos": "n.",
+      "gloss": "an athlete who plays for pay",
+      "definition": "An athlete who plays for pay.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOP": {
+      "word": "HOP",
+      "pos": "v.",
+      "gloss": "jump lightly",
+      "definition": "Jump lightly.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROD": {
+      "word": "ROD",
+      "pos": "n.",
+      "gloss": "a long thin implement made of metal or wood",
+      "definition": "A long thin implement made of metal or wood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUO": {
+      "word": "DUO",
+      "pos": "n.",
+      "gloss": "two items of the same kind",
+      "definition": "Two items of the same kind.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POD": {
+      "word": "POD",
+      "pos": "n.",
+      "gloss": "the vessel that contains the seeds of a plant",
+      "definition": "The vessel that contains the seeds of a plant (not the seeds themselves).",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

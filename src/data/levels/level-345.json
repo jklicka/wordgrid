@@ -1,0 +1,167 @@
+{
+  "id": "level-345",
+  "baseWord": "WASHY",
+  "pool": [
+    "W",
+    "A",
+    "S",
+    "H",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "WASHY",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "WAYS",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "WASH",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SWAY",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SHAY",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "WAY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "WHY",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SAY",
+    "SAW",
+    "ASH",
+    "SHY",
+    "HAY"
+  ],
+  "entries": {
+    "WASHY": {
+      "word": "WASHY",
+      "pos": "adj.",
+      "gloss": "overly diluted",
+      "definition": "Overly diluted; thin and insipid.",
+      "example": "Washy coffee.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WAYS": {
+      "word": "WAYS",
+      "pos": "n.",
+      "gloss": "structure consisting of a sloping way down to the water from the place where ships are…",
+      "definition": "Structure consisting of a sloping way down to the water from the place where ships are built or repaired.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WASH": {
+      "word": "WASH",
+      "pos": "v.",
+      "gloss": "clean with some chemical process",
+      "definition": "Clean with some chemical process.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SWAY": {
+      "word": "SWAY",
+      "pos": "v.",
+      "gloss": "move back and forth or sideways",
+      "definition": "Move back and forth or sideways.",
+      "example": "The ship was rocking.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SHAY": {
+      "word": "SHAY",
+      "pos": "n.",
+      "gloss": "a carriage consisting of two wheels and a calash top",
+      "definition": "A carriage consisting of two wheels and a calash top; drawn by a single horse.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WAY": {
+      "word": "WAY",
+      "pos": "n.",
+      "gloss": "how something is done or how it happens",
+      "definition": "How something is done or how it happens.",
+      "example": "Her dignified manner.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WHY": {
+      "word": "WHY",
+      "pos": "n.",
+      "gloss": "the cause or intention underlying an action or situation, especially in the phrase…",
+      "definition": "The cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAY": {
+      "word": "SAY",
+      "pos": "v.",
+      "gloss": "express in words",
+      "definition": "Express in words.",
+      "example": "He said that he wanted to marry her.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAW": {
+      "word": "SAW",
+      "pos": "v.",
+      "gloss": "cut with a saw",
+      "definition": "Cut with a saw.",
+      "example": "Saw wood for the fireplace.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ASH": {
+      "word": "ASH",
+      "pos": "n.",
+      "gloss": "the residue that remains when something is burned",
+      "definition": "The residue that remains when something is burned.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SHY": {
+      "word": "SHY",
+      "pos": "v.",
+      "gloss": "start suddenly, as from fright",
+      "definition": "Start suddenly, as from fright.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAY": {
+      "word": "HAY",
+      "pos": "n.",
+      "gloss": "grass mowed and cured for use as fodder",
+      "definition": "Grass mowed and cured for use as fodder.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

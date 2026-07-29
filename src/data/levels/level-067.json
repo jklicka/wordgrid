@@ -1,0 +1,130 @@
+{
+  "id": "level-067",
+  "baseWord": "TIRING",
+  "pool": [
+    "T",
+    "I",
+    "R",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "TIRING",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "RING",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "GRIN",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "GRIT",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "TING",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TIN",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "RIG",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "GIN"
+  ],
+  "entries": {
+    "TIRING": {
+      "word": "TIRING",
+      "pos": "adj.",
+      "gloss": "producing exhaustion",
+      "definition": "Producing exhaustion.",
+      "example": "An exhausting march.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RING": {
+      "word": "RING",
+      "pos": "v.",
+      "gloss": "sound loudly and sonorously",
+      "definition": "Sound loudly and sonorously.",
+      "example": "The bells rang.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GRIN": {
+      "word": "GRIN",
+      "pos": "n.",
+      "gloss": "a facial expression characterized by turning up the corners of the mouth",
+      "definition": "A facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GRIT": {
+      "word": "GRIT",
+      "pos": "n.",
+      "gloss": "a hard coarse-grained siliceous sandstone",
+      "definition": "A hard coarse-grained siliceous sandstone.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TING": {
+      "word": "TING",
+      "pos": "n.",
+      "gloss": "a light clear metallic sound as of a small bell",
+      "definition": "A light clear metallic sound as of a small bell.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TIN": {
+      "word": "TIN",
+      "pos": "n.",
+      "gloss": "a silvery malleable metallic element that resists corrosion",
+      "definition": "A silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIG": {
+      "word": "RIG",
+      "pos": "v.",
+      "gloss": "arrange the outcome of by means of deceit",
+      "definition": "Arrange the outcome of by means of deceit.",
+      "example": "Rig an election.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

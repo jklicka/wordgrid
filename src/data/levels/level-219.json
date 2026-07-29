@@ -1,0 +1,130 @@
+{
+  "id": "level-219",
+  "baseWord": "GYPSUM",
+  "pool": [
+    "G",
+    "Y",
+    "P",
+    "S",
+    "U",
+    "M"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "GYPSUM",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SMUG",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "GUY",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "GYM",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SUM",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SPY",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "GUM",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "MUG"
+  ],
+  "entries": {
+    "GYPSUM": {
+      "word": "GYPSUM",
+      "pos": "n.",
+      "gloss": "a common white or colorless mineral used to make cements and plasters",
+      "definition": "A common white or colorless mineral (hydrated calcium sulphate) used to make cements and plasters (especially plaster of Paris).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SMUG": {
+      "word": "SMUG",
+      "pos": "adj.",
+      "gloss": "marked by excessive complacency or self-satisfaction",
+      "definition": "Marked by excessive complacency or self-satisfaction.",
+      "example": "A smug glow of self-congratulation.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GUY": {
+      "word": "GUY",
+      "pos": "n.",
+      "gloss": "an informal term for a youth or man",
+      "definition": "An informal term for a youth or man.",
+      "example": "A nice guy.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GYM": {
+      "word": "GYM",
+      "pos": "n.",
+      "gloss": "athletic facility equipped for sports or physical training",
+      "definition": "Athletic facility equipped for sports or physical training.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUM": {
+      "word": "SUM",
+      "pos": "n.",
+      "gloss": "a quantity of money",
+      "definition": "A quantity of money.",
+      "example": "He borrowed a large sum.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPY": {
+      "word": "SPY",
+      "pos": "v.",
+      "gloss": "catch sight of",
+      "definition": "Catch sight of.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUM": {
+      "word": "GUM",
+      "pos": "n.",
+      "gloss": "a preparation for chewing",
+      "definition": "A preparation (usually made of sweetened chicle) for chewing.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MUG": {
+      "word": "MUG",
+      "pos": "n.",
+      "gloss": "the quantity that can be held in a mug",
+      "definition": "The quantity that can be held in a mug.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "id": "level-200",
+  "baseWord": "MISHAP",
+  "pool": [
+    "M",
+    "I",
+    "S",
+    "H",
+    "A",
+    "P"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "MISHAP",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SHIP",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "SPAM",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "MASH",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "SHAM",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "MAP",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "AIM",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "HIP",
+    "ASH",
+    "HAM",
+    "MPH",
+    "SPA",
+    "AMP",
+    "SIP",
+    "SAP"
+  ],
+  "entries": {
+    "MISHAP": {
+      "word": "MISHAP",
+      "pos": "n.",
+      "gloss": "an unpredictable outcome that is unfortunate",
+      "definition": "An unpredictable outcome that is unfortunate.",
+      "example": "If I didn't have bad luck I wouldn't have any luck at all.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SHIP": {
+      "word": "SHIP",
+      "pos": "n.",
+      "gloss": "a vessel that carries passengers or freight",
+      "definition": "A vessel that carries passengers or freight.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPAM": {
+      "word": "SPAM",
+      "pos": "n.",
+      "gloss": "unwanted e-mail",
+      "definition": "Unwanted e-mail (usually of a commercial nature sent out in bulk).",
+      "band": "common",
+      "tier": "general"
+    },
+    "MASH": {
+      "word": "MASH",
+      "pos": "v.",
+      "gloss": "to compress with violence, out of natural shape or condition",
+      "definition": "To compress with violence, out of natural shape or condition.",
+      "example": "Crush an aluminum can.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SHAM": {
+      "word": "SHAM",
+      "pos": "n.",
+      "gloss": "something that is a counterfeit",
+      "definition": "Something that is a counterfeit; not what it seems to be.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAP": {
+      "word": "MAP",
+      "pos": "v.",
+      "gloss": "make a map of",
+      "definition": "Make a map of; show or establish the features of details of.",
+      "example": "Map the surface of Venus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIM": {
+      "word": "AIM",
+      "pos": "v.",
+      "gloss": "point or cause to go towards",
+      "definition": "Point or cause to go (blows, weapons, or objects such as photographic equipment) towards.",
+      "example": "Please don't aim at your little brother!",
+      "band": "common",
+      "tier": "general"
+    },
+    "HIP": {
+      "word": "HIP",
+      "pos": "n.",
+      "gloss": "either side of the body below the waist and above the thigh",
+      "definition": "Either side of the body below the waist and above the thigh.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ASH": {
+      "word": "ASH",
+      "pos": "n.",
+      "gloss": "the residue that remains when something is burned",
+      "definition": "The residue that remains when something is burned.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAM": {
+      "word": "HAM",
+      "pos": "n.",
+      "gloss": "meat cut from the thigh of a hog",
+      "definition": "Meat cut from the thigh of a hog (usually smoked).",
+      "band": "common",
+      "tier": "general"
+    },
+    "MPH": {
+      "word": "MPH",
+      "pos": "n.",
+      "gloss": "the ratio of the distance traveled to the time spent traveling",
+      "definition": "The ratio of the distance traveled (in miles) to the time spent traveling (in hours).",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPA": {
+      "word": "SPA",
+      "pos": "n.",
+      "gloss": "a health resort near a spring or at the seaside",
+      "definition": "A health resort near a spring or at the seaside.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AMP": {
+      "word": "AMP",
+      "pos": "n.",
+      "gloss": "the basic unit of electric current adopted under the Systeme International d'Unites",
+      "definition": "The basic unit of electric current adopted under the Systeme International d'Unites.",
+      "example": "A typical household circuit carries 15 to 50 amps.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIP": {
+      "word": "SIP",
+      "pos": "n.",
+      "gloss": "a small drink",
+      "definition": "A small drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAP": {
+      "word": "SAP",
+      "pos": "v.",
+      "gloss": "deplete",
+      "definition": "Deplete.",
+      "example": "Exhaust one's savings.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

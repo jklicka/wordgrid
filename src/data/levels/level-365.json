@@ -1,0 +1,158 @@
+{
+  "id": "level-365",
+  "baseWord": "DEMURE",
+  "pool": [
+    "D",
+    "E",
+    "M",
+    "U",
+    "R",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "DEMURE",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RUDE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "MERE",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DEER",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "REED",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "DEEM",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DUE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "RED",
+    "MUD",
+    "DRUM",
+    "RUM"
+  ],
+  "entries": {
+    "DEMURE": {
+      "word": "DEMURE",
+      "pos": "adj.",
+      "gloss": "affectedly modest or shy especially in a playful or provocative way",
+      "definition": "Affectedly modest or shy especially in a playful or provocative way.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RUDE": {
+      "word": "RUDE",
+      "pos": "adj.",
+      "gloss": "socially incorrect in behavior",
+      "definition": "Socially incorrect in behavior.",
+      "example": "Resentment flared at such an unmannered intrusion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MERE": {
+      "word": "MERE",
+      "pos": "adj.",
+      "gloss": "being nothing more than specified",
+      "definition": "Being nothing more than specified.",
+      "example": "A mere child.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEER": {
+      "word": "DEER",
+      "pos": "n.",
+      "gloss": "distinguished from Bovidae by the male's having solid deciduous antlers",
+      "definition": "Distinguished from Bovidae by the male's having solid deciduous antlers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REED": {
+      "word": "REED",
+      "pos": "n.",
+      "gloss": "tall woody perennial grasses with hollow slender stems especially of the genera Arundo…",
+      "definition": "Tall woody perennial grasses with hollow slender stems especially of the genera Arundo and Phragmites.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEEM": {
+      "word": "DEEM",
+      "pos": "v.",
+      "gloss": "keep in mind or convey as a conviction or view",
+      "definition": "Keep in mind or convey as a conviction or view.",
+      "example": "Take for granted.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DUE": {
+      "word": "DUE",
+      "pos": "adj.",
+      "gloss": "owed and payable immediately or on demand",
+      "definition": "Owed and payable immediately or on demand.",
+      "example": "Payment is due.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RED": {
+      "word": "RED",
+      "pos": "n.",
+      "gloss": "red color or pigment",
+      "definition": "Red color or pigment; the chromatic color resembling the hue of blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MUD": {
+      "word": "MUD",
+      "pos": "n.",
+      "gloss": "water soaked soil",
+      "definition": "Water soaked soil; soft wet earth.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DRUM": {
+      "word": "DRUM",
+      "pos": "n.",
+      "gloss": "a musical percussion instrument",
+      "definition": "A musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUM": {
+      "word": "RUM",
+      "pos": "n.",
+      "gloss": "liquor distilled from fermented molasses",
+      "definition": "Liquor distilled from fermented molasses.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "level-301",
+  "baseWord": "HYDRANT",
+  "pool": [
+    "H",
+    "Y",
+    "D",
+    "R",
+    "A",
+    "N",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "HYDRANT",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "HANDY",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "RANDY",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "HARDY",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "HYDRA",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "TARDY",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "HARD",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ANY",
+    "DAY",
+    "TRY",
+    "HAND",
+    "ART",
+    "DRY",
+    "RAY",
+    "YARD",
+    "HAT",
+    "RAT"
+  ],
+  "entries": {
+    "HYDRANT": {
+      "word": "HYDRANT",
+      "pos": "n.",
+      "gloss": "a faucet for drawing water from a pipe or cask",
+      "definition": "A faucet for drawing water from a pipe or cask.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HANDY": {
+      "word": "HANDY",
+      "pos": "adj.",
+      "gloss": "easy to reach",
+      "definition": "Easy to reach.",
+      "example": "Found a handy spot for the can opener.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RANDY": {
+      "word": "RANDY",
+      "pos": "adj.",
+      "gloss": "feeling great sexual desire",
+      "definition": "Feeling great sexual desire.",
+      "example": "Feeling horny.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HARDY": {
+      "word": "HARDY",
+      "pos": "adj.",
+      "gloss": "having rugged physical strength",
+      "definition": "Having rugged physical strength; inured to fatigue or hardships.",
+      "example": "Hardy explorers of northern Canada.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HYDRA": {
+      "word": "HYDRA",
+      "pos": "n.",
+      "gloss": "trouble that cannot be overcome by a single effort because of its many aspects or its…",
+      "definition": "Trouble that cannot be overcome by a single effort because of its many aspects or its persistent and pervasive quality.",
+      "example": "We may be facing a hydra that defies any easy solution.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TARDY": {
+      "word": "TARDY",
+      "pos": "adj.",
+      "gloss": "after the expected or usual time",
+      "definition": "After the expected or usual time; delayed.",
+      "example": "A belated birthday card.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HARD": {
+      "word": "HARD",
+      "pos": "adj.",
+      "gloss": "not easy; requiring great physical or mental effort to accomplish or comprehend or endure",
+      "definition": "Not easy; requiring great physical or mental effort to accomplish or comprehend or endure.",
+      "example": "A difficult task.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANY": {
+      "word": "ANY",
+      "pos": "adj.",
+      "gloss": "one or some or every or all without specification",
+      "definition": "One or some or every or all without specification.",
+      "example": "Give me any peaches you don't want.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAY": {
+      "word": "DAY",
+      "pos": "n.",
+      "gloss": "time for Earth to make a complete rotation on its axis",
+      "definition": "Time for Earth to make a complete rotation on its axis.",
+      "example": "Two days later they left.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TRY": {
+      "word": "TRY",
+      "pos": "v.",
+      "gloss": "make an effort or attempt",
+      "definition": "Make an effort or attempt.",
+      "example": "He tried to shake off his fears.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAND": {
+      "word": "HAND",
+      "pos": "n.",
+      "gloss": "the extremity of the superior limb",
+      "definition": "The (prehensile) extremity of the superior limb.",
+      "example": "He had the hands of a surgeon.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ART": {
+      "word": "ART",
+      "pos": "n.",
+      "gloss": "the products of human creativity",
+      "definition": "The products of human creativity; works of art collectively.",
+      "example": "An art exhibition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DRY": {
+      "word": "DRY",
+      "pos": "v.",
+      "gloss": "remove the moisture from and make dry",
+      "definition": "Remove the moisture from and make dry.",
+      "example": "Dry clothes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAY": {
+      "word": "RAY",
+      "pos": "n.",
+      "gloss": "a column of light",
+      "definition": "A column of light (as from a beacon).",
+      "band": "common",
+      "tier": "general"
+    },
+    "YARD": {
+      "word": "YARD",
+      "pos": "n.",
+      "gloss": "a unit of length equal to 3 feet",
+      "definition": "A unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAT": {
+      "word": "HAT",
+      "pos": "n.",
+      "gloss": "headdress that protects the head from bad weather",
+      "definition": "Headdress that protects the head from bad weather; has shaped crown and usually a brim.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAT": {
+      "word": "RAT",
+      "pos": "n.",
+      "gloss": "any of various long-tailed rodents similar to but larger than a mouse",
+      "definition": "Any of various long-tailed rodents similar to but larger than a mouse.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "id": "level-104",
+  "baseWord": "UNISON",
+  "pool": [
+    "U",
+    "N",
+    "I",
+    "S",
+    "O",
+    "N"
+  ],
+  "rows": 5,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "UNISON",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "UNION",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "NOUN",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "NOUS",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "ONUS",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "NON",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SON",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "SUN",
+    "SIN",
+    "ION",
+    "INN",
+    "NUN"
+  ],
+  "entries": {
+    "UNISON": {
+      "word": "UNISON",
+      "pos": "n.",
+      "gloss": "corresponding exactly",
+      "definition": "Corresponding exactly.",
+      "example": "Marching in unison.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "UNION": {
+      "word": "UNION",
+      "pos": "n.",
+      "gloss": "an organization of employees formed to bargain with the employer",
+      "definition": "An organization of employees formed to bargain with the employer.",
+      "example": "You have to join the union in order to get a job.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOUN": {
+      "word": "NOUN",
+      "pos": "n.",
+      "gloss": "a content word that can be used to refer to a person, place, thing, quality, or action",
+      "definition": "A content word that can be used to refer to a person, place, thing, quality, or action.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOUS": {
+      "word": "NOUS",
+      "pos": "n.",
+      "gloss": "common sense",
+      "definition": "Common sense.",
+      "example": "She has great social nous.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ONUS": {
+      "word": "ONUS",
+      "pos": "n.",
+      "gloss": "an onerous or difficult concern",
+      "definition": "An onerous or difficult concern.",
+      "example": "The burden of responsibility.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NON": {
+      "word": "NON",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUN": {
+      "word": "SUN",
+      "pos": "n.",
+      "gloss": "the star that is the source of light and heat for the planets in the solar system",
+      "definition": "The star that is the source of light and heat for the planets in the solar system.",
+      "example": "The sun contains 99.85% of the mass in the solar system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIN": {
+      "word": "SIN",
+      "pos": "n.",
+      "gloss": "estrangement from god",
+      "definition": "Estrangement from god.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ION": {
+      "word": "ION",
+      "pos": "n.",
+      "gloss": "a particle that is electrically charged",
+      "definition": "A particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons.",
+      "band": "common",
+      "tier": "general"
+    },
+    "INN": {
+      "word": "INN",
+      "pos": "n.",
+      "gloss": "a hotel providing overnight lodging for travelers",
+      "definition": "A hotel providing overnight lodging for travelers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUN": {
+      "word": "NUN",
+      "pos": "n.",
+      "gloss": "a woman religious",
+      "definition": "A woman religious.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

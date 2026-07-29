@@ -1,0 +1,152 @@
+{
+  "id": "level-158",
+  "baseWord": "ELICIT",
+  "pool": [
+    "E",
+    "L",
+    "I",
+    "C",
+    "I",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "ELICIT",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "TILE",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "CITE",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "LITE",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CLIT",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LET",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "ICE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "LIE",
+    "TIE",
+    "LIT"
+  ],
+  "entries": {
+    "ELICIT": {
+      "word": "ELICIT",
+      "pos": "v.",
+      "gloss": "call forth",
+      "definition": "Call forth (emotions, feelings, and responses).",
+      "example": "Arouse pity.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TILE": {
+      "word": "TILE",
+      "pos": "n.",
+      "gloss": "a flat thin rectangular slab used to cover surfaces",
+      "definition": "A flat thin rectangular slab (as of fired clay or rubber or linoleum) used to cover surfaces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CITE": {
+      "word": "CITE",
+      "pos": "v.",
+      "gloss": "make reference to",
+      "definition": "Make reference to.",
+      "example": "His name was mentioned in connection with the invention.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LITE": {
+      "word": "LITE",
+      "pos": "adj.",
+      "gloss": "having relatively few calories",
+      "definition": "Having relatively few calories.",
+      "example": "Diet cola.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CLIT": {
+      "word": "CLIT",
+      "pos": "n.",
+      "gloss": "a female sexual organ homologous to the penis",
+      "definition": "A female sexual organ homologous to the penis.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LET": {
+      "word": "LET",
+      "pos": "v.",
+      "gloss": "make it possible through a specific action or lack of action for something to happen",
+      "definition": "Make it possible through a specific action or lack of action for something to happen.",
+      "example": "This permits the water to rush in.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ICE": {
+      "word": "ICE",
+      "pos": "n.",
+      "gloss": "water frozen in the solid state",
+      "definition": "Water frozen in the solid state.",
+      "example": "Americans like ice in their drinks.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIE": {
+      "word": "LIE",
+      "pos": "v.",
+      "gloss": "be located or situated somewhere",
+      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIE": {
+      "word": "TIE",
+      "pos": "n.",
+      "gloss": "neckwear consisting of a long narrow piece of material worn under a collar and tied in…",
+      "definition": "Neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front.",
+      "example": "He stood in front of the mirror tightening his necktie.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIT": {
+      "word": "LIT",
+      "pos": "adj.",
+      "gloss": "provided with artificial light",
+      "definition": "Provided with artificial light.",
+      "example": "Illuminated advertising.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

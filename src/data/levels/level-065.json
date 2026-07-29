@@ -1,0 +1,119 @@
+{
+  "id": "level-065",
+  "baseWord": "INQUIRE",
+  "pool": [
+    "I",
+    "N",
+    "Q",
+    "U",
+    "I",
+    "R",
+    "E"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "INQUIRE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "URINE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "QUIRE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "RUIN",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "RUNE",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "RUN",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "REIN"
+  ],
+  "entries": {
+    "INQUIRE": {
+      "word": "INQUIRE",
+      "pos": "v.",
+      "gloss": "address a question to and expect an answer from",
+      "definition": "Address a question to and expect an answer from.",
+      "example": "Ask your teacher about trigonometry.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "URINE": {
+      "word": "URINE",
+      "pos": "n.",
+      "gloss": "liquid excretory product",
+      "definition": "Liquid excretory product.",
+      "example": "There was blood in his urine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "QUIRE": {
+      "word": "QUIRE",
+      "pos": "n.",
+      "gloss": "a quantity of paper",
+      "definition": "A quantity of paper; 24 or 25 sheets.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RUIN": {
+      "word": "RUIN",
+      "pos": "n.",
+      "gloss": "an irrecoverable state of devastation and destruction",
+      "definition": "An irrecoverable state of devastation and destruction.",
+      "example": "You have brought ruin on this entire family.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUNE": {
+      "word": "RUNE",
+      "pos": "n.",
+      "gloss": "any character from an ancient Germanic alphabet used in Scandinavia from the 3rd…",
+      "definition": "Any character from an ancient Germanic alphabet used in Scandinavia from the 3rd century to the Middle Ages.",
+      "example": "Each rune had its own magical significance.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RUN": {
+      "word": "RUN",
+      "pos": "v.",
+      "gloss": "move fast by using one's feet, with one foot off the ground at any given time",
+      "definition": "Move fast by using one's feet, with one foot off the ground at any given time.",
+      "example": "Don't run--you'll be out of breath.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REIN": {
+      "word": "REIN",
+      "pos": "n.",
+      "gloss": "one of a pair of long straps used to control a horse",
+      "definition": "One of a pair of long straps (usually connected to the bit or the headpiece) used to control a horse.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

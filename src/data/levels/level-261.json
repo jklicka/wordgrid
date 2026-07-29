@@ -1,0 +1,153 @@
+{
+  "id": "level-261",
+  "baseWord": "RETIREE",
+  "pool": [
+    "R",
+    "E",
+    "T",
+    "I",
+    "R",
+    "E",
+    "E"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "RETIREE",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "RETIRE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "EERIE",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "TRIER",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TREE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "TIER",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TIRE",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "TIE",
+    "TEE",
+    "RITE"
+  ],
+  "entries": {
+    "RETIREE": {
+      "word": "RETIREE",
+      "pos": "n.",
+      "gloss": "someone who has retired from active working",
+      "definition": "Someone who has retired from active working.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RETIRE": {
+      "word": "RETIRE",
+      "pos": "v.",
+      "gloss": "go into retirement",
+      "definition": "Go into retirement; stop performing one's work or withdraw from one's position.",
+      "example": "He retired at age 68.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EERIE": {
+      "word": "EERIE",
+      "pos": "adj.",
+      "gloss": "suggestive of the supernatural",
+      "definition": "Suggestive of the supernatural; mysterious.",
+      "example": "An eerie feeling of deja vu.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TRIER": {
+      "word": "TRIER",
+      "pos": "n.",
+      "gloss": "one who examines and settles a case",
+      "definition": "One (as a judge) who examines and settles a case.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TREE": {
+      "word": "TREE",
+      "pos": "n.",
+      "gloss": "a tall perennial woody plant having a main trunk and branches forming a distinct…",
+      "definition": "A tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIER": {
+      "word": "TIER",
+      "pos": "n.",
+      "gloss": "a relative position or degree of value in a graded group",
+      "definition": "A relative position or degree of value in a graded group.",
+      "example": "Lumber of the highest grade.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIRE": {
+      "word": "TIRE",
+      "pos": "v.",
+      "gloss": "lose interest or become bored with something or somebody",
+      "definition": "Lose interest or become bored with something or somebody.",
+      "example": "I'm so tired of your mother and her complaints about my food.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIE": {
+      "word": "TIE",
+      "pos": "n.",
+      "gloss": "neckwear consisting of a long narrow piece of material worn under a collar and tied in…",
+      "definition": "Neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front.",
+      "example": "He stood in front of the mirror tightening his necktie.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEE": {
+      "word": "TEE",
+      "pos": "n.",
+      "gloss": "the starting place for each hole on a golf course",
+      "definition": "The starting place for each hole on a golf course.",
+      "example": "They were waiting on the first tee.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RITE": {
+      "word": "RITE",
+      "pos": "n.",
+      "gloss": "an established ceremony prescribed by a religion",
+      "definition": "An established ceremony prescribed by a religion.",
+      "example": "The rite of baptism.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

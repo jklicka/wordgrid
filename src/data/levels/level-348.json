@@ -1,0 +1,151 @@
+{
+  "id": "level-348",
+  "baseWord": "NEWNESS",
+  "pool": [
+    "N",
+    "E",
+    "W",
+    "N",
+    "E",
+    "S",
+    "S"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "NEWNESS",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SENSE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "NEWS",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "NESS",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SENS",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "SEWN",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "NEW",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "SEE",
+    "SEN",
+    "WEE"
+  ],
+  "entries": {
+    "NEWNESS": {
+      "word": "NEWNESS",
+      "pos": "n.",
+      "gloss": "the quality of being new",
+      "definition": "The quality of being new; the opposite of oldness.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SENSE": {
+      "word": "SENSE",
+      "pos": "n.",
+      "gloss": "a general conscious awareness",
+      "definition": "A general conscious awareness.",
+      "example": "A sense of security.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NEWS": {
+      "word": "NEWS",
+      "pos": "n.",
+      "gloss": "information about recent and important events",
+      "definition": "Information about recent and important events.",
+      "example": "They awaited news of the outcome.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NESS": {
+      "word": "NESS",
+      "pos": "n.",
+      "gloss": "a strip of land projecting into a body of water",
+      "definition": "A strip of land projecting into a body of water.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SENS": {
+      "word": "SENS",
+      "pos": "n.",
+      "gloss": "street names for marijuana",
+      "definition": "Street names for marijuana.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SEWN": {
+      "word": "SEWN",
+      "pos": "adj.",
+      "gloss": "fastened with stitches",
+      "definition": "Fastened with stitches.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NEW": {
+      "word": "NEW",
+      "pos": "adj.",
+      "gloss": "not of long duration",
+      "definition": "Not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered.",
+      "example": "A new law.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEE": {
+      "word": "SEE",
+      "pos": "v.",
+      "gloss": "perceive by sight or have the power to perceive by sight",
+      "definition": "Perceive by sight or have the power to perceive by sight.",
+      "example": "You have to be a good observer to see all the details.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEN": {
+      "word": "SEN",
+      "pos": "n.",
+      "gloss": "a fractional monetary unit of Japan and Indonesia and Cambodia",
+      "definition": "A fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WEE": {
+      "word": "WEE",
+      "pos": "adj.",
+      "gloss": "very small",
+      "definition": "(used informally) very small.",
+      "example": "A wee tot.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

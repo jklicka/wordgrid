@@ -1,0 +1,139 @@
+{
+  "id": "level-233",
+  "baseWord": "INFRA",
+  "pool": [
+    "I",
+    "N",
+    "F",
+    "R",
+    "A"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "INFRA",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "FAIR",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "RAIN",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "RANI",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "FAR",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "AIR",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "FAN",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "IRA",
+    "FIN"
+  ],
+  "entries": {
+    "INFRA": {
+      "word": "INFRA",
+      "pos": "adv.",
+      "gloss": "at a later place",
+      "definition": "(in writing) at a later place.",
+      "example": "See below.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FAIR": {
+      "word": "FAIR",
+      "pos": "adj.",
+      "gloss": "free from favoritism or self-interest or bias or deception",
+      "definition": "Free from favoritism or self-interest or bias or deception; conforming with established standards or rules.",
+      "example": "A fair referee.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAIN": {
+      "word": "RAIN",
+      "pos": "n.",
+      "gloss": "water falling in drops from vapor condensed in the atmosphere",
+      "definition": "Water falling in drops from vapor condensed in the atmosphere.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RANI": {
+      "word": "RANI",
+      "pos": "n.",
+      "gloss": "a Hindu princess or the wife of a raja",
+      "definition": "(the feminine of raja) a Hindu princess or the wife of a raja.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FAR": {
+      "word": "FAR",
+      "pos": "adv.",
+      "gloss": "to a considerable degree",
+      "definition": "To a considerable degree; very much.",
+      "example": "A far far better thing that I do.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIR": {
+      "word": "AIR",
+      "pos": "n.",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FAN": {
+      "word": "FAN",
+      "pos": "n.",
+      "gloss": "a device for creating a current of air by movement of a surface or surfaces",
+      "definition": "A device for creating a current of air by movement of a surface or surfaces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IRA": {
+      "word": "IRA",
+      "pos": "n.",
+      "gloss": "belligerence aroused by a real or supposed wrong",
+      "definition": "Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).",
+      "band": "common",
+      "tier": "general"
+    },
+    "FIN": {
+      "word": "FIN",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of four and one",
+      "definition": "The cardinal number that is the sum of four and one.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

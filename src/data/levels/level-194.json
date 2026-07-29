@@ -1,0 +1,157 @@
+{
+  "id": "level-194",
+  "baseWord": "BOWER",
+  "pool": [
+    "B",
+    "O",
+    "W",
+    "E",
+    "R"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "BOWER",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BORE",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "BREW",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "BROW",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "ROBE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "WEB",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BOW",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ROW",
+    "ROB",
+    "OWE",
+    "ORE"
+  ],
+  "entries": {
+    "BOWER": {
+      "word": "BOWER",
+      "pos": "n.",
+      "gloss": "a framework that supports climbing plants",
+      "definition": "A framework that supports climbing plants.",
+      "example": "The arbor provided a shady resting place in the park.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BORE": {
+      "word": "BORE",
+      "pos": "v.",
+      "gloss": "cause to be bored",
+      "definition": "Cause to be bored.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BREW": {
+      "word": "BREW",
+      "pos": "n.",
+      "gloss": "drink made by steeping and boiling and fermenting rather than distilling",
+      "definition": "Drink made by steeping and boiling and fermenting rather than distilling.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BROW": {
+      "word": "BROW",
+      "pos": "n.",
+      "gloss": "the part of the face above the eyes",
+      "definition": "The part of the face above the eyes.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ROBE": {
+      "word": "ROBE",
+      "pos": "n.",
+      "gloss": "any loose flowing garment",
+      "definition": "Any loose flowing garment.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WEB": {
+      "word": "WEB",
+      "pos": "n.",
+      "gloss": "an intricate network suggesting something that was formed by weaving or interweaving",
+      "definition": "An intricate network suggesting something that was formed by weaving or interweaving.",
+      "example": "The trees cast a delicate web of shadows over the lawn.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOW": {
+      "word": "BOW",
+      "pos": "n.",
+      "gloss": "a knot with two loops and loose ends",
+      "definition": "A knot with two loops and loose ends; used to tie shoelaces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROW": {
+      "word": "ROW",
+      "pos": "n.",
+      "gloss": "an arrangement of objects or people side by side in a line",
+      "definition": "An arrangement of objects or people side by side in a line.",
+      "example": "A row of chairs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROB": {
+      "word": "ROB",
+      "pos": "v.",
+      "gloss": "take something away by force or without the consent of the owner",
+      "definition": "Take something away by force or without the consent of the owner.",
+      "example": "The burglars robbed him of all his money.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OWE": {
+      "word": "OWE",
+      "pos": "v.",
+      "gloss": "be obliged to pay or repay",
+      "definition": "Be obliged to pay or repay.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ORE": {
+      "word": "ORE",
+      "pos": "n.",
+      "gloss": "a mineral that contains metal that is valuable enough to be mined",
+      "definition": "A mineral that contains metal that is valuable enough to be mined.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

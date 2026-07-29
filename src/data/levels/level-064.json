@@ -1,0 +1,152 @@
+{
+  "id": "level-064",
+  "baseWord": "PILGRIM",
+  "pool": [
+    "P",
+    "I",
+    "L",
+    "G",
+    "R",
+    "I",
+    "M"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "PILGRIM",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "GIRL",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "GRIP",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "GRIM",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "LIMP",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "PIG",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LIP",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "RIP",
+    "RIG",
+    "RIM"
+  ],
+  "entries": {
+    "PILGRIM": {
+      "word": "PILGRIM",
+      "pos": "n.",
+      "gloss": "someone who journeys in foreign lands",
+      "definition": "Someone who journeys in foreign lands.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GIRL": {
+      "word": "GIRL",
+      "pos": "n.",
+      "gloss": "a young female",
+      "definition": "A young female.",
+      "example": "A young lady of 18.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GRIP": {
+      "word": "GRIP",
+      "pos": "n.",
+      "gloss": "the act of grasping",
+      "definition": "The act of grasping.",
+      "example": "He released his clasp on my arm.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GRIM": {
+      "word": "GRIM",
+      "pos": "adj.",
+      "gloss": "not to be placated or appeased or moved by entreaty",
+      "definition": "Not to be placated or appeased or moved by entreaty.",
+      "example": "Grim determination.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIMP": {
+      "word": "LIMP",
+      "pos": "v.",
+      "gloss": "walk impeded by some physical limitation or injury",
+      "definition": "Walk impeded by some physical limitation or injury.",
+      "example": "The old woman hobbles down to the store every day.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PIG": {
+      "word": "PIG",
+      "pos": "n.",
+      "gloss": "domestic swine",
+      "definition": "Domestic swine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIP": {
+      "word": "LIP",
+      "pos": "n.",
+      "gloss": "either of two fleshy folds of tissue that surround the mouth and play a role in speaking",
+      "definition": "Either of two fleshy folds of tissue that surround the mouth and play a role in speaking.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIP": {
+      "word": "RIP",
+      "pos": "v.",
+      "gloss": "tear or be torn violently",
+      "definition": "Tear or be torn violently.",
+      "example": "The curtain ripped from top to bottom.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIG": {
+      "word": "RIG",
+      "pos": "v.",
+      "gloss": "arrange the outcome of by means of deceit",
+      "definition": "Arrange the outcome of by means of deceit.",
+      "example": "Rig an election.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIM": {
+      "word": "RIM",
+      "pos": "n.",
+      "gloss": "the shape of a raised edge of a more or less circular object",
+      "definition": "The shape of a raised edge of a more or less circular object.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

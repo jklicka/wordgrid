@@ -1,0 +1,139 @@
+{
+  "id": "level-144",
+  "baseWord": "SONATA",
+  "pool": [
+    "S",
+    "O",
+    "N",
+    "A",
+    "T",
+    "A"
+  ],
+  "rows": 6,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "SONATA",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TONS",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SNOT",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "NOT",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SON",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "TON",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "TAN",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ANA",
+    "ANT"
+  ],
+  "entries": {
+    "SONATA": {
+      "word": "SONATA",
+      "pos": "n.",
+      "gloss": "a musical composition of 3 or 4 movements of contrasting forms",
+      "definition": "A musical composition of 3 or 4 movements of contrasting forms.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TONS": {
+      "word": "TONS",
+      "pos": "n.",
+      "gloss": "a large number or amount",
+      "definition": "A large number or amount.",
+      "example": "Made lots of new friends.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SNOT": {
+      "word": "SNOT",
+      "pos": "n.",
+      "gloss": "a person regarded as arrogant and annoying",
+      "definition": "A person regarded as arrogant and annoying.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TON": {
+      "word": "TON",
+      "pos": "n.",
+      "gloss": "a United States unit of weight equivalent to 2000 pounds",
+      "definition": "A United States unit of weight equivalent to 2000 pounds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANA": {
+      "word": "ANA",
+      "pos": "n.",
+      "gloss": "a collection of anecdotes about a person or place",
+      "definition": "A collection of anecdotes about a person or place.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANT": {
+      "word": "ANT",
+      "pos": "n.",
+      "gloss": "social insect living in organized colonies",
+      "definition": "Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

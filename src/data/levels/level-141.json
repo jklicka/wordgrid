@@ -1,0 +1,161 @@
+{
+  "id": "level-141",
+  "baseWord": "STOOP",
+  "pool": [
+    "S",
+    "T",
+    "O",
+    "O",
+    "P"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "STOOP",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TOPOS",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "STOP",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "POST",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SPOT",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "TOPS",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "SOOT",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "TOO",
+    "TOP",
+    "POT",
+    "OPT"
+  ],
+  "entries": {
+    "STOOP": {
+      "word": "STOOP",
+      "pos": "n.",
+      "gloss": "an inclination of the top half of the body forward and downward",
+      "definition": "An inclination of the top half of the body forward and downward.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOPOS": {
+      "word": "TOPOS",
+      "pos": "n.",
+      "gloss": "a traditional theme or motif or literary convention",
+      "definition": "A traditional theme or motif or literary convention.",
+      "example": "James Joyce uses the topos of the Wandering Jew in his Ulysses.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "STOP": {
+      "word": "STOP",
+      "pos": "v.",
+      "gloss": "come to a halt, stop moving",
+      "definition": "Come to a halt, stop moving.",
+      "example": "The car stopped.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POST": {
+      "word": "POST",
+      "pos": "v.",
+      "gloss": "affix in a public place or for public notice",
+      "definition": "Affix in a public place or for public notice.",
+      "example": "Post a warning.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPOT": {
+      "word": "SPOT",
+      "pos": "n.",
+      "gloss": "a point located with respect to surface features of some region",
+      "definition": "A point located with respect to surface features of some region.",
+      "example": "This is a nice place for a picnic.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOPS": {
+      "word": "TOPS",
+      "pos": "adj.",
+      "gloss": "of the highest quality",
+      "definition": "Of the highest quality.",
+      "example": "An ace reporter.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOOT": {
+      "word": "SOOT",
+      "pos": "n.",
+      "gloss": "a black colloidal substance consisting wholly or principally of amorphous carbon and…",
+      "definition": "A black colloidal substance consisting wholly or principally of amorphous carbon and used to make pigments and ink.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOO": {
+      "word": "TOO",
+      "pos": "adv.",
+      "gloss": "to a degree exceeding normal or proper limits",
+      "definition": "To a degree exceeding normal or proper limits.",
+      "example": "Too big.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOP": {
+      "word": "TOP",
+      "pos": "n.",
+      "gloss": "the upper part of anything",
+      "definition": "The upper part of anything.",
+      "example": "The mower cuts off the tops of the grass.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POT": {
+      "word": "POT",
+      "pos": "n.",
+      "gloss": "metal or earthenware cooking vessel that is usually round and deep",
+      "definition": "Metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OPT": {
+      "word": "OPT",
+      "pos": "v.",
+      "gloss": "select as an alternative over another",
+      "definition": "Select as an alternative over another.",
+      "example": "I always choose the fish over the meat courses in this restaurant.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

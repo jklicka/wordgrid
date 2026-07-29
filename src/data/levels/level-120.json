@@ -1,0 +1,152 @@
+{
+  "id": "level-120",
+  "baseWord": "JINGLE",
+  "pool": [
+    "J",
+    "I",
+    "N",
+    "G",
+    "L",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "JINGLE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LIGNE",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "LINE",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "LING",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LIE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LEG",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "GEN",
+    "GLEN",
+    "GEL",
+    "GIN",
+    "LIEN"
+  ],
+  "entries": {
+    "JINGLE": {
+      "word": "JINGLE",
+      "pos": "v.",
+      "gloss": "make a sound typical of metallic objects",
+      "definition": "Make a sound typical of metallic objects.",
+      "example": "The keys were jingling in his pocket.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIGNE": {
+      "word": "LIGNE",
+      "pos": "n.",
+      "gloss": "a linear unit used to measure diameter of buttons",
+      "definition": "A linear unit (1/40 inch) used to measure diameter of buttons.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LINE": {
+      "word": "LINE",
+      "pos": "n.",
+      "gloss": "a formation of people or things one beside another",
+      "definition": "A formation of people or things one beside another.",
+      "example": "The line of soldiers advanced with their bayonets fixed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LING": {
+      "word": "LING",
+      "pos": "n.",
+      "gloss": "water chestnut whose spiny fruit has two rather than 4 prongs",
+      "definition": "Water chestnut whose spiny fruit has two rather than 4 prongs.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIE": {
+      "word": "LIE",
+      "pos": "v.",
+      "gloss": "be located or situated somewhere",
+      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEG": {
+      "word": "LEG",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEN": {
+      "word": "GEN",
+      "pos": "n.",
+      "gloss": "informal term for information",
+      "definition": "Informal term for information.",
+      "example": "Give me the gen on your new line of computers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GLEN": {
+      "word": "GLEN",
+      "pos": "n.",
+      "gloss": "a narrow secluded valley",
+      "definition": "A narrow secluded valley (in the mountains).",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEL": {
+      "word": "GEL",
+      "pos": "n.",
+      "gloss": "a colloid in a more solid form than a sol",
+      "definition": "A colloid in a more solid form than a sol.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIEN": {
+      "word": "LIEN",
+      "pos": "n.",
+      "gloss": "the right to take another's property if an obligation is not discharged",
+      "definition": "The right to take another's property if an obligation is not discharged.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

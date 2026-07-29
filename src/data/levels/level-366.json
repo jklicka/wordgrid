@@ -1,0 +1,138 @@
+{
+  "id": "level-366",
+  "baseWord": "REEDY",
+  "pool": [
+    "R",
+    "E",
+    "E",
+    "D",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "REEDY",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "DEER",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "REED",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "EYED",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DYER",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "RED",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "EYE",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "DRY",
+    "DYE"
+  ],
+  "entries": {
+    "REEDY": {
+      "word": "REEDY",
+      "pos": "adj.",
+      "gloss": "having a tone of a reed instrument",
+      "definition": "Having a tone of a reed instrument.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DEER": {
+      "word": "DEER",
+      "pos": "n.",
+      "gloss": "distinguished from Bovidae by the male's having solid deciduous antlers",
+      "definition": "Distinguished from Bovidae by the male's having solid deciduous antlers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REED": {
+      "word": "REED",
+      "pos": "n.",
+      "gloss": "tall woody perennial grasses with hollow slender stems especially of the genera Arundo…",
+      "definition": "Tall woody perennial grasses with hollow slender stems especially of the genera Arundo and Phragmites.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EYED": {
+      "word": "EYED",
+      "pos": "adj.",
+      "gloss": "having an eye or eyes or eyelike feature especially as specified",
+      "definition": "Having an eye or eyes or eyelike feature especially as specified; often used in combination.",
+      "example": "A peacock's eyed feathers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DYER": {
+      "word": "DYER",
+      "pos": "n.",
+      "gloss": "someone whose job is to dye cloth",
+      "definition": "Someone whose job is to dye cloth.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RED": {
+      "word": "RED",
+      "pos": "n.",
+      "gloss": "red color or pigment",
+      "definition": "Red color or pigment; the chromatic color resembling the hue of blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EYE": {
+      "word": "EYE",
+      "pos": "n.",
+      "gloss": "the organ of sight",
+      "definition": "The organ of sight.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DRY": {
+      "word": "DRY",
+      "pos": "v.",
+      "gloss": "remove the moisture from and make dry",
+      "definition": "Remove the moisture from and make dry.",
+      "example": "Dry clothes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DYE": {
+      "word": "DYE",
+      "pos": "v.",
+      "gloss": "color with dye",
+      "definition": "Color with dye.",
+      "example": "Please dye these shoes.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

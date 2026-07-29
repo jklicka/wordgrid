@@ -1,0 +1,148 @@
+{
+  "id": "level-119",
+  "baseWord": "NUDGE",
+  "pool": [
+    "N",
+    "U",
+    "D",
+    "G",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 5,
+  "placed": [
+    {
+      "word": "NUDGE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NUDE",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "DUNE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DUNG",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "END",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "DUE",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DEN",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "GUN",
+    "GEN",
+    "DUG"
+  ],
+  "entries": {
+    "NUDGE": {
+      "word": "NUDGE",
+      "pos": "v.",
+      "gloss": "to push against gently",
+      "definition": "To push against gently.",
+      "example": "She nudged my elbow when she saw her friend enter the restaurant.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NUDE": {
+      "word": "NUDE",
+      "pos": "n.",
+      "gloss": "a painting of a naked human figure",
+      "definition": "A painting of a naked human figure.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUNE": {
+      "word": "DUNE",
+      "pos": "n.",
+      "gloss": "a ridge of sand created by the wind",
+      "definition": "A ridge of sand created by the wind; found in deserts or near lakes and oceans.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DUNG": {
+      "word": "DUNG",
+      "pos": "n.",
+      "gloss": "fecal matter of animals",
+      "definition": "Fecal matter of animals.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "END": {
+      "word": "END",
+      "pos": "n.",
+      "gloss": "either extremity of something that has length",
+      "definition": "Either extremity of something that has length.",
+      "example": "The end of the pier.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUE": {
+      "word": "DUE",
+      "pos": "adj.",
+      "gloss": "owed and payable immediately or on demand",
+      "definition": "Owed and payable immediately or on demand.",
+      "example": "Payment is due.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEN": {
+      "word": "DEN",
+      "pos": "n.",
+      "gloss": "the habitation of wild animals",
+      "definition": "The habitation of wild animals.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUN": {
+      "word": "GUN",
+      "pos": "n.",
+      "gloss": "a weapon that discharges a missile at high velocity",
+      "definition": "A weapon that discharges a missile at high velocity (especially from a metal tube or barrel).",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEN": {
+      "word": "GEN",
+      "pos": "n.",
+      "gloss": "informal term for information",
+      "definition": "Informal term for information.",
+      "example": "Give me the gen on your new line of computers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUG": {
+      "word": "DUG",
+      "pos": "n.",
+      "gloss": "an udder or breast or teat",
+      "definition": "An udder or breast or teat.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

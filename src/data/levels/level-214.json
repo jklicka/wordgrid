@@ -1,0 +1,217 @@
+{
+  "id": "level-214",
+  "baseWord": "CARESS",
+  "pool": [
+    "C",
+    "A",
+    "R",
+    "E",
+    "S",
+    "S"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "CARESS",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ACRES",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SCARE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "CRASS",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "CRESS",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "CARE",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "CASE",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ARE",
+    "CAR",
+    "RACE",
+    "SEA",
+    "ASS",
+    "ERA",
+    "EAR",
+    "SEC",
+    "ARC",
+    "ACE"
+  ],
+  "entries": {
+    "CARESS": {
+      "word": "CARESS",
+      "pos": "n.",
+      "gloss": "a gentle affectionate stroking",
+      "definition": "A gentle affectionate stroking (or something resembling it).",
+      "example": "He showered her with caresses.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ACRES": {
+      "word": "ACRES",
+      "pos": "n.",
+      "gloss": "extensive landed property retained by the owner for his own use",
+      "definition": "Extensive landed property (especially in the country) retained by the owner for his own use.",
+      "example": "The family owned a large estate on Long Island.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SCARE": {
+      "word": "SCARE",
+      "pos": "v.",
+      "gloss": "cause fear in",
+      "definition": "Cause fear in.",
+      "example": "The stranger who hangs around the building frightens me.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CRASS": {
+      "word": "CRASS",
+      "pos": "adj.",
+      "gloss": "so unrefined as to be lacking in discrimination and sensibility",
+      "definition": "(of persons) so unrefined as to be lacking in discrimination and sensibility.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CRESS": {
+      "word": "CRESS",
+      "pos": "n.",
+      "gloss": "any of various plants of the family Cruciferae with edible leaves that have a pungent…",
+      "definition": "Any of various plants of the family Cruciferae with edible leaves that have a pungent taste.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CARE": {
+      "word": "CARE",
+      "pos": "n.",
+      "gloss": "the work of providing treatment for or attending to someone or something",
+      "definition": "The work of providing treatment for or attending to someone or something.",
+      "example": "No medical care was required.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CASE": {
+      "word": "CASE",
+      "pos": "n.",
+      "gloss": "an occurrence of something",
+      "definition": "An occurrence of something.",
+      "example": "It was a case of bad judgment.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAR": {
+      "word": "CAR",
+      "pos": "n.",
+      "gloss": "a motor vehicle with four wheels",
+      "definition": "A motor vehicle with four wheels; usually propelled by an internal combustion engine.",
+      "example": "He needs a car to get to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RACE": {
+      "word": "RACE",
+      "pos": "n.",
+      "gloss": "any competition",
+      "definition": "Any competition.",
+      "example": "The race for the presidency.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEA": {
+      "word": "SEA",
+      "pos": "n.",
+      "gloss": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "definition": "A division of an ocean or a large body of salt water partially enclosed by land.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ASS": {
+      "word": "ASS",
+      "pos": "n.",
+      "gloss": "the fleshy part of the human body that you sit on",
+      "definition": "The fleshy part of the human body that you sit on.",
+      "example": "He deserves a good kick in the butt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEC": {
+      "word": "SEC",
+      "pos": "n.",
+      "gloss": "1/60 of a minute",
+      "definition": "1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARC": {
+      "word": "ARC",
+      "pos": "n.",
+      "gloss": "electrical conduction through a gas in an applied electric field",
+      "definition": "Electrical conduction through a gas in an applied electric field.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACE": {
+      "word": "ACE",
+      "pos": "n.",
+      "gloss": "the smallest whole number or a numeral representing this number",
+      "definition": "The smallest whole number or a numeral representing this number.",
+      "example": "He has the one but will need a two and three to go with it.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

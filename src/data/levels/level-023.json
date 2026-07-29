@@ -1,0 +1,169 @@
+{
+  "id": "level-023",
+  "baseWord": "TAPED",
+  "pool": [
+    "T",
+    "A",
+    "P",
+    "E",
+    "D"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "TAPED",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ADEPT",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "DATE",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TAPE",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "PEAT",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "EAT",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "TEA",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "PET",
+    "TAP",
+    "PAT",
+    "PAD",
+    "APT"
+  ],
+  "entries": {
+    "TAPED": {
+      "word": "TAPED",
+      "pos": "adj.",
+      "gloss": "secured or held in place by tape",
+      "definition": "Secured or held in place by tape.",
+      "example": "Carefully taped pieces of glass served as a windowpane.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ADEPT": {
+      "word": "ADEPT",
+      "pos": "adj.",
+      "gloss": "having or showing knowledge and skill and aptitude",
+      "definition": "Having or showing knowledge and skill and aptitude.",
+      "example": "Adept in handicrafts.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DATE": {
+      "word": "DATE",
+      "pos": "n.",
+      "gloss": "the specified day of the month",
+      "definition": "The specified day of the month.",
+      "example": "What is the date today?",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAPE": {
+      "word": "TAPE",
+      "pos": "n.",
+      "gloss": "a long thin piece of cloth or paper as used for binding or fastening",
+      "definition": "A long thin piece of cloth or paper as used for binding or fastening.",
+      "example": "He used a piece of tape for a belt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PEAT": {
+      "word": "PEAT",
+      "pos": "n.",
+      "gloss": "partially carbonized vegetable matter saturated with water",
+      "definition": "Partially carbonized vegetable matter saturated with water; can be used as a fuel when dried.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "EAT": {
+      "word": "EAT",
+      "pos": "v.",
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PET": {
+      "word": "PET",
+      "pos": "n.",
+      "gloss": "a domesticated animal kept for companionship or amusement",
+      "definition": "A domesticated animal kept for companionship or amusement.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAP": {
+      "word": "TAP",
+      "pos": "v.",
+      "gloss": "cut a female screw thread with a tap",
+      "definition": "Cut a female screw thread with a tap.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAT": {
+      "word": "PAT",
+      "pos": "v.",
+      "gloss": "pat or squeeze fondly or playfully, especially under the chin",
+      "definition": "Pat or squeeze fondly or playfully, especially under the chin.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAD": {
+      "word": "PAD",
+      "pos": "n.",
+      "gloss": "a number of sheets of paper fastened together along one edge",
+      "definition": "A number of sheets of paper fastened together along one edge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "APT": {
+      "word": "APT",
+      "pos": "adj.",
+      "gloss": "naturally disposed toward",
+      "definition": "(usually followed by `to') naturally disposed toward.",
+      "example": "He is apt to ignore matters he considers unimportant.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

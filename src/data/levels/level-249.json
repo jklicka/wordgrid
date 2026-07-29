@@ -1,0 +1,150 @@
+{
+  "id": "level-249",
+  "baseWord": "PHALANX",
+  "pool": [
+    "P",
+    "H",
+    "A",
+    "L",
+    "A",
+    "N",
+    "X"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "PHALANX",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ALPHA",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "PLAN",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ANAL",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "NAPA",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "PAN",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "LAP",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "PAL",
+    "ANA",
+    "NAP"
+  ],
+  "entries": {
+    "PHALANX": {
+      "word": "PHALANX",
+      "pos": "n.",
+      "gloss": "any of the bones of the fingers or toes",
+      "definition": "Any of the bones of the fingers or toes.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ALPHA": {
+      "word": "ALPHA",
+      "pos": "n.",
+      "gloss": "the 1st letter of the Greek alphabet",
+      "definition": "The 1st letter of the Greek alphabet.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PLAN": {
+      "word": "PLAN",
+      "pos": "v.",
+      "gloss": "have the will and intention to carry out some action",
+      "definition": "Have the will and intention to carry out some action.",
+      "example": "He plans to be in graduate school next year.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANAL": {
+      "word": "ANAL",
+      "pos": "adj.",
+      "gloss": "of or related to the anus",
+      "definition": "Of or related to the anus.",
+      "example": "Anal thermometer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NAPA": {
+      "word": "NAPA",
+      "pos": "n.",
+      "gloss": "plant with an elongated head of broad stalked leaves resembling celery",
+      "definition": "Plant with an elongated head of broad stalked leaves resembling celery; used as a vegetable in east Asia.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PAN": {
+      "word": "PAN",
+      "pos": "v.",
+      "gloss": "make a sweeping movement",
+      "definition": "Make a sweeping movement.",
+      "example": "The camera panned across the room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAP": {
+      "word": "LAP",
+      "pos": "v.",
+      "gloss": "lie partly over or alongside of something or of one another",
+      "definition": "Lie partly over or alongside of something or of one another.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAL": {
+      "word": "PAL",
+      "pos": "n.",
+      "gloss": "a close friend who accompanies his buddies in their activities",
+      "definition": "A close friend who accompanies his buddies in their activities.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANA": {
+      "word": "ANA",
+      "pos": "n.",
+      "gloss": "a collection of anecdotes about a person or place",
+      "definition": "A collection of anecdotes about a person or place.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NAP": {
+      "word": "NAP",
+      "pos": "n.",
+      "gloss": "a period of time spent sleeping",
+      "definition": "A period of time spent sleeping.",
+      "example": "He felt better after a little sleep.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

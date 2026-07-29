@@ -1,0 +1,130 @@
+{
+  "id": "level-349",
+  "baseWord": "DECRY",
+  "pool": [
+    "D",
+    "E",
+    "C",
+    "R",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "DECRY",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DYER",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "CRED",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "RED",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DRY",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "CRY",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DEC",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "DYE"
+  ],
+  "entries": {
+    "DECRY": {
+      "word": "DECRY",
+      "pos": "v.",
+      "gloss": "express strong disapproval of",
+      "definition": "Express strong disapproval of.",
+      "example": "We condemn the racism in South Africa.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DYER": {
+      "word": "DYER",
+      "pos": "n.",
+      "gloss": "someone whose job is to dye cloth",
+      "definition": "Someone whose job is to dye cloth.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CRED": {
+      "word": "CRED",
+      "pos": "n.",
+      "gloss": "credibility among young fashionable urban individuals",
+      "definition": "Credibility among young fashionable urban individuals.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RED": {
+      "word": "RED",
+      "pos": "n.",
+      "gloss": "red color or pigment",
+      "definition": "Red color or pigment; the chromatic color resembling the hue of blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DRY": {
+      "word": "DRY",
+      "pos": "v.",
+      "gloss": "remove the moisture from and make dry",
+      "definition": "Remove the moisture from and make dry.",
+      "example": "Dry clothes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CRY": {
+      "word": "CRY",
+      "pos": "n.",
+      "gloss": "a loud utterance",
+      "definition": "A loud utterance; often in protest or opposition.",
+      "example": "The speaker was interrupted by loud cries from the rear of the audience.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEC": {
+      "word": "DEC",
+      "pos": "n.",
+      "gloss": "the angular distance of a celestial body north or to the south of the celestial equator",
+      "definition": "(astronomy) the angular distance of a celestial body north or to the south of the celestial equator; expressed in degrees; used with right ascension to specify positions on the celestial sphere.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DYE": {
+      "word": "DYE",
+      "pos": "v.",
+      "gloss": "color with dye",
+      "definition": "Color with dye.",
+      "example": "Please dye these shoes.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

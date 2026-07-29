@@ -1,127 +1,176 @@
 {
   "id": "level-019",
-  "baseWord": "BOAST",
+  "baseWord": "FLUENT",
   "pool": [
-    "B",
-    "O",
-    "A",
-    "S",
+    "F",
+    "L",
+    "U",
+    "E",
+    "N",
     "T"
   ],
   "rows": 7,
-  "cols": 7,
+  "cols": 8,
   "placed": [
     {
-      "word": "BOAST",
+      "word": "FLUENT",
       "row": 3,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "word": "SABOT",
+      "word": "FLUTE",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "LEFT",
       "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "word": "BOAT",
+      "word": "FELT",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "word": "BATS",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "word": "STAB",
-      "row": 0,
-      "col": 3,
+      "word": "FUEL",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "word": "BAT",
+      "word": "TUNE",
       "row": 5,
-      "col": 0,
+      "col": 4,
       "direction": "across"
     },
     {
-      "word": "TAB",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
+      "word": "LET",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "bonus": [
-    "BOT"
+    "FUN",
+    "TEN",
+    "NET",
+    "NUT",
+    "FLU",
+    "ELF"
   ],
   "entries": {
-    "BOAST": {
-      "word": "BOAST",
-      "pos": "v.",
-      "gloss": "show off",
-      "definition": "Show off.",
-      "band": "teaching",
-      "tier": "general"
-    },
-    "SABOT": {
-      "word": "SABOT",
-      "pos": "n.",
-      "gloss": "a shoe carved from a single block of wood",
-      "definition": "A shoe carved from a single block of wood.",
-      "band": "teaching",
-      "tier": "general"
-    },
-    "BOAT": {
-      "word": "BOAT",
-      "pos": "n.",
-      "gloss": "a small vessel for travel on water",
-      "definition": "A small vessel for travel on water.",
-      "band": "common",
-      "tier": "general"
-    },
-    "BATS": {
-      "word": "BATS",
+    "FLUENT": {
+      "word": "FLUENT",
       "pos": "adj.",
-      "gloss": "informal or slang terms for mentally irregular",
-      "definition": "Informal or slang terms for mentally irregular.",
-      "example": "It used to drive my husband balmy.",
+      "gloss": "smooth and unconstrained in movement",
+      "definition": "Smooth and unconstrained in movement.",
+      "example": "A long, smooth stride.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FLUTE": {
+      "word": "FLUTE",
+      "pos": "n.",
+      "gloss": "a high-pitched woodwind instrument",
+      "definition": "A high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is blown.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LEFT": {
+      "word": "LEFT",
+      "pos": "n.",
+      "gloss": "location near or direction toward the left side",
+      "definition": "Location near or direction toward the left side; i.e. the side to the north when a person or object faces east.",
+      "example": "She stood on the left.",
       "band": "common",
       "tier": "general"
     },
-    "STAB": {
-      "word": "STAB",
+    "FELT": {
+      "word": "FELT",
+      "pos": "n.",
+      "gloss": "a fabric made of compressed matted animal fibers",
+      "definition": "A fabric made of compressed matted animal fibers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FUEL": {
+      "word": "FUEL",
+      "pos": "n.",
+      "gloss": "a substance that can be consumed to produce energy",
+      "definition": "A substance that can be consumed to produce energy.",
+      "example": "More fuel is needed during the winter months.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TUNE": {
+      "word": "TUNE",
+      "pos": "n.",
+      "gloss": "a succession of notes forming a distinctive sequence",
+      "definition": "A succession of notes forming a distinctive sequence.",
+      "example": "She was humming an air from Beethoven.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LET": {
+      "word": "LET",
       "pos": "v.",
-      "gloss": "use a knife on",
-      "definition": "Use a knife on.",
-      "example": "The victim was knifed to death.",
+      "gloss": "make it possible through a specific action or lack of action for something to happen",
+      "definition": "Make it possible through a specific action or lack of action for something to happen.",
+      "example": "This permits the water to rush in.",
       "band": "common",
       "tier": "general"
     },
-    "BAT": {
-      "word": "BAT",
+    "FUN": {
+      "word": "FUN",
       "pos": "n.",
-      "gloss": "nocturnal mouselike mammal with forelimbs modified to form membranous wings and…",
-      "definition": "Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.",
+      "gloss": "activities that are enjoyable or amusing",
+      "definition": "Activities that are enjoyable or amusing.",
+      "example": "I do it for the fun of it.",
       "band": "common",
       "tier": "general"
     },
-    "TAB": {
-      "word": "TAB",
+    "TEN": {
+      "word": "TEN",
       "pos": "n.",
-      "gloss": "the bill in a restaurant",
-      "definition": "The bill in a restaurant.",
-      "example": "He asked the waiter for the check.",
+      "gloss": "the cardinal number that is the sum of nine and one",
+      "definition": "The cardinal number that is the sum of nine and one; the base of the decimal system.",
       "band": "common",
       "tier": "general"
     },
-    "BOT": {
-      "word": "BOT",
+    "NET": {
+      "word": "NET",
       "pos": "n.",
-      "gloss": "botfly larva",
-      "definition": "Botfly larva; typically develops inside the body of a horse or sheep or human.",
+      "gloss": "a computer network consisting of a worldwide network of computer networks that use the…",
+      "definition": "A computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUT": {
+      "word": "NUT",
+      "pos": "n.",
+      "gloss": "usually large hard-shelled seed",
+      "definition": "Usually large hard-shelled seed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FLU": {
+      "word": "FLU",
+      "pos": "n.",
+      "gloss": "an acute febrile highly contagious viral disease",
+      "definition": "An acute febrile highly contagious viral disease.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ELF": {
+      "word": "ELF",
+      "pos": "n.",
+      "gloss": "fairies that are somewhat mischievous",
+      "definition": "(folklore) fairies that are somewhat mischievous.",
       "band": "common",
       "tier": "general"
     }

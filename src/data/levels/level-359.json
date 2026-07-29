@@ -1,0 +1,118 @@
+{
+  "id": "level-359",
+  "baseWord": "GRIMLY",
+  "pool": [
+    "G",
+    "R",
+    "I",
+    "M",
+    "L",
+    "Y"
+  ],
+  "rows": 6,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "GRIMLY",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "GRIMY",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "GIRL",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "GRIM",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "GYM",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "RIG",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "RIM"
+  ],
+  "entries": {
+    "GRIMLY": {
+      "word": "GRIMLY",
+      "pos": "adv.",
+      "gloss": "in a grim implacable manner",
+      "definition": "In a grim implacable manner.",
+      "example": "He was grimly satisfied.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GRIMY": {
+      "word": "GRIMY",
+      "pos": "adj.",
+      "gloss": "thickly covered with ingrained dirt or soot",
+      "definition": "Thickly covered with ingrained dirt or soot.",
+      "example": "A miner's begrimed face.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GIRL": {
+      "word": "GIRL",
+      "pos": "n.",
+      "gloss": "a young female",
+      "definition": "A young female.",
+      "example": "A young lady of 18.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GRIM": {
+      "word": "GRIM",
+      "pos": "adj.",
+      "gloss": "not to be placated or appeased or moved by entreaty",
+      "definition": "Not to be placated or appeased or moved by entreaty.",
+      "example": "Grim determination.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GYM": {
+      "word": "GYM",
+      "pos": "n.",
+      "gloss": "athletic facility equipped for sports or physical training",
+      "definition": "Athletic facility equipped for sports or physical training.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIG": {
+      "word": "RIG",
+      "pos": "v.",
+      "gloss": "arrange the outcome of by means of deceit",
+      "definition": "Arrange the outcome of by means of deceit.",
+      "example": "Rig an election.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIM": {
+      "word": "RIM",
+      "pos": "n.",
+      "gloss": "the shape of a raised edge of a more or less circular object",
+      "definition": "The shape of a raised edge of a more or less circular object.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

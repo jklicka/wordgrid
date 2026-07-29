@@ -1,0 +1,150 @@
+{
+  "id": "level-186",
+  "baseWord": "WOBBLY",
+  "pool": [
+    "W",
+    "O",
+    "B",
+    "B",
+    "L",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "WOBBLY",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LOBBY",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "BOWL",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "BLOW",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "BLOB",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "LOW",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "BOY",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "BOB",
+    "BOW",
+    "OWL"
+  ],
+  "entries": {
+    "WOBBLY": {
+      "word": "WOBBLY",
+      "pos": "adj.",
+      "gloss": "inclined to shake as from weakness or defect",
+      "definition": "Inclined to shake as from weakness or defect.",
+      "example": "A rickety table.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LOBBY": {
+      "word": "LOBBY",
+      "pos": "n.",
+      "gloss": "a large entrance or reception room or area",
+      "definition": "A large entrance or reception room or area.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOWL": {
+      "word": "BOWL",
+      "pos": "n.",
+      "gloss": "a round vessel that is open at the top",
+      "definition": "A round vessel that is open at the top; used chiefly for holding food or liquids.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BLOW": {
+      "word": "BLOW",
+      "pos": "v.",
+      "gloss": "exhale hard",
+      "definition": "Exhale hard.",
+      "example": "Blow on the soup to cool it down.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BLOB": {
+      "word": "BLOB",
+      "pos": "n.",
+      "gloss": "an indistinct shapeless form",
+      "definition": "An indistinct shapeless form.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LOW": {
+      "word": "LOW",
+      "pos": "adj.",
+      "gloss": "less than normal in degree or intensity or amount",
+      "definition": "Less than normal in degree or intensity or amount.",
+      "example": "Low prices.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOY": {
+      "word": "BOY",
+      "pos": "n.",
+      "gloss": "a youthful male person",
+      "definition": "A youthful male person.",
+      "example": "The baby was a boy.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOB": {
+      "word": "BOB",
+      "pos": "v.",
+      "gloss": "move up and down repeatedly",
+      "definition": "Move up and down repeatedly.",
+      "example": "Her rucksack bobbed gently on her back.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOW": {
+      "word": "BOW",
+      "pos": "n.",
+      "gloss": "a knot with two loops and loose ends",
+      "definition": "A knot with two loops and loose ends; used to tie shoelaces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OWL": {
+      "word": "OWL",
+      "pos": "n.",
+      "gloss": "nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes",
+      "definition": "Nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

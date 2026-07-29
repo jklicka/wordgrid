@@ -1,0 +1,218 @@
+{
+  "id": "level-279",
+  "baseWord": "MEASLY",
+  "pool": [
+    "M",
+    "E",
+    "A",
+    "S",
+    "L",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "MEASLY",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "MEALY",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SAME",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "EASY",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SALE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "MALE",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "MEAL",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "MAY",
+    "SAY",
+    "YES",
+    "SEA",
+    "LAY",
+    "SEAL",
+    "YEA",
+    "SLAM",
+    "LAME",
+    "ALE"
+  ],
+  "entries": {
+    "MEASLY": {
+      "word": "MEASLY",
+      "pos": "adj.",
+      "gloss": "contemptibly small in amount",
+      "definition": "Contemptibly small in amount.",
+      "example": "A measly tip.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MEALY": {
+      "word": "MEALY",
+      "pos": "adj.",
+      "gloss": "containing meal or made of meal",
+      "definition": "Containing meal or made of meal.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SAME": {
+      "word": "SAME",
+      "pos": "adj.",
+      "gloss": "same in identity",
+      "definition": "Same in identity.",
+      "example": "The same man I saw yesterday.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EASY": {
+      "word": "EASY",
+      "pos": "adj.",
+      "gloss": "posing no difficulty",
+      "definition": "Posing no difficulty; requiring little effort.",
+      "example": "An easy job.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SALE": {
+      "word": "SALE",
+      "pos": "n.",
+      "gloss": "a particular instance of selling",
+      "definition": "A particular instance of selling.",
+      "example": "He has just made his first sale.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MALE": {
+      "word": "MALE",
+      "pos": "n.",
+      "gloss": "an animal that produces gametes that can fertilize female gametes",
+      "definition": "An animal that produces gametes (spermatozoa) that can fertilize female gametes (ova).",
+      "band": "common",
+      "tier": "general"
+    },
+    "MEAL": {
+      "word": "MEAL",
+      "pos": "n.",
+      "gloss": "the food served and eaten at one time",
+      "definition": "The food served and eaten at one time.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAY": {
+      "word": "MAY",
+      "pos": "n.",
+      "gloss": "thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers…",
+      "definition": "Thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers followed by deep red berries; established as an escape in eastern North America.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAY": {
+      "word": "SAY",
+      "pos": "v.",
+      "gloss": "express in words",
+      "definition": "Express in words.",
+      "example": "He said that he wanted to marry her.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YES": {
+      "word": "YES",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "I was hoping for a yes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEA": {
+      "word": "SEA",
+      "pos": "n.",
+      "gloss": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "definition": "A division of an ocean or a large body of salt water partially enclosed by land.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAY": {
+      "word": "LAY",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEAL": {
+      "word": "SEAL",
+      "pos": "v.",
+      "gloss": "make tight; secure against leakage",
+      "definition": "Make tight; secure against leakage.",
+      "example": "Seal the windows.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YEA": {
+      "word": "YEA",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "The yeas have it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SLAM": {
+      "word": "SLAM",
+      "pos": "v.",
+      "gloss": "close violently",
+      "definition": "Close violently.",
+      "example": "He slammed the door shut.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAME": {
+      "word": "LAME",
+      "pos": "n.",
+      "gloss": "someone who doesn't understand what is going on",
+      "definition": "Someone who doesn't understand what is going on.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALE": {
+      "word": "ALE",
+      "pos": "n.",
+      "gloss": "a general name for beer made with a top fermenting yeast",
+      "definition": "A general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

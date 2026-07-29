@@ -1,11 +1,11 @@
 import { useEffect, useState } from 'react'
 import { currentWord } from '../game/engine'
-import { useGame } from '../game/store'
+import { useActiveGame, useGame } from '../game/store'
 import styles from './Pool.module.css'
 
 /** The word being assembled, with undo and submit. */
 export default function WordTray() {
-  const game = useGame((s) => s.game)
+  const game = useActiveGame()
   const undoLetter = useGame((s) => s.undoLetter)
   const submitWord = useGame((s) => s.submitWord)
 

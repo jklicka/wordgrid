@@ -1,0 +1,194 @@
+{
+  "id": "level-392",
+  "baseWord": "REHASH",
+  "pool": [
+    "R",
+    "E",
+    "H",
+    "A",
+    "S",
+    "H"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "REHASH",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SHARE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "HARSH",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SHEAR",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "HEAR",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RASH",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "HARE",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ARE",
+    "SEA",
+    "ERA",
+    "EAR",
+    "ASH",
+    "HASH",
+    "ARSE",
+    "RHEA"
+  ],
+  "entries": {
+    "REHASH": {
+      "word": "REHASH",
+      "pos": "v.",
+      "gloss": "present or use over, with no or few changes",
+      "definition": "Present or use over, with no or few changes.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SHARE": {
+      "word": "SHARE",
+      "pos": "v.",
+      "gloss": "have in common",
+      "definition": "Have in common.",
+      "example": "Our children share a love of music.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HARSH": {
+      "word": "HARSH",
+      "pos": "adj.",
+      "gloss": "unpleasantly stern",
+      "definition": "Unpleasantly stern.",
+      "example": "Wild and harsh country full of hot sand and cactus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SHEAR": {
+      "word": "SHEAR",
+      "pos": "n.",
+      "gloss": "a deformation of an object in which parallel planes remain parallel but are shifted in…",
+      "definition": "(physics) a deformation of an object in which parallel planes remain parallel but are shifted in a direction parallel to themselves.",
+      "example": "The shear changed the quadrilateral into a parallelogram.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HEAR": {
+      "word": "HEAR",
+      "pos": "v.",
+      "gloss": "perceive via the auditory sense",
+      "definition": "Perceive (sound) via the auditory sense.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RASH": {
+      "word": "RASH",
+      "pos": "n.",
+      "gloss": "any red eruption of the skin",
+      "definition": "Any red eruption of the skin.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HARE": {
+      "word": "HARE",
+      "pos": "n.",
+      "gloss": "swift timid long-eared mammal larger than a rabbit having a divided upper lip and long…",
+      "definition": "Swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred and with open eyes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEA": {
+      "word": "SEA",
+      "pos": "n.",
+      "gloss": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "definition": "A division of an ocean or a large body of salt water partially enclosed by land.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ASH": {
+      "word": "ASH",
+      "pos": "n.",
+      "gloss": "the residue that remains when something is burned",
+      "definition": "The residue that remains when something is burned.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HASH": {
+      "word": "HASH",
+      "pos": "n.",
+      "gloss": "chopped meat mixed with potatoes and browned",
+      "definition": "Chopped meat mixed with potatoes and browned.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARSE": {
+      "word": "ARSE",
+      "pos": "n.",
+      "gloss": "the fleshy part of the human body that you sit on",
+      "definition": "The fleshy part of the human body that you sit on.",
+      "example": "He deserves a good kick in the butt.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RHEA": {
+      "word": "RHEA",
+      "pos": "n.",
+      "gloss": "smaller of two tall fast-running flightless birds similar to ostriches but three-toed",
+      "definition": "Smaller of two tall fast-running flightless birds similar to ostriches but three-toed; found from Peru to Strait of Magellan.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

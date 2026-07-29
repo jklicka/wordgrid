@@ -1,0 +1,216 @@
+{
+  "id": "level-381",
+  "baseWord": "LARDER",
+  "pool": [
+    "L",
+    "A",
+    "R",
+    "D",
+    "E",
+    "R"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "LARDER",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ALDER",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "REAL",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "READ",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DEAL",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LEAD",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "DEAR",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ARE",
+    "RED",
+    "RARE",
+    "ERA",
+    "REAR",
+    "EAR",
+    "DARE",
+    "EARL",
+    "DALE",
+    "LAD"
+  ],
+  "entries": {
+    "LARDER": {
+      "word": "LARDER",
+      "pos": "n.",
+      "gloss": "a supply of food especially for a household",
+      "definition": "A supply of food especially for a household.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ALDER": {
+      "word": "ALDER",
+      "pos": "n.",
+      "gloss": "wood of any of various alder trees",
+      "definition": "Wood of any of various alder trees; resistant to underwater rot; used for bridges etc.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "REAL": {
+      "word": "REAL",
+      "pos": "adj.",
+      "gloss": "being or occurring in fact or actuality",
+      "definition": "Being or occurring in fact or actuality; having verified existence; not illusory.",
+      "example": "Real objects.",
+      "band": "common",
+      "tier": "general"
+    },
+    "READ": {
+      "word": "READ",
+      "pos": "v.",
+      "gloss": "interpret something that is written or printed",
+      "definition": "Interpret something that is written or printed.",
+      "example": "Read the advertisement.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEAL": {
+      "word": "DEAL",
+      "pos": "v.",
+      "gloss": "act on verbally or in some form of artistic expression",
+      "definition": "Act on verbally or in some form of artistic expression.",
+      "example": "This book deals with incest.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEAD": {
+      "word": "LEAD",
+      "pos": "v.",
+      "gloss": "take somebody somewhere",
+      "definition": "Take somebody somewhere.",
+      "example": "We lead him to our chief.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEAR": {
+      "word": "DEAR",
+      "pos": "adj.",
+      "gloss": "dearly loved",
+      "definition": "Dearly loved.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RED": {
+      "word": "RED",
+      "pos": "n.",
+      "gloss": "red color or pigment",
+      "definition": "Red color or pigment; the chromatic color resembling the hue of blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RARE": {
+      "word": "RARE",
+      "pos": "adj.",
+      "gloss": "not widely known",
+      "definition": "Not widely known; especially valued for its uncommonness.",
+      "example": "A rare word.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REAR": {
+      "word": "REAR",
+      "pos": "n.",
+      "gloss": "the back of a military formation or procession",
+      "definition": "The back of a military formation or procession.",
+      "example": "Infantrymen were in the rear.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DARE": {
+      "word": "DARE",
+      "pos": "v.",
+      "gloss": "take upon oneself",
+      "definition": "Take upon oneself; act presumptuously, without permission.",
+      "example": "How dare you call my lawyer?",
+      "band": "common",
+      "tier": "general"
+    },
+    "EARL": {
+      "word": "EARL",
+      "pos": "n.",
+      "gloss": "a British peer ranking below a marquess and above a viscount",
+      "definition": "A British peer ranking below a marquess and above a viscount.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DALE": {
+      "word": "DALE",
+      "pos": "n.",
+      "gloss": "an open river valley",
+      "definition": "An open river valley (in a hilly area).",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAD": {
+      "word": "LAD",
+      "pos": "n.",
+      "gloss": "a boy or man",
+      "definition": "A boy or man.",
+      "example": "That chap is your host.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

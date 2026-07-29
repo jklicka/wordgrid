@@ -1,0 +1,128 @@
+{
+  "id": "level-106",
+  "baseWord": "GROIN",
+  "pool": [
+    "G",
+    "R",
+    "O",
+    "I",
+    "N"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "GROIN",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "RING",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "IRON",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "GRIN",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "GIRO",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "ION",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RIG",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "GIN"
+  ],
+  "entries": {
+    "GROIN": {
+      "word": "GROIN",
+      "pos": "n.",
+      "gloss": "the crease at the junction of the inner part of the thigh with the trunk together with…",
+      "definition": "The crease at the junction of the inner part of the thigh with the trunk together with the adjacent region and often including the external genitals.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RING": {
+      "word": "RING",
+      "pos": "v.",
+      "gloss": "sound loudly and sonorously",
+      "definition": "Sound loudly and sonorously.",
+      "example": "The bells rang.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IRON": {
+      "word": "IRON",
+      "pos": "n.",
+      "gloss": "a heavy ductile magnetic metallic element",
+      "definition": "A heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GRIN": {
+      "word": "GRIN",
+      "pos": "n.",
+      "gloss": "a facial expression characterized by turning up the corners of the mouth",
+      "definition": "A facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GIRO": {
+      "word": "GIRO",
+      "pos": "n.",
+      "gloss": "a check given by the British government to someone who is unemployed",
+      "definition": "A check given by the British government to someone who is unemployed; it can be cashed either at a bank or at the post office.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ION": {
+      "word": "ION",
+      "pos": "n.",
+      "gloss": "a particle that is electrically charged",
+      "definition": "A particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIG": {
+      "word": "RIG",
+      "pos": "v.",
+      "gloss": "arrange the outcome of by means of deceit",
+      "definition": "Arrange the outcome of by means of deceit.",
+      "example": "Rig an election.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

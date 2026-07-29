@@ -1,0 +1,150 @@
+{
+  "id": "level-270",
+  "baseWord": "HUNCHED",
+  "pool": [
+    "H",
+    "U",
+    "N",
+    "C",
+    "H",
+    "E",
+    "D"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "HUNCHED",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "HUNCH",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "DUNCE",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "NUDE",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "DUNE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "END",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "DUE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "DEC",
+    "DEN",
+    "CUE"
+  ],
+  "entries": {
+    "HUNCHED": {
+      "word": "HUNCHED",
+      "pos": "adj.",
+      "gloss": "having the back and shoulders rounded",
+      "definition": "Having the back and shoulders rounded; not erect.",
+      "example": "A little oldish misshapen stooping woman.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HUNCH": {
+      "word": "HUNCH",
+      "pos": "n.",
+      "gloss": "an impression that something might be the case",
+      "definition": "An impression that something might be the case.",
+      "example": "He had an intuition that something had gone wrong.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DUNCE": {
+      "word": "DUNCE",
+      "pos": "n.",
+      "gloss": "a stupid person",
+      "definition": "A stupid person; these words are used to express a low opinion of someone's intelligence.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NUDE": {
+      "word": "NUDE",
+      "pos": "n.",
+      "gloss": "a painting of a naked human figure",
+      "definition": "A painting of a naked human figure.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUNE": {
+      "word": "DUNE",
+      "pos": "n.",
+      "gloss": "a ridge of sand created by the wind",
+      "definition": "A ridge of sand created by the wind; found in deserts or near lakes and oceans.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "END": {
+      "word": "END",
+      "pos": "n.",
+      "gloss": "either extremity of something that has length",
+      "definition": "Either extremity of something that has length.",
+      "example": "The end of the pier.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUE": {
+      "word": "DUE",
+      "pos": "adj.",
+      "gloss": "owed and payable immediately or on demand",
+      "definition": "Owed and payable immediately or on demand.",
+      "example": "Payment is due.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEC": {
+      "word": "DEC",
+      "pos": "n.",
+      "gloss": "the angular distance of a celestial body north or to the south of the celestial equator",
+      "definition": "(astronomy) the angular distance of a celestial body north or to the south of the celestial equator; expressed in degrees; used with right ascension to specify positions on the celestial sphere.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEN": {
+      "word": "DEN",
+      "pos": "n.",
+      "gloss": "the habitation of wild animals",
+      "definition": "The habitation of wild animals.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CUE": {
+      "word": "CUE",
+      "pos": "n.",
+      "gloss": "an actor's line that immediately precedes and serves as a reminder for some action or…",
+      "definition": "An actor's line that immediately precedes and serves as a reminder for some action or speech.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

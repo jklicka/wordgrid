@@ -1,0 +1,152 @@
+{
+  "id": "level-031",
+  "baseWord": "ANYHOW",
+  "pool": [
+    "A",
+    "N",
+    "Y",
+    "H",
+    "O",
+    "W"
+  ],
+  "rows": 5,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "ANYHOW",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "YAWN",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "NOW",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "ANY",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "WAY",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "HAY",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "WAN",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "WHY",
+    "OWN",
+    "WON"
+  ],
+  "entries": {
+    "ANYHOW": {
+      "word": "ANYHOW",
+      "pos": "adv.",
+      "gloss": "used to indicate that a statement explains or supports a previous statement",
+      "definition": "Used to indicate that a statement explains or supports a previous statement.",
+      "example": "Anyhow, he is dead now.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "YAWN": {
+      "word": "YAWN",
+      "pos": "n.",
+      "gloss": "an involuntary intake of breath through a wide open mouth",
+      "definition": "An involuntary intake of breath through a wide open mouth; usually triggered by fatigue or boredom.",
+      "example": "He could not suppress a yawn.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NOW": {
+      "word": "NOW",
+      "pos": "adv.",
+      "gloss": "in the historical present",
+      "definition": "In the historical present; at this point in the narration of a series of past events.",
+      "example": "President Kennedy now calls in the National Guard.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANY": {
+      "word": "ANY",
+      "pos": "adj.",
+      "gloss": "one or some or every or all without specification",
+      "definition": "One or some or every or all without specification.",
+      "example": "Give me any peaches you don't want.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WAY": {
+      "word": "WAY",
+      "pos": "n.",
+      "gloss": "how something is done or how it happens",
+      "definition": "How something is done or how it happens.",
+      "example": "Her dignified manner.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAY": {
+      "word": "HAY",
+      "pos": "n.",
+      "gloss": "grass mowed and cured for use as fodder",
+      "definition": "Grass mowed and cured for use as fodder.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WAN": {
+      "word": "WAN",
+      "pos": "adj.",
+      "gloss": "lacking in intensity or brightness",
+      "definition": "(of light) lacking in intensity or brightness; dim or feeble.",
+      "example": "The pale light of a half moon.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WHY": {
+      "word": "WHY",
+      "pos": "n.",
+      "gloss": "the cause or intention underlying an action or situation, especially in the phrase…",
+      "definition": "The cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OWN": {
+      "word": "OWN",
+      "pos": "v.",
+      "gloss": "have ownership or possession of",
+      "definition": "Have ownership or possession of.",
+      "example": "He owns three houses in Florida.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WON": {
+      "word": "WON",
+      "pos": "n.",
+      "gloss": "the basic unit of money in South Korea",
+      "definition": "The basic unit of money in South Korea.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

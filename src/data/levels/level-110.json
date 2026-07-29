@@ -1,0 +1,141 @@
+{
+  "id": "level-110",
+  "baseWord": "SUNKEN",
+  "pool": [
+    "S",
+    "U",
+    "N",
+    "K",
+    "E",
+    "N"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SUNKEN",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SUNK",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "NUKE",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "USE",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "SUN",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SUE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "KEN",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "SEN",
+    "NUN"
+  ],
+  "entries": {
+    "SUNKEN": {
+      "word": "SUNKEN",
+      "pos": "adj.",
+      "gloss": "having a sunken area",
+      "definition": "Having a sunken area.",
+      "example": "Hunger gave their faces a sunken look.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SUNK": {
+      "word": "SUNK",
+      "pos": "adj.",
+      "gloss": "doomed to extinction",
+      "definition": "Doomed to extinction.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUKE": {
+      "word": "NUKE",
+      "pos": "n.",
+      "gloss": "the warhead of a missile designed to deliver an atom bomb",
+      "definition": "The warhead of a missile designed to deliver an atom bomb.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "USE": {
+      "word": "USE",
+      "pos": "n.",
+      "gloss": "the act of using",
+      "definition": "The act of using.",
+      "example": "He warned against the use of narcotic drugs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUN": {
+      "word": "SUN",
+      "pos": "n.",
+      "gloss": "the star that is the source of light and heat for the planets in the solar system",
+      "definition": "The star that is the source of light and heat for the planets in the solar system.",
+      "example": "The sun contains 99.85% of the mass in the solar system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUE": {
+      "word": "SUE",
+      "pos": "v.",
+      "gloss": "institute legal proceedings against",
+      "definition": "Institute legal proceedings against; file a suit against.",
+      "example": "He was warned that the district attorney would process him.",
+      "band": "common",
+      "tier": "general"
+    },
+    "KEN": {
+      "word": "KEN",
+      "pos": "n.",
+      "gloss": "range of what one can know or understand",
+      "definition": "Range of what one can know or understand.",
+      "example": "Beyond my ken.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEN": {
+      "word": "SEN",
+      "pos": "n.",
+      "gloss": "a fractional monetary unit of Japan and Indonesia and Cambodia",
+      "definition": "A fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUN": {
+      "word": "NUN",
+      "pos": "n.",
+      "gloss": "a woman religious",
+      "definition": "A woman religious.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

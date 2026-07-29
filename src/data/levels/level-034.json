@@ -1,0 +1,219 @@
+{
+  "id": "level-034",
+  "baseWord": "ADVERT",
+  "pool": [
+    "A",
+    "D",
+    "V",
+    "E",
+    "R",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "ADVERT",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TRADE",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "TREAD",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "AVERT",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "READ",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "DATE",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "RATE",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ARE",
+    "RED",
+    "ART",
+    "EAT",
+    "DEAR",
+    "TEA",
+    "ERA",
+    "EAR",
+    "TEAR",
+    "DARE"
+  ],
+  "entries": {
+    "ADVERT": {
+      "word": "ADVERT",
+      "pos": "n.",
+      "gloss": "a public promotion of some product or service",
+      "definition": "A public promotion of some product or service.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TRADE": {
+      "word": "TRADE",
+      "pos": "n.",
+      "gloss": "the commercial exchange of goods and services",
+      "definition": "The commercial exchange (buying and selling on domestic or international markets) of goods and services.",
+      "example": "Venice was an important center of trade with the East.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TREAD": {
+      "word": "TREAD",
+      "pos": "v.",
+      "gloss": "put down or press the foot, place the foot",
+      "definition": "Put down or press the foot, place the foot.",
+      "example": "For fools rush in where angels fear to tread.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AVERT": {
+      "word": "AVERT",
+      "pos": "v.",
+      "gloss": "prevent the occurrence of",
+      "definition": "Prevent the occurrence of; prevent from happening.",
+      "example": "Let's avoid a confrontation.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "READ": {
+      "word": "READ",
+      "pos": "v.",
+      "gloss": "interpret something that is written or printed",
+      "definition": "Interpret something that is written or printed.",
+      "example": "Read the advertisement.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DATE": {
+      "word": "DATE",
+      "pos": "n.",
+      "gloss": "the specified day of the month",
+      "definition": "The specified day of the month.",
+      "example": "What is the date today?",
+      "band": "common",
+      "tier": "general"
+    },
+    "RATE": {
+      "word": "RATE",
+      "pos": "n.",
+      "gloss": "a magnitude or frequency relative to a time unit",
+      "definition": "A magnitude or frequency relative to a time unit.",
+      "example": "They traveled at a rate of 55 miles per hour.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RED": {
+      "word": "RED",
+      "pos": "n.",
+      "gloss": "red color or pigment",
+      "definition": "Red color or pigment; the chromatic color resembling the hue of blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ART": {
+      "word": "ART",
+      "pos": "n.",
+      "gloss": "the products of human creativity",
+      "definition": "The products of human creativity; works of art collectively.",
+      "example": "An art exhibition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAT": {
+      "word": "EAT",
+      "pos": "v.",
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEAR": {
+      "word": "DEAR",
+      "pos": "adj.",
+      "gloss": "dearly loved",
+      "definition": "Dearly loved.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEAR": {
+      "word": "TEAR",
+      "pos": "v.",
+      "gloss": "separate or cause to separate abruptly",
+      "definition": "Separate or cause to separate abruptly.",
+      "example": "The rope snapped.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DARE": {
+      "word": "DARE",
+      "pos": "v.",
+      "gloss": "take upon oneself",
+      "definition": "Take upon oneself; act presumptuously, without permission.",
+      "example": "How dare you call my lawyer?",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "level-162",
+  "baseWord": "HEYDAY",
+  "pool": [
+    "H",
+    "E",
+    "Y",
+    "D",
+    "A",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "HEYDAY",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "HEADY",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "HEAD",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "YEAH",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "DAY",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "YEA",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DYE",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "HAY"
+  ],
+  "entries": {
+    "HEYDAY": {
+      "word": "HEYDAY",
+      "pos": "n.",
+      "gloss": "the period of greatest prosperity or productivity",
+      "definition": "The period of greatest prosperity or productivity.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HEADY": {
+      "word": "HEADY",
+      "pos": "adj.",
+      "gloss": "marked by the exercise of good judgment or common sense in practical matters",
+      "definition": "Marked by the exercise of good judgment or common sense in practical matters.",
+      "example": "Judicious use of one's money.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HEAD": {
+      "word": "HEAD",
+      "pos": "n.",
+      "gloss": "the upper part of the human body or the front part of the body in animals",
+      "definition": "The upper part of the human body or the front part of the body in animals; contains the face and brains.",
+      "example": "He stuck his head out the window.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YEAH": {
+      "word": "YEAH",
+      "pos": "adv.",
+      "gloss": "not only so, but",
+      "definition": "Not only so, but.",
+      "example": "I therein do rejoice, yea, and will rejoice.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAY": {
+      "word": "DAY",
+      "pos": "n.",
+      "gloss": "time for Earth to make a complete rotation on its axis",
+      "definition": "Time for Earth to make a complete rotation on its axis.",
+      "example": "Two days later they left.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YEA": {
+      "word": "YEA",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "The yeas have it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DYE": {
+      "word": "DYE",
+      "pos": "v.",
+      "gloss": "color with dye",
+      "definition": "Color with dye.",
+      "example": "Please dye these shoes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAY": {
+      "word": "HAY",
+      "pos": "n.",
+      "gloss": "grass mowed and cured for use as fodder",
+      "definition": "Grass mowed and cured for use as fodder.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

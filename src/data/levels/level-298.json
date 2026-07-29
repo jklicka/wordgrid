@@ -1,0 +1,195 @@
+{
+  "id": "level-298",
+  "baseWord": "HUMERUS",
+  "pool": [
+    "H",
+    "U",
+    "M",
+    "E",
+    "R",
+    "U",
+    "S"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "HUMERUS",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SERUM",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "USHER",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "HUMUS",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SURE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SUE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "USE",
+    "USER",
+    "RUSH",
+    "SUM",
+    "MESH",
+    "RUM",
+    "MUSE",
+    "RUSE",
+    "MUSH"
+  ],
+  "entries": {
+    "HUMERUS": {
+      "word": "HUMERUS",
+      "pos": "n.",
+      "gloss": "bone extending from the shoulder to the elbow",
+      "definition": "Bone extending from the shoulder to the elbow.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SERUM": {
+      "word": "SERUM",
+      "pos": "n.",
+      "gloss": "an amber, watery fluid, rich in proteins, that separates out when blood coagulates",
+      "definition": "An amber, watery fluid, rich in proteins, that separates out when blood coagulates.",
+      "band": "common",
+      "tier": "general"
+    },
+    "USHER": {
+      "word": "USHER",
+      "pos": "v.",
+      "gloss": "take to their seats, as in theaters or auditoriums",
+      "definition": "Take (someone) to their seats, as in theaters or auditoriums.",
+      "example": "The usher showed us to our seats.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HUMUS": {
+      "word": "HUMUS",
+      "pos": "n.",
+      "gloss": "partially decomposed organic matter",
+      "definition": "Partially decomposed organic matter; the organic component of soil.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SURE": {
+      "word": "SURE",
+      "pos": "adj.",
+      "gloss": "having or feeling no doubt or uncertainty",
+      "definition": "Having or feeling no doubt or uncertainty; confident and assured.",
+      "example": "Felt certain of success.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUE": {
+      "word": "SUE",
+      "pos": "v.",
+      "gloss": "institute legal proceedings against",
+      "definition": "Institute legal proceedings against; file a suit against.",
+      "example": "He was warned that the district attorney would process him.",
+      "band": "common",
+      "tier": "general"
+    },
+    "USE": {
+      "word": "USE",
+      "pos": "n.",
+      "gloss": "the act of using",
+      "definition": "The act of using.",
+      "example": "He warned against the use of narcotic drugs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "USER": {
+      "word": "USER",
+      "pos": "n.",
+      "gloss": "a person who makes use of a thing",
+      "definition": "A person who makes use of a thing; someone who uses or employs something.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUSH": {
+      "word": "RUSH",
+      "pos": "v.",
+      "gloss": "move hurridly",
+      "definition": "Move hurridly.",
+      "example": "He rushed down the hall to receive his guests.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUM": {
+      "word": "SUM",
+      "pos": "n.",
+      "gloss": "a quantity of money",
+      "definition": "A quantity of money.",
+      "example": "He borrowed a large sum.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MESH": {
+      "word": "MESH",
+      "pos": "v.",
+      "gloss": "keep engaged",
+      "definition": "Keep engaged.",
+      "example": "Engaged the gears.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUM": {
+      "word": "RUM",
+      "pos": "n.",
+      "gloss": "liquor distilled from fermented molasses",
+      "definition": "Liquor distilled from fermented molasses.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MUSE": {
+      "word": "MUSE",
+      "pos": "n.",
+      "gloss": "the source of an artist's inspiration",
+      "definition": "The source of an artist's inspiration.",
+      "example": "Euterpe was his muse.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RUSE": {
+      "word": "RUSE",
+      "pos": "n.",
+      "gloss": "a deceptive maneuver",
+      "definition": "A deceptive maneuver (especially to avoid capture).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MUSH": {
+      "word": "MUSH",
+      "pos": "n.",
+      "gloss": "any soft or soggy mass",
+      "definition": "Any soft or soggy mass.",
+      "example": "He pounded it to a pulp.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

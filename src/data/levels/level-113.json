@@ -1,0 +1,161 @@
+{
+  "id": "level-113",
+  "baseWord": "WIDEN",
+  "pool": [
+    "W",
+    "I",
+    "D",
+    "E",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "WIDEN",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "WIDE",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "WIND",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "WINE",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "DINE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "NEW",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "END",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "WIN",
+    "DIE",
+    "DEN",
+    "WED"
+  ],
+  "entries": {
+    "WIDEN": {
+      "word": "WIDEN",
+      "pos": "v.",
+      "gloss": "become broader or wider or more extensive",
+      "definition": "Become broader or wider or more extensive.",
+      "example": "The road widened.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WIDE": {
+      "word": "WIDE",
+      "pos": "adj.",
+      "gloss": "having great extent from one side to the other",
+      "definition": "Having great (or a certain) extent from one side to the other.",
+      "example": "Wide roads.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WIND": {
+      "word": "WIND",
+      "pos": "n.",
+      "gloss": "air moving from an area of high pressure to an area of low pressure",
+      "definition": "Air moving (sometimes with considerable force) from an area of high pressure to an area of low pressure.",
+      "example": "Trees bent under the fierce winds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WINE": {
+      "word": "WINE",
+      "pos": "n.",
+      "gloss": "fermented juice",
+      "definition": "Fermented juice (of grapes especially).",
+      "band": "common",
+      "tier": "general"
+    },
+    "DINE": {
+      "word": "DINE",
+      "pos": "v.",
+      "gloss": "have supper; eat dinner",
+      "definition": "Have supper; eat dinner.",
+      "example": "We often dine with friends in this restaurant.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NEW": {
+      "word": "NEW",
+      "pos": "adj.",
+      "gloss": "not of long duration",
+      "definition": "Not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered.",
+      "example": "A new law.",
+      "band": "common",
+      "tier": "general"
+    },
+    "END": {
+      "word": "END",
+      "pos": "n.",
+      "gloss": "either extremity of something that has length",
+      "definition": "Either extremity of something that has length.",
+      "example": "The end of the pier.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WIN": {
+      "word": "WIN",
+      "pos": "v.",
+      "gloss": "be the winner in a contest or competition",
+      "definition": "Be the winner in a contest or competition; be victorious.",
+      "example": "He won the Gold Medal in skating.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIE": {
+      "word": "DIE",
+      "pos": "v.",
+      "gloss": "pass from physical life and lose all bodily attributes and functions necessary to…",
+      "definition": "Pass from physical life and lose all bodily attributes and functions necessary to sustain life.",
+      "example": "She died from cancer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEN": {
+      "word": "DEN",
+      "pos": "n.",
+      "gloss": "the habitation of wild animals",
+      "definition": "The habitation of wild animals.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WED": {
+      "word": "WED",
+      "pos": "v.",
+      "gloss": "take in marriage",
+      "definition": "Take in marriage.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

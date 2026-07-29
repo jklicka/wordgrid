@@ -1,0 +1,139 @@
+{
+  "id": "level-185",
+  "baseWord": "DUGOUT",
+  "pool": [
+    "D",
+    "U",
+    "G",
+    "O",
+    "U",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "DUGOUT",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "GOUT",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "OUT",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "GOD",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "DUO",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DOT",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "GUT",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "DOG",
+    "DUG"
+  ],
+  "entries": {
+    "DUGOUT": {
+      "word": "DUGOUT",
+      "pos": "n.",
+      "gloss": "either of two low shelters on either side of a baseball diamond where the players and…",
+      "definition": "Either of two low shelters on either side of a baseball diamond where the players and coaches sit during the game.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GOUT": {
+      "word": "GOUT",
+      "pos": "n.",
+      "gloss": "a painful inflammation of the big toe and foot caused by defects in uric acid…",
+      "definition": "A painful inflammation of the big toe and foot caused by defects in uric acid metabolism resulting in deposits of the acid and its salts in the blood and joints.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "OUT": {
+      "word": "OUT",
+      "pos": "adj.",
+      "gloss": "not allowed to continue to bat or run",
+      "definition": "Not allowed to continue to bat or run.",
+      "example": "He was tagged out at second on a close play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GOD": {
+      "word": "GOD",
+      "pos": "n.",
+      "gloss": "any supernatural being worshipped as controlling some part of the world or some aspect…",
+      "definition": "Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUO": {
+      "word": "DUO",
+      "pos": "n.",
+      "gloss": "two items of the same kind",
+      "definition": "Two items of the same kind.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOT": {
+      "word": "DOT",
+      "pos": "n.",
+      "gloss": "a very small circular shape",
+      "definition": "A very small circular shape.",
+      "example": "A row of points.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUT": {
+      "word": "GUT",
+      "pos": "n.",
+      "gloss": "the part of the alimentary canal between the stomach and the anus",
+      "definition": "The part of the alimentary canal between the stomach and the anus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOG": {
+      "word": "DOG",
+      "pos": "n.",
+      "gloss": "a member of the genus Canis that has been domesticated by man since prehistoric times",
+      "definition": "A member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds.",
+      "example": "The dog barked all night.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUG": {
+      "word": "DUG",
+      "pos": "n.",
+      "gloss": "an udder or breast or teat",
+      "definition": "An udder or breast or teat.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

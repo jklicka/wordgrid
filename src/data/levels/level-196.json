@@ -1,0 +1,148 @@
+{
+  "id": "level-196",
+  "baseWord": "DOGGIE",
+  "pool": [
+    "D",
+    "O",
+    "G",
+    "G",
+    "I",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "DOGGIE",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DOGE",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "GOD",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "DOG",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "DIE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "EGG",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "DIG",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "EGO",
+    "GIG",
+    "DOE"
+  ],
+  "entries": {
+    "DOGGIE": {
+      "word": "DOGGIE",
+      "pos": "n.",
+      "gloss": "informal terms for dogs",
+      "definition": "Informal terms for dogs.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DOGE": {
+      "word": "DOGE",
+      "pos": "n.",
+      "gloss": "formerly the chief magistrate in the republics of Venice and Genoa",
+      "definition": "Formerly the chief magistrate in the republics of Venice and Genoa.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GOD": {
+      "word": "GOD",
+      "pos": "n.",
+      "gloss": "any supernatural being worshipped as controlling some part of the world or some aspect…",
+      "definition": "Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOG": {
+      "word": "DOG",
+      "pos": "n.",
+      "gloss": "a member of the genus Canis that has been domesticated by man since prehistoric times",
+      "definition": "A member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds.",
+      "example": "The dog barked all night.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIE": {
+      "word": "DIE",
+      "pos": "v.",
+      "gloss": "pass from physical life and lose all bodily attributes and functions necessary to…",
+      "definition": "Pass from physical life and lose all bodily attributes and functions necessary to sustain life.",
+      "example": "She died from cancer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EGG": {
+      "word": "EGG",
+      "pos": "n.",
+      "gloss": "animal reproductive body consisting of an ovum or embryo together with nutritive and…",
+      "definition": "Animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIG": {
+      "word": "DIG",
+      "pos": "v.",
+      "gloss": "turn up, loosen, or remove earth",
+      "definition": "Turn up, loosen, or remove earth.",
+      "example": "Dig we must.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EGO": {
+      "word": "EGO",
+      "pos": "n.",
+      "gloss": "an inflated feeling of pride in your superiority to others",
+      "definition": "An inflated feeling of pride in your superiority to others.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIG": {
+      "word": "GIG",
+      "pos": "n.",
+      "gloss": "long and light rowing boat",
+      "definition": "Long and light rowing boat; especially for racing.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOE": {
+      "word": "DOE",
+      "pos": "n.",
+      "gloss": "mature female of mammals of which the male is called `buck'",
+      "definition": "Mature female of mammals of which the male is called `buck'.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

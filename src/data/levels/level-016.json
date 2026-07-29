@@ -1,167 +1,179 @@
 {
   "id": "level-016",
-  "baseWord": "CANOPY",
+  "baseWord": "SUBSET",
   "pool": [
-    "C",
-    "A",
-    "N",
-    "O",
-    "P",
-    "Y"
+    "S",
+    "U",
+    "B",
+    "S",
+    "E",
+    "T"
   ],
-  "rows": 7,
+  "rows": 6,
   "cols": 8,
   "placed": [
     {
-      "word": "CANOPY",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "word": "CAPON",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "word": "COPY",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "word": "PONY",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "word": "ANY",
-      "row": 6,
+      "word": "SUBSET",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "word": "PAY",
-      "row": 5,
+      "word": "BEST",
+      "row": 2,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "TUBE",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "BUST",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "word": "CAP",
-      "row": 0,
+      "word": "BUT",
+      "row": 4,
       "col": 5,
       "direction": "across"
+    },
+    {
+      "word": "USE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "SET",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "bonus": [
-    "CAN",
-    "PAN",
-    "COP",
-    "CON",
-    "NAP"
+    "BUS",
+    "BET",
+    "SUB",
+    "SUE",
+    "TUB",
+    "STUB"
   ],
   "entries": {
-    "CANOPY": {
-      "word": "CANOPY",
+    "SUBSET": {
+      "word": "SUBSET",
       "pos": "n.",
-      "gloss": "the transparent covering of an aircraft cockpit",
-      "definition": "The transparent covering of an aircraft cockpit.",
+      "gloss": "a set whose members are members of another set",
+      "definition": "A set whose members are members of another set; a set contained within another set.",
       "band": "teaching",
       "tier": "general"
     },
-    "CAPON": {
-      "word": "CAPON",
+    "BEST": {
+      "word": "BEST",
       "pos": "n.",
-      "gloss": "flesh of a castrated male chicken",
-      "definition": "Flesh of a castrated male chicken.",
+      "gloss": "the supreme effort one can make",
+      "definition": "The supreme effort one can make.",
+      "example": "They did their best.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TUBE": {
+      "word": "TUBE",
+      "pos": "n.",
+      "gloss": "conduit consisting of a long hollow object used to hold and conduct objects or liquids…",
+      "definition": "Conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUST": {
+      "word": "BUST",
+      "pos": "v.",
+      "gloss": "ruin completely",
+      "definition": "Ruin completely.",
+      "example": "He busted my radio!",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUT": {
+      "word": "BUT",
+      "pos": "adv.",
+      "gloss": "and nothing more",
+      "definition": "And nothing more.",
+      "example": "I was merely asking.",
+      "band": "common",
+      "tier": "general"
+    },
+    "USE": {
+      "word": "USE",
+      "pos": "n.",
+      "gloss": "the act of using",
+      "definition": "The act of using.",
+      "example": "He warned against the use of narcotic drugs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SET": {
+      "word": "SET",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUS": {
+      "word": "BUS",
+      "pos": "n.",
+      "gloss": "a vehicle carrying many passengers",
+      "definition": "A vehicle carrying many passengers; used for public transport.",
+      "example": "He always rode the bus to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BET": {
+      "word": "BET",
+      "pos": "n.",
+      "gloss": "the money risked on a gamble",
+      "definition": "The money risked on a gamble.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUB": {
+      "word": "SUB",
+      "pos": "v.",
+      "gloss": "be a substitute",
+      "definition": "Be a substitute.",
+      "example": "The young teacher had to substitute for the sick colleague.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUE": {
+      "word": "SUE",
+      "pos": "v.",
+      "gloss": "institute legal proceedings against",
+      "definition": "Institute legal proceedings against; file a suit against.",
+      "example": "He was warned that the district attorney would process him.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TUB": {
+      "word": "TUB",
+      "pos": "n.",
+      "gloss": "a relatively large open container that you fill with water and use to wash the body",
+      "definition": "A relatively large open container that you fill with water and use to wash the body.",
+      "band": "common",
+      "tier": "general"
+    },
+    "STUB": {
+      "word": "STUB",
+      "pos": "n.",
+      "gloss": "a short piece remaining on a trunk or stem where a branch is lost",
+      "definition": "A short piece remaining on a trunk or stem where a branch is lost.",
       "band": "teaching",
-      "tier": "general"
-    },
-    "COPY": {
-      "word": "COPY",
-      "pos": "n.",
-      "gloss": "a reproduction of a written record",
-      "definition": "A reproduction of a written record (e.g. of a legal or school record).",
-      "band": "common",
-      "tier": "general"
-    },
-    "PONY": {
-      "word": "PONY",
-      "pos": "n.",
-      "gloss": "a range horse of the western United States",
-      "definition": "A range horse of the western United States.",
-      "band": "common",
-      "tier": "general"
-    },
-    "ANY": {
-      "word": "ANY",
-      "pos": "adj.",
-      "gloss": "one or some or every or all without specification",
-      "definition": "One or some or every or all without specification.",
-      "example": "Give me any peaches you don't want.",
-      "band": "common",
-      "tier": "general"
-    },
-    "PAY": {
-      "word": "PAY",
-      "pos": "v.",
-      "gloss": "give money, usually in exchange for goods or services",
-      "definition": "Give money, usually in exchange for goods or services.",
-      "example": "I paid four dollars for this sandwich.",
-      "band": "common",
-      "tier": "general"
-    },
-    "CAP": {
-      "word": "CAP",
-      "pos": "n.",
-      "gloss": "a tight-fitting headdress",
-      "definition": "A tight-fitting headdress.",
-      "band": "common",
-      "tier": "general"
-    },
-    "CAN": {
-      "word": "CAN",
-      "pos": "v.",
-      "gloss": "preserve in a can or tin",
-      "definition": "Preserve in a can or tin.",
-      "example": "Tinned foods are not very tasty.",
-      "band": "common",
-      "tier": "general"
-    },
-    "PAN": {
-      "word": "PAN",
-      "pos": "v.",
-      "gloss": "make a sweeping movement",
-      "definition": "Make a sweeping movement.",
-      "example": "The camera panned across the room.",
-      "band": "common",
-      "tier": "general"
-    },
-    "COP": {
-      "word": "COP",
-      "pos": "n.",
-      "gloss": "uncomplimentary terms for a policeman",
-      "definition": "Uncomplimentary terms for a policeman.",
-      "band": "common",
-      "tier": "general"
-    },
-    "CON": {
-      "word": "CON",
-      "pos": "n.",
-      "gloss": "an argument opposed to a proposal",
-      "definition": "An argument opposed to a proposal.",
-      "band": "common",
-      "tier": "general"
-    },
-    "NAP": {
-      "word": "NAP",
-      "pos": "n.",
-      "gloss": "a period of time spent sleeping",
-      "definition": "A period of time spent sleeping.",
-      "example": "He felt better after a little sleep.",
-      "band": "common",
       "tier": "general"
     }
   }

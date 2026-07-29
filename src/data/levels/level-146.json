@@ -1,0 +1,214 @@
+{
+  "id": "level-146",
+  "baseWord": "ATRIUM",
+  "pool": [
+    "A",
+    "T",
+    "R",
+    "I",
+    "U",
+    "M"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "ATRIUM",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "TRIM",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "MART",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "TRAM",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "AMIR",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "AIR",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "ART",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ARM",
+    "AIM",
+    "MAR",
+    "RAM",
+    "RAT",
+    "ATM",
+    "RIM",
+    "IRA",
+    "MAT",
+    "RUM"
+  ],
+  "entries": {
+    "ATRIUM": {
+      "word": "ATRIUM",
+      "pos": "n.",
+      "gloss": "any chamber that is connected to other chambers or passageways",
+      "definition": "Any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TRIM": {
+      "word": "TRIM",
+      "pos": "v.",
+      "gloss": "remove the edges from and cut down to the desired size",
+      "definition": "Remove the edges from and cut down to the desired size.",
+      "example": "Pare one's fingernails.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MART": {
+      "word": "MART",
+      "pos": "n.",
+      "gloss": "an area in a town where a public mercantile establishment is set up",
+      "definition": "An area in a town where a public mercantile establishment is set up.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TRAM": {
+      "word": "TRAM",
+      "pos": "n.",
+      "gloss": "a conveyance that transports passengers or freight in carriers suspended from cables…",
+      "definition": "A conveyance that transports passengers or freight in carriers suspended from cables and supported by a series of towers.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AMIR": {
+      "word": "AMIR",
+      "pos": "n.",
+      "gloss": "an independent ruler or chieftain",
+      "definition": "An independent ruler or chieftain (especially in Africa or Arabia).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AIR": {
+      "word": "AIR",
+      "pos": "n.",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ART": {
+      "word": "ART",
+      "pos": "n.",
+      "gloss": "the products of human creativity",
+      "definition": "The products of human creativity; works of art collectively.",
+      "example": "An art exhibition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARM": {
+      "word": "ARM",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIM": {
+      "word": "AIM",
+      "pos": "v.",
+      "gloss": "point or cause to go towards",
+      "definition": "Point or cause to go (blows, weapons, or objects such as photographic equipment) towards.",
+      "example": "Please don't aim at your little brother!",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAR": {
+      "word": "MAR",
+      "pos": "v.",
+      "gloss": "make imperfect",
+      "definition": "Make imperfect.",
+      "example": "Nothing marred her beauty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAM": {
+      "word": "RAM",
+      "pos": "v.",
+      "gloss": "strike or drive against with a heavy impact",
+      "definition": "Strike or drive against with a heavy impact.",
+      "example": "Ram the gate with a sledgehammer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAT": {
+      "word": "RAT",
+      "pos": "n.",
+      "gloss": "any of various long-tailed rodents similar to but larger than a mouse",
+      "definition": "Any of various long-tailed rodents similar to but larger than a mouse.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ATM": {
+      "word": "ATM",
+      "pos": "n.",
+      "gloss": "a unit of pressure",
+      "definition": "A unit of pressure: the pressure that will support a column of mercury 760 mm high at sea level and 0 degrees centigrade.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIM": {
+      "word": "RIM",
+      "pos": "n.",
+      "gloss": "the shape of a raised edge of a more or less circular object",
+      "definition": "The shape of a raised edge of a more or less circular object.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IRA": {
+      "word": "IRA",
+      "pos": "n.",
+      "gloss": "belligerence aroused by a real or supposed wrong",
+      "definition": "Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAT": {
+      "word": "MAT",
+      "pos": "n.",
+      "gloss": "a thick flat pad used as a floor covering",
+      "definition": "A thick flat pad used as a floor covering.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUM": {
+      "word": "RUM",
+      "pos": "n.",
+      "gloss": "liquor distilled from fermented molasses",
+      "definition": "Liquor distilled from fermented molasses.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

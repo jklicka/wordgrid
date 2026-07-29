@@ -1,111 +1,165 @@
 {
   "id": "level-003",
-  "baseWord": "KERNEL",
+  "baseWord": "CYCLIST",
   "pool": [
-    "K",
-    "E",
-    "R",
-    "N",
-    "E",
-    "L"
+    "C",
+    "Y",
+    "C",
+    "L",
+    "I",
+    "S",
+    "T"
   ],
-  "rows": 5,
-  "cols": 6,
+  "rows": 8,
+  "cols": 8,
   "placed": [
     {
-      "word": "KERNEL",
+      "word": "CYCLIST",
       "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "word": "KNEEL",
-      "row": 0,
+      "word": "CYSTIC",
+      "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
-      "word": "KNEE",
-      "row": 1,
+      "word": "SILTY",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "CITY",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "word": "KEEN",
+      "word": "LIST",
       "row": 0,
-      "col": 3,
+      "col": 6,
       "direction": "down"
     },
     {
-      "word": "REEL",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
+      "word": "SLIT",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "CYST",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "bonus": [
-    "KEN",
-    "KEEL"
+    "SIT",
+    "LIT",
+    "SIC",
+    "CLIT",
+    "SILT"
   ],
   "entries": {
-    "KERNEL": {
-      "word": "KERNEL",
+    "CYCLIST": {
+      "word": "CYCLIST",
       "pos": "n.",
-      "gloss": "the inner and usually edible part of a seed or grain or nut or fruit stone",
-      "definition": "The inner and usually edible part of a seed or grain or nut or fruit stone.",
-      "example": "Black walnut kernels are difficult to get out of the shell.",
+      "gloss": "a person who rides a bicycle",
+      "definition": "A person who rides a bicycle.",
       "band": "teaching",
       "tier": "general"
     },
-    "KNEEL": {
-      "word": "KNEEL",
-      "pos": "v.",
-      "gloss": "rest one's weight on one's knees",
-      "definition": "Rest one's weight on one's knees.",
-      "example": "In church you have to kneel during parts of the service.",
-      "band": "teaching",
-      "tier": "general"
-    },
-    "KNEE": {
-      "word": "KNEE",
-      "pos": "n.",
-      "gloss": "hinge joint in the human leg connecting the tibia and fibula with the femur and…",
-      "definition": "Hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella.",
-      "band": "common",
-      "tier": "general"
-    },
-    "KEEN": {
-      "word": "KEEN",
+    "CYSTIC": {
+      "word": "CYSTIC",
       "pos": "adj.",
-      "gloss": "having or demonstrating ability to recognize or draw fine distinctions",
-      "definition": "Having or demonstrating ability to recognize or draw fine distinctions.",
-      "example": "An acute observer of politics and politicians.",
+      "gloss": "of or relating to a normal cyst",
+      "definition": "Of or relating to a normal cyst (as the gallbladder or urinary bladder).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SILTY": {
+      "word": "SILTY",
+      "pos": "adj.",
+      "gloss": "full of silt",
+      "definition": "Full of silt.",
+      "example": "Silty soil.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CITY": {
+      "word": "CITY",
+      "pos": "n.",
+      "gloss": "a large and densely populated urban area",
+      "definition": "A large and densely populated urban area; may include several independent administrative districts.",
+      "example": "Ancient Troy was a great city.",
       "band": "common",
       "tier": "general"
     },
-    "REEL": {
-      "word": "REEL",
+    "LIST": {
+      "word": "LIST",
+      "pos": "n.",
+      "gloss": "a database containing an ordered array of items",
+      "definition": "A database containing an ordered array of items (names or topics).",
+      "band": "common",
+      "tier": "general"
+    },
+    "SLIT": {
+      "word": "SLIT",
+      "pos": "n.",
+      "gloss": "a long narrow opening",
+      "definition": "A long narrow opening.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CYST": {
+      "word": "CYST",
+      "pos": "n.",
+      "gloss": "a closed sac that develops abnormally in some body structure",
+      "definition": "A closed sac that develops abnormally in some body structure.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SIT": {
+      "word": "SIT",
       "pos": "v.",
-      "gloss": "walk as if unable to control one's movements",
-      "definition": "Walk as if unable to control one's movements.",
-      "example": "The drunken man staggered into the room.",
+      "gloss": "be seated",
+      "definition": "Be seated.",
       "band": "common",
       "tier": "general"
     },
-    "KEN": {
-      "word": "KEN",
-      "pos": "n.",
-      "gloss": "range of what one can know or understand",
-      "definition": "Range of what one can know or understand.",
-      "example": "Beyond my ken.",
+    "LIT": {
+      "word": "LIT",
+      "pos": "adj.",
+      "gloss": "provided with artificial light",
+      "definition": "Provided with artificial light.",
+      "example": "Illuminated advertising.",
       "band": "common",
       "tier": "general"
     },
-    "KEEL": {
-      "word": "KEEL",
+    "SIC": {
+      "word": "SIC",
+      "pos": "adv.",
+      "gloss": "intentionally so written",
+      "definition": "Intentionally so written (used after a printed word or phrase).",
+      "band": "common",
+      "tier": "general"
+    },
+    "CLIT": {
+      "word": "CLIT",
       "pos": "n.",
-      "gloss": "a projection or ridge that suggests a keel",
-      "definition": "A projection or ridge that suggests a keel.",
+      "gloss": "a female sexual organ homologous to the penis",
+      "definition": "A female sexual organ homologous to the penis.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SILT": {
+      "word": "SILT",
+      "pos": "n.",
+      "gloss": "mud or clay or small rocks deposited by a river or lake",
+      "definition": "Mud or clay or small rocks deposited by a river or lake.",
       "band": "teaching",
       "tier": "general"
     }

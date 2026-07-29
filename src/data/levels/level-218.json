@@ -1,0 +1,128 @@
+{
+  "id": "level-218",
+  "baseWord": "GRITS",
+  "pool": [
+    "G",
+    "R",
+    "I",
+    "T",
+    "S"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "GRITS",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "GRIST",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "STIR",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "GRIT",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "GIST",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SIR",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "SIT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "RIG"
+  ],
+  "entries": {
+    "GRITS": {
+      "word": "GRITS",
+      "pos": "n.",
+      "gloss": "coarsely ground hulled corn boiled as a breakfast dish in the southern United States",
+      "definition": "Coarsely ground hulled corn boiled as a breakfast dish in the southern United States.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GRIST": {
+      "word": "GRIST",
+      "pos": "n.",
+      "gloss": "grain intended to be or that has been ground",
+      "definition": "Grain intended to be or that has been ground.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "STIR": {
+      "word": "STIR",
+      "pos": "v.",
+      "gloss": "move an implement through",
+      "definition": "Move an implement through.",
+      "example": "Stir the soup.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GRIT": {
+      "word": "GRIT",
+      "pos": "n.",
+      "gloss": "a hard coarse-grained siliceous sandstone",
+      "definition": "A hard coarse-grained siliceous sandstone.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GIST": {
+      "word": "GIST",
+      "pos": "n.",
+      "gloss": "the central meaning or theme of a speech or literary work",
+      "definition": "The central meaning or theme of a speech or literary work.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SIR": {
+      "word": "SIR",
+      "pos": "n.",
+      "gloss": "term of address for a man",
+      "definition": "Term of address for a man.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIT": {
+      "word": "SIT",
+      "pos": "v.",
+      "gloss": "be seated",
+      "definition": "Be seated.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIG": {
+      "word": "RIG",
+      "pos": "v.",
+      "gloss": "arrange the outcome of by means of deceit",
+      "definition": "Arrange the outcome of by means of deceit.",
+      "example": "Rig an election.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

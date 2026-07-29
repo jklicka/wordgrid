@@ -1,0 +1,148 @@
+{
+  "id": "level-354",
+  "baseWord": "ANCHOVY",
+  "pool": [
+    "A",
+    "N",
+    "C",
+    "H",
+    "O",
+    "V",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "ANCHOVY",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "HAVOC",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "NACHO",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NAVY",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "NOVA",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "CAN",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "ANY",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "VAN",
+    "CON",
+    "HAY"
+  ],
+  "entries": {
+    "ANCHOVY": {
+      "word": "ANCHOVY",
+      "pos": "n.",
+      "gloss": "tiny fishes usually canned or salted",
+      "definition": "Tiny fishes usually canned or salted; used for hors d'oeuvres or as seasoning in sauces.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HAVOC": {
+      "word": "HAVOC",
+      "pos": "n.",
+      "gloss": "violent and needless disturbance",
+      "definition": "Violent and needless disturbance.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NACHO": {
+      "word": "NACHO",
+      "pos": "n.",
+      "gloss": "a tortilla chip topped with cheese and chili-pepper and broiled",
+      "definition": "A tortilla chip topped with cheese and chili-pepper and broiled.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NAVY": {
+      "word": "NAVY",
+      "pos": "n.",
+      "gloss": "an organization of military vessels belonging to a country and available for sea warfare",
+      "definition": "An organization of military vessels belonging to a country and available for sea warfare.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOVA": {
+      "word": "NOVA",
+      "pos": "n.",
+      "gloss": "a star that ejects some of its material in the form of a cloud and becomes more…",
+      "definition": "A star that ejects some of its material in the form of a cloud and becomes more luminous in the process.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAN": {
+      "word": "CAN",
+      "pos": "v.",
+      "gloss": "preserve in a can or tin",
+      "definition": "Preserve in a can or tin.",
+      "example": "Tinned foods are not very tasty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANY": {
+      "word": "ANY",
+      "pos": "adj.",
+      "gloss": "one or some or every or all without specification",
+      "definition": "One or some or every or all without specification.",
+      "example": "Give me any peaches you don't want.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VAN": {
+      "word": "VAN",
+      "pos": "n.",
+      "gloss": "any creative group active in the innovation and application of new concepts and…",
+      "definition": "Any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts).",
+      "band": "common",
+      "tier": "general"
+    },
+    "CON": {
+      "word": "CON",
+      "pos": "n.",
+      "gloss": "an argument opposed to a proposal",
+      "definition": "An argument opposed to a proposal.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAY": {
+      "word": "HAY",
+      "pos": "n.",
+      "gloss": "grass mowed and cured for use as fodder",
+      "definition": "Grass mowed and cured for use as fodder.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

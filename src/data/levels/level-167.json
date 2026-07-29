@@ -1,0 +1,138 @@
+{
+  "id": "level-167",
+  "baseWord": "TONAL",
+  "pool": [
+    "T",
+    "O",
+    "N",
+    "A",
+    "L"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "TONAL",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TALON",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LOAN",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ALTO",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "LOT",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "TON",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "TAN",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "NOT",
+    "ANT"
+  ],
+  "entries": {
+    "TONAL": {
+      "word": "TONAL",
+      "pos": "adj.",
+      "gloss": "employing variations in pitch to distinguish meanings of otherwise similar words",
+      "definition": "Employing variations in pitch to distinguish meanings of otherwise similar words.",
+      "example": "Chinese is a tonal language.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TALON": {
+      "word": "TALON",
+      "pos": "n.",
+      "gloss": "a sharp hooked claw especially on a bird of prey",
+      "definition": "A sharp hooked claw especially on a bird of prey.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LOAN": {
+      "word": "LOAN",
+      "pos": "n.",
+      "gloss": "the temporary provision of money",
+      "definition": "The temporary provision of money (usually at interest).",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALTO": {
+      "word": "ALTO",
+      "pos": "n.",
+      "gloss": "a singer whose voice lies in the alto clef",
+      "definition": "A singer whose voice lies in the alto clef.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LOT": {
+      "word": "LOT",
+      "pos": "n.",
+      "gloss": "a large number or amount or extent",
+      "definition": "(often followed by `of') a large number or amount or extent.",
+      "example": "A batch of letters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TON": {
+      "word": "TON",
+      "pos": "n.",
+      "gloss": "a United States unit of weight equivalent to 2000 pounds",
+      "definition": "A United States unit of weight equivalent to 2000 pounds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANT": {
+      "word": "ANT",
+      "pos": "n.",
+      "gloss": "social insect living in organized colonies",
+      "definition": "Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

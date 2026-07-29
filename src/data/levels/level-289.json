@@ -1,0 +1,141 @@
+{
+  "id": "level-289",
+  "baseWord": "TYPHUS",
+  "pool": [
+    "T",
+    "Y",
+    "P",
+    "H",
+    "U",
+    "S"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "TYPHUS",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "PUSHY",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "THUS",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PUSH",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "SHUT",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "PUT",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "SPY",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SHY",
+    "HUT"
+  ],
+  "entries": {
+    "TYPHUS": {
+      "word": "TYPHUS",
+      "pos": "n.",
+      "gloss": "rickettsial disease transmitted by body lice and characterized by skin rash and high fever",
+      "definition": "Rickettsial disease transmitted by body lice and characterized by skin rash and high fever.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PUSHY": {
+      "word": "PUSHY",
+      "pos": "adj.",
+      "gloss": "marked by aggressive ambition and energy and initiative",
+      "definition": "Marked by aggressive ambition and energy and initiative.",
+      "example": "An aggressive young executive.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "THUS": {
+      "word": "THUS",
+      "pos": "adv.",
+      "gloss": "from that fact or reason or as a result",
+      "definition": "(used to introduce a logical conclusion) from that fact or reason or as a result.",
+      "example": "Therefore X must be true.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PUSH": {
+      "word": "PUSH",
+      "pos": "v.",
+      "gloss": "move with force",
+      "definition": "Move with force.",
+      "example": "He pushed the table into a corner.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SHUT": {
+      "word": "SHUT",
+      "pos": "v.",
+      "gloss": "move so that an opening or passage is obstructed",
+      "definition": "Move so that an opening or passage is obstructed; make shut.",
+      "example": "Close the door.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PUT": {
+      "word": "PUT",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPY": {
+      "word": "SPY",
+      "pos": "v.",
+      "gloss": "catch sight of",
+      "definition": "Catch sight of.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SHY": {
+      "word": "SHY",
+      "pos": "v.",
+      "gloss": "start suddenly, as from fright",
+      "definition": "Start suddenly, as from fright.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HUT": {
+      "word": "HUT",
+      "pos": "n.",
+      "gloss": "temporary military shelter",
+      "definition": "Temporary military shelter.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "id": "level-243",
+  "baseWord": "INFAMY",
+  "pool": [
+    "I",
+    "N",
+    "F",
+    "A",
+    "M",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "INFAMY",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MANY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "MAIN",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "MINA",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "ANY",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "MAY",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "MAN",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "FAN",
+    "AIM",
+    "MIN",
+    "FIN"
+  ],
+  "entries": {
+    "INFAMY": {
+      "word": "INFAMY",
+      "pos": "n.",
+      "gloss": "a state of extreme dishonor",
+      "definition": "A state of extreme dishonor.",
+      "example": "A date which will live in infamy\"- F.D.Roosevelt.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MANY": {
+      "word": "MANY",
+      "pos": "adj.",
+      "gloss": "a quantifier that can be used with count nouns and is often preceded by `as' or `too'…",
+      "definition": "A quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number.",
+      "example": "Many temptations.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAIN": {
+      "word": "MAIN",
+      "pos": "adj.",
+      "gloss": "most important element",
+      "definition": "Most important element.",
+      "example": "The chief aim of living.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MINA": {
+      "word": "MINA",
+      "pos": "n.",
+      "gloss": "tropical Asian starlings",
+      "definition": "Tropical Asian starlings.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ANY": {
+      "word": "ANY",
+      "pos": "adj.",
+      "gloss": "one or some or every or all without specification",
+      "definition": "One or some or every or all without specification.",
+      "example": "Give me any peaches you don't want.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAY": {
+      "word": "MAY",
+      "pos": "n.",
+      "gloss": "thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers…",
+      "definition": "Thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers followed by deep red berries; established as an escape in eastern North America.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAN": {
+      "word": "MAN",
+      "pos": "n.",
+      "gloss": "an adult person who is male",
+      "definition": "An adult person who is male (as opposed to a woman).",
+      "example": "There were two women and six men on the bus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FAN": {
+      "word": "FAN",
+      "pos": "n.",
+      "gloss": "a device for creating a current of air by movement of a surface or surfaces",
+      "definition": "A device for creating a current of air by movement of a surface or surfaces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIM": {
+      "word": "AIM",
+      "pos": "v.",
+      "gloss": "point or cause to go towards",
+      "definition": "Point or cause to go (blows, weapons, or objects such as photographic equipment) towards.",
+      "example": "Please don't aim at your little brother!",
+      "band": "common",
+      "tier": "general"
+    },
+    "MIN": {
+      "word": "MIN",
+      "pos": "n.",
+      "gloss": "a unit of time equal to 60 seconds or 1/60th of an hour",
+      "definition": "A unit of time equal to 60 seconds or 1/60th of an hour.",
+      "example": "He ran a 4 minute mile.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FIN": {
+      "word": "FIN",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of four and one",
+      "definition": "The cardinal number that is the sum of four and one.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

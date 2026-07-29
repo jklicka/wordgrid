@@ -1,0 +1,186 @@
+{
+  "id": "level-100",
+  "baseWord": "BUDDING",
+  "pool": [
+    "B",
+    "U",
+    "D",
+    "D",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "BUDDING",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BIND",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DING",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "DUNG",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "BIG",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "GUN",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "BID",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "BIN",
+    "DIG",
+    "BUG",
+    "BUD",
+    "DUG",
+    "GIN",
+    "DUB"
+  ],
+  "entries": {
+    "BUDDING": {
+      "word": "BUDDING",
+      "pos": "n.",
+      "gloss": "reproduction of some unicellular organisms by growth and specialization followed by…",
+      "definition": "Reproduction of some unicellular organisms (such as yeasts) by growth and specialization followed by the separation by constriction of a part of the parent.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BIND": {
+      "word": "BIND",
+      "pos": "v.",
+      "gloss": "stick to firmly",
+      "definition": "Stick to firmly.",
+      "example": "Will this wallpaper adhere to the wall?",
+      "band": "common",
+      "tier": "general"
+    },
+    "DING": {
+      "word": "DING",
+      "pos": "n.",
+      "gloss": "a ringing sound",
+      "definition": "A ringing sound.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUNG": {
+      "word": "DUNG",
+      "pos": "n.",
+      "gloss": "fecal matter of animals",
+      "definition": "Fecal matter of animals.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BIG": {
+      "word": "BIG",
+      "pos": "adj.",
+      "gloss": "above average in size or number or quantity or magnitude or extent",
+      "definition": "Above average in size or number or quantity or magnitude or extent.",
+      "example": "A large city.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUN": {
+      "word": "GUN",
+      "pos": "n.",
+      "gloss": "a weapon that discharges a missile at high velocity",
+      "definition": "A weapon that discharges a missile at high velocity (especially from a metal tube or barrel).",
+      "band": "common",
+      "tier": "general"
+    },
+    "BID": {
+      "word": "BID",
+      "pos": "v.",
+      "gloss": "propose a payment",
+      "definition": "Propose a payment.",
+      "example": "The Swiss dealer offered $2 million for the painting.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BIN": {
+      "word": "BIN",
+      "pos": "n.",
+      "gloss": "a container; usually has a lid",
+      "definition": "A container; usually has a lid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIG": {
+      "word": "DIG",
+      "pos": "v.",
+      "gloss": "turn up, loosen, or remove earth",
+      "definition": "Turn up, loosen, or remove earth.",
+      "example": "Dig we must.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUG": {
+      "word": "BUG",
+      "pos": "n.",
+      "gloss": "general term for any insect or similar creeping or crawling invertebrate",
+      "definition": "General term for any insect or similar creeping or crawling invertebrate.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUD": {
+      "word": "BUD",
+      "pos": "n.",
+      "gloss": "a partially opened flower",
+      "definition": "A partially opened flower.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUG": {
+      "word": "DUG",
+      "pos": "n.",
+      "gloss": "an udder or breast or teat",
+      "definition": "An udder or breast or teat.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUB": {
+      "word": "DUB",
+      "pos": "v.",
+      "gloss": "give a nickname to",
+      "definition": "Give a nickname to.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

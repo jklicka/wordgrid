@@ -1,0 +1,156 @@
+{
+  "id": "level-307",
+  "baseWord": "LYSINE",
+  "pool": [
+    "L",
+    "Y",
+    "S",
+    "I",
+    "N",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "LYSINE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LINE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "LENS",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "ISLE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "LIEN",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SINE",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "YES",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "LIE",
+    "SIN",
+    "SEN",
+    "YEN"
+  ],
+  "entries": {
+    "LYSINE": {
+      "word": "LYSINE",
+      "pos": "n.",
+      "gloss": "an essential amino acid found in proteins",
+      "definition": "An essential amino acid found in proteins; occurs especially in gelatin and casein.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LINE": {
+      "word": "LINE",
+      "pos": "n.",
+      "gloss": "a formation of people or things one beside another",
+      "definition": "A formation of people or things one beside another.",
+      "example": "The line of soldiers advanced with their bayonets fixed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LENS": {
+      "word": "LENS",
+      "pos": "n.",
+      "gloss": "a transparent optical device used to converge or diverge transmitted light and to form…",
+      "definition": "A transparent optical device used to converge or diverge transmitted light and to form images.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ISLE": {
+      "word": "ISLE",
+      "pos": "n.",
+      "gloss": "a small island",
+      "definition": "A small island.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIEN": {
+      "word": "LIEN",
+      "pos": "n.",
+      "gloss": "the right to take another's property if an obligation is not discharged",
+      "definition": "The right to take another's property if an obligation is not discharged.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SINE": {
+      "word": "SINE",
+      "pos": "n.",
+      "gloss": "ratio of the length of the side opposite the given angle to the length of the…",
+      "definition": "Ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "YES": {
+      "word": "YES",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "I was hoping for a yes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIE": {
+      "word": "LIE",
+      "pos": "v.",
+      "gloss": "be located or situated somewhere",
+      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIN": {
+      "word": "SIN",
+      "pos": "n.",
+      "gloss": "estrangement from god",
+      "definition": "Estrangement from god.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEN": {
+      "word": "SEN",
+      "pos": "n.",
+      "gloss": "a fractional monetary unit of Japan and Indonesia and Cambodia",
+      "definition": "A fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YEN": {
+      "word": "YEN",
+      "pos": "n.",
+      "gloss": "a yearning for something or to do something",
+      "definition": "A yearning for something or to do something.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

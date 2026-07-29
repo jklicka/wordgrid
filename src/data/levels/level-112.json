@@ -1,0 +1,149 @@
+{
+  "id": "level-112",
+  "baseWord": "SNARE",
+  "pool": [
+    "S",
+    "N",
+    "A",
+    "R",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 5,
+  "placed": [
+    {
+      "word": "SNARE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NEAR",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "EARN",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SANE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ARSE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ARE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SEA",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ERA",
+    "EAR",
+    "SEN"
+  ],
+  "entries": {
+    "SNARE": {
+      "word": "SNARE",
+      "pos": "n.",
+      "gloss": "something that catches you unawares",
+      "definition": "Something (often something deceptively attractive) that catches you unawares.",
+      "example": "The exam was full of trap questions.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NEAR": {
+      "word": "NEAR",
+      "pos": "adv.",
+      "gloss": "near in time or place or relationship",
+      "definition": "Near in time or place or relationship.",
+      "example": "As the wedding day drew near.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EARN": {
+      "word": "EARN",
+      "pos": "v.",
+      "gloss": "earn on some commercial or business transaction",
+      "definition": "Earn on some commercial or business transaction; earn as salary or wages.",
+      "example": "How much do you make a month in your new job?",
+      "band": "common",
+      "tier": "general"
+    },
+    "SANE": {
+      "word": "SANE",
+      "pos": "adj.",
+      "gloss": "mentally healthy",
+      "definition": "Mentally healthy; free from mental disorder.",
+      "example": "Appears to be completely sane.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARSE": {
+      "word": "ARSE",
+      "pos": "n.",
+      "gloss": "the fleshy part of the human body that you sit on",
+      "definition": "The fleshy part of the human body that you sit on.",
+      "example": "He deserves a good kick in the butt.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEA": {
+      "word": "SEA",
+      "pos": "n.",
+      "gloss": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "definition": "A division of an ocean or a large body of salt water partially enclosed by land.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEN": {
+      "word": "SEN",
+      "pos": "n.",
+      "gloss": "a fractional monetary unit of Japan and Indonesia and Cambodia",
+      "definition": "A fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

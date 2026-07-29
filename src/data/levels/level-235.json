@@ -1,0 +1,138 @@
+{
+  "id": "level-235",
+  "baseWord": "RADON",
+  "pool": [
+    "R",
+    "A",
+    "D",
+    "O",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "RADON",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ADORN",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "NARDO",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "ROAD",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "RAND",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "DARN",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "DON",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ROD",
+    "NOD"
+  ],
+  "entries": {
+    "RADON": {
+      "word": "RADON",
+      "pos": "n.",
+      "gloss": "a radioactive gaseous element formed by the disintegration of radium",
+      "definition": "A radioactive gaseous element formed by the disintegration of radium; the heaviest of the inert gasses; occurs naturally (especially in areas over granite) and is considered a hazard to health.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ADORN": {
+      "word": "ADORN",
+      "pos": "v.",
+      "gloss": "make more attractive by adding ornament, colour, etc.",
+      "definition": "Make more attractive by adding ornament, colour, etc.",
+      "example": "Decorate the room for the party.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NARDO": {
+      "word": "NARDO",
+      "pos": "n.",
+      "gloss": "Australian clover fern",
+      "definition": "Australian clover fern.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ROAD": {
+      "word": "ROAD",
+      "pos": "n.",
+      "gloss": "an open way for travel or transportation",
+      "definition": "An open way (generally public) for travel or transportation.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAND": {
+      "word": "RAND",
+      "pos": "n.",
+      "gloss": "the basic unit of money in South Africa",
+      "definition": "The basic unit of money in South Africa; equal to 100 cents.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DARN": {
+      "word": "DARN",
+      "pos": "v.",
+      "gloss": "repair by sewing",
+      "definition": "Repair by sewing.",
+      "example": "Darn socks.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DON": {
+      "word": "DON",
+      "pos": "n.",
+      "gloss": "teacher at a university or college",
+      "definition": "Teacher at a university or college (especially at Cambridge or Oxford).",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROD": {
+      "word": "ROD",
+      "pos": "n.",
+      "gloss": "a long thin implement made of metal or wood",
+      "definition": "A long thin implement made of metal or wood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOD": {
+      "word": "NOD",
+      "pos": "v.",
+      "gloss": "express or signify by nodding",
+      "definition": "Express or signify by nodding.",
+      "example": "He nodded his approval.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

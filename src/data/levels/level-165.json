@@ -1,0 +1,142 @@
+{
+  "id": "level-165",
+  "baseWord": "DEDUCT",
+  "pool": [
+    "D",
+    "E",
+    "D",
+    "U",
+    "C",
+    "T"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "DEDUCT",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DUDE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "CUTE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "DUCT",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "DUET",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DUE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CUT",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "DEC",
+    "CUE"
+  ],
+  "entries": {
+    "DEDUCT": {
+      "word": "DEDUCT",
+      "pos": "v.",
+      "gloss": "make a subtraction",
+      "definition": "Make a subtraction.",
+      "example": "Subtract this amount from my paycheck.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DUDE": {
+      "word": "DUDE",
+      "pos": "n.",
+      "gloss": "an informal form of address for a man",
+      "definition": "An informal form of address for a man.",
+      "example": "Say, fellow, what are you doing?",
+      "band": "common",
+      "tier": "general"
+    },
+    "CUTE": {
+      "word": "CUTE",
+      "pos": "adj.",
+      "gloss": "attractive especially by means of smallness or prettiness or quaintness",
+      "definition": "Attractive especially by means of smallness or prettiness or quaintness.",
+      "example": "A cute kid with pigtails.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUCT": {
+      "word": "DUCT",
+      "pos": "n.",
+      "gloss": "a bodily passage or tube lined with epithelial cells and conveying a secretion or…",
+      "definition": "A bodily passage or tube lined with epithelial cells and conveying a secretion or other substance.",
+      "example": "The tear duct was obstructed.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DUET": {
+      "word": "DUET",
+      "pos": "n.",
+      "gloss": "two items of the same kind",
+      "definition": "Two items of the same kind.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DUE": {
+      "word": "DUE",
+      "pos": "adj.",
+      "gloss": "owed and payable immediately or on demand",
+      "definition": "Owed and payable immediately or on demand.",
+      "example": "Payment is due.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CUT": {
+      "word": "CUT",
+      "pos": "v.",
+      "gloss": "separate with or as if with an instrument",
+      "definition": "Separate with or as if with an instrument.",
+      "example": "Cut the rope.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEC": {
+      "word": "DEC",
+      "pos": "n.",
+      "gloss": "the angular distance of a celestial body north or to the south of the celestial equator",
+      "definition": "(astronomy) the angular distance of a celestial body north or to the south of the celestial equator; expressed in degrees; used with right ascension to specify positions on the celestial sphere.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CUE": {
+      "word": "CUE",
+      "pos": "n.",
+      "gloss": "an actor's line that immediately precedes and serves as a reminder for some action or…",
+      "definition": "An actor's line that immediately precedes and serves as a reminder for some action or speech.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

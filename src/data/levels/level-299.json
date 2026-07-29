@@ -1,0 +1,186 @@
+{
+  "id": "level-299",
+  "baseWord": "TETRA",
+  "pool": [
+    "T",
+    "E",
+    "T",
+    "R",
+    "A"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "TETRA",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "TREAT",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "TATER",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "RATE",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TEAR",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "TART",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "ARE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ART",
+    "EAT",
+    "TEA",
+    "ERA",
+    "EAR",
+    "RAT",
+    "TAR"
+  ],
+  "entries": {
+    "TETRA": {
+      "word": "TETRA",
+      "pos": "n.",
+      "gloss": "brightly colored tropical freshwater fishes",
+      "definition": "Brightly colored tropical freshwater fishes.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TREAT": {
+      "word": "TREAT",
+      "pos": "v.",
+      "gloss": "interact in a certain way",
+      "definition": "Interact in a certain way.",
+      "example": "Do right by her.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TATER": {
+      "word": "TATER",
+      "pos": "n.",
+      "gloss": "an edible tuber native to South America",
+      "definition": "An edible tuber native to South America; a staple food of Ireland.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RATE": {
+      "word": "RATE",
+      "pos": "n.",
+      "gloss": "a magnitude or frequency relative to a time unit",
+      "definition": "A magnitude or frequency relative to a time unit.",
+      "example": "They traveled at a rate of 55 miles per hour.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEAR": {
+      "word": "TEAR",
+      "pos": "v.",
+      "gloss": "separate or cause to separate abruptly",
+      "definition": "Separate or cause to separate abruptly.",
+      "example": "The rope snapped.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TART": {
+      "word": "TART",
+      "pos": "adj.",
+      "gloss": "tasting sour like a lemon",
+      "definition": "Tasting sour like a lemon.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ART": {
+      "word": "ART",
+      "pos": "n.",
+      "gloss": "the products of human creativity",
+      "definition": "The products of human creativity; works of art collectively.",
+      "example": "An art exhibition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAT": {
+      "word": "EAT",
+      "pos": "v.",
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAT": {
+      "word": "RAT",
+      "pos": "n.",
+      "gloss": "any of various long-tailed rodents similar to but larger than a mouse",
+      "definition": "Any of various long-tailed rodents similar to but larger than a mouse.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAR": {
+      "word": "TAR",
+      "pos": "n.",
+      "gloss": "any of various dark heavy viscid substances obtained as a residue",
+      "definition": "Any of various dark heavy viscid substances obtained as a residue.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

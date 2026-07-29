@@ -1,0 +1,113 @@
+{
+  "id": "level-274",
+  "baseWord": "PLEXUS",
+  "pool": [
+    "P",
+    "L",
+    "E",
+    "X",
+    "U",
+    "S"
+  ],
+  "rows": 7,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "PLEXUS",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PULSE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "PLUS",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "LUXE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SUE",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "USE",
+    "SEX"
+  ],
+  "entries": {
+    "PLEXUS": {
+      "word": "PLEXUS",
+      "pos": "n.",
+      "gloss": "a network of intersecting blood vessels or intersecting nerves or intersecting lymph…",
+      "definition": "A network of intersecting blood vessels or intersecting nerves or intersecting lymph vessels.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PULSE": {
+      "word": "PULSE",
+      "pos": "n.",
+      "gloss": "a sharp transient wave in the normal electrical state",
+      "definition": "(electronics) a sharp transient wave in the normal electrical state (or a series of such transients).",
+      "example": "The pulsations seemed to be coming from a star.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PLUS": {
+      "word": "PLUS",
+      "pos": "n.",
+      "gloss": "a useful or valuable quality",
+      "definition": "A useful or valuable quality.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LUXE": {
+      "word": "LUXE",
+      "pos": "adj.",
+      "gloss": "elegant and sumptuous",
+      "definition": "Elegant and sumptuous.",
+      "example": "A deluxe car.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SUE": {
+      "word": "SUE",
+      "pos": "v.",
+      "gloss": "institute legal proceedings against",
+      "definition": "Institute legal proceedings against; file a suit against.",
+      "example": "He was warned that the district attorney would process him.",
+      "band": "common",
+      "tier": "general"
+    },
+    "USE": {
+      "word": "USE",
+      "pos": "n.",
+      "gloss": "the act of using",
+      "definition": "The act of using.",
+      "example": "He warned against the use of narcotic drugs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEX": {
+      "word": "SEX",
+      "pos": "n.",
+      "gloss": "activities associated with sexual intercourse",
+      "definition": "Activities associated with sexual intercourse.",
+      "example": "They had sex in the back seat.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

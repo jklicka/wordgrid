@@ -62,7 +62,7 @@ test('solving a teaching word reveals the full entry and fills the grid', async 
   await expect(panel).toContainText(entries[TEACHING].pos)
   await expect(page.getByTestId('definition-text')).not.toBeEmpty()
 
-  await expect(page.getByTestId('progress')).toContainText(`1/${gridWords.length} words`)
+  await expect(page.getByTestId('progress')).toContainText(`1/${gridWords.length}`)
   await expect(page.getByTestId('learned-count')).toContainText('1 learned')
 })
 
@@ -73,7 +73,7 @@ test('a common word fills the grid without teaching', async ({ page }) => {
 
   await expect(page.getByTestId('silent-ack')).toHaveText(`✓ ${COMMON}`)
   await expect(page.getByTestId('definition-panel')).toHaveCount(0)
-  await expect(page.getByTestId('progress')).toContainText(`1/${gridWords.length} words`)
+  await expect(page.getByTestId('progress')).toContainText(`1/${gridWords.length}`)
   await expect(page.getByTestId('learned-count')).toContainText('0 learned')
 })
 
@@ -81,7 +81,7 @@ test('a bonus word counts without filling the grid', async ({ page }) => {
   await play(page, BONUS)
 
   await expect(page.getByTestId('bonus-count')).toHaveText('+1 bonus')
-  await expect(page.getByTestId('progress')).toContainText(`0/${gridWords.length} words`)
+  await expect(page.getByTestId('progress')).toContainText(`0/${gridWords.length}`)
 })
 
 /** Spellable from the pool but recognised by nothing. Derived rather than
@@ -105,7 +105,7 @@ test('an unrecognized word is rejected without side effects', async ({ page }) =
   await play(page, unrecognizedWord())
 
   await expect(page.getByTestId('reject')).toBeVisible()
-  await expect(page.getByTestId('progress')).toContainText(`0/${gridWords.length} words`)
+  await expect(page.getByTestId('progress')).toContainText(`0/${gridWords.length}`)
 })
 
 test('the panel replaces the prompt without moving the wheel', async ({ page }) => {
@@ -193,4 +193,41 @@ test('the WordNet notice is reachable in-app', async ({ page }) => {
 
   await page.getByTestId('credits-close').click()
   await expect(credits).toHaveCount(0)
+})
+
+test('finishing a level starts a streak and records stats', async ({ page }) => {
+  await page.getByTestId('progress').click()
+  await expect(page.getByTestId('stat-levels')).toHaveText('0')
+  await expect(page.getByTestId('stat-streak')).toHaveText('0')
+  await page.getByTestId('stats-close').click()
+
+  for (const word of gridWords) await play(page, word)
+  await expect(page.getByTestId('complete-streak')).toContainText('1-day streak')
+
+  await page.getByTestId('next-level').click()
+  await page.getByTestId('progress').click()
+  await expect(page.getByTestId('stat-levels')).toHaveText('1')
+  await expect(page.getByTestId('stat-streak')).toHaveText('1')
+  await expect(page.getByTestId('stat-best')).toHaveText('1')
+
+  // Teaching words reach the permanent record; scaffolding does not.
+  const teaching = gridWords.filter((w) => entries[w].band === 'teaching')
+  await expect(page.getByTestId('stat-words')).toHaveText(String(teaching.length))
+  for (const w of teaching) await expect(page.getByTestId('learned-list')).toContainText(w)
+})
+
+test('the daily puzzle launches from the stats screen', async ({ page }) => {
+  await page.getByTestId('progress').click()
+  await expect(page.getByTestId('play-daily')).toBeEnabled()
+  await page.getByTestId('play-daily').click()
+
+  // Daily is a different level from the ladder, and the header says so.
+  await expect(page.getByTestId('progress')).toContainText('Daily')
+  await expect(page.getByTestId('letter-pool')).toBeVisible()
+  await expect(page.getByTestId('grid')).toBeVisible()
+  await expect(page.getByTestId('progress')).toContainText('0/')
+
+  // (That completing the daily marks it done, and that it cannot be replayed
+  // for a second streak credit, is covered by the progress unit tests — the
+  // daily's words are not knowable from the DOM.)
 })

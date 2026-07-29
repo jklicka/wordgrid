@@ -1,0 +1,131 @@
+{
+  "id": "level-039",
+  "baseWord": "SNOWY",
+  "pool": [
+    "S",
+    "N",
+    "O",
+    "W",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "SNOWY",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SNOW",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SOWN",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "NOW",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "OWN",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SON",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "WON",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SOY"
+  ],
+  "entries": {
+    "SNOWY": {
+      "word": "SNOWY",
+      "pos": "adj.",
+      "gloss": "marked by the presence of snow",
+      "definition": "Marked by the presence of snow.",
+      "example": "A white Christmas.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SNOW": {
+      "word": "SNOW",
+      "pos": "n.",
+      "gloss": "precipitation falling from clouds in the form of ice crystals",
+      "definition": "Precipitation falling from clouds in the form of ice crystals.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOWN": {
+      "word": "SOWN",
+      "pos": "adj.",
+      "gloss": "sprinkled with seed",
+      "definition": "Sprinkled with seed.",
+      "example": "A seeded lawn.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NOW": {
+      "word": "NOW",
+      "pos": "adv.",
+      "gloss": "in the historical present",
+      "definition": "In the historical present; at this point in the narration of a series of past events.",
+      "example": "President Kennedy now calls in the National Guard.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OWN": {
+      "word": "OWN",
+      "pos": "v.",
+      "gloss": "have ownership or possession of",
+      "definition": "Have ownership or possession of.",
+      "example": "He owns three houses in Florida.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WON": {
+      "word": "WON",
+      "pos": "n.",
+      "gloss": "the basic unit of money in South Korea",
+      "definition": "The basic unit of money in South Korea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOY": {
+      "word": "SOY",
+      "pos": "n.",
+      "gloss": "a source of oil",
+      "definition": "A source of oil; used for forage and soil improvement and as food.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

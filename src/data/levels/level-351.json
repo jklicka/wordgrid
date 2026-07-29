@@ -1,0 +1,155 @@
+{
+  "id": "level-351",
+  "baseWord": "DISUSE",
+  "pool": [
+    "D",
+    "I",
+    "S",
+    "U",
+    "S",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "DISUSE",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ISSUE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "USED",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SIDE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DISS",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "USE",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "DUE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "DIE",
+    "SUE",
+    "SIS"
+  ],
+  "entries": {
+    "DISUSE": {
+      "word": "DISUSE",
+      "pos": "n.",
+      "gloss": "the state of something that has been unused and neglected",
+      "definition": "The state of something that has been unused and neglected.",
+      "example": "The house was in a terrible state of neglect.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ISSUE": {
+      "word": "ISSUE",
+      "pos": "v.",
+      "gloss": "prepare and issue for public distribution or sale",
+      "definition": "Prepare and issue for public distribution or sale.",
+      "example": "Publish a magazine or newspaper.",
+      "band": "common",
+      "tier": "general"
+    },
+    "USED": {
+      "word": "USED",
+      "pos": "adj.",
+      "gloss": "employed in accomplishing something",
+      "definition": "Employed in accomplishing something.",
+      "example": "The principle of surprise is the most used and misused of all the principles of war\"- H.H.Arnold & I.C.Eaker.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIDE": {
+      "word": "SIDE",
+      "pos": "n.",
+      "gloss": "a place within a region identified relative to a center or reference location",
+      "definition": "A place within a region identified relative to a center or reference location.",
+      "example": "They always sat on the right side of the church.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DISS": {
+      "word": "DISS",
+      "pos": "v.",
+      "gloss": "treat, mention, or speak to rudely",
+      "definition": "Treat, mention, or speak to rudely.",
+      "example": "He insulted her with his rude remarks.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "USE": {
+      "word": "USE",
+      "pos": "n.",
+      "gloss": "the act of using",
+      "definition": "The act of using.",
+      "example": "He warned against the use of narcotic drugs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUE": {
+      "word": "DUE",
+      "pos": "adj.",
+      "gloss": "owed and payable immediately or on demand",
+      "definition": "Owed and payable immediately or on demand.",
+      "example": "Payment is due.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIE": {
+      "word": "DIE",
+      "pos": "v.",
+      "gloss": "pass from physical life and lose all bodily attributes and functions necessary to…",
+      "definition": "Pass from physical life and lose all bodily attributes and functions necessary to sustain life.",
+      "example": "She died from cancer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUE": {
+      "word": "SUE",
+      "pos": "v.",
+      "gloss": "institute legal proceedings against",
+      "definition": "Institute legal proceedings against; file a suit against.",
+      "example": "He was warned that the district attorney would process him.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIS": {
+      "word": "SIS",
+      "pos": "n.",
+      "gloss": "a female person who has the same parents as another person",
+      "definition": "A female person who has the same parents as another person.",
+      "example": "My sister married a musician.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

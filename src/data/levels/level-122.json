@@ -1,0 +1,133 @@
+{
+  "id": "level-122",
+  "baseWord": "SAFFRON",
+  "pool": [
+    "S",
+    "A",
+    "F",
+    "F",
+    "R",
+    "O",
+    "N"
+  ],
+  "rows": 6,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "SAFFRON",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ARSON",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SONAR",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SOFA",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "OFF",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "FAR",
+    "SON",
+    "FAN",
+    "SOAR"
+  ],
+  "entries": {
+    "SAFFRON": {
+      "word": "SAFFRON",
+      "pos": "n.",
+      "gloss": "Old World crocus having purple or white flowers with aromatic pungent orange stigmas…",
+      "definition": "Old World crocus having purple or white flowers with aromatic pungent orange stigmas used in flavoring food.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ARSON": {
+      "word": "ARSON",
+      "pos": "n.",
+      "gloss": "malicious burning to destroy property",
+      "definition": "Malicious burning to destroy property.",
+      "example": "The British term for arson is fire-raising.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SONAR": {
+      "word": "SONAR",
+      "pos": "n.",
+      "gloss": "a measuring instrument that sends out an acoustic pulse in water and measures…",
+      "definition": "A measuring instrument that sends out an acoustic pulse in water and measures distances in terms of the time for the echo of the pulse to return.",
+      "example": "Sonar is an acronym for sound navigation ranging.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SOFA": {
+      "word": "SOFA",
+      "pos": "n.",
+      "gloss": "an upholstered seat for more than one person",
+      "definition": "An upholstered seat for more than one person.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OFF": {
+      "word": "OFF",
+      "pos": "adv.",
+      "gloss": "from a particular thing or place or position",
+      "definition": "From a particular thing or place or position (`forth' is obsolete).",
+      "example": "Ran away from the lion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FAR": {
+      "word": "FAR",
+      "pos": "adv.",
+      "gloss": "to a considerable degree",
+      "definition": "To a considerable degree; very much.",
+      "example": "A far far better thing that I do.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FAN": {
+      "word": "FAN",
+      "pos": "n.",
+      "gloss": "a device for creating a current of air by movement of a surface or surfaces",
+      "definition": "A device for creating a current of air by movement of a surface or surfaces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOAR": {
+      "word": "SOAR",
+      "pos": "v.",
+      "gloss": "rise rapidly",
+      "definition": "Rise rapidly.",
+      "example": "The dollar soared against the yen.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

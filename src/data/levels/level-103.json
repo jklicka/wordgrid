@@ -1,0 +1,219 @@
+{
+  "id": "level-103",
+  "baseWord": "TRIDENT",
+  "pool": [
+    "T",
+    "R",
+    "I",
+    "D",
+    "E",
+    "N",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "TRIDENT",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TINDER",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TRIED",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "TIRED",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "TREND",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "INTER",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "DINER",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "END",
+    "RED",
+    "DIE",
+    "TEN",
+    "RIDE",
+    "NET",
+    "RENT",
+    "DIET",
+    "TEND",
+    "TIE"
+  ],
+  "entries": {
+    "TRIDENT": {
+      "word": "TRIDENT",
+      "pos": "n.",
+      "gloss": "a spear with three prongs",
+      "definition": "A spear with three prongs.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TINDER": {
+      "word": "TINDER",
+      "pos": "n.",
+      "gloss": "material for starting a fire",
+      "definition": "Material for starting a fire.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TRIED": {
+      "word": "TRIED",
+      "pos": "adj.",
+      "gloss": "tested and proved useful or correct",
+      "definition": "Tested and proved useful or correct.",
+      "example": "A tested method.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIRED": {
+      "word": "TIRED",
+      "pos": "adj.",
+      "gloss": "depleted of strength or energy",
+      "definition": "Depleted of strength or energy.",
+      "example": "Tired mothers with crying babies.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TREND": {
+      "word": "TREND",
+      "pos": "n.",
+      "gloss": "a general direction in which something tends to move",
+      "definition": "A general direction in which something tends to move.",
+      "example": "The shoreward tendency of the current.",
+      "band": "common",
+      "tier": "general"
+    },
+    "INTER": {
+      "word": "INTER",
+      "pos": "v.",
+      "gloss": "place in a grave or tomb",
+      "definition": "Place in a grave or tomb.",
+      "example": "Stalin was buried behind the Kremlin wall on Red Square.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DINER": {
+      "word": "DINER",
+      "pos": "n.",
+      "gloss": "a person eating a meal",
+      "definition": "A person eating a meal (especially in a restaurant).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "END": {
+      "word": "END",
+      "pos": "n.",
+      "gloss": "either extremity of something that has length",
+      "definition": "Either extremity of something that has length.",
+      "example": "The end of the pier.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RED": {
+      "word": "RED",
+      "pos": "n.",
+      "gloss": "red color or pigment",
+      "definition": "Red color or pigment; the chromatic color resembling the hue of blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIE": {
+      "word": "DIE",
+      "pos": "v.",
+      "gloss": "pass from physical life and lose all bodily attributes and functions necessary to…",
+      "definition": "Pass from physical life and lose all bodily attributes and functions necessary to sustain life.",
+      "example": "She died from cancer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEN": {
+      "word": "TEN",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of nine and one",
+      "definition": "The cardinal number that is the sum of nine and one; the base of the decimal system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIDE": {
+      "word": "RIDE",
+      "pos": "v.",
+      "gloss": "sit and travel on the back of animal, usually while controlling its motions",
+      "definition": "Sit and travel on the back of animal, usually while controlling its motions.",
+      "example": "She never sat a horse!",
+      "band": "common",
+      "tier": "general"
+    },
+    "NET": {
+      "word": "NET",
+      "pos": "n.",
+      "gloss": "a computer network consisting of a worldwide network of computer networks that use the…",
+      "definition": "A computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RENT": {
+      "word": "RENT",
+      "pos": "v.",
+      "gloss": "let for money",
+      "definition": "Let for money.",
+      "example": "We rented our apartment to friends while we were abroad.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIET": {
+      "word": "DIET",
+      "pos": "n.",
+      "gloss": "a prescribed selection of foods",
+      "definition": "A prescribed selection of foods.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEND": {
+      "word": "TEND",
+      "pos": "v.",
+      "gloss": "have a tendency or disposition to do or be something",
+      "definition": "Have a tendency or disposition to do or be something; be inclined.",
+      "example": "She tends to be nervous before her lectures.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIE": {
+      "word": "TIE",
+      "pos": "n.",
+      "gloss": "neckwear consisting of a long narrow piece of material worn under a collar and tied in…",
+      "definition": "Neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front.",
+      "example": "He stood in front of the mirror tightening his necktie.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

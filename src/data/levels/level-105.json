@@ -1,0 +1,161 @@
+{
+  "id": "level-105",
+  "baseWord": "UPLIFT",
+  "pool": [
+    "U",
+    "P",
+    "L",
+    "I",
+    "F",
+    "T"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "UPLIFT",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "TULIP",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "LIFT",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "FLIP",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "PUT",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "FIT",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TIP",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "PIT",
+    "LIT",
+    "LIP",
+    "FLU"
+  ],
+  "entries": {
+    "UPLIFT": {
+      "word": "UPLIFT",
+      "pos": "v.",
+      "gloss": "fill with high spirits",
+      "definition": "Fill with high spirits; fill with optimism.",
+      "example": "Music can uplift your spirits.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TULIP": {
+      "word": "TULIP",
+      "pos": "n.",
+      "gloss": "any of numerous perennial bulbous herbs having linear or broadly lanceolate leaves and…",
+      "definition": "Any of numerous perennial bulbous herbs having linear or broadly lanceolate leaves and usually a single showy flower.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIFT": {
+      "word": "LIFT",
+      "pos": "v.",
+      "gloss": "raise from a lower to a higher position",
+      "definition": "Raise from a lower to a higher position.",
+      "example": "Raise your hands.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FLIP": {
+      "word": "FLIP",
+      "pos": "v.",
+      "gloss": "lightly throw to see which side comes up",
+      "definition": "Lightly throw to see which side comes up.",
+      "example": "I don't know what to do--I may as well flip a coin!",
+      "band": "common",
+      "tier": "general"
+    },
+    "PUT": {
+      "word": "PUT",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FIT": {
+      "word": "FIT",
+      "pos": "v.",
+      "gloss": "be agreeable or acceptable to",
+      "definition": "Be agreeable or acceptable to.",
+      "example": "This suits my needs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIP": {
+      "word": "TIP",
+      "pos": "n.",
+      "gloss": "the extreme end of something",
+      "definition": "The extreme end of something; especially something pointed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIT": {
+      "word": "PIT",
+      "pos": "n.",
+      "gloss": "a sizeable hole",
+      "definition": "A sizeable hole (usually in the ground).",
+      "example": "They dug a pit to bury the body.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIT": {
+      "word": "LIT",
+      "pos": "adj.",
+      "gloss": "provided with artificial light",
+      "definition": "Provided with artificial light.",
+      "example": "Illuminated advertising.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIP": {
+      "word": "LIP",
+      "pos": "n.",
+      "gloss": "either of two fleshy folds of tissue that surround the mouth and play a role in speaking",
+      "definition": "Either of two fleshy folds of tissue that surround the mouth and play a role in speaking.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FLU": {
+      "word": "FLU",
+      "pos": "n.",
+      "gloss": "an acute febrile highly contagious viral disease",
+      "definition": "An acute febrile highly contagious viral disease.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

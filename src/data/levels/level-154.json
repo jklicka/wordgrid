@@ -1,0 +1,167 @@
+{
+  "id": "level-154",
+  "baseWord": "SPIRE",
+  "pool": [
+    "S",
+    "P",
+    "I",
+    "R",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SPIRE",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "PRISE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "RISE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "PIER",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RIPE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SIRE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PERI",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "SIR",
+    "REP",
+    "RIP",
+    "PIE",
+    "SIP"
+  ],
+  "entries": {
+    "SPIRE": {
+      "word": "SPIRE",
+      "pos": "n.",
+      "gloss": "a tall tower that forms the superstructure of a building and that tapers to a point at…",
+      "definition": "A tall tower that forms the superstructure of a building (usually a church or temple) and that tapers to a point at the top.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PRISE": {
+      "word": "PRISE",
+      "pos": "v.",
+      "gloss": "to move or force, especially in an effort to get something open",
+      "definition": "To move or force, especially in an effort to get something open.",
+      "example": "The burglar jimmied the lock.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RISE": {
+      "word": "RISE",
+      "pos": "v.",
+      "gloss": "move upward",
+      "definition": "Move upward.",
+      "example": "The fog lifted.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIER": {
+      "word": "PIER",
+      "pos": "n.",
+      "gloss": "a platform built out from the shore into the water and supported by piles",
+      "definition": "A platform built out from the shore into the water and supported by piles; provides access to ships and boats.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIPE": {
+      "word": "RIPE",
+      "pos": "adj.",
+      "gloss": "fully developed or matured and ready to be eaten or used",
+      "definition": "Fully developed or matured and ready to be eaten or used.",
+      "example": "Ripe peaches.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIRE": {
+      "word": "SIRE",
+      "pos": "v.",
+      "gloss": "make by reproduction",
+      "definition": "Make (offspring) by reproduction.",
+      "example": "Abraham begot Isaac.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PERI": {
+      "word": "PERI",
+      "pos": "n.",
+      "gloss": "a beautiful and graceful girl",
+      "definition": "A beautiful and graceful girl.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SIR": {
+      "word": "SIR",
+      "pos": "n.",
+      "gloss": "term of address for a man",
+      "definition": "Term of address for a man.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REP": {
+      "word": "REP",
+      "pos": "n.",
+      "gloss": "informal abbreviation of `representative'",
+      "definition": "Informal abbreviation of `representative'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIP": {
+      "word": "RIP",
+      "pos": "v.",
+      "gloss": "tear or be torn violently",
+      "definition": "Tear or be torn violently.",
+      "example": "The curtain ripped from top to bottom.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIE": {
+      "word": "PIE",
+      "pos": "n.",
+      "gloss": "dish baked in pastry-lined pan often with a pastry top",
+      "definition": "Dish baked in pastry-lined pan often with a pastry top.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIP": {
+      "word": "SIP",
+      "pos": "n.",
+      "gloss": "a small drink",
+      "definition": "A small drink.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "id": "level-147",
+  "baseWord": "DOBSON",
+  "pool": [
+    "D",
+    "O",
+    "B",
+    "S",
+    "O",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "DOBSON",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "BOSON",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SOON",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BOND",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "BOON",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SNOB",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SON",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "DON",
+    "BOO",
+    "NOD"
+  ],
+  "entries": {
+    "DOBSON": {
+      "word": "DOBSON",
+      "pos": "n.",
+      "gloss": "large brown aquatic larva of the dobsonfly",
+      "definition": "Large brown aquatic larva of the dobsonfly; used as fishing bait.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BOSON": {
+      "word": "BOSON",
+      "pos": "n.",
+      "gloss": "any particle that obeys Bose-Einstein statistics but not the Pauli exclusion principle",
+      "definition": "Any particle that obeys Bose-Einstein statistics but not the Pauli exclusion principle; all nuclei with an even mass number are bosons.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SOON": {
+      "word": "SOON",
+      "pos": "adv.",
+      "gloss": "in the near future",
+      "definition": "In the near future.",
+      "example": "The doctor will soon be here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOND": {
+      "word": "BOND",
+      "pos": "n.",
+      "gloss": "an electrical force linking atoms",
+      "definition": "An electrical force linking atoms.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOON": {
+      "word": "BOON",
+      "pos": "n.",
+      "gloss": "a desirable state",
+      "definition": "A desirable state.",
+      "example": "Enjoy the blessings of peace.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SNOB": {
+      "word": "SNOB",
+      "pos": "n.",
+      "gloss": "a person regarded as arrogant and annoying",
+      "definition": "A person regarded as arrogant and annoying.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DON": {
+      "word": "DON",
+      "pos": "n.",
+      "gloss": "teacher at a university or college",
+      "definition": "Teacher at a university or college (especially at Cambridge or Oxford).",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOO": {
+      "word": "BOO",
+      "pos": "v.",
+      "gloss": "show displeasure, as after a performance or speech",
+      "definition": "Show displeasure, as after a performance or speech.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOD": {
+      "word": "NOD",
+      "pos": "v.",
+      "gloss": "express or signify by nodding",
+      "definition": "Express or signify by nodding.",
+      "example": "He nodded his approval.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "id": "level-220",
+  "baseWord": "PECAN",
+  "pool": [
+    "P",
+    "E",
+    "C",
+    "A",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "PECAN",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PACE",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "CAPE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CANE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "ACNE",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "PANE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "CAP",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "CAN",
+    "PAN",
+    "PEN",
+    "ACE",
+    "NAP"
+  ],
+  "entries": {
+    "PECAN": {
+      "word": "PECAN",
+      "pos": "n.",
+      "gloss": "wood of a pecan tree",
+      "definition": "Wood of a pecan tree.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PACE": {
+      "word": "PACE",
+      "pos": "n.",
+      "gloss": "the rate of moving",
+      "definition": "The rate of moving (especially walking or running).",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAPE": {
+      "word": "CAPE",
+      "pos": "n.",
+      "gloss": "a strip of land projecting into a body of water",
+      "definition": "A strip of land projecting into a body of water.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CANE": {
+      "word": "CANE",
+      "pos": "n.",
+      "gloss": "a stick that people can lean on to help them walk",
+      "definition": "A stick that people can lean on to help them walk.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACNE": {
+      "word": "ACNE",
+      "pos": "n.",
+      "gloss": "an inflammatory disease involving the sebaceous glands of the skin",
+      "definition": "An inflammatory disease involving the sebaceous glands of the skin; characterized by papules or pustules or comedones.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PANE": {
+      "word": "PANE",
+      "pos": "n.",
+      "gloss": "sheet glass cut in shapes for windows or doors",
+      "definition": "Sheet glass cut in shapes for windows or doors.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAP": {
+      "word": "CAP",
+      "pos": "n.",
+      "gloss": "a tight-fitting headdress",
+      "definition": "A tight-fitting headdress.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAN": {
+      "word": "CAN",
+      "pos": "v.",
+      "gloss": "preserve in a can or tin",
+      "definition": "Preserve in a can or tin.",
+      "example": "Tinned foods are not very tasty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAN": {
+      "word": "PAN",
+      "pos": "v.",
+      "gloss": "make a sweeping movement",
+      "definition": "Make a sweeping movement.",
+      "example": "The camera panned across the room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PEN": {
+      "word": "PEN",
+      "pos": "n.",
+      "gloss": "a writing implement with a point from which ink flows",
+      "definition": "A writing implement with a point from which ink flows.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACE": {
+      "word": "ACE",
+      "pos": "n.",
+      "gloss": "the smallest whole number or a numeral representing this number",
+      "definition": "The smallest whole number or a numeral representing this number.",
+      "example": "He has the one but will need a two and three to go with it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NAP": {
+      "word": "NAP",
+      "pos": "n.",
+      "gloss": "a period of time spent sleeping",
+      "definition": "A period of time spent sleeping.",
+      "example": "He felt better after a little sleep.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

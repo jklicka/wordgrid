@@ -1,0 +1,112 @@
+{
+  "id": "level-053",
+  "baseWord": "LEDGE",
+  "pool": [
+    "L",
+    "E",
+    "D",
+    "G",
+    "E"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "LEDGE",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "EDGE",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "GLEE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LEG",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "GEL",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "GEE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "LEE"
+  ],
+  "entries": {
+    "LEDGE": {
+      "word": "LEDGE",
+      "pos": "n.",
+      "gloss": "a projecting ridge on a mountain or submerged under water",
+      "definition": "A projecting ridge on a mountain or submerged under water.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "EDGE": {
+      "word": "EDGE",
+      "pos": "n.",
+      "gloss": "the boundary of a surface",
+      "definition": "The boundary of a surface.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GLEE": {
+      "word": "GLEE",
+      "pos": "n.",
+      "gloss": "great merriment",
+      "definition": "Great merriment.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LEG": {
+      "word": "LEG",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEL": {
+      "word": "GEL",
+      "pos": "n.",
+      "gloss": "a colloid in a more solid form than a sol",
+      "definition": "A colloid in a more solid form than a sol.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEE": {
+      "word": "GEE",
+      "pos": "n.",
+      "gloss": "a unit of force equal to the force exerted by gravity",
+      "definition": "A unit of force equal to the force exerted by gravity; used to indicate the force to which a body is subjected when it is accelerated.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEE": {
+      "word": "LEE",
+      "pos": "n.",
+      "gloss": "the side of something that is sheltered from the wind",
+      "definition": "The side of something that is sheltered from the wind.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

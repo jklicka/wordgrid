@@ -1,0 +1,115 @@
+{
+  "id": "level-061",
+  "baseWord": "COUGAR",
+  "pool": [
+    "C",
+    "O",
+    "U",
+    "G",
+    "A",
+    "R"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "COUGAR",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CARGO",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "ORCA",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "CAR",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "AGO",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "ARC",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "RUG"
+  ],
+  "entries": {
+    "COUGAR": {
+      "word": "COUGAR",
+      "pos": "n.",
+      "gloss": "large American feline resembling a lion",
+      "definition": "Large American feline resembling a lion.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CARGO": {
+      "word": "CARGO",
+      "pos": "n.",
+      "gloss": "goods carried by a large vehicle",
+      "definition": "Goods carried by a large vehicle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ORCA": {
+      "word": "ORCA",
+      "pos": "n.",
+      "gloss": "predatory black-and-white toothed whale with large dorsal fin",
+      "definition": "Predatory black-and-white toothed whale with large dorsal fin; common in cold seas.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAR": {
+      "word": "CAR",
+      "pos": "n.",
+      "gloss": "a motor vehicle with four wheels",
+      "definition": "A motor vehicle with four wheels; usually propelled by an internal combustion engine.",
+      "example": "He needs a car to get to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AGO": {
+      "word": "AGO",
+      "pos": "adv.",
+      "gloss": "in the past",
+      "definition": "In the past.",
+      "example": "Long ago.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARC": {
+      "word": "ARC",
+      "pos": "n.",
+      "gloss": "electrical conduction through a gas in an applied electric field",
+      "definition": "Electrical conduction through a gas in an applied electric field.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUG": {
+      "word": "RUG",
+      "pos": "n.",
+      "gloss": "floor covering consisting of a piece of thick heavy fabric",
+      "definition": "Floor covering consisting of a piece of thick heavy fabric (usually with nap or pile).",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

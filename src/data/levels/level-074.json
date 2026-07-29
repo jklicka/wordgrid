@@ -1,0 +1,161 @@
+{
+  "id": "level-074",
+  "baseWord": "HOSTESS",
+  "pool": [
+    "H",
+    "O",
+    "S",
+    "T",
+    "E",
+    "S",
+    "S"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "HOSTESS",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SHOES",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "ETHOS",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SHOT",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "HOST",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "SHOE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TOSS",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SET",
+    "HOT",
+    "TOE",
+    "HOSE"
+  ],
+  "entries": {
+    "HOSTESS": {
+      "word": "HOSTESS",
+      "pos": "n.",
+      "gloss": "a woman host",
+      "definition": "A woman host.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SHOES": {
+      "word": "SHOES",
+      "pos": "n.",
+      "gloss": "a particular situation",
+      "definition": "A particular situation.",
+      "example": "If you were in my place what would you do?",
+      "band": "common",
+      "tier": "general"
+    },
+    "ETHOS": {
+      "word": "ETHOS",
+      "pos": "n.",
+      "gloss": "the distinctive spirit of a culture or an era",
+      "definition": "(anthropology) the distinctive spirit of a culture or an era.",
+      "example": "The Greek ethos.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SHOT": {
+      "word": "SHOT",
+      "pos": "n.",
+      "gloss": "the act of firing a projectile",
+      "definition": "The act of firing a projectile.",
+      "example": "His shooting was slow but accurate.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOST": {
+      "word": "HOST",
+      "pos": "n.",
+      "gloss": "a person who invites guests to a social event and who is responsible for them while…",
+      "definition": "A person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SHOE": {
+      "word": "SHOE",
+      "pos": "n.",
+      "gloss": "footwear shaped to fit the foot with a flexible upper of leather or plastic and a sole…",
+      "definition": "Footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOSS": {
+      "word": "TOSS",
+      "pos": "v.",
+      "gloss": "throw or toss with a light motion",
+      "definition": "Throw or toss with a light motion.",
+      "example": "Flip me the beachball.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SET": {
+      "word": "SET",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOT": {
+      "word": "HOT",
+      "pos": "adj.",
+      "gloss": "used of physical heat",
+      "definition": "Used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning.",
+      "example": "Hot stove.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOE": {
+      "word": "TOE",
+      "pos": "n.",
+      "gloss": "one of the digits of the foot",
+      "definition": "One of the digits of the foot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOSE": {
+      "word": "HOSE",
+      "pos": "n.",
+      "gloss": "socks and stockings and tights collectively",
+      "definition": "Socks and stockings and tights collectively (the British include underwear).",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

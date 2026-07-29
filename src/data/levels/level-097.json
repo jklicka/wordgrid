@@ -1,0 +1,185 @@
+{
+  "id": "level-097",
+  "baseWord": "OVATION",
+  "pool": [
+    "O",
+    "V",
+    "A",
+    "T",
+    "I",
+    "O",
+    "N"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "OVATION",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ANTI",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "NOVA",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "VAIN",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "TOON",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "IOTA",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "NOT",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "TOO",
+    "VAN",
+    "TON",
+    "ION",
+    "TIN",
+    "TAN",
+    "ANT"
+  ],
+  "entries": {
+    "OVATION": {
+      "word": "OVATION",
+      "pos": "n.",
+      "gloss": "enthusiastic recognition",
+      "definition": "Enthusiastic recognition (especially one accompanied by loud applause).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ANTI": {
+      "word": "ANTI",
+      "pos": "adj.",
+      "gloss": "not in favor of",
+      "definition": "Not in favor of (an action or proposal etc.).",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOVA": {
+      "word": "NOVA",
+      "pos": "n.",
+      "gloss": "a star that ejects some of its material in the form of a cloud and becomes more…",
+      "definition": "A star that ejects some of its material in the form of a cloud and becomes more luminous in the process.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VAIN": {
+      "word": "VAIN",
+      "pos": "adj.",
+      "gloss": "characteristic of false pride",
+      "definition": "Characteristic of false pride; having an exaggerated sense of self-importance.",
+      "example": "A conceited fool.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOON": {
+      "word": "TOON",
+      "pos": "n.",
+      "gloss": "a film made by photographing a series of cartoon drawings to give the illusion of…",
+      "definition": "A film made by photographing a series of cartoon drawings to give the illusion of movement when projected in rapid sequence.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "IOTA": {
+      "word": "IOTA",
+      "pos": "n.",
+      "gloss": "a tiny or scarcely detectable amount",
+      "definition": "A tiny or scarcely detectable amount.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOO": {
+      "word": "TOO",
+      "pos": "adv.",
+      "gloss": "to a degree exceeding normal or proper limits",
+      "definition": "To a degree exceeding normal or proper limits.",
+      "example": "Too big.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VAN": {
+      "word": "VAN",
+      "pos": "n.",
+      "gloss": "any creative group active in the innovation and application of new concepts and…",
+      "definition": "Any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts).",
+      "band": "common",
+      "tier": "general"
+    },
+    "TON": {
+      "word": "TON",
+      "pos": "n.",
+      "gloss": "a United States unit of weight equivalent to 2000 pounds",
+      "definition": "A United States unit of weight equivalent to 2000 pounds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ION": {
+      "word": "ION",
+      "pos": "n.",
+      "gloss": "a particle that is electrically charged",
+      "definition": "A particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIN": {
+      "word": "TIN",
+      "pos": "n.",
+      "gloss": "a silvery malleable metallic element that resists corrosion",
+      "definition": "A silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANT": {
+      "word": "ANT",
+      "pos": "n.",
+      "gloss": "social insect living in organized colonies",
+      "definition": "Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

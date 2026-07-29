@@ -1,0 +1,168 @@
+{
+  "id": "level-024",
+  "baseWord": "PLUNGE",
+  "pool": [
+    "P",
+    "L",
+    "U",
+    "N",
+    "G",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "PLUNGE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LUNGE",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "PLUG",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "LUNG",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "GLEN",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "GUN",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "LEG",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "PEN",
+    "GEN",
+    "GEL",
+    "GLUE",
+    "GULP"
+  ],
+  "entries": {
+    "PLUNGE": {
+      "word": "PLUNGE",
+      "pos": "v.",
+      "gloss": "thrust or throw into",
+      "definition": "Thrust or throw into.",
+      "example": "Immerse yourself in hot water.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LUNGE": {
+      "word": "LUNGE",
+      "pos": "n.",
+      "gloss": "the act of moving forward suddenly",
+      "definition": "The act of moving forward suddenly.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PLUG": {
+      "word": "PLUG",
+      "pos": "v.",
+      "gloss": "fill or close tightly with or as if with a plug",
+      "definition": "Fill or close tightly with or as if with a plug.",
+      "example": "Plug the hole.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LUNG": {
+      "word": "LUNG",
+      "pos": "n.",
+      "gloss": "either of two saclike respiratory organs in the chest of vertebrates",
+      "definition": "Either of two saclike respiratory organs in the chest of vertebrates; serves to remove carbon dioxide and provide oxygen to the blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GLEN": {
+      "word": "GLEN",
+      "pos": "n.",
+      "gloss": "a narrow secluded valley",
+      "definition": "A narrow secluded valley (in the mountains).",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUN": {
+      "word": "GUN",
+      "pos": "n.",
+      "gloss": "a weapon that discharges a missile at high velocity",
+      "definition": "A weapon that discharges a missile at high velocity (especially from a metal tube or barrel).",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEG": {
+      "word": "LEG",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PEN": {
+      "word": "PEN",
+      "pos": "n.",
+      "gloss": "a writing implement with a point from which ink flows",
+      "definition": "A writing implement with a point from which ink flows.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEN": {
+      "word": "GEN",
+      "pos": "n.",
+      "gloss": "informal term for information",
+      "definition": "Informal term for information.",
+      "example": "Give me the gen on your new line of computers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEL": {
+      "word": "GEL",
+      "pos": "n.",
+      "gloss": "a colloid in a more solid form than a sol",
+      "definition": "A colloid in a more solid form than a sol.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GLUE": {
+      "word": "GLUE",
+      "pos": "v.",
+      "gloss": "join or attach with or as if with glue",
+      "definition": "Join or attach with or as if with glue.",
+      "example": "Paste the sign on the wall.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GULP": {
+      "word": "GULP",
+      "pos": "v.",
+      "gloss": "to swallow hurriedly or greedily or in one draught",
+      "definition": "To swallow hurriedly or greedily or in one draught.",
+      "example": "The men gulped down their beers.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

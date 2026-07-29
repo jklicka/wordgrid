@@ -1,0 +1,161 @@
+{
+  "id": "level-321",
+  "baseWord": "REFIT",
+  "pool": [
+    "R",
+    "E",
+    "F",
+    "I",
+    "T"
+  ],
+  "rows": 7,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "REFIT",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "FIRE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "TIER",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TIRE",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "RIFT",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "RITE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "FRET",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "FIT",
+    "TIE",
+    "REF",
+    "RIFE"
+  ],
+  "entries": {
+    "REFIT": {
+      "word": "REFIT",
+      "pos": "n.",
+      "gloss": "outfitting a ship again",
+      "definition": "Outfitting a ship again (by repairing or replacing parts).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FIRE": {
+      "word": "FIRE",
+      "pos": "v.",
+      "gloss": "start firing a weapon",
+      "definition": "Start firing a weapon.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIER": {
+      "word": "TIER",
+      "pos": "n.",
+      "gloss": "a relative position or degree of value in a graded group",
+      "definition": "A relative position or degree of value in a graded group.",
+      "example": "Lumber of the highest grade.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIRE": {
+      "word": "TIRE",
+      "pos": "v.",
+      "gloss": "lose interest or become bored with something or somebody",
+      "definition": "Lose interest or become bored with something or somebody.",
+      "example": "I'm so tired of your mother and her complaints about my food.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIFT": {
+      "word": "RIFT",
+      "pos": "n.",
+      "gloss": "a gap between cloud masses",
+      "definition": "A gap between cloud masses.",
+      "example": "The sun shone through a rift in the clouds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RITE": {
+      "word": "RITE",
+      "pos": "n.",
+      "gloss": "an established ceremony prescribed by a religion",
+      "definition": "An established ceremony prescribed by a religion.",
+      "example": "The rite of baptism.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FRET": {
+      "word": "FRET",
+      "pos": "v.",
+      "gloss": "worry unnecessarily or excessively",
+      "definition": "Worry unnecessarily or excessively.",
+      "example": "Don't fuss too much over the grandchildren--they are quite big now.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FIT": {
+      "word": "FIT",
+      "pos": "v.",
+      "gloss": "be agreeable or acceptable to",
+      "definition": "Be agreeable or acceptable to.",
+      "example": "This suits my needs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIE": {
+      "word": "TIE",
+      "pos": "n.",
+      "gloss": "neckwear consisting of a long narrow piece of material worn under a collar and tied in…",
+      "definition": "Neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front.",
+      "example": "He stood in front of the mirror tightening his necktie.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REF": {
+      "word": "REF",
+      "pos": "n.",
+      "gloss": "the chief official who is expected to ensure fair play",
+      "definition": "(sports) the chief official (as in boxing or American football) who is expected to ensure fair play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIFE": {
+      "word": "RIFE",
+      "pos": "adj.",
+      "gloss": "most frequent or common",
+      "definition": "Most frequent or common.",
+      "example": "Prevailing winds.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

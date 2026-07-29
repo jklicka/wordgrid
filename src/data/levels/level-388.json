@@ -1,0 +1,219 @@
+{
+  "id": "level-388",
+  "baseWord": "SPAYED",
+  "pool": [
+    "S",
+    "P",
+    "A",
+    "Y",
+    "E",
+    "D"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "SPAYED",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SPADE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "DAYS",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "EASY",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DAY",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SAY",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "YES",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "PAY",
+    "SEA",
+    "SAD",
+    "YEA",
+    "SPY",
+    "PAD",
+    "SPA",
+    "DYE",
+    "DAS",
+    "SAP"
+  ],
+  "entries": {
+    "SPAYED": {
+      "word": "SPAYED",
+      "pos": "adj.",
+      "gloss": "having the ovaries removed",
+      "definition": "(of a female animal) having the ovaries removed.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SPADE": {
+      "word": "SPADE",
+      "pos": "n.",
+      "gloss": "a playing card in the major suit that has one or more black figures on it",
+      "definition": "A playing card in the major suit that has one or more black figures on it.",
+      "example": "She led a low spade.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DAYS": {
+      "word": "DAYS",
+      "pos": "n.",
+      "gloss": "the time during which someone's life continues",
+      "definition": "The time during which someone's life continues.",
+      "example": "The monarch's last days.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EASY": {
+      "word": "EASY",
+      "pos": "adj.",
+      "gloss": "posing no difficulty",
+      "definition": "Posing no difficulty; requiring little effort.",
+      "example": "An easy job.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAY": {
+      "word": "DAY",
+      "pos": "n.",
+      "gloss": "time for Earth to make a complete rotation on its axis",
+      "definition": "Time for Earth to make a complete rotation on its axis.",
+      "example": "Two days later they left.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAY": {
+      "word": "SAY",
+      "pos": "v.",
+      "gloss": "express in words",
+      "definition": "Express in words.",
+      "example": "He said that he wanted to marry her.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YES": {
+      "word": "YES",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "I was hoping for a yes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAY": {
+      "word": "PAY",
+      "pos": "v.",
+      "gloss": "give money, usually in exchange for goods or services",
+      "definition": "Give money, usually in exchange for goods or services.",
+      "example": "I paid four dollars for this sandwich.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEA": {
+      "word": "SEA",
+      "pos": "n.",
+      "gloss": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "definition": "A division of an ocean or a large body of salt water partially enclosed by land.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAD": {
+      "word": "SAD",
+      "pos": "adj.",
+      "gloss": "experiencing or showing sorrow or unhappiness",
+      "definition": "Experiencing or showing sorrow or unhappiness.",
+      "example": "Feeling sad because his dog had died.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YEA": {
+      "word": "YEA",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "The yeas have it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPY": {
+      "word": "SPY",
+      "pos": "v.",
+      "gloss": "catch sight of",
+      "definition": "Catch sight of.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAD": {
+      "word": "PAD",
+      "pos": "n.",
+      "gloss": "a number of sheets of paper fastened together along one edge",
+      "definition": "A number of sheets of paper fastened together along one edge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPA": {
+      "word": "SPA",
+      "pos": "n.",
+      "gloss": "a health resort near a spring or at the seaside",
+      "definition": "A health resort near a spring or at the seaside.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DYE": {
+      "word": "DYE",
+      "pos": "v.",
+      "gloss": "color with dye",
+      "definition": "Color with dye.",
+      "example": "Please dye these shoes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAS": {
+      "word": "DAS",
+      "pos": "n.",
+      "gloss": "any of several small ungulate mammals of Africa and Asia with rodent-like incisors and…",
+      "definition": "Any of several small ungulate mammals of Africa and Asia with rodent-like incisors and feet with hooflike toes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAP": {
+      "word": "SAP",
+      "pos": "v.",
+      "gloss": "deplete",
+      "definition": "Deplete.",
+      "example": "Exhaust one's savings.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "id": "level-373",
+  "baseWord": "SNOTTY",
+  "pool": [
+    "S",
+    "N",
+    "O",
+    "T",
+    "T",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "SNOTTY",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "STONY",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "TONS",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SNOT",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "NOT",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SON",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "TOY",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "TON",
+    "SOY"
+  ],
+  "entries": {
+    "SNOTTY": {
+      "word": "SNOTTY",
+      "pos": "adj.",
+      "gloss": "overly conceited or arrogant",
+      "definition": "(used colloquially) overly conceited or arrogant.",
+      "example": "A snotty little scion of a degenerate family\"-Laurent Le Sage.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "STONY": {
+      "word": "STONY",
+      "pos": "adj.",
+      "gloss": "abounding in rocks or stones",
+      "definition": "Abounding in rocks or stones.",
+      "example": "Rocky fields.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TONS": {
+      "word": "TONS",
+      "pos": "n.",
+      "gloss": "a large number or amount",
+      "definition": "A large number or amount.",
+      "example": "Made lots of new friends.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SNOT": {
+      "word": "SNOT",
+      "pos": "n.",
+      "gloss": "a person regarded as arrogant and annoying",
+      "definition": "A person regarded as arrogant and annoying.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOY": {
+      "word": "TOY",
+      "pos": "n.",
+      "gloss": "an artifact designed to be played with",
+      "definition": "An artifact designed to be played with.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TON": {
+      "word": "TON",
+      "pos": "n.",
+      "gloss": "a United States unit of weight equivalent to 2000 pounds",
+      "definition": "A United States unit of weight equivalent to 2000 pounds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOY": {
+      "word": "SOY",
+      "pos": "n.",
+      "gloss": "a source of oil",
+      "definition": "A source of oil; used for forage and soil improvement and as food.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

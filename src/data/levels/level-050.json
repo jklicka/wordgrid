@@ -1,0 +1,181 @@
+{
+  "id": "level-050",
+  "baseWord": "PAVING",
+  "pool": [
+    "P",
+    "A",
+    "V",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "PAVING",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PAIN",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "GAIN",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "PING",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "VAIN",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "PANG",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "VAN",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "GAP",
+    "PAN",
+    "PIN",
+    "PIG",
+    "NAP",
+    "GIN"
+  ],
+  "entries": {
+    "PAVING": {
+      "word": "PAVING",
+      "pos": "n.",
+      "gloss": "material used to pave an area",
+      "definition": "Material used to pave an area.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PAIN": {
+      "word": "PAIN",
+      "pos": "n.",
+      "gloss": "a symptom of some physical hurt or disorder",
+      "definition": "A symptom of some physical hurt or disorder.",
+      "example": "The patient developed severe pain and distension.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAIN": {
+      "word": "GAIN",
+      "pos": "v.",
+      "gloss": "obtain",
+      "definition": "Obtain.",
+      "example": "Derive pleasure from one's garden.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PING": {
+      "word": "PING",
+      "pos": "v.",
+      "gloss": "hit with a pinging noise",
+      "definition": "Hit with a pinging noise.",
+      "example": "The bugs pinged the lamp shade.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VAIN": {
+      "word": "VAIN",
+      "pos": "adj.",
+      "gloss": "characteristic of false pride",
+      "definition": "Characteristic of false pride; having an exaggerated sense of self-importance.",
+      "example": "A conceited fool.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PANG": {
+      "word": "PANG",
+      "pos": "n.",
+      "gloss": "a sudden sharp feeling",
+      "definition": "A sudden sharp feeling.",
+      "example": "Pangs of regret.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "VAN": {
+      "word": "VAN",
+      "pos": "n.",
+      "gloss": "any creative group active in the innovation and application of new concepts and…",
+      "definition": "Any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts).",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAP": {
+      "word": "GAP",
+      "pos": "n.",
+      "gloss": "a conspicuous disparity or difference as between two figures",
+      "definition": "A conspicuous disparity or difference as between two figures.",
+      "example": "Gap between income and outgo.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAN": {
+      "word": "PAN",
+      "pos": "v.",
+      "gloss": "make a sweeping movement",
+      "definition": "Make a sweeping movement.",
+      "example": "The camera panned across the room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIN": {
+      "word": "PIN",
+      "pos": "v.",
+      "gloss": "to hold fast or prevent from moving",
+      "definition": "To hold fast or prevent from moving.",
+      "example": "The child was pinned under the fallen tree.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIG": {
+      "word": "PIG",
+      "pos": "n.",
+      "gloss": "domestic swine",
+      "definition": "Domestic swine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NAP": {
+      "word": "NAP",
+      "pos": "n.",
+      "gloss": "a period of time spent sleeping",
+      "definition": "A period of time spent sleeping.",
+      "example": "He felt better after a little sleep.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

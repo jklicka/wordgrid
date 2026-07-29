@@ -1,0 +1,131 @@
+{
+  "id": "level-197",
+  "baseWord": "EXPIRY",
+  "pool": [
+    "E",
+    "X",
+    "P",
+    "I",
+    "R",
+    "Y"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "EXPIRY",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "PREY",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "PIER",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "RIPE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "PERI",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "REP",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "RIP",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "PIE"
+  ],
+  "entries": {
+    "EXPIRY": {
+      "word": "EXPIRY",
+      "pos": "n.",
+      "gloss": "a coming to an end of a contract period",
+      "definition": "A coming to an end of a contract period.",
+      "example": "The expiry of his driver's license.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PREY": {
+      "word": "PREY",
+      "pos": "n.",
+      "gloss": "a person who is the aim of an attack by some hostile person or influence",
+      "definition": "A person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence.",
+      "example": "He fell prey to muggers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIER": {
+      "word": "PIER",
+      "pos": "n.",
+      "gloss": "a platform built out from the shore into the water and supported by piles",
+      "definition": "A platform built out from the shore into the water and supported by piles; provides access to ships and boats.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIPE": {
+      "word": "RIPE",
+      "pos": "adj.",
+      "gloss": "fully developed or matured and ready to be eaten or used",
+      "definition": "Fully developed or matured and ready to be eaten or used.",
+      "example": "Ripe peaches.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PERI": {
+      "word": "PERI",
+      "pos": "n.",
+      "gloss": "a beautiful and graceful girl",
+      "definition": "A beautiful and graceful girl.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "REP": {
+      "word": "REP",
+      "pos": "n.",
+      "gloss": "informal abbreviation of `representative'",
+      "definition": "Informal abbreviation of `representative'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIP": {
+      "word": "RIP",
+      "pos": "v.",
+      "gloss": "tear or be torn violently",
+      "definition": "Tear or be torn violently.",
+      "example": "The curtain ripped from top to bottom.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIE": {
+      "word": "PIE",
+      "pos": "n.",
+      "gloss": "dish baked in pastry-lined pan often with a pastry top",
+      "definition": "Dish baked in pastry-lined pan often with a pastry top.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

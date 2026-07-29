@@ -1,0 +1,216 @@
+{
+  "id": "level-027",
+  "baseWord": "TECHNO",
+  "pool": [
+    "T",
+    "E",
+    "C",
+    "H",
+    "N",
+    "O"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "TECHNO",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "NOTCH",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "TENCH",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "THEN",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ONCE",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "NOTE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "CENT",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "NOT",
+    "ONE",
+    "HOT",
+    "TEN",
+    "NET",
+    "TECH",
+    "TONE",
+    "TON",
+    "CON",
+    "TOE"
+  ],
+  "entries": {
+    "TECHNO": {
+      "word": "TECHNO",
+      "pos": "n.",
+      "gloss": "a style of fast heavy electronic dance music usually without vocals",
+      "definition": "A style of fast heavy electronic dance music usually without vocals.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NOTCH": {
+      "word": "NOTCH",
+      "pos": "n.",
+      "gloss": "a V-shaped indentation",
+      "definition": "A V-shaped indentation.",
+      "example": "Mandibular notch.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TENCH": {
+      "word": "TENCH",
+      "pos": "n.",
+      "gloss": "freshwater dace-like game fish of Europe and western Asia noted for ability to survive…",
+      "definition": "Freshwater dace-like game fish of Europe and western Asia noted for ability to survive outside water.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "THEN": {
+      "word": "THEN",
+      "pos": "adv.",
+      "gloss": "subsequently or soon afterward",
+      "definition": "Subsequently or soon afterward (often used as sentence connectors).",
+      "example": "Then he left.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ONCE": {
+      "word": "ONCE",
+      "pos": "adv.",
+      "gloss": "on one occasion",
+      "definition": "On one occasion.",
+      "example": "Once I ran into her.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOTE": {
+      "word": "NOTE",
+      "pos": "n.",
+      "gloss": "a brief written record",
+      "definition": "A brief written record.",
+      "example": "He made a note of the appointment.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CENT": {
+      "word": "CENT",
+      "pos": "n.",
+      "gloss": "a fractional monetary unit of several countries",
+      "definition": "A fractional monetary unit of several countries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ONE": {
+      "word": "ONE",
+      "pos": "adj.",
+      "gloss": "used of a single unit or thing",
+      "definition": "Used of a single unit or thing; not two or more.",
+      "example": "`ane' is Scottish.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOT": {
+      "word": "HOT",
+      "pos": "adj.",
+      "gloss": "used of physical heat",
+      "definition": "Used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning.",
+      "example": "Hot stove.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEN": {
+      "word": "TEN",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of nine and one",
+      "definition": "The cardinal number that is the sum of nine and one; the base of the decimal system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NET": {
+      "word": "NET",
+      "pos": "n.",
+      "gloss": "a computer network consisting of a worldwide network of computer networks that use the…",
+      "definition": "A computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TECH": {
+      "word": "TECH",
+      "pos": "n.",
+      "gloss": "a school teaching mechanical and industrial arts and the applied sciences",
+      "definition": "A school teaching mechanical and industrial arts and the applied sciences.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TONE": {
+      "word": "TONE",
+      "pos": "n.",
+      "gloss": "the quality of a person's voice",
+      "definition": "The quality of a person's voice.",
+      "example": "He began in a conversational tone.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TON": {
+      "word": "TON",
+      "pos": "n.",
+      "gloss": "a United States unit of weight equivalent to 2000 pounds",
+      "definition": "A United States unit of weight equivalent to 2000 pounds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CON": {
+      "word": "CON",
+      "pos": "n.",
+      "gloss": "an argument opposed to a proposal",
+      "definition": "An argument opposed to a proposal.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOE": {
+      "word": "TOE",
+      "pos": "n.",
+      "gloss": "one of the digits of the foot",
+      "definition": "One of the digits of the foot.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

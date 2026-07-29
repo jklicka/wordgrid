@@ -1,0 +1,215 @@
+{
+  "id": "level-183",
+  "baseWord": "PETAL",
+  "pool": [
+    "P",
+    "E",
+    "T",
+    "A",
+    "L"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "PETAL",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PLATE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "PLEAT",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "PALE",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "PLEA",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LEAP",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "PEAT",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "LET",
+    "LATE",
+    "EAT",
+    "TEA",
+    "PET",
+    "TAPE",
+    "TALE",
+    "TAP",
+    "PAT",
+    "LAP"
+  ],
+  "entries": {
+    "PETAL": {
+      "word": "PETAL",
+      "pos": "n.",
+      "gloss": "part of the perianth that is usually brightly colored",
+      "definition": "Part of the perianth that is usually brightly colored.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PLATE": {
+      "word": "PLATE",
+      "pos": "n.",
+      "gloss": "base consisting of a rubber slab where the batter stands",
+      "definition": "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score.",
+      "example": "He ruled that the runner failed to touch home.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PLEAT": {
+      "word": "PLEAT",
+      "pos": "n.",
+      "gloss": "any of various types of fold formed by doubling fabric back upon itself and then…",
+      "definition": "Any of various types of fold formed by doubling fabric back upon itself and then pressing or stitching into shape.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PALE": {
+      "word": "PALE",
+      "pos": "adj.",
+      "gloss": "very light colored",
+      "definition": "Very light colored; highly diluted with white.",
+      "example": "Pale seagreen.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PLEA": {
+      "word": "PLEA",
+      "pos": "n.",
+      "gloss": "a humble request for help from someone in authority",
+      "definition": "A humble request for help from someone in authority.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEAP": {
+      "word": "LEAP",
+      "pos": "n.",
+      "gloss": "a light, self-propelled movement upwards or forwards",
+      "definition": "A light, self-propelled movement upwards or forwards.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PEAT": {
+      "word": "PEAT",
+      "pos": "n.",
+      "gloss": "partially carbonized vegetable matter saturated with water",
+      "definition": "Partially carbonized vegetable matter saturated with water; can be used as a fuel when dried.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LET": {
+      "word": "LET",
+      "pos": "v.",
+      "gloss": "make it possible through a specific action or lack of action for something to happen",
+      "definition": "Make it possible through a specific action or lack of action for something to happen.",
+      "example": "This permits the water to rush in.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LATE": {
+      "word": "LATE",
+      "pos": "adj.",
+      "gloss": "being or occurring at an advanced period of time or after a usual or expected time",
+      "definition": "Being or occurring at an advanced period of time or after a usual or expected time.",
+      "example": "Late evening.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAT": {
+      "word": "EAT",
+      "pos": "v.",
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PET": {
+      "word": "PET",
+      "pos": "n.",
+      "gloss": "a domesticated animal kept for companionship or amusement",
+      "definition": "A domesticated animal kept for companionship or amusement.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAPE": {
+      "word": "TAPE",
+      "pos": "n.",
+      "gloss": "a long thin piece of cloth or paper as used for binding or fastening",
+      "definition": "A long thin piece of cloth or paper as used for binding or fastening.",
+      "example": "He used a piece of tape for a belt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TALE": {
+      "word": "TALE",
+      "pos": "n.",
+      "gloss": "a message that tells the particulars of an act or occurrence or course of events",
+      "definition": "A message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program.",
+      "example": "His narrative was interesting.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAP": {
+      "word": "TAP",
+      "pos": "v.",
+      "gloss": "cut a female screw thread with a tap",
+      "definition": "Cut a female screw thread with a tap.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAT": {
+      "word": "PAT",
+      "pos": "v.",
+      "gloss": "pat or squeeze fondly or playfully, especially under the chin",
+      "definition": "Pat or squeeze fondly or playfully, especially under the chin.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAP": {
+      "word": "LAP",
+      "pos": "v.",
+      "gloss": "lie partly over or alongside of something or of one another",
+      "definition": "Lie partly over or alongside of something or of one another.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

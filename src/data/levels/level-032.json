@@ -1,0 +1,151 @@
+{
+  "id": "level-032",
+  "baseWord": "CASCADE",
+  "pool": [
+    "C",
+    "A",
+    "S",
+    "C",
+    "A",
+    "D",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "CASCADE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CASED",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "CASE",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "SEA",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SAD",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SEC",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "DEC",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ACE",
+    "DAS",
+    "SAC"
+  ],
+  "entries": {
+    "CASCADE": {
+      "word": "CASCADE",
+      "pos": "v.",
+      "gloss": "rush down in big quantities, like a cascade",
+      "definition": "Rush down in big quantities, like a cascade.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CASED": {
+      "word": "CASED",
+      "pos": "adj.",
+      "gloss": "covered or protected with or as if with a case",
+      "definition": "Covered or protected with or as if with a case.",
+      "example": "Knights cased in steel.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CASE": {
+      "word": "CASE",
+      "pos": "n.",
+      "gloss": "an occurrence of something",
+      "definition": "An occurrence of something.",
+      "example": "It was a case of bad judgment.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEA": {
+      "word": "SEA",
+      "pos": "n.",
+      "gloss": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "definition": "A division of an ocean or a large body of salt water partially enclosed by land.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAD": {
+      "word": "SAD",
+      "pos": "adj.",
+      "gloss": "experiencing or showing sorrow or unhappiness",
+      "definition": "Experiencing or showing sorrow or unhappiness.",
+      "example": "Feeling sad because his dog had died.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEC": {
+      "word": "SEC",
+      "pos": "n.",
+      "gloss": "1/60 of a minute",
+      "definition": "1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEC": {
+      "word": "DEC",
+      "pos": "n.",
+      "gloss": "the angular distance of a celestial body north or to the south of the celestial equator",
+      "definition": "(astronomy) the angular distance of a celestial body north or to the south of the celestial equator; expressed in degrees; used with right ascension to specify positions on the celestial sphere.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACE": {
+      "word": "ACE",
+      "pos": "n.",
+      "gloss": "the smallest whole number or a numeral representing this number",
+      "definition": "The smallest whole number or a numeral representing this number.",
+      "example": "He has the one but will need a two and three to go with it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAS": {
+      "word": "DAS",
+      "pos": "n.",
+      "gloss": "any of several small ungulate mammals of Africa and Asia with rodent-like incisors and…",
+      "definition": "Any of several small ungulate mammals of Africa and Asia with rodent-like incisors and feet with hooflike toes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAC": {
+      "word": "SAC",
+      "pos": "n.",
+      "gloss": "an enclosed space",
+      "definition": "An enclosed space.",
+      "example": "The trapped miners found a pocket of air.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

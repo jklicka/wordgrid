@@ -1,0 +1,160 @@
+{
+  "id": "level-041",
+  "baseWord": "BLATANT",
+  "pool": [
+    "B",
+    "L",
+    "A",
+    "T",
+    "A",
+    "N",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "BLATANT",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NATAL",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "BANAL",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ANAL",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "BAN",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "LAB",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "BAT",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "TAN",
+    "TAB",
+    "ANA",
+    "ANT"
+  ],
+  "entries": {
+    "BLATANT": {
+      "word": "BLATANT",
+      "pos": "adj.",
+      "gloss": "without any attempt at concealment",
+      "definition": "Without any attempt at concealment; completely obvious.",
+      "example": "Blatant disregard of the law.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NATAL": {
+      "word": "NATAL",
+      "pos": "adj.",
+      "gloss": "relating to or accompanying birth",
+      "definition": "Relating to or accompanying birth.",
+      "example": "Natal injuries.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BANAL": {
+      "word": "BANAL",
+      "pos": "adj.",
+      "gloss": "repeated too often",
+      "definition": "Repeated too often; overfamiliar through overuse.",
+      "example": "Bromidic sermons.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ANAL": {
+      "word": "ANAL",
+      "pos": "adj.",
+      "gloss": "of or related to the anus",
+      "definition": "Of or related to the anus.",
+      "example": "Anal thermometer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAN": {
+      "word": "BAN",
+      "pos": "v.",
+      "gloss": "forbid the public distribution of",
+      "definition": "Forbid the public distribution of ( a movie or a newspaper).",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAB": {
+      "word": "LAB",
+      "pos": "n.",
+      "gloss": "a workplace for the conduct of scientific research",
+      "definition": "A workplace for the conduct of scientific research.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAT": {
+      "word": "BAT",
+      "pos": "n.",
+      "gloss": "nocturnal mouselike mammal with forelimbs modified to form membranous wings and…",
+      "definition": "Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAB": {
+      "word": "TAB",
+      "pos": "n.",
+      "gloss": "the bill in a restaurant",
+      "definition": "The bill in a restaurant.",
+      "example": "He asked the waiter for the check.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANA": {
+      "word": "ANA",
+      "pos": "n.",
+      "gloss": "a collection of anecdotes about a person or place",
+      "definition": "A collection of anecdotes about a person or place.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANT": {
+      "word": "ANT",
+      "pos": "n.",
+      "gloss": "social insect living in organized colonies",
+      "definition": "Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

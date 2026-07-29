@@ -1,0 +1,127 @@
+{
+  "id": "level-338",
+  "baseWord": "GLEBE",
+  "pool": [
+    "G",
+    "L",
+    "E",
+    "B",
+    "E"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "GLEBE",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "GLEE",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "LEE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "LEG",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BEE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "BEG",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "GEL",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "GEE"
+  ],
+  "entries": {
+    "GLEBE": {
+      "word": "GLEBE",
+      "pos": "n.",
+      "gloss": "plot of land belonging to an English parish church or an ecclesiastical office",
+      "definition": "Plot of land belonging to an English parish church or an ecclesiastical office.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GLEE": {
+      "word": "GLEE",
+      "pos": "n.",
+      "gloss": "great merriment",
+      "definition": "Great merriment.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LEE": {
+      "word": "LEE",
+      "pos": "n.",
+      "gloss": "the side of something that is sheltered from the wind",
+      "definition": "The side of something that is sheltered from the wind.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEG": {
+      "word": "LEG",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEE": {
+      "word": "BEE",
+      "pos": "n.",
+      "gloss": "any of numerous hairy-bodied insects including social and solitary species",
+      "definition": "Any of numerous hairy-bodied insects including social and solitary species.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEG": {
+      "word": "BEG",
+      "pos": "v.",
+      "gloss": "call upon in supplication",
+      "definition": "Call upon in supplication; entreat.",
+      "example": "I beg you to stop!",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEL": {
+      "word": "GEL",
+      "pos": "n.",
+      "gloss": "a colloid in a more solid form than a sol",
+      "definition": "A colloid in a more solid form than a sol.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEE": {
+      "word": "GEE",
+      "pos": "n.",
+      "gloss": "a unit of force equal to the force exerted by gravity",
+      "definition": "A unit of force equal to the force exerted by gravity; used to indicate the force to which a body is subjected when it is accelerated.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

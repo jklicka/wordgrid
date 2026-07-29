@@ -1,0 +1,187 @@
+{
+  "id": "level-370",
+  "baseWord": "PEYOTE",
+  "pool": [
+    "P",
+    "E",
+    "Y",
+    "O",
+    "T",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "PEYOTE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TYPE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "POET",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TYPO",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "TOP",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "YET",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "EYE",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "PET",
+    "POT",
+    "TOY",
+    "TOE",
+    "PEE",
+    "OPT",
+    "TEE"
+  ],
+  "entries": {
+    "PEYOTE": {
+      "word": "PEYOTE",
+      "pos": "n.",
+      "gloss": "a small spineless globe-shaped cactus",
+      "definition": "A small spineless globe-shaped cactus; source of mescal buttons.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TYPE": {
+      "word": "TYPE",
+      "pos": "n.",
+      "gloss": "a subdivision of a particular kind of thing",
+      "definition": "A subdivision of a particular kind of thing.",
+      "example": "What type of sculpture do you prefer?",
+      "band": "common",
+      "tier": "general"
+    },
+    "POET": {
+      "word": "POET",
+      "pos": "n.",
+      "gloss": "a writer of poems",
+      "definition": "A writer of poems (the term is usually reserved for writers of good poetry).",
+      "band": "common",
+      "tier": "general"
+    },
+    "TYPO": {
+      "word": "TYPO",
+      "pos": "n.",
+      "gloss": "a mistake in printed matter resulting from mechanical failures of some kind",
+      "definition": "A mistake in printed matter resulting from mechanical failures of some kind.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOP": {
+      "word": "TOP",
+      "pos": "n.",
+      "gloss": "the upper part of anything",
+      "definition": "The upper part of anything.",
+      "example": "The mower cuts off the tops of the grass.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YET": {
+      "word": "YET",
+      "pos": "adv.",
+      "gloss": "up to the present time",
+      "definition": "Up to the present time.",
+      "example": "I have yet to see the results.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EYE": {
+      "word": "EYE",
+      "pos": "n.",
+      "gloss": "the organ of sight",
+      "definition": "The organ of sight.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PET": {
+      "word": "PET",
+      "pos": "n.",
+      "gloss": "a domesticated animal kept for companionship or amusement",
+      "definition": "A domesticated animal kept for companionship or amusement.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POT": {
+      "word": "POT",
+      "pos": "n.",
+      "gloss": "metal or earthenware cooking vessel that is usually round and deep",
+      "definition": "Metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOY": {
+      "word": "TOY",
+      "pos": "n.",
+      "gloss": "an artifact designed to be played with",
+      "definition": "An artifact designed to be played with.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOE": {
+      "word": "TOE",
+      "pos": "n.",
+      "gloss": "one of the digits of the foot",
+      "definition": "One of the digits of the foot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PEE": {
+      "word": "PEE",
+      "pos": "n.",
+      "gloss": "liquid excretory product",
+      "definition": "Liquid excretory product.",
+      "example": "There was blood in his urine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OPT": {
+      "word": "OPT",
+      "pos": "v.",
+      "gloss": "select as an alternative over another",
+      "definition": "Select as an alternative over another.",
+      "example": "I always choose the fish over the meat courses in this restaurant.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEE": {
+      "word": "TEE",
+      "pos": "n.",
+      "gloss": "the starting place for each hole on a golf course",
+      "definition": "The starting place for each hole on a golf course.",
+      "example": "They were waiting on the first tee.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

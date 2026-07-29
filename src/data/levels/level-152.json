@@ -1,0 +1,131 @@
+{
+  "id": "level-152",
+  "baseWord": "REVEL",
+  "pool": [
+    "R",
+    "E",
+    "V",
+    "E",
+    "L"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "REVEL",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "LEVER",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "EVER",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "REEL",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "VEER",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LEE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "EVE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "REV"
+  ],
+  "entries": {
+    "REVEL": {
+      "word": "REVEL",
+      "pos": "n.",
+      "gloss": "unrestrained merrymaking",
+      "definition": "Unrestrained merrymaking.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LEVER": {
+      "word": "LEVER",
+      "pos": "n.",
+      "gloss": "a rigid bar pivoted about a fulcrum",
+      "definition": "A rigid bar pivoted about a fulcrum.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EVER": {
+      "word": "EVER",
+      "pos": "adv.",
+      "gloss": "at any time",
+      "definition": "At any time.",
+      "example": "Did you ever smoke?",
+      "band": "common",
+      "tier": "general"
+    },
+    "REEL": {
+      "word": "REEL",
+      "pos": "v.",
+      "gloss": "walk as if unable to control one's movements",
+      "definition": "Walk as if unable to control one's movements.",
+      "example": "The drunken man staggered into the room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VEER": {
+      "word": "VEER",
+      "pos": "v.",
+      "gloss": "turn sharply",
+      "definition": "Turn sharply; change direction abruptly.",
+      "example": "The car cut to the left at the intersection.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LEE": {
+      "word": "LEE",
+      "pos": "n.",
+      "gloss": "the side of something that is sheltered from the wind",
+      "definition": "The side of something that is sheltered from the wind.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EVE": {
+      "word": "EVE",
+      "pos": "n.",
+      "gloss": "the day before",
+      "definition": "The day before.",
+      "example": "He always arrives on the eve of her departure.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REV": {
+      "word": "REV",
+      "pos": "v.",
+      "gloss": "increase the number of rotations per minute",
+      "definition": "Increase the number of rotations per minute.",
+      "example": "Rev up an engine.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

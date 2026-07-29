@@ -1,0 +1,160 @@
+{
+  "id": "level-037",
+  "baseWord": "PLIGHT",
+  "pool": [
+    "P",
+    "L",
+    "I",
+    "G",
+    "H",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "PLIGHT",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LIGHT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "GILT",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "HILT",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "HIT",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "TIP",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "PIT",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "HIP",
+    "LIT",
+    "PIG",
+    "LIP"
+  ],
+  "entries": {
+    "PLIGHT": {
+      "word": "PLIGHT",
+      "pos": "n.",
+      "gloss": "a situation from which extrication is difficult especially an unpleasant or trying one",
+      "definition": "A situation from which extrication is difficult especially an unpleasant or trying one.",
+      "example": "Finds himself in a most awkward predicament.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIGHT": {
+      "word": "LIGHT",
+      "pos": "n.",
+      "gloss": "electromagnetic radiation that can produce a visual sensation",
+      "definition": "(physics) electromagnetic radiation that can produce a visual sensation.",
+      "example": "The light was filtered through a soft glass window.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GILT": {
+      "word": "GILT",
+      "pos": "adj.",
+      "gloss": "having the deep slightly brownish color of gold",
+      "definition": "Having the deep slightly brownish color of gold.",
+      "example": "Long aureate (or golden) hair.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HILT": {
+      "word": "HILT",
+      "pos": "n.",
+      "gloss": "the handle of a sword or dagger",
+      "definition": "The handle of a sword or dagger.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HIT": {
+      "word": "HIT",
+      "pos": "v.",
+      "gloss": "cause to move by striking",
+      "definition": "Cause to move by striking.",
+      "example": "Hit a ball.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIP": {
+      "word": "TIP",
+      "pos": "n.",
+      "gloss": "the extreme end of something",
+      "definition": "The extreme end of something; especially something pointed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIT": {
+      "word": "PIT",
+      "pos": "n.",
+      "gloss": "a sizeable hole",
+      "definition": "A sizeable hole (usually in the ground).",
+      "example": "They dug a pit to bury the body.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HIP": {
+      "word": "HIP",
+      "pos": "n.",
+      "gloss": "either side of the body below the waist and above the thigh",
+      "definition": "Either side of the body below the waist and above the thigh.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIT": {
+      "word": "LIT",
+      "pos": "adj.",
+      "gloss": "provided with artificial light",
+      "definition": "Provided with artificial light.",
+      "example": "Illuminated advertising.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIG": {
+      "word": "PIG",
+      "pos": "n.",
+      "gloss": "domestic swine",
+      "definition": "Domestic swine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIP": {
+      "word": "LIP",
+      "pos": "n.",
+      "gloss": "either of two fleshy folds of tissue that surround the mouth and play a role in speaking",
+      "definition": "Either of two fleshy folds of tissue that surround the mouth and play a role in speaking.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

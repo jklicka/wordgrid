@@ -1,0 +1,151 @@
+{
+  "id": "level-252",
+  "baseWord": "KEYPAD",
+  "pool": [
+    "K",
+    "E",
+    "Y",
+    "P",
+    "A",
+    "D"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "KEYPAD",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PEAKY",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "PEAK",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DYKE",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "PAY",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "KEY",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "YEA",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "DAY",
+    "PAD",
+    "DYE"
+  ],
+  "entries": {
+    "KEYPAD": {
+      "word": "KEYPAD",
+      "pos": "n.",
+      "gloss": "a keyboard that is a data input device for computers",
+      "definition": "A keyboard that is a data input device for computers; arrangement of keys is modelled after the typewriter keyboard.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PEAKY": {
+      "word": "PEAKY",
+      "pos": "adj.",
+      "gloss": "having or as if having especially high-pitched spots",
+      "definition": "Having or as if having especially high-pitched spots.",
+      "example": "Absence of peaky highs and beefed-up bass.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PEAK": {
+      "word": "PEAK",
+      "pos": "n.",
+      "gloss": "the most extreme possible amount or value",
+      "definition": "The most extreme possible amount or value.",
+      "example": "Voltage peak.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DYKE": {
+      "word": "DYKE",
+      "pos": "n.",
+      "gloss": "offensive term for a lesbian who is noticeably masculine",
+      "definition": "(slang) offensive term for a lesbian who is noticeably masculine.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PAY": {
+      "word": "PAY",
+      "pos": "v.",
+      "gloss": "give money, usually in exchange for goods or services",
+      "definition": "Give money, usually in exchange for goods or services.",
+      "example": "I paid four dollars for this sandwich.",
+      "band": "common",
+      "tier": "general"
+    },
+    "KEY": {
+      "word": "KEY",
+      "pos": "n.",
+      "gloss": "metal device shaped in such a way that when it is inserted into the appropriate lock…",
+      "definition": "Metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YEA": {
+      "word": "YEA",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "The yeas have it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAY": {
+      "word": "DAY",
+      "pos": "n.",
+      "gloss": "time for Earth to make a complete rotation on its axis",
+      "definition": "Time for Earth to make a complete rotation on its axis.",
+      "example": "Two days later they left.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAD": {
+      "word": "PAD",
+      "pos": "n.",
+      "gloss": "a number of sheets of paper fastened together along one edge",
+      "definition": "A number of sheets of paper fastened together along one edge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DYE": {
+      "word": "DYE",
+      "pos": "v.",
+      "gloss": "color with dye",
+      "definition": "Color with dye.",
+      "example": "Please dye these shoes.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

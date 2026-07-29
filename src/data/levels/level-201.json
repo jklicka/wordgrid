@@ -1,0 +1,115 @@
+{
+  "id": "level-201",
+  "baseWord": "BEANIE",
+  "pool": [
+    "B",
+    "E",
+    "A",
+    "N",
+    "I",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "BEANIE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BEAN",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "BANE",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "BEN",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "BAN",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "BIN",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "BEE"
+  ],
+  "entries": {
+    "BEANIE": {
+      "word": "BEANIE",
+      "pos": "n.",
+      "gloss": "a small skullcap",
+      "definition": "A small skullcap; formerly worn by schoolboys and college freshmen.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BEAN": {
+      "word": "BEAN",
+      "pos": "n.",
+      "gloss": "any of various edible seeds of plants of the family Leguminosae used for food",
+      "definition": "Any of various edible seeds of plants of the family Leguminosae used for food.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BANE": {
+      "word": "BANE",
+      "pos": "n.",
+      "gloss": "something causing misery or death",
+      "definition": "Something causing misery or death.",
+      "example": "The bane of my life.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BEN": {
+      "word": "BEN",
+      "pos": "n.",
+      "gloss": "a mountain or tall hill",
+      "definition": "A mountain or tall hill.",
+      "example": "They were climbing the ben.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAN": {
+      "word": "BAN",
+      "pos": "v.",
+      "gloss": "forbid the public distribution of",
+      "definition": "Forbid the public distribution of ( a movie or a newspaper).",
+      "band": "common",
+      "tier": "general"
+    },
+    "BIN": {
+      "word": "BIN",
+      "pos": "n.",
+      "gloss": "a container; usually has a lid",
+      "definition": "A container; usually has a lid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEE": {
+      "word": "BEE",
+      "pos": "n.",
+      "gloss": "any of numerous hairy-bodied insects including social and solitary species",
+      "definition": "Any of numerous hairy-bodied insects including social and solitary species.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

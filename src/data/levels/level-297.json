@@ -1,0 +1,174 @@
+{
+  "id": "level-297",
+  "baseWord": "HAIRDO",
+  "pool": [
+    "H",
+    "A",
+    "I",
+    "R",
+    "D",
+    "O"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "HAIRDO",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RADIO",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "HOARD",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "HARD",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "HAIR",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "ROD",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "AIR",
+    "ROAD",
+    "AID",
+    "RID",
+    "RAID",
+    "IRA",
+    "ARID"
+  ],
+  "entries": {
+    "HAIRDO": {
+      "word": "HAIRDO",
+      "pos": "n.",
+      "gloss": "the arrangement of the hair",
+      "definition": "The arrangement of the hair (especially a woman's hair).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RADIO": {
+      "word": "RADIO",
+      "pos": "n.",
+      "gloss": "medium for communication",
+      "definition": "Medium for communication.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOARD": {
+      "word": "HOARD",
+      "pos": "n.",
+      "gloss": "a secret store of valuables or money",
+      "definition": "A secret store of valuables or money.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HARD": {
+      "word": "HARD",
+      "pos": "adj.",
+      "gloss": "not easy; requiring great physical or mental effort to accomplish or comprehend or endure",
+      "definition": "Not easy; requiring great physical or mental effort to accomplish or comprehend or endure.",
+      "example": "A difficult task.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAIR": {
+      "word": "HAIR",
+      "pos": "n.",
+      "gloss": "a covering for the body consisting of a dense growth of threadlike structures",
+      "definition": "A covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss.",
+      "example": "He combed his hair.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROD": {
+      "word": "ROD",
+      "pos": "n.",
+      "gloss": "a long thin implement made of metal or wood",
+      "definition": "A long thin implement made of metal or wood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIR": {
+      "word": "AIR",
+      "pos": "n.",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROAD": {
+      "word": "ROAD",
+      "pos": "n.",
+      "gloss": "an open way for travel or transportation",
+      "definition": "An open way (generally public) for travel or transportation.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AID": {
+      "word": "AID",
+      "pos": "n.",
+      "gloss": "a person or thing that is a resource that helps make something easier or possible to do",
+      "definition": "A person or thing that is a resource that helps make something easier or possible to do.",
+      "example": "Visual aids in teaching.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RID": {
+      "word": "RID",
+      "pos": "v.",
+      "gloss": "relieve from",
+      "definition": "Relieve from.",
+      "example": "Rid the house of pests.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAID": {
+      "word": "RAID",
+      "pos": "v.",
+      "gloss": "search without warning, make a sudden surprise attack on",
+      "definition": "Search without warning, make a sudden surprise attack on.",
+      "example": "The police raided the crack house.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IRA": {
+      "word": "IRA",
+      "pos": "n.",
+      "gloss": "belligerence aroused by a real or supposed wrong",
+      "definition": "Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARID": {
+      "word": "ARID",
+      "pos": "adj.",
+      "gloss": "lacking sufficient water or rainfall",
+      "definition": "Lacking sufficient water or rainfall.",
+      "example": "An arid climate.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

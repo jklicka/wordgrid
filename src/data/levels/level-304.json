@@ -1,0 +1,218 @@
+{
+  "id": "level-304",
+  "baseWord": "BLADED",
+  "pool": [
+    "B",
+    "L",
+    "A",
+    "D",
+    "E",
+    "D"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "BLADED",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "BLADE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ABLE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "DEAL",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "LEAD",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "DEAD",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "DALE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "BAD",
+    "ADD",
+    "BED",
+    "DAD",
+    "LAB",
+    "LAD",
+    "BALD",
+    "ALE",
+    "BALE",
+    "BEAD"
+  ],
+  "entries": {
+    "BLADED": {
+      "word": "BLADED",
+      "pos": "adj.",
+      "gloss": "bearing or characterized by a blade or sword",
+      "definition": "Bearing or characterized by a blade or sword; often used in combination.",
+      "example": "He fought on, broken-bladed but unbowed.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BLADE": {
+      "word": "BLADE",
+      "pos": "n.",
+      "gloss": "especially a leaf of grass or the broad portion of a leaf as distinct from the petiole",
+      "definition": "Especially a leaf of grass or the broad portion of a leaf as distinct from the petiole.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ABLE": {
+      "word": "ABLE",
+      "pos": "adj.",
+      "gloss": "having the necessary means or skill or know-how or authority to do something",
+      "definition": "(usually followed by `to') having the necessary means or skill or know-how or authority to do something.",
+      "example": "Able to swim.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEAL": {
+      "word": "DEAL",
+      "pos": "v.",
+      "gloss": "act on verbally or in some form of artistic expression",
+      "definition": "Act on verbally or in some form of artistic expression.",
+      "example": "This book deals with incest.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEAD": {
+      "word": "LEAD",
+      "pos": "v.",
+      "gloss": "take somebody somewhere",
+      "definition": "Take somebody somewhere.",
+      "example": "We lead him to our chief.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEAD": {
+      "word": "DEAD",
+      "pos": "adj.",
+      "gloss": "no longer having or seeming to have or expecting to have life",
+      "definition": "No longer having or seeming to have or expecting to have life.",
+      "example": "The nerve is dead.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DALE": {
+      "word": "DALE",
+      "pos": "n.",
+      "gloss": "an open river valley",
+      "definition": "An open river valley (in a hilly area).",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAD": {
+      "word": "BAD",
+      "pos": "adj.",
+      "gloss": "having undesirable or negative qualities",
+      "definition": "Having undesirable or negative qualities.",
+      "example": "A bad report card.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ADD": {
+      "word": "ADD",
+      "pos": "v.",
+      "gloss": "make an addition",
+      "definition": "Make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of.",
+      "example": "We added two students to that dorm room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BED": {
+      "word": "BED",
+      "pos": "n.",
+      "gloss": "a piece of furniture that provides a place to sleep",
+      "definition": "A piece of furniture that provides a place to sleep.",
+      "example": "He sat on the edge of the bed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAD": {
+      "word": "DAD",
+      "pos": "n.",
+      "gloss": "an informal term for a father",
+      "definition": "An informal term for a father; probably derived from baby talk.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAB": {
+      "word": "LAB",
+      "pos": "n.",
+      "gloss": "a workplace for the conduct of scientific research",
+      "definition": "A workplace for the conduct of scientific research.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAD": {
+      "word": "LAD",
+      "pos": "n.",
+      "gloss": "a boy or man",
+      "definition": "A boy or man.",
+      "example": "That chap is your host.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BALD": {
+      "word": "BALD",
+      "pos": "adj.",
+      "gloss": "with no effort to conceal",
+      "definition": "With no effort to conceal.",
+      "example": "A barefaced lie.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALE": {
+      "word": "ALE",
+      "pos": "n.",
+      "gloss": "a general name for beer made with a top fermenting yeast",
+      "definition": "A general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BALE": {
+      "word": "BALE",
+      "pos": "n.",
+      "gloss": "a large bundle bound for storage or transport",
+      "definition": "A large bundle bound for storage or transport.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEAD": {
+      "word": "BEAD",
+      "pos": "n.",
+      "gloss": "a small ball with a hole through the middle",
+      "definition": "A small ball with a hole through the middle.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

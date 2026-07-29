@@ -1,0 +1,217 @@
+{
+  "id": "level-075",
+  "baseWord": "WARPED",
+  "pool": [
+    "W",
+    "A",
+    "R",
+    "P",
+    "E",
+    "D"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "WARPED",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "RAPED",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "PADRE",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "DRAPE",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "READ",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "WEAR",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DRAW",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ARE",
+    "WAR",
+    "RED",
+    "DEAR",
+    "ERA",
+    "RAW",
+    "RAPE",
+    "EAR",
+    "WARD",
+    "REP"
+  ],
+  "entries": {
+    "WARPED": {
+      "word": "WARPED",
+      "pos": "adj.",
+      "gloss": "used especially of timbers or boards",
+      "definition": "Used especially of timbers or boards; bent out of shape usually by moisture.",
+      "example": "The floors were warped and cracked.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RAPED": {
+      "word": "RAPED",
+      "pos": "adj.",
+      "gloss": "having been robbed and destroyed by force and violence",
+      "definition": "Having been robbed and destroyed by force and violence.",
+      "example": "The raped countryside.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PADRE": {
+      "word": "PADRE",
+      "pos": "n.",
+      "gloss": "a chaplain in one of the military services",
+      "definition": "A chaplain in one of the military services.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DRAPE": {
+      "word": "DRAPE",
+      "pos": "v.",
+      "gloss": "arrange in a particular way",
+      "definition": "Arrange in a particular way.",
+      "example": "Drape a cloth.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "READ": {
+      "word": "READ",
+      "pos": "v.",
+      "gloss": "interpret something that is written or printed",
+      "definition": "Interpret something that is written or printed.",
+      "example": "Read the advertisement.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WEAR": {
+      "word": "WEAR",
+      "pos": "v.",
+      "gloss": "be dressed in",
+      "definition": "Be dressed in.",
+      "example": "She was wearing yellow that day.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DRAW": {
+      "word": "DRAW",
+      "pos": "v.",
+      "gloss": "cause to move by pulling",
+      "definition": "Cause to move by pulling.",
+      "example": "Draw a wagon.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WAR": {
+      "word": "WAR",
+      "pos": "n.",
+      "gloss": "the waging of armed conflict against an enemy",
+      "definition": "The waging of armed conflict against an enemy.",
+      "example": "Thousands of people were killed in the war.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RED": {
+      "word": "RED",
+      "pos": "n.",
+      "gloss": "red color or pigment",
+      "definition": "Red color or pigment; the chromatic color resembling the hue of blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEAR": {
+      "word": "DEAR",
+      "pos": "adj.",
+      "gloss": "dearly loved",
+      "definition": "Dearly loved.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAW": {
+      "word": "RAW",
+      "pos": "adj.",
+      "gloss": "being unprocessed or manufactured using only simple or minimal processes",
+      "definition": "(used especially of commodities) being unprocessed or manufactured using only simple or minimal processes.",
+      "example": "Natural yogurt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAPE": {
+      "word": "RAPE",
+      "pos": "v.",
+      "gloss": "force to have sex against their will",
+      "definition": "Force (someone) to have sex against their will.",
+      "example": "The woman was raped on her way home at night.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WARD": {
+      "word": "WARD",
+      "pos": "n.",
+      "gloss": "a person who is under the protection or in the custody of another",
+      "definition": "A person who is under the protection or in the custody of another.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REP": {
+      "word": "REP",
+      "pos": "n.",
+      "gloss": "informal abbreviation of `representative'",
+      "definition": "Informal abbreviation of `representative'.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

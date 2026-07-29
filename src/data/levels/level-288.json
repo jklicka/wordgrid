@@ -1,0 +1,157 @@
+{
+  "id": "level-288",
+  "baseWord": "LINGUA",
+  "pool": [
+    "L",
+    "I",
+    "N",
+    "G",
+    "U",
+    "A"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "LINGUA",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ALIGN",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "GAIN",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "NAIL",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LUNG",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "LING",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "ANIL",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "GUN",
+    "GAL",
+    "GIN",
+    "LAG"
+  ],
+  "entries": {
+    "LINGUA": {
+      "word": "LINGUA",
+      "pos": "n.",
+      "gloss": "a mobile mass of muscular tissue covered with mucous membrane and located in the oral…",
+      "definition": "A mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ALIGN": {
+      "word": "ALIGN",
+      "pos": "v.",
+      "gloss": "place in a line or arrange so as to be parallel or straight",
+      "definition": "Place in a line or arrange so as to be parallel or straight.",
+      "example": "Align the car with the curb.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAIN": {
+      "word": "GAIN",
+      "pos": "v.",
+      "gloss": "obtain",
+      "definition": "Obtain.",
+      "example": "Derive pleasure from one's garden.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NAIL": {
+      "word": "NAIL",
+      "pos": "v.",
+      "gloss": "attach something somewhere by means of nails",
+      "definition": "Attach something somewhere by means of nails.",
+      "example": "Nail the board onto the wall.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LUNG": {
+      "word": "LUNG",
+      "pos": "n.",
+      "gloss": "either of two saclike respiratory organs in the chest of vertebrates",
+      "definition": "Either of two saclike respiratory organs in the chest of vertebrates; serves to remove carbon dioxide and provide oxygen to the blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LING": {
+      "word": "LING",
+      "pos": "n.",
+      "gloss": "water chestnut whose spiny fruit has two rather than 4 prongs",
+      "definition": "Water chestnut whose spiny fruit has two rather than 4 prongs.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ANIL": {
+      "word": "ANIL",
+      "pos": "n.",
+      "gloss": "a blue dye obtained from plants or made synthetically",
+      "definition": "A blue dye obtained from plants or made synthetically.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GUN": {
+      "word": "GUN",
+      "pos": "n.",
+      "gloss": "a weapon that discharges a missile at high velocity",
+      "definition": "A weapon that discharges a missile at high velocity (especially from a metal tube or barrel).",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAL": {
+      "word": "GAL",
+      "pos": "n.",
+      "gloss": "United States liquid unit equal to 4 quarts or 3.785 liters",
+      "definition": "United States liquid unit equal to 4 quarts or 3.785 liters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAG": {
+      "word": "LAG",
+      "pos": "n.",
+      "gloss": "the act of slowing down or falling behind",
+      "definition": "The act of slowing down or falling behind.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

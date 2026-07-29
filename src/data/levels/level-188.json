@@ -1,0 +1,118 @@
+{
+  "id": "level-188",
+  "baseWord": "DAZZLE",
+  "pool": [
+    "D",
+    "A",
+    "Z",
+    "Z",
+    "L",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "DAZZLE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DEAL",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "LEAD",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "DALE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "ZEAL",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "LAD",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ALE"
+  ],
+  "entries": {
+    "DAZZLE": {
+      "word": "DAZZLE",
+      "pos": "v.",
+      "gloss": "to cause someone to lose clear vision, especially from intense light",
+      "definition": "To cause someone to lose clear vision, especially from intense light.",
+      "example": "She was dazzled by the bright headlights.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DEAL": {
+      "word": "DEAL",
+      "pos": "v.",
+      "gloss": "act on verbally or in some form of artistic expression",
+      "definition": "Act on verbally or in some form of artistic expression.",
+      "example": "This book deals with incest.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEAD": {
+      "word": "LEAD",
+      "pos": "v.",
+      "gloss": "take somebody somewhere",
+      "definition": "Take somebody somewhere.",
+      "example": "We lead him to our chief.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DALE": {
+      "word": "DALE",
+      "pos": "n.",
+      "gloss": "an open river valley",
+      "definition": "An open river valley (in a hilly area).",
+      "band": "common",
+      "tier": "general"
+    },
+    "ZEAL": {
+      "word": "ZEAL",
+      "pos": "n.",
+      "gloss": "a feeling of strong eagerness",
+      "definition": "A feeling of strong eagerness (usually in favor of a person or cause).",
+      "example": "They were imbued with a revolutionary ardor.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LAD": {
+      "word": "LAD",
+      "pos": "n.",
+      "gloss": "a boy or man",
+      "definition": "A boy or man.",
+      "example": "That chap is your host.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALE": {
+      "word": "ALE",
+      "pos": "n.",
+      "gloss": "a general name for beer made with a top fermenting yeast",
+      "definition": "A general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

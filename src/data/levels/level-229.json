@@ -1,0 +1,129 @@
+{
+  "id": "level-229",
+  "baseWord": "SERVO",
+  "pool": [
+    "S",
+    "E",
+    "R",
+    "V",
+    "O"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SERVO",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "VERSO",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "OVER",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "ROSE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SORE",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "REV",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "ORE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "EROS"
+  ],
+  "entries": {
+    "SERVO": {
+      "word": "SERVO",
+      "pos": "n.",
+      "gloss": "control system that converts a small mechanical motion into one requiring much greater…",
+      "definition": "Control system that converts a small mechanical motion into one requiring much greater power; may include a negative feedback system.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "VERSO": {
+      "word": "VERSO",
+      "pos": "n.",
+      "gloss": "left-hand page",
+      "definition": "Left-hand page.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "OVER": {
+      "word": "OVER",
+      "pos": "adv.",
+      "gloss": "at or to a point across intervening space etc.",
+      "definition": "At or to a point across intervening space etc.",
+      "example": "Come over and see us some time.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROSE": {
+      "word": "ROSE",
+      "pos": "n.",
+      "gloss": "any of many shrubs of the genus Rosa that bear roses",
+      "definition": "Any of many shrubs of the genus Rosa that bear roses.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SORE": {
+      "word": "SORE",
+      "pos": "adj.",
+      "gloss": "hurting",
+      "definition": "Hurting.",
+      "example": "The tender spot on his jaw.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REV": {
+      "word": "REV",
+      "pos": "v.",
+      "gloss": "increase the number of rotations per minute",
+      "definition": "Increase the number of rotations per minute.",
+      "example": "Rev up an engine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ORE": {
+      "word": "ORE",
+      "pos": "n.",
+      "gloss": "a mineral that contains metal that is valuable enough to be mined",
+      "definition": "A mineral that contains metal that is valuable enough to be mined.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EROS": {
+      "word": "EROS",
+      "pos": "n.",
+      "gloss": "a desire for sexual intimacy",
+      "definition": "A desire for sexual intimacy.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

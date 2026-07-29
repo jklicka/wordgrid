@@ -20,8 +20,8 @@
     },
     {
       "word": "JOKE",
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 3,
       "direction": "down"
     },
     {
@@ -44,8 +44,8 @@
     },
     {
       "word": "KEY",
-      "row": 6,
-      "col": 0,
+      "row": 0,
+      "col": 4,
       "direction": "across"
     }
   ],

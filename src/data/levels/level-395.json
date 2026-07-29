@@ -1,0 +1,214 @@
+{
+  "id": "level-395",
+  "baseWord": "PRELIM",
+  "pool": [
+    "P",
+    "R",
+    "E",
+    "L",
+    "I",
+    "M"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "PRELIM",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PRIME",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "PERIL",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "MILER",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "IMPEL",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "MILE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "PILE",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "LIE",
+    "REP",
+    "RIP",
+    "PIE",
+    "LIP",
+    "LIME",
+    "RIM",
+    "PIER",
+    "RIPE",
+    "LIMP"
+  ],
+  "entries": {
+    "PRELIM": {
+      "word": "PRELIM",
+      "pos": "n.",
+      "gloss": "a minor match preceding the main event",
+      "definition": "A minor match preceding the main event.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PRIME": {
+      "word": "PRIME",
+      "pos": "adj.",
+      "gloss": "first in rank or degree",
+      "definition": "First in rank or degree.",
+      "example": "An architect of premier rank.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PERIL": {
+      "word": "PERIL",
+      "pos": "n.",
+      "gloss": "a source of danger",
+      "definition": "A source of danger; a possibility of incurring loss or misfortune.",
+      "example": "Drinking alcohol is a health hazard.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MILER": {
+      "word": "MILER",
+      "pos": "n.",
+      "gloss": "the length of something in miles",
+      "definition": "(used only in combinations) the length of something in miles.",
+      "example": "The race was a 30-miler.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "IMPEL": {
+      "word": "IMPEL",
+      "pos": "v.",
+      "gloss": "urge or force to an action",
+      "definition": "Urge or force (a person) to an action; constrain or motivate.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MILE": {
+      "word": "MILE",
+      "pos": "n.",
+      "gloss": "a unit of length equal to 1,760 yards or 5,280 feet",
+      "definition": "A unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PILE": {
+      "word": "PILE",
+      "pos": "n.",
+      "gloss": "a collection of objects laid on top of each other",
+      "definition": "A collection of objects laid on top of each other.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIE": {
+      "word": "LIE",
+      "pos": "v.",
+      "gloss": "be located or situated somewhere",
+      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REP": {
+      "word": "REP",
+      "pos": "n.",
+      "gloss": "informal abbreviation of `representative'",
+      "definition": "Informal abbreviation of `representative'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIP": {
+      "word": "RIP",
+      "pos": "v.",
+      "gloss": "tear or be torn violently",
+      "definition": "Tear or be torn violently.",
+      "example": "The curtain ripped from top to bottom.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIE": {
+      "word": "PIE",
+      "pos": "n.",
+      "gloss": "dish baked in pastry-lined pan often with a pastry top",
+      "definition": "Dish baked in pastry-lined pan often with a pastry top.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIP": {
+      "word": "LIP",
+      "pos": "n.",
+      "gloss": "either of two fleshy folds of tissue that surround the mouth and play a role in speaking",
+      "definition": "Either of two fleshy folds of tissue that surround the mouth and play a role in speaking.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIME": {
+      "word": "LIME",
+      "pos": "n.",
+      "gloss": "a caustic substance produced by heating limestone",
+      "definition": "A caustic substance produced by heating limestone.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIM": {
+      "word": "RIM",
+      "pos": "n.",
+      "gloss": "the shape of a raised edge of a more or less circular object",
+      "definition": "The shape of a raised edge of a more or less circular object.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIER": {
+      "word": "PIER",
+      "pos": "n.",
+      "gloss": "a platform built out from the shore into the water and supported by piles",
+      "definition": "A platform built out from the shore into the water and supported by piles; provides access to ships and boats.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIPE": {
+      "word": "RIPE",
+      "pos": "adj.",
+      "gloss": "fully developed or matured and ready to be eaten or used",
+      "definition": "Fully developed or matured and ready to be eaten or used.",
+      "example": "Ripe peaches.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIMP": {
+      "word": "LIMP",
+      "pos": "v.",
+      "gloss": "walk impeded by some physical limitation or injury",
+      "definition": "Walk impeded by some physical limitation or injury.",
+      "example": "The old woman hobbles down to the store every day.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

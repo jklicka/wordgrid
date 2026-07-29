@@ -1,0 +1,145 @@
+{
+  "id": "level-323",
+  "baseWord": "GAVEL",
+  "pool": [
+    "G",
+    "A",
+    "V",
+    "E",
+    "L"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "GAVEL",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "GALE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "VALE",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "VEAL",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "AGE",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "LEG",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "GEL",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "GAL",
+    "ALE",
+    "LAG"
+  ],
+  "entries": {
+    "GAVEL": {
+      "word": "GAVEL",
+      "pos": "n.",
+      "gloss": "a small mallet used by a presiding officer or a judge",
+      "definition": "A small mallet used by a presiding officer or a judge.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GALE": {
+      "word": "GALE",
+      "pos": "n.",
+      "gloss": "a strong wind moving 45-90 knots",
+      "definition": "A strong wind moving 45-90 knots; force 7 to 10 on Beaufort scale.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VALE": {
+      "word": "VALE",
+      "pos": "n.",
+      "gloss": "a long depression in the surface of the land that usually contains a river",
+      "definition": "A long depression in the surface of the land that usually contains a river.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VEAL": {
+      "word": "VEAL",
+      "pos": "n.",
+      "gloss": "meat from a calf",
+      "definition": "Meat from a calf.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AGE": {
+      "word": "AGE",
+      "pos": "n.",
+      "gloss": "how long something has existed",
+      "definition": "How long something has existed.",
+      "example": "It was replaced because of its age.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEG": {
+      "word": "LEG",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEL": {
+      "word": "GEL",
+      "pos": "n.",
+      "gloss": "a colloid in a more solid form than a sol",
+      "definition": "A colloid in a more solid form than a sol.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAL": {
+      "word": "GAL",
+      "pos": "n.",
+      "gloss": "United States liquid unit equal to 4 quarts or 3.785 liters",
+      "definition": "United States liquid unit equal to 4 quarts or 3.785 liters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALE": {
+      "word": "ALE",
+      "pos": "n.",
+      "gloss": "a general name for beer made with a top fermenting yeast",
+      "definition": "A general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAG": {
+      "word": "LAG",
+      "pos": "n.",
+      "gloss": "the act of slowing down or falling behind",
+      "definition": "The act of slowing down or falling behind.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

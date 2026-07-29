@@ -1,0 +1,126 @@
+{
+  "id": "level-315",
+  "baseWord": "COLDLY",
+  "pool": [
+    "C",
+    "O",
+    "L",
+    "D",
+    "L",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "COLDLY",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DOLLY",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "COLD",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "DOLL",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "COL",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "COD",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "OLD",
+    "DOC"
+  ],
+  "entries": {
+    "COLDLY": {
+      "word": "COLDLY",
+      "pos": "adv.",
+      "gloss": "lacking warmth of feeling",
+      "definition": "Lacking warmth of feeling; in a cold, unemotional manner.",
+      "example": "He addressed her coldly.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DOLLY": {
+      "word": "DOLLY",
+      "pos": "n.",
+      "gloss": "conveyance consisting of a wheeled support on which a camera can be mounted",
+      "definition": "Conveyance consisting of a wheeled support on which a camera can be mounted.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "COLD": {
+      "word": "COLD",
+      "pos": "adj.",
+      "gloss": "having a low or inadequate temperature or feeling a sensation of coldness or having…",
+      "definition": "Having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration.",
+      "example": "A cold climate.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOLL": {
+      "word": "DOLL",
+      "pos": "n.",
+      "gloss": "a small replica of a person",
+      "definition": "A small replica of a person; used as a toy.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COL": {
+      "word": "COL",
+      "pos": "n.",
+      "gloss": "a pass between mountain peaks",
+      "definition": "A pass between mountain peaks.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COD": {
+      "word": "COD",
+      "pos": "n.",
+      "gloss": "the vessel that contains the seeds of a plant",
+      "definition": "The vessel that contains the seeds of a plant (not the seeds themselves).",
+      "band": "common",
+      "tier": "general"
+    },
+    "OLD": {
+      "word": "OLD",
+      "pos": "adj.",
+      "gloss": "having lived for a relatively long time or attained a specific age",
+      "definition": "(used especially of persons) having lived for a relatively long time or attained a specific age.",
+      "example": "His mother is very old.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOC": {
+      "word": "DOC",
+      "pos": "n.",
+      "gloss": "a licensed medical practitioner",
+      "definition": "A licensed medical practitioner.",
+      "example": "I felt so bad I went to see my doctor.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

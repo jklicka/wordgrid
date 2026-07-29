@@ -1,0 +1,187 @@
+{
+  "id": "level-084",
+  "baseWord": "PHOTON",
+  "pool": [
+    "P",
+    "H",
+    "O",
+    "T",
+    "O",
+    "N"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "PHOTON",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PHOTO",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "HOOP",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "TOON",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "HOOT",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "NOT",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TOP",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "TOO",
+    "HOT",
+    "HOP",
+    "POT",
+    "TON",
+    "OPT",
+    "OOH"
+  ],
+  "entries": {
+    "PHOTON": {
+      "word": "PHOTON",
+      "pos": "n.",
+      "gloss": "a quantum of electromagnetic radiation",
+      "definition": "A quantum of electromagnetic radiation; an elementary particle that is its own antiparticle.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PHOTO": {
+      "word": "PHOTO",
+      "pos": "n.",
+      "gloss": "a representation of a person or scene in the form of a print or transparent slide or…",
+      "definition": "A representation of a person or scene in the form of a print or transparent slide or in digital format.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOOP": {
+      "word": "HOOP",
+      "pos": "n.",
+      "gloss": "a light curved skeleton to spread out a skirt",
+      "definition": "A light curved skeleton to spread out a skirt.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOON": {
+      "word": "TOON",
+      "pos": "n.",
+      "gloss": "a film made by photographing a series of cartoon drawings to give the illusion of…",
+      "definition": "A film made by photographing a series of cartoon drawings to give the illusion of movement when projected in rapid sequence.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HOOT": {
+      "word": "HOOT",
+      "pos": "n.",
+      "gloss": "a loud raucous cry",
+      "definition": "A loud raucous cry (as of an owl).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOP": {
+      "word": "TOP",
+      "pos": "n.",
+      "gloss": "the upper part of anything",
+      "definition": "The upper part of anything.",
+      "example": "The mower cuts off the tops of the grass.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOO": {
+      "word": "TOO",
+      "pos": "adv.",
+      "gloss": "to a degree exceeding normal or proper limits",
+      "definition": "To a degree exceeding normal or proper limits.",
+      "example": "Too big.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOT": {
+      "word": "HOT",
+      "pos": "adj.",
+      "gloss": "used of physical heat",
+      "definition": "Used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning.",
+      "example": "Hot stove.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOP": {
+      "word": "HOP",
+      "pos": "v.",
+      "gloss": "jump lightly",
+      "definition": "Jump lightly.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POT": {
+      "word": "POT",
+      "pos": "n.",
+      "gloss": "metal or earthenware cooking vessel that is usually round and deep",
+      "definition": "Metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TON": {
+      "word": "TON",
+      "pos": "n.",
+      "gloss": "a United States unit of weight equivalent to 2000 pounds",
+      "definition": "A United States unit of weight equivalent to 2000 pounds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OPT": {
+      "word": "OPT",
+      "pos": "v.",
+      "gloss": "select as an alternative over another",
+      "definition": "Select as an alternative over another.",
+      "example": "I always choose the fish over the meat courses in this restaurant.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OOH": {
+      "word": "OOH",
+      "pos": "v.",
+      "gloss": "express admiration and pleasure by uttering `ooh' or `aah'",
+      "definition": "Express admiration and pleasure by uttering `ooh' or `aah'.",
+      "example": "They oohed and aahed when they unwrapped the presents.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

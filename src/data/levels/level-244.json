@@ -1,0 +1,139 @@
+{
+  "id": "level-244",
+  "baseWord": "TILING",
+  "pool": [
+    "T",
+    "I",
+    "L",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "TILING",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "GLINT",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "LING",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TING",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "LINT",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "LIT",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "TIN",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "GIN",
+    "GILT"
+  ],
+  "entries": {
+    "TILING": {
+      "word": "TILING",
+      "pos": "n.",
+      "gloss": "the application of tiles to cover a surface",
+      "definition": "The application of tiles to cover a surface.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GLINT": {
+      "word": "GLINT",
+      "pos": "v.",
+      "gloss": "be shiny, as if wet",
+      "definition": "Be shiny, as if wet.",
+      "example": "His eyes were glistening.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LING": {
+      "word": "LING",
+      "pos": "n.",
+      "gloss": "water chestnut whose spiny fruit has two rather than 4 prongs",
+      "definition": "Water chestnut whose spiny fruit has two rather than 4 prongs.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TING": {
+      "word": "TING",
+      "pos": "n.",
+      "gloss": "a light clear metallic sound as of a small bell",
+      "definition": "A light clear metallic sound as of a small bell.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LINT": {
+      "word": "LINT",
+      "pos": "n.",
+      "gloss": "fine ravellings of cotton or linen fibers",
+      "definition": "Fine ravellings of cotton or linen fibers.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIT": {
+      "word": "LIT",
+      "pos": "adj.",
+      "gloss": "provided with artificial light",
+      "definition": "Provided with artificial light.",
+      "example": "Illuminated advertising.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIN": {
+      "word": "TIN",
+      "pos": "n.",
+      "gloss": "a silvery malleable metallic element that resists corrosion",
+      "definition": "A silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GILT": {
+      "word": "GILT",
+      "pos": "adj.",
+      "gloss": "having the deep slightly brownish color of gold",
+      "definition": "Having the deep slightly brownish color of gold.",
+      "example": "Long aureate (or golden) hair.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "level-127",
+  "baseWord": "GATOR",
+  "pool": [
+    "G",
+    "A",
+    "T",
+    "O",
+    "R"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "GATOR",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "GROAT",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "GOAT",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TARO",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "AGO",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ART",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TAG",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "RAT",
+    "ROT",
+    "TAR"
+  ],
+  "entries": {
+    "GATOR": {
+      "word": "GATOR",
+      "pos": "n.",
+      "gloss": "either of two amphibious reptiles related to crocodiles but with shorter broader snouts",
+      "definition": "Either of two amphibious reptiles related to crocodiles but with shorter broader snouts.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GROAT": {
+      "word": "GROAT",
+      "pos": "n.",
+      "gloss": "a former English silver coin worth four pennies",
+      "definition": "A former English silver coin worth four pennies.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GOAT": {
+      "word": "GOAT",
+      "pos": "n.",
+      "gloss": "any of numerous agile ruminants related to sheep but having a beard and straight horns",
+      "definition": "Any of numerous agile ruminants related to sheep but having a beard and straight horns.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TARO": {
+      "word": "TARO",
+      "pos": "n.",
+      "gloss": "edible starchy tuberous root of taro plants",
+      "definition": "Edible starchy tuberous root of taro plants.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AGO": {
+      "word": "AGO",
+      "pos": "adv.",
+      "gloss": "in the past",
+      "definition": "In the past.",
+      "example": "Long ago.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ART": {
+      "word": "ART",
+      "pos": "n.",
+      "gloss": "the products of human creativity",
+      "definition": "The products of human creativity; works of art collectively.",
+      "example": "An art exhibition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAG": {
+      "word": "TAG",
+      "pos": "v.",
+      "gloss": "attach a tag or label to",
+      "definition": "Attach a tag or label to.",
+      "example": "Label these bottles.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAT": {
+      "word": "RAT",
+      "pos": "n.",
+      "gloss": "any of various long-tailed rodents similar to but larger than a mouse",
+      "definition": "Any of various long-tailed rodents similar to but larger than a mouse.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROT": {
+      "word": "ROT",
+      "pos": "n.",
+      "gloss": "a state of decay usually accompanied by an offensive odor",
+      "definition": "A state of decay usually accompanied by an offensive odor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAR": {
+      "word": "TAR",
+      "pos": "n.",
+      "gloss": "any of various dark heavy viscid substances obtained as a residue",
+      "definition": "Any of various dark heavy viscid substances obtained as a residue.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

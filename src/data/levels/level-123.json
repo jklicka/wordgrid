@@ -1,0 +1,160 @@
+{
+  "id": "level-123",
+  "baseWord": "LOOTED",
+  "pool": [
+    "L",
+    "O",
+    "O",
+    "T",
+    "E",
+    "D"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "LOOTED",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "TOOL",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LOOT",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DOLE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "TOO",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "LOT",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "LET",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "OLD",
+    "TOE",
+    "DOT",
+    "DOE"
+  ],
+  "entries": {
+    "LOOTED": {
+      "word": "LOOTED",
+      "pos": "adj.",
+      "gloss": "wrongfully emptied or stripped of anything of value",
+      "definition": "Wrongfully emptied or stripped of anything of value.",
+      "example": "The robbers left the looted train.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOOL": {
+      "word": "TOOL",
+      "pos": "n.",
+      "gloss": "an implement used in the practice of a vocation",
+      "definition": "An implement used in the practice of a vocation.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOOT": {
+      "word": "LOOT",
+      "pos": "n.",
+      "gloss": "goods or money obtained illegally",
+      "definition": "Goods or money obtained illegally.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DOLE": {
+      "word": "DOLE",
+      "pos": "n.",
+      "gloss": "a share of money or food or clothing that has been charitably given",
+      "definition": "A share of money or food or clothing that has been charitably given.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOO": {
+      "word": "TOO",
+      "pos": "adv.",
+      "gloss": "to a degree exceeding normal or proper limits",
+      "definition": "To a degree exceeding normal or proper limits.",
+      "example": "Too big.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOT": {
+      "word": "LOT",
+      "pos": "n.",
+      "gloss": "a large number or amount or extent",
+      "definition": "(often followed by `of') a large number or amount or extent.",
+      "example": "A batch of letters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LET": {
+      "word": "LET",
+      "pos": "v.",
+      "gloss": "make it possible through a specific action or lack of action for something to happen",
+      "definition": "Make it possible through a specific action or lack of action for something to happen.",
+      "example": "This permits the water to rush in.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OLD": {
+      "word": "OLD",
+      "pos": "adj.",
+      "gloss": "having lived for a relatively long time or attained a specific age",
+      "definition": "(used especially of persons) having lived for a relatively long time or attained a specific age.",
+      "example": "His mother is very old.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOE": {
+      "word": "TOE",
+      "pos": "n.",
+      "gloss": "one of the digits of the foot",
+      "definition": "One of the digits of the foot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOT": {
+      "word": "DOT",
+      "pos": "n.",
+      "gloss": "a very small circular shape",
+      "definition": "A very small circular shape.",
+      "example": "A row of points.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOE": {
+      "word": "DOE",
+      "pos": "n.",
+      "gloss": "mature female of mammals of which the male is called `buck'",
+      "definition": "Mature female of mammals of which the male is called `buck'.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

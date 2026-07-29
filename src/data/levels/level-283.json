@@ -1,0 +1,148 @@
+{
+  "id": "level-283",
+  "baseWord": "VISAGE",
+  "pool": [
+    "V",
+    "I",
+    "S",
+    "A",
+    "G",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "VISAGE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "AEGIS",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "GIVE",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SAVE",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "VISA",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SAGE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "VASE",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "AGE",
+    "SEA",
+    "GAS"
+  ],
+  "entries": {
+    "VISAGE": {
+      "word": "VISAGE",
+      "pos": "n.",
+      "gloss": "the human face",
+      "definition": "The human face (`kisser' and `smiler' and `mug' are informal terms for `face' and `phiz' is British).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AEGIS": {
+      "word": "AEGIS",
+      "pos": "n.",
+      "gloss": "kindly endorsement and guidance",
+      "definition": "Kindly endorsement and guidance.",
+      "example": "The tournament was held under the auspices of the city council.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GIVE": {
+      "word": "GIVE",
+      "pos": "v.",
+      "gloss": "cause to have, in the abstract sense or physical sense",
+      "definition": "Cause to have, in the abstract sense or physical sense.",
+      "example": "She gave him a black eye.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAVE": {
+      "word": "SAVE",
+      "pos": "v.",
+      "gloss": "save from ruin, destruction, or harm",
+      "definition": "Save from ruin, destruction, or harm.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VISA": {
+      "word": "VISA",
+      "pos": "n.",
+      "gloss": "an endorsement made in a passport that allows the bearer to enter the country issuing it",
+      "definition": "An endorsement made in a passport that allows the bearer to enter the country issuing it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAGE": {
+      "word": "SAGE",
+      "pos": "n.",
+      "gloss": "a mentor in spiritual and philosophical topics who is renowned for profound wisdom",
+      "definition": "A mentor in spiritual and philosophical topics who is renowned for profound wisdom.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VASE": {
+      "word": "VASE",
+      "pos": "n.",
+      "gloss": "an open jar of glass or porcelain used as an ornament or to hold flowers",
+      "definition": "An open jar of glass or porcelain used as an ornament or to hold flowers.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AGE": {
+      "word": "AGE",
+      "pos": "n.",
+      "gloss": "how long something has existed",
+      "definition": "How long something has existed.",
+      "example": "It was replaced because of its age.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEA": {
+      "word": "SEA",
+      "pos": "n.",
+      "gloss": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "definition": "A division of an ocean or a large body of salt water partially enclosed by land.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAS": {
+      "word": "GAS",
+      "pos": "n.",
+      "gloss": "the state of matter distinguished from the solid and liquid states by",
+      "definition": "The state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

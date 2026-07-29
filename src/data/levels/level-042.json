@@ -1,0 +1,200 @@
+{
+  "id": "level-042",
+  "baseWord": "UNEASY",
+  "pool": [
+    "U",
+    "N",
+    "E",
+    "A",
+    "S",
+    "Y"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "UNEASY",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "EASY",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "YUAN",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SANE",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "ANUS",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ANY",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SAY",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "USE",
+    "YES",
+    "SEA",
+    "SUN",
+    "YEA",
+    "SUE",
+    "SEN",
+    "YEN"
+  ],
+  "entries": {
+    "UNEASY": {
+      "word": "UNEASY",
+      "pos": "adj.",
+      "gloss": "lacking a sense of security or affording no ease or reassurance",
+      "definition": "Lacking a sense of security or affording no ease or reassurance.",
+      "example": "Farmers were uneasy until rain finally came.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "EASY": {
+      "word": "EASY",
+      "pos": "adj.",
+      "gloss": "posing no difficulty",
+      "definition": "Posing no difficulty; requiring little effort.",
+      "example": "An easy job.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YUAN": {
+      "word": "YUAN",
+      "pos": "n.",
+      "gloss": "the basic unit of money in China",
+      "definition": "The basic unit of money in China.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SANE": {
+      "word": "SANE",
+      "pos": "adj.",
+      "gloss": "mentally healthy",
+      "definition": "Mentally healthy; free from mental disorder.",
+      "example": "Appears to be completely sane.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANUS": {
+      "word": "ANUS",
+      "pos": "n.",
+      "gloss": "the excretory opening at the end of the alimentary canal",
+      "definition": "The excretory opening at the end of the alimentary canal.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ANY": {
+      "word": "ANY",
+      "pos": "adj.",
+      "gloss": "one or some or every or all without specification",
+      "definition": "One or some or every or all without specification.",
+      "example": "Give me any peaches you don't want.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAY": {
+      "word": "SAY",
+      "pos": "v.",
+      "gloss": "express in words",
+      "definition": "Express in words.",
+      "example": "He said that he wanted to marry her.",
+      "band": "common",
+      "tier": "general"
+    },
+    "USE": {
+      "word": "USE",
+      "pos": "n.",
+      "gloss": "the act of using",
+      "definition": "The act of using.",
+      "example": "He warned against the use of narcotic drugs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YES": {
+      "word": "YES",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "I was hoping for a yes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEA": {
+      "word": "SEA",
+      "pos": "n.",
+      "gloss": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "definition": "A division of an ocean or a large body of salt water partially enclosed by land.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUN": {
+      "word": "SUN",
+      "pos": "n.",
+      "gloss": "the star that is the source of light and heat for the planets in the solar system",
+      "definition": "The star that is the source of light and heat for the planets in the solar system.",
+      "example": "The sun contains 99.85% of the mass in the solar system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YEA": {
+      "word": "YEA",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "The yeas have it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUE": {
+      "word": "SUE",
+      "pos": "v.",
+      "gloss": "institute legal proceedings against",
+      "definition": "Institute legal proceedings against; file a suit against.",
+      "example": "He was warned that the district attorney would process him.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEN": {
+      "word": "SEN",
+      "pos": "n.",
+      "gloss": "a fractional monetary unit of Japan and Indonesia and Cambodia",
+      "definition": "A fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YEN": {
+      "word": "YEN",
+      "pos": "n.",
+      "gloss": "a yearning for something or to do something",
+      "definition": "A yearning for something or to do something.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

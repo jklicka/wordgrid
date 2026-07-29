@@ -1,0 +1,142 @@
+{
+  "id": "level-291",
+  "baseWord": "MUSSEL",
+  "pool": [
+    "M",
+    "U",
+    "S",
+    "S",
+    "E",
+    "L"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "MUSSEL",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "LESS",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "MESS",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "MUSE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MULE",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SLUM",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "USE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "SUM",
+    "SUE"
+  ],
+  "entries": {
+    "MUSSEL": {
+      "word": "MUSSEL",
+      "pos": "n.",
+      "gloss": "black marine bivalves usually steamed in wine",
+      "definition": "Black marine bivalves usually steamed in wine.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LESS": {
+      "word": "LESS",
+      "pos": "adv.",
+      "gloss": "used to form the comparative of some adjectives and adverbs",
+      "definition": "Used to form the comparative of some adjectives and adverbs.",
+      "example": "Less interesting.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MESS": {
+      "word": "MESS",
+      "pos": "n.",
+      "gloss": "a state of confusion and disorderliness",
+      "definition": "A state of confusion and disorderliness.",
+      "example": "The house was a mess.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MUSE": {
+      "word": "MUSE",
+      "pos": "n.",
+      "gloss": "the source of an artist's inspiration",
+      "definition": "The source of an artist's inspiration.",
+      "example": "Euterpe was his muse.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MULE": {
+      "word": "MULE",
+      "pos": "n.",
+      "gloss": "hybrid offspring of a male donkey and a female horse",
+      "definition": "Hybrid offspring of a male donkey and a female horse; usually sterile.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SLUM": {
+      "word": "SLUM",
+      "pos": "n.",
+      "gloss": "a district of a city marked by poverty and inferior living conditions",
+      "definition": "A district of a city marked by poverty and inferior living conditions.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "USE": {
+      "word": "USE",
+      "pos": "n.",
+      "gloss": "the act of using",
+      "definition": "The act of using.",
+      "example": "He warned against the use of narcotic drugs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUM": {
+      "word": "SUM",
+      "pos": "n.",
+      "gloss": "a quantity of money",
+      "definition": "A quantity of money.",
+      "example": "He borrowed a large sum.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUE": {
+      "word": "SUE",
+      "pos": "v.",
+      "gloss": "institute legal proceedings against",
+      "definition": "Institute legal proceedings against; file a suit against.",
+      "example": "He was warned that the district attorney would process him.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

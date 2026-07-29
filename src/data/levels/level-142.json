@@ -1,0 +1,142 @@
+{
+  "id": "level-142",
+  "baseWord": "VACATE",
+  "pool": [
+    "V",
+    "A",
+    "C",
+    "A",
+    "T",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "VACATE",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "CAVEAT",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "CAVE",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "ACT",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "EAT",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "CAT",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TEA",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ACE",
+    "VET"
+  ],
+  "entries": {
+    "VACATE": {
+      "word": "VACATE",
+      "pos": "v.",
+      "gloss": "leave voluntarily",
+      "definition": "Leave (a job, post, or position) voluntarily.",
+      "example": "She vacated the position when she got pregnant.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAVEAT": {
+      "word": "CAVEAT",
+      "pos": "n.",
+      "gloss": "a warning against certain acts",
+      "definition": "A warning against certain acts.",
+      "example": "A caveat against unfair practices.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAVE": {
+      "word": "CAVE",
+      "pos": "n.",
+      "gloss": "a geological formation consisting of an underground enclosure with access from the…",
+      "definition": "A geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACT": {
+      "word": "ACT",
+      "pos": "v.",
+      "gloss": "perform an action, or work out or perform",
+      "definition": "Perform an action, or work out or perform (an action).",
+      "example": "Think before you act.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAT": {
+      "word": "EAT",
+      "pos": "v.",
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAT": {
+      "word": "CAT",
+      "pos": "n.",
+      "gloss": "feline mammal usually having thick soft fur and no ability to roar",
+      "definition": "Feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACE": {
+      "word": "ACE",
+      "pos": "n.",
+      "gloss": "the smallest whole number or a numeral representing this number",
+      "definition": "The smallest whole number or a numeral representing this number.",
+      "example": "He has the one but will need a two and three to go with it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VET": {
+      "word": "VET",
+      "pos": "n.",
+      "gloss": "a doctor who practices veterinary medicine",
+      "definition": "A doctor who practices veterinary medicine.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

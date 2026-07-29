@@ -1,0 +1,127 @@
+{
+  "id": "level-091",
+  "baseWord": "LATTE",
+  "pool": [
+    "L",
+    "A",
+    "T",
+    "T",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 5,
+  "placed": [
+    {
+      "word": "LATTE",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LATE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "TALE",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "LET",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TEA",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ALE",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "EAT",
+    "TEAL"
+  ],
+  "entries": {
+    "LATTE": {
+      "word": "LATTE",
+      "pos": "n.",
+      "gloss": "strong espresso coffee with a topping of frothed steamed milk",
+      "definition": "Strong espresso coffee with a topping of frothed steamed milk.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LATE": {
+      "word": "LATE",
+      "pos": "adj.",
+      "gloss": "being or occurring at an advanced period of time or after a usual or expected time",
+      "definition": "Being or occurring at an advanced period of time or after a usual or expected time.",
+      "example": "Late evening.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TALE": {
+      "word": "TALE",
+      "pos": "n.",
+      "gloss": "a message that tells the particulars of an act or occurrence or course of events",
+      "definition": "A message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program.",
+      "example": "His narrative was interesting.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LET": {
+      "word": "LET",
+      "pos": "v.",
+      "gloss": "make it possible through a specific action or lack of action for something to happen",
+      "definition": "Make it possible through a specific action or lack of action for something to happen.",
+      "example": "This permits the water to rush in.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALE": {
+      "word": "ALE",
+      "pos": "n.",
+      "gloss": "a general name for beer made with a top fermenting yeast",
+      "definition": "A general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAT": {
+      "word": "EAT",
+      "pos": "v.",
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEAL": {
+      "word": "TEAL",
+      "pos": "n.",
+      "gloss": "a blue-green color or pigment",
+      "definition": "A blue-green color or pigment.",
+      "example": "They painted it a light shade of bluish green.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

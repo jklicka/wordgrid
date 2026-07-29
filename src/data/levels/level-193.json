@@ -1,0 +1,128 @@
+{
+  "id": "level-193",
+  "baseWord": "APNEA",
+  "pool": [
+    "A",
+    "P",
+    "N",
+    "E",
+    "A"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "APNEA",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "PAEAN",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "NAPA",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "PANE",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "PAN",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PEN",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "ANA",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "NAP"
+  ],
+  "entries": {
+    "APNEA": {
+      "word": "APNEA",
+      "pos": "n.",
+      "gloss": "transient cessation of respiration",
+      "definition": "Transient cessation of respiration.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PAEAN": {
+      "word": "PAEAN",
+      "pos": "n.",
+      "gloss": "a formal expression of praise",
+      "definition": "A formal expression of praise.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NAPA": {
+      "word": "NAPA",
+      "pos": "n.",
+      "gloss": "plant with an elongated head of broad stalked leaves resembling celery",
+      "definition": "Plant with an elongated head of broad stalked leaves resembling celery; used as a vegetable in east Asia.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PANE": {
+      "word": "PANE",
+      "pos": "n.",
+      "gloss": "sheet glass cut in shapes for windows or doors",
+      "definition": "Sheet glass cut in shapes for windows or doors.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PAN": {
+      "word": "PAN",
+      "pos": "v.",
+      "gloss": "make a sweeping movement",
+      "definition": "Make a sweeping movement.",
+      "example": "The camera panned across the room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PEN": {
+      "word": "PEN",
+      "pos": "n.",
+      "gloss": "a writing implement with a point from which ink flows",
+      "definition": "A writing implement with a point from which ink flows.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANA": {
+      "word": "ANA",
+      "pos": "n.",
+      "gloss": "a collection of anecdotes about a person or place",
+      "definition": "A collection of anecdotes about a person or place.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NAP": {
+      "word": "NAP",
+      "pos": "n.",
+      "gloss": "a period of time spent sleeping",
+      "definition": "A period of time spent sleeping.",
+      "example": "He felt better after a little sleep.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

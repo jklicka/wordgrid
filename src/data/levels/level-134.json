@@ -1,0 +1,168 @@
+{
+  "id": "level-134",
+  "baseWord": "EDGING",
+  "pool": [
+    "E",
+    "D",
+    "G",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "EDGING",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "DEIGN",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "DING",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "DINE",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "END",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "EGG",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "GEN",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "DIE",
+    "DIG",
+    "DEN",
+    "GIG",
+    "GIN"
+  ],
+  "entries": {
+    "EDGING": {
+      "word": "EDGING",
+      "pos": "n.",
+      "gloss": "border consisting of anything placed on the edge to finish something",
+      "definition": "Border consisting of anything placed on the edge to finish something (such as a fringe on clothing or on a rug).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DEIGN": {
+      "word": "DEIGN",
+      "pos": "v.",
+      "gloss": "do something that one considers to be below one's dignity",
+      "definition": "Do something that one considers to be below one's dignity.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DING": {
+      "word": "DING",
+      "pos": "n.",
+      "gloss": "a ringing sound",
+      "definition": "A ringing sound.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DINE": {
+      "word": "DINE",
+      "pos": "v.",
+      "gloss": "have supper; eat dinner",
+      "definition": "Have supper; eat dinner.",
+      "example": "We often dine with friends in this restaurant.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "END": {
+      "word": "END",
+      "pos": "n.",
+      "gloss": "either extremity of something that has length",
+      "definition": "Either extremity of something that has length.",
+      "example": "The end of the pier.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EGG": {
+      "word": "EGG",
+      "pos": "n.",
+      "gloss": "animal reproductive body consisting of an ovum or embryo together with nutritive and…",
+      "definition": "Animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEN": {
+      "word": "GEN",
+      "pos": "n.",
+      "gloss": "informal term for information",
+      "definition": "Informal term for information.",
+      "example": "Give me the gen on your new line of computers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIE": {
+      "word": "DIE",
+      "pos": "v.",
+      "gloss": "pass from physical life and lose all bodily attributes and functions necessary to…",
+      "definition": "Pass from physical life and lose all bodily attributes and functions necessary to sustain life.",
+      "example": "She died from cancer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIG": {
+      "word": "DIG",
+      "pos": "v.",
+      "gloss": "turn up, loosen, or remove earth",
+      "definition": "Turn up, loosen, or remove earth.",
+      "example": "Dig we must.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEN": {
+      "word": "DEN",
+      "pos": "n.",
+      "gloss": "the habitation of wild animals",
+      "definition": "The habitation of wild animals.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIG": {
+      "word": "GIG",
+      "pos": "n.",
+      "gloss": "long and light rowing boat",
+      "definition": "Long and light rowing boat; especially for racing.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

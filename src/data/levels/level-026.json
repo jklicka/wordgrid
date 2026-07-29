@@ -1,0 +1,217 @@
+{
+  "id": "level-026",
+  "baseWord": "TARIFF",
+  "pool": [
+    "T",
+    "A",
+    "R",
+    "I",
+    "F",
+    "F"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "TARIFF",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "FAIR",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "RIFT",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "FIAT",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "FART",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "RAFT",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "RIFF",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "FAR",
+    "AIR",
+    "ART",
+    "FIT",
+    "FAT",
+    "RAT",
+    "IRA",
+    "TAR",
+    "FRAT",
+    "TIFF"
+  ],
+  "entries": {
+    "TARIFF": {
+      "word": "TARIFF",
+      "pos": "n.",
+      "gloss": "a government tax on imports or exports",
+      "definition": "A government tax on imports or exports.",
+      "example": "They signed a treaty to lower duties on trade between their countries.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FAIR": {
+      "word": "FAIR",
+      "pos": "adj.",
+      "gloss": "free from favoritism or self-interest or bias or deception",
+      "definition": "Free from favoritism or self-interest or bias or deception; conforming with established standards or rules.",
+      "example": "A fair referee.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIFT": {
+      "word": "RIFT",
+      "pos": "n.",
+      "gloss": "a gap between cloud masses",
+      "definition": "A gap between cloud masses.",
+      "example": "The sun shone through a rift in the clouds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FIAT": {
+      "word": "FIAT",
+      "pos": "n.",
+      "gloss": "a legally binding command or decision entered on the court record",
+      "definition": "A legally binding command or decision entered on the court record (as if issued by a court or judge).",
+      "example": "A friend in New Mexico said that the order caused no trouble out there.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FART": {
+      "word": "FART",
+      "pos": "n.",
+      "gloss": "a reflex that expels intestinal gas through the anus",
+      "definition": "A reflex that expels intestinal gas through the anus.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RAFT": {
+      "word": "RAFT",
+      "pos": "n.",
+      "gloss": "a flat float that can be used for transport or as a platform for swimmers",
+      "definition": "A flat float (usually made of logs or planks) that can be used for transport or as a platform for swimmers.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RIFF": {
+      "word": "RIFF",
+      "pos": "n.",
+      "gloss": "a jazz ostinato",
+      "definition": "A jazz ostinato; usually provides a background for a solo improvisation.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FAR": {
+      "word": "FAR",
+      "pos": "adv.",
+      "gloss": "to a considerable degree",
+      "definition": "To a considerable degree; very much.",
+      "example": "A far far better thing that I do.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIR": {
+      "word": "AIR",
+      "pos": "n.",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ART": {
+      "word": "ART",
+      "pos": "n.",
+      "gloss": "the products of human creativity",
+      "definition": "The products of human creativity; works of art collectively.",
+      "example": "An art exhibition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FIT": {
+      "word": "FIT",
+      "pos": "v.",
+      "gloss": "be agreeable or acceptable to",
+      "definition": "Be agreeable or acceptable to.",
+      "example": "This suits my needs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FAT": {
+      "word": "FAT",
+      "pos": "n.",
+      "gloss": "a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids",
+      "definition": "A soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides).",
+      "example": "Pizza has too much fat.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAT": {
+      "word": "RAT",
+      "pos": "n.",
+      "gloss": "any of various long-tailed rodents similar to but larger than a mouse",
+      "definition": "Any of various long-tailed rodents similar to but larger than a mouse.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IRA": {
+      "word": "IRA",
+      "pos": "n.",
+      "gloss": "belligerence aroused by a real or supposed wrong",
+      "definition": "Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAR": {
+      "word": "TAR",
+      "pos": "n.",
+      "gloss": "any of various dark heavy viscid substances obtained as a residue",
+      "definition": "Any of various dark heavy viscid substances obtained as a residue.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FRAT": {
+      "word": "FRAT",
+      "pos": "n.",
+      "gloss": "a social club for male undergraduates",
+      "definition": "A social club for male undergraduates.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TIFF": {
+      "word": "TIFF",
+      "pos": "n.",
+      "gloss": "a quarrel about petty points",
+      "definition": "A quarrel about petty points.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

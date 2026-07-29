@@ -1,0 +1,162 @@
+{
+  "id": "level-187",
+  "baseWord": "FEWEST",
+  "pool": [
+    "F",
+    "E",
+    "W",
+    "E",
+    "S",
+    "T"
+  ],
+  "rows": 7,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "FEWEST",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SWEET",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "WEST",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "STEW",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SEE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "FEW",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "SET",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "WET",
+    "FEE",
+    "WEE",
+    "TEE"
+  ],
+  "entries": {
+    "FEWEST": {
+      "word": "FEWEST",
+      "pos": "adj.",
+      "gloss": "quantifier meaning the smallest in number",
+      "definition": "(superlative of `few' used with count nouns and usually preceded by `the') quantifier meaning the smallest in number.",
+      "example": "The fewest birds in recent memory.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SWEET": {
+      "word": "SWEET",
+      "pos": "adj.",
+      "gloss": "having or denoting the characteristic taste of sugar",
+      "definition": "Having or denoting the characteristic taste of sugar.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WEST": {
+      "word": "WEST",
+      "pos": "n.",
+      "gloss": "the cardinal compass point that is a 270 degrees",
+      "definition": "The cardinal compass point that is a 270 degrees.",
+      "band": "common",
+      "tier": "general"
+    },
+    "STEW": {
+      "word": "STEW",
+      "pos": "n.",
+      "gloss": "agitation resulting from active worry",
+      "definition": "Agitation resulting from active worry.",
+      "example": "Don't get in a stew.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SEE": {
+      "word": "SEE",
+      "pos": "v.",
+      "gloss": "perceive by sight or have the power to perceive by sight",
+      "definition": "Perceive by sight or have the power to perceive by sight.",
+      "example": "You have to be a good observer to see all the details.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FEW": {
+      "word": "FEW",
+      "pos": "adj.",
+      "gloss": "a quantifier that can be used with count nouns and is often preceded by `a'",
+      "definition": "A quantifier that can be used with count nouns and is often preceded by `a'; a small but indefinite number.",
+      "example": "A few weeks ago.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SET": {
+      "word": "SET",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WET": {
+      "word": "WET",
+      "pos": "n.",
+      "gloss": "wetness caused by water",
+      "definition": "Wetness caused by water.",
+      "example": "Drops of wet gleamed on the window.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FEE": {
+      "word": "FEE",
+      "pos": "n.",
+      "gloss": "a fixed charge for a privilege or for professional services",
+      "definition": "A fixed charge for a privilege or for professional services.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WEE": {
+      "word": "WEE",
+      "pos": "adj.",
+      "gloss": "very small",
+      "definition": "(used informally) very small.",
+      "example": "A wee tot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEE": {
+      "word": "TEE",
+      "pos": "n.",
+      "gloss": "the starting place for each hole on a golf course",
+      "definition": "The starting place for each hole on a golf course.",
+      "example": "They were waiting on the first tee.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

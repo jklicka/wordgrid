@@ -1,0 +1,148 @@
+{
+  "id": "level-275",
+  "baseWord": "PONCHO",
+  "pool": [
+    "P",
+    "O",
+    "N",
+    "C",
+    "H",
+    "O"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "PONCHO",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "POOCH",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "CHOP",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "COOP",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "HOOP",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "COON",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "HOP",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "COP",
+    "CON",
+    "OOH"
+  ],
+  "entries": {
+    "PONCHO": {
+      "word": "PONCHO",
+      "pos": "n.",
+      "gloss": "a blanket-like cloak with a hole in the center for the head",
+      "definition": "A blanket-like cloak with a hole in the center for the head.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "POOCH": {
+      "word": "POOCH",
+      "pos": "v.",
+      "gloss": "round one's lips as if intending to kiss",
+      "definition": "Round one's lips as if intending to kiss.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CHOP": {
+      "word": "CHOP",
+      "pos": "v.",
+      "gloss": "cut into pieces",
+      "definition": "Cut into pieces.",
+      "example": "Chop wood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COOP": {
+      "word": "COOP",
+      "pos": "n.",
+      "gloss": "a farm building for housing poultry",
+      "definition": "A farm building for housing poultry.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HOOP": {
+      "word": "HOOP",
+      "pos": "n.",
+      "gloss": "a light curved skeleton to spread out a skirt",
+      "definition": "A light curved skeleton to spread out a skirt.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "COON": {
+      "word": "COON",
+      "pos": "n.",
+      "gloss": "an eccentric or undignified rustic",
+      "definition": "An eccentric or undignified rustic.",
+      "example": "I'll be a gone coon when the battle starts.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HOP": {
+      "word": "HOP",
+      "pos": "v.",
+      "gloss": "jump lightly",
+      "definition": "Jump lightly.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COP": {
+      "word": "COP",
+      "pos": "n.",
+      "gloss": "uncomplimentary terms for a policeman",
+      "definition": "Uncomplimentary terms for a policeman.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CON": {
+      "word": "CON",
+      "pos": "n.",
+      "gloss": "an argument opposed to a proposal",
+      "definition": "An argument opposed to a proposal.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OOH": {
+      "word": "OOH",
+      "pos": "v.",
+      "gloss": "express admiration and pleasure by uttering `ooh' or `aah'",
+      "definition": "Express admiration and pleasure by uttering `ooh' or `aah'.",
+      "example": "They oohed and aahed when they unwrapped the presents.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

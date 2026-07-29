@@ -1,0 +1,115 @@
+{
+  "id": "level-040",
+  "baseWord": "HOOPS",
+  "pool": [
+    "H",
+    "O",
+    "O",
+    "P",
+    "S"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "HOOPS",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SHOP",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "HOOP",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "HOPS",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "HOP",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "OOH",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "POSH"
+  ],
+  "entries": {
+    "HOOPS": {
+      "word": "HOOPS",
+      "pos": "n.",
+      "gloss": "a game played on a court by two opposing teams of 5 players",
+      "definition": "A game played on a court by two opposing teams of 5 players; points are scored by throwing the ball through an elevated horizontal hoop.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SHOP": {
+      "word": "SHOP",
+      "pos": "n.",
+      "gloss": "a mercantile establishment for the retail sale of goods or services",
+      "definition": "A mercantile establishment for the retail sale of goods or services.",
+      "example": "He bought it at a shop on Cape Cod.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOOP": {
+      "word": "HOOP",
+      "pos": "n.",
+      "gloss": "a light curved skeleton to spread out a skirt",
+      "definition": "A light curved skeleton to spread out a skirt.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HOPS": {
+      "word": "HOPS",
+      "pos": "n.",
+      "gloss": "twining perennials having cordate leaves and flowers arranged in conelike spikes",
+      "definition": "Twining perennials having cordate leaves and flowers arranged in conelike spikes; the dried flowers of this plant are used in brewing to add the characteristic bitter taste to beer.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HOP": {
+      "word": "HOP",
+      "pos": "v.",
+      "gloss": "jump lightly",
+      "definition": "Jump lightly.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OOH": {
+      "word": "OOH",
+      "pos": "v.",
+      "gloss": "express admiration and pleasure by uttering `ooh' or `aah'",
+      "definition": "Express admiration and pleasure by uttering `ooh' or `aah'.",
+      "example": "They oohed and aahed when they unwrapped the presents.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POSH": {
+      "word": "POSH",
+      "pos": "adj.",
+      "gloss": "elegant and fashionable",
+      "definition": "Elegant and fashionable.",
+      "example": "Classy clothes.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

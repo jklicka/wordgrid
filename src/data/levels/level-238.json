@@ -1,0 +1,152 @@
+{
+  "id": "level-238",
+  "baseWord": "HISSING",
+  "pool": [
+    "H",
+    "I",
+    "S",
+    "S",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "HISSING",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SIGN",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "SING",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SIGH",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SHIN",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "NIGH",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "HISS",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "SIN",
+    "GIN",
+    "SIS"
+  ],
+  "entries": {
+    "HISSING": {
+      "word": "HISSING",
+      "pos": "n.",
+      "gloss": "a fricative sound",
+      "definition": "A fricative sound (especially as an expression of disapproval).",
+      "example": "The performers could not be heard over the hissing of the audience.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SIGN": {
+      "word": "SIGN",
+      "pos": "n.",
+      "gloss": "a perceptible indication of something not immediately apparent",
+      "definition": "A perceptible indication of something not immediately apparent (as a visible clue that something has happened).",
+      "example": "He showed signs of strain.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SING": {
+      "word": "SING",
+      "pos": "v.",
+      "gloss": "deliver by singing",
+      "definition": "Deliver by singing.",
+      "example": "Sing Christmas carols.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIGH": {
+      "word": "SIGH",
+      "pos": "v.",
+      "gloss": "heave or utter a sigh",
+      "definition": "Heave or utter a sigh; breathe deeply and heavily.",
+      "example": "She sighed sadly.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SHIN": {
+      "word": "SHIN",
+      "pos": "n.",
+      "gloss": "the front part of the human leg between the knee and the ankle",
+      "definition": "The front part of the human leg between the knee and the ankle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NIGH": {
+      "word": "NIGH",
+      "pos": "adj.",
+      "gloss": "not far distant in time or space or degree or circumstances",
+      "definition": "Not far distant in time or space or degree or circumstances.",
+      "example": "Near neighbors.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HISS": {
+      "word": "HISS",
+      "pos": "v.",
+      "gloss": "make a sharp hissing sound, as if to show disapproval",
+      "definition": "Make a sharp hissing sound, as if to show disapproval.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SIN": {
+      "word": "SIN",
+      "pos": "n.",
+      "gloss": "estrangement from god",
+      "definition": "Estrangement from god.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIS": {
+      "word": "SIS",
+      "pos": "n.",
+      "gloss": "a female person who has the same parents as another person",
+      "definition": "A female person who has the same parents as another person.",
+      "example": "My sister married a musician.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

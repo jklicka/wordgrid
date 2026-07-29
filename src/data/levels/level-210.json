@@ -1,0 +1,161 @@
+{
+  "id": "level-210",
+  "baseWord": "OUTRUN",
+  "pool": [
+    "O",
+    "U",
+    "T",
+    "R",
+    "U",
+    "N"
+  ],
+  "rows": 7,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "OUTRUN",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TURN",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TOUR",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "TORN",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NOT",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "OUT",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "TON",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "RUN",
+    "NUT",
+    "ROT",
+    "ROUT"
+  ],
+  "entries": {
+    "OUTRUN": {
+      "word": "OUTRUN",
+      "pos": "v.",
+      "gloss": "run faster than",
+      "definition": "Run faster than.",
+      "example": "In this race, I managed to outran everybody else.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TURN": {
+      "word": "TURN",
+      "pos": "v.",
+      "gloss": "change orientation or direction, also in the abstract sense",
+      "definition": "Change orientation or direction, also in the abstract sense.",
+      "example": "Turn towards me.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOUR": {
+      "word": "TOUR",
+      "pos": "n.",
+      "gloss": "a journey or route all the way around a particular place or area",
+      "definition": "A journey or route all the way around a particular place or area.",
+      "example": "They took an extended tour of Europe.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TORN": {
+      "word": "TORN",
+      "pos": "adj.",
+      "gloss": "having edges that are jagged from injury",
+      "definition": "Having edges that are jagged from injury.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OUT": {
+      "word": "OUT",
+      "pos": "adj.",
+      "gloss": "not allowed to continue to bat or run",
+      "definition": "Not allowed to continue to bat or run.",
+      "example": "He was tagged out at second on a close play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TON": {
+      "word": "TON",
+      "pos": "n.",
+      "gloss": "a United States unit of weight equivalent to 2000 pounds",
+      "definition": "A United States unit of weight equivalent to 2000 pounds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUN": {
+      "word": "RUN",
+      "pos": "v.",
+      "gloss": "move fast by using one's feet, with one foot off the ground at any given time",
+      "definition": "Move fast by using one's feet, with one foot off the ground at any given time.",
+      "example": "Don't run--you'll be out of breath.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUT": {
+      "word": "NUT",
+      "pos": "n.",
+      "gloss": "usually large hard-shelled seed",
+      "definition": "Usually large hard-shelled seed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROT": {
+      "word": "ROT",
+      "pos": "n.",
+      "gloss": "a state of decay usually accompanied by an offensive odor",
+      "definition": "A state of decay usually accompanied by an offensive odor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROUT": {
+      "word": "ROUT",
+      "pos": "v.",
+      "gloss": "cause to flee",
+      "definition": "Cause to flee.",
+      "example": "Rout out the fighters from their caves.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

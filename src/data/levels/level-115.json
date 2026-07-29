@@ -1,0 +1,129 @@
+{
+  "id": "level-115",
+  "baseWord": "VOICING",
+  "pool": [
+    "V",
+    "O",
+    "I",
+    "C",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "VOICING",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ICING",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "IONIC",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "COIN",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "ICON",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "CON",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "GIN",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ION"
+  ],
+  "entries": {
+    "VOICING": {
+      "word": "VOICING",
+      "pos": "n.",
+      "gloss": "the act of adjusting an organ pipe so that it conforms to the standards of tone and…",
+      "definition": "The act of adjusting an organ pipe (or wind instrument) so that it conforms to the standards of tone and pitch and color.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ICING": {
+      "word": "ICING",
+      "pos": "n.",
+      "gloss": "the formation of frost or ice on a surface",
+      "definition": "The formation of frost or ice on a surface.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "IONIC": {
+      "word": "IONIC",
+      "pos": "adj.",
+      "gloss": "containing or involving or occurring in the form of ions",
+      "definition": "Containing or involving or occurring in the form of ions.",
+      "example": "Ionic charge.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "COIN": {
+      "word": "COIN",
+      "pos": "n.",
+      "gloss": "a flat metal piece used as money",
+      "definition": "A flat metal piece (usually a disc) used as money.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ICON": {
+      "word": "ICON",
+      "pos": "n.",
+      "gloss": "a graphic symbol that denotes a program or a command or a data file or a concept in a…",
+      "definition": "(computer science) a graphic symbol (usually a simple picture) that denotes a program or a command or a data file or a concept in a graphical user interface.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CON": {
+      "word": "CON",
+      "pos": "n.",
+      "gloss": "an argument opposed to a proposal",
+      "definition": "An argument opposed to a proposal.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ION": {
+      "word": "ION",
+      "pos": "n.",
+      "gloss": "a particle that is electrically charged",
+      "definition": "A particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

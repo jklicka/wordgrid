@@ -1,0 +1,217 @@
+{
+  "id": "level-170",
+  "baseWord": "SKILLET",
+  "pool": [
+    "S",
+    "K",
+    "I",
+    "L",
+    "L",
+    "E",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SKILLET",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "STILL",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SKILL",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "ISLET",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "LISLE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "STILE",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "LIKE",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "LET",
+    "SET",
+    "TELL",
+    "LIST",
+    "SITE",
+    "KILL",
+    "SELL",
+    "SIT",
+    "LIE",
+    "TILL"
+  ],
+  "entries": {
+    "SKILLET": {
+      "word": "SKILLET",
+      "pos": "n.",
+      "gloss": "a pan used for frying foods",
+      "definition": "A pan used for frying foods.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "STILL": {
+      "word": "STILL",
+      "pos": "adj.",
+      "gloss": "not in physical motion",
+      "definition": "Not in physical motion.",
+      "example": "The inertia of an object at rest.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SKILL": {
+      "word": "SKILL",
+      "pos": "n.",
+      "gloss": "an ability that has been acquired by training",
+      "definition": "An ability that has been acquired by training.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ISLET": {
+      "word": "ISLET",
+      "pos": "n.",
+      "gloss": "a small island",
+      "definition": "A small island.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LISLE": {
+      "word": "LISLE",
+      "pos": "n.",
+      "gloss": "a fabric woven with lisle thread",
+      "definition": "A fabric woven with lisle thread.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "STILE": {
+      "word": "STILE",
+      "pos": "n.",
+      "gloss": "an upright that is a member in a door or window frame",
+      "definition": "An upright that is a member in a door or window frame.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIKE": {
+      "word": "LIKE",
+      "pos": "v.",
+      "gloss": "prefer or wish to do something",
+      "definition": "Prefer or wish to do something.",
+      "example": "Do you care to try this dish?",
+      "band": "common",
+      "tier": "general"
+    },
+    "LET": {
+      "word": "LET",
+      "pos": "v.",
+      "gloss": "make it possible through a specific action or lack of action for something to happen",
+      "definition": "Make it possible through a specific action or lack of action for something to happen.",
+      "example": "This permits the water to rush in.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SET": {
+      "word": "SET",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TELL": {
+      "word": "TELL",
+      "pos": "v.",
+      "gloss": "express in words",
+      "definition": "Express in words.",
+      "example": "He said that he wanted to marry her.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIST": {
+      "word": "LIST",
+      "pos": "n.",
+      "gloss": "a database containing an ordered array of items",
+      "definition": "A database containing an ordered array of items (names or topics).",
+      "band": "common",
+      "tier": "general"
+    },
+    "SITE": {
+      "word": "SITE",
+      "pos": "n.",
+      "gloss": "the piece of land on which something is located",
+      "definition": "The piece of land on which something is located (or is to be located).",
+      "example": "A good site for the school.",
+      "band": "common",
+      "tier": "general"
+    },
+    "KILL": {
+      "word": "KILL",
+      "pos": "v.",
+      "gloss": "cause to die",
+      "definition": "Cause to die; put to death, usually intentionally or knowingly.",
+      "example": "This man killed several people when he tried to rob a bank.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SELL": {
+      "word": "SELL",
+      "pos": "v.",
+      "gloss": "exchange or deliver for money or its equivalent",
+      "definition": "Exchange or deliver for money or its equivalent.",
+      "example": "He sold his house in January.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIT": {
+      "word": "SIT",
+      "pos": "v.",
+      "gloss": "be seated",
+      "definition": "Be seated.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIE": {
+      "word": "LIE",
+      "pos": "v.",
+      "gloss": "be located or situated somewhere",
+      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TILL": {
+      "word": "TILL",
+      "pos": "n.",
+      "gloss": "unstratified soil deposited by a glacier",
+      "definition": "Unstratified soil deposited by a glacier; consists of sand and clay and gravel and boulders mixed together.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

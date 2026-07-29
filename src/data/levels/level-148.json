@@ -1,0 +1,151 @@
+{
+  "id": "level-148",
+  "baseWord": "HICKORY",
+  "pool": [
+    "H",
+    "I",
+    "C",
+    "K",
+    "O",
+    "R",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "HICKORY",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ROCKY",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "CHOIR",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "CORKY",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "RICH",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "RICK",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CORK",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ROCK",
+    "CRY",
+    "CHI"
+  ],
+  "entries": {
+    "HICKORY": {
+      "word": "HICKORY",
+      "pos": "n.",
+      "gloss": "valuable tough heavy hardwood from various hickory trees",
+      "definition": "Valuable tough heavy hardwood from various hickory trees.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ROCKY": {
+      "word": "ROCKY",
+      "pos": "adj.",
+      "gloss": "abounding in rocks or stones",
+      "definition": "Abounding in rocks or stones.",
+      "example": "Rocky fields.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CHOIR": {
+      "word": "CHOIR",
+      "pos": "n.",
+      "gloss": "a chorus that sings as part of a religious ceremony",
+      "definition": "A chorus that sings as part of a religious ceremony.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CORKY": {
+      "word": "CORKY",
+      "pos": "adj.",
+      "gloss": "tainted in flavor by a cork containing excess tannin",
+      "definition": "(of wine) tainted in flavor by a cork containing excess tannin.",
+      "example": "A corked port.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RICH": {
+      "word": "RICH",
+      "pos": "adj.",
+      "gloss": "possessing material wealth",
+      "definition": "Possessing material wealth.",
+      "example": "Her father is extremely rich.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RICK": {
+      "word": "RICK",
+      "pos": "n.",
+      "gloss": "a painful muscle spasm especially in the neck or back",
+      "definition": "A painful muscle spasm especially in the neck or back (`rick' and `wrick' are British).",
+      "band": "common",
+      "tier": "general"
+    },
+    "CORK": {
+      "word": "CORK",
+      "pos": "n.",
+      "gloss": "outer bark of the cork oak",
+      "definition": "Outer bark of the cork oak; used for stoppers for bottles etc.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROCK": {
+      "word": "ROCK",
+      "pos": "n.",
+      "gloss": "a lump or mass of hard consolidated mineral matter",
+      "definition": "A lump or mass of hard consolidated mineral matter.",
+      "example": "He threw a rock at me.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CRY": {
+      "word": "CRY",
+      "pos": "n.",
+      "gloss": "a loud utterance",
+      "definition": "A loud utterance; often in protest or opposition.",
+      "example": "The speaker was interrupted by loud cries from the rear of the audience.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CHI": {
+      "word": "CHI",
+      "pos": "n.",
+      "gloss": "the circulating life energy that in Chinese philosophy is thought to be inherent in…",
+      "definition": "The circulating life energy that in Chinese philosophy is thought to be inherent in all things; in traditional Chinese medicine the balance of negative and positive forms in the body is believed to be essential for good health.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

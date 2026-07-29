@@ -1,0 +1,209 @@
+{
+  "id": "level-292",
+  "baseWord": "WOOLLEN",
+  "pool": [
+    "W",
+    "O",
+    "O",
+    "L",
+    "L",
+    "E",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "WOOLLEN",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "WOOLEN",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "WELL",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "WOOL",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "LONE",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "ONE",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "NEW",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "NOW",
+    "OWN",
+    "LOW",
+    "WON",
+    "OWE",
+    "NEO",
+    "OWL",
+    "WOO",
+    "LOON"
+  ],
+  "entries": {
+    "WOOLLEN": {
+      "word": "WOOLLEN",
+      "pos": "n.",
+      "gloss": "a fabric made from the hair of sheep",
+      "definition": "A fabric made from the hair of sheep.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WOOLEN": {
+      "word": "WOOLEN",
+      "pos": "n.",
+      "gloss": "a fabric made from the hair of sheep",
+      "definition": "A fabric made from the hair of sheep.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WELL": {
+      "word": "WELL",
+      "pos": "adv.",
+      "gloss": "in a good or proper or satisfactory manner or to a high standard",
+      "definition": "(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well').",
+      "example": "The children behaved well.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WOOL": {
+      "word": "WOOL",
+      "pos": "n.",
+      "gloss": "a fabric made from the hair of sheep",
+      "definition": "A fabric made from the hair of sheep.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LONE": {
+      "word": "LONE",
+      "pos": "adj.",
+      "gloss": "lacking companions or companionship",
+      "definition": "Lacking companions or companionship.",
+      "example": "He was alone when we met him.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ONE": {
+      "word": "ONE",
+      "pos": "adj.",
+      "gloss": "used of a single unit or thing",
+      "definition": "Used of a single unit or thing; not two or more.",
+      "example": "`ane' is Scottish.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NEW": {
+      "word": "NEW",
+      "pos": "adj.",
+      "gloss": "not of long duration",
+      "definition": "Not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered.",
+      "example": "A new law.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOW": {
+      "word": "NOW",
+      "pos": "adv.",
+      "gloss": "in the historical present",
+      "definition": "In the historical present; at this point in the narration of a series of past events.",
+      "example": "President Kennedy now calls in the National Guard.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OWN": {
+      "word": "OWN",
+      "pos": "v.",
+      "gloss": "have ownership or possession of",
+      "definition": "Have ownership or possession of.",
+      "example": "He owns three houses in Florida.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOW": {
+      "word": "LOW",
+      "pos": "adj.",
+      "gloss": "less than normal in degree or intensity or amount",
+      "definition": "Less than normal in degree or intensity or amount.",
+      "example": "Low prices.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WON": {
+      "word": "WON",
+      "pos": "n.",
+      "gloss": "the basic unit of money in South Korea",
+      "definition": "The basic unit of money in South Korea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OWE": {
+      "word": "OWE",
+      "pos": "v.",
+      "gloss": "be obliged to pay or repay",
+      "definition": "Be obliged to pay or repay.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NEO": {
+      "word": "NEO",
+      "pos": "adj.",
+      "gloss": "recent or new",
+      "definition": "(used as a combining form) recent or new.",
+      "example": "`neo' is a combining form in words like `neocolonialism'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OWL": {
+      "word": "OWL",
+      "pos": "n.",
+      "gloss": "nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes",
+      "definition": "Nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WOO": {
+      "word": "WOO",
+      "pos": "v.",
+      "gloss": "seek someone's favor",
+      "definition": "Seek someone's favor.",
+      "example": "China is wooing Russia.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOON": {
+      "word": "LOON",
+      "pos": "n.",
+      "gloss": "a worthless lazy fellow",
+      "definition": "A worthless lazy fellow.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

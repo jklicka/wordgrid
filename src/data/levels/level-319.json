@@ -1,0 +1,161 @@
+{
+  "id": "level-319",
+  "baseWord": "HAUGHTY",
+  "pool": [
+    "H",
+    "A",
+    "U",
+    "G",
+    "H",
+    "T",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "HAUGHTY",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "AUGHT",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "THUG",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "GUY",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "GAY",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "HAT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TAG",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "HUG",
+    "GUT",
+    "HAY",
+    "HUT"
+  ],
+  "entries": {
+    "HAUGHTY": {
+      "word": "HAUGHTY",
+      "pos": "adj.",
+      "gloss": "having or showing arrogant superiority to and disdain of those one views as unworthy",
+      "definition": "Having or showing arrogant superiority to and disdain of those one views as unworthy.",
+      "example": "Some economists are disdainful of their colleagues in other social disciplines.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AUGHT": {
+      "word": "AUGHT",
+      "pos": "n.",
+      "gloss": "a quantity of no importance",
+      "definition": "A quantity of no importance.",
+      "example": "It looked like nothing I had ever seen before.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "THUG": {
+      "word": "THUG",
+      "pos": "n.",
+      "gloss": "an aggressive and violent young criminal",
+      "definition": "An aggressive and violent young criminal.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GUY": {
+      "word": "GUY",
+      "pos": "n.",
+      "gloss": "an informal term for a youth or man",
+      "definition": "An informal term for a youth or man.",
+      "example": "A nice guy.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAY": {
+      "word": "GAY",
+      "pos": "adj.",
+      "gloss": "bright and pleasant",
+      "definition": "Bright and pleasant; promoting a feeling of cheer.",
+      "example": "A cheery hello.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAT": {
+      "word": "HAT",
+      "pos": "n.",
+      "gloss": "headdress that protects the head from bad weather",
+      "definition": "Headdress that protects the head from bad weather; has shaped crown and usually a brim.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAG": {
+      "word": "TAG",
+      "pos": "v.",
+      "gloss": "attach a tag or label to",
+      "definition": "Attach a tag or label to.",
+      "example": "Label these bottles.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HUG": {
+      "word": "HUG",
+      "pos": "v.",
+      "gloss": "hold tightly in your arms, usually with fondness",
+      "definition": "Hold (someone) tightly in your arms, usually with fondness.",
+      "example": "Hug me, please.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUT": {
+      "word": "GUT",
+      "pos": "n.",
+      "gloss": "the part of the alimentary canal between the stomach and the anus",
+      "definition": "The part of the alimentary canal between the stomach and the anus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAY": {
+      "word": "HAY",
+      "pos": "n.",
+      "gloss": "grass mowed and cured for use as fodder",
+      "definition": "Grass mowed and cured for use as fodder.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HUT": {
+      "word": "HUT",
+      "pos": "n.",
+      "gloss": "temporary military shelter",
+      "definition": "Temporary military shelter.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

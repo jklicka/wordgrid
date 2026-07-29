@@ -1,0 +1,155 @@
+{
+  "id": "level-231",
+  "baseWord": "GAUNT",
+  "pool": [
+    "G",
+    "A",
+    "U",
+    "N",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "GAUNT",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "AUNT",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TUNA",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "GUN",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "NUT",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "GUT",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TAN",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "TAG",
+    "ANT",
+    "TANG",
+    "TUNG"
+  ],
+  "entries": {
+    "GAUNT": {
+      "word": "GAUNT",
+      "pos": "adj.",
+      "gloss": "very thin especially from disease or hunger or cold",
+      "definition": "Very thin especially from disease or hunger or cold.",
+      "example": "A nightmare population of gaunt men and skeletal boys.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AUNT": {
+      "word": "AUNT",
+      "pos": "n.",
+      "gloss": "the sister of your father or mother",
+      "definition": "The sister of your father or mother; the wife of your uncle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TUNA": {
+      "word": "TUNA",
+      "pos": "n.",
+      "gloss": "tropical American prickly pear of Jamaica",
+      "definition": "Tropical American prickly pear of Jamaica.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUN": {
+      "word": "GUN",
+      "pos": "n.",
+      "gloss": "a weapon that discharges a missile at high velocity",
+      "definition": "A weapon that discharges a missile at high velocity (especially from a metal tube or barrel).",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUT": {
+      "word": "NUT",
+      "pos": "n.",
+      "gloss": "usually large hard-shelled seed",
+      "definition": "Usually large hard-shelled seed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUT": {
+      "word": "GUT",
+      "pos": "n.",
+      "gloss": "the part of the alimentary canal between the stomach and the anus",
+      "definition": "The part of the alimentary canal between the stomach and the anus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAG": {
+      "word": "TAG",
+      "pos": "v.",
+      "gloss": "attach a tag or label to",
+      "definition": "Attach a tag or label to.",
+      "example": "Label these bottles.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANT": {
+      "word": "ANT",
+      "pos": "n.",
+      "gloss": "social insect living in organized colonies",
+      "definition": "Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TANG": {
+      "word": "TANG",
+      "pos": "n.",
+      "gloss": "a tart spicy quality",
+      "definition": "A tart spicy quality.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TUNG": {
+      "word": "TUNG",
+      "pos": "n.",
+      "gloss": "Chinese tree bearing seeds that yield tung oil",
+      "definition": "Chinese tree bearing seeds that yield tung oil.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

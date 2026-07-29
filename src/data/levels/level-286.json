@@ -1,0 +1,130 @@
+{
+  "id": "level-286",
+  "baseWord": "SOJOURN",
+  "pool": [
+    "S",
+    "O",
+    "J",
+    "O",
+    "U",
+    "R",
+    "N"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SOJOURN",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SOON",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SOUR",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "NOUS",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "ONUS",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "RUN",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SON",
+    "SUN"
+  ],
+  "entries": {
+    "SOJOURN": {
+      "word": "SOJOURN",
+      "pos": "n.",
+      "gloss": "a temporary stay",
+      "definition": "A temporary stay (e.g., as a guest).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SOON": {
+      "word": "SOON",
+      "pos": "adv.",
+      "gloss": "in the near future",
+      "definition": "In the near future.",
+      "example": "The doctor will soon be here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOUR": {
+      "word": "SOUR",
+      "pos": "v.",
+      "gloss": "go sour or spoil",
+      "definition": "Go sour or spoil.",
+      "example": "The milk has soured.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOUS": {
+      "word": "NOUS",
+      "pos": "n.",
+      "gloss": "common sense",
+      "definition": "Common sense.",
+      "example": "She has great social nous.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ONUS": {
+      "word": "ONUS",
+      "pos": "n.",
+      "gloss": "an onerous or difficult concern",
+      "definition": "An onerous or difficult concern.",
+      "example": "The burden of responsibility.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RUN": {
+      "word": "RUN",
+      "pos": "v.",
+      "gloss": "move fast by using one's feet, with one foot off the ground at any given time",
+      "definition": "Move fast by using one's feet, with one foot off the ground at any given time.",
+      "example": "Don't run--you'll be out of breath.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUN": {
+      "word": "SUN",
+      "pos": "n.",
+      "gloss": "the star that is the source of light and heat for the planets in the solar system",
+      "definition": "The star that is the source of light and heat for the planets in the solar system.",
+      "example": "The sun contains 99.85% of the mass in the solar system.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "id": "level-386",
+  "baseWord": "TROIKA",
+  "pool": [
+    "T",
+    "R",
+    "O",
+    "I",
+    "K",
+    "A"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "TROIKA",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "RATIO",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "RIOT",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TRIO",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "IOTA",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "TARO",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "AIR",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ART",
+    "KIT",
+    "OAK",
+    "RAT",
+    "IRA",
+    "ARK",
+    "ROT",
+    "KAT",
+    "TAR"
+  ],
+  "entries": {
+    "TROIKA": {
+      "word": "TROIKA",
+      "pos": "n.",
+      "gloss": "a Russian carriage pulled by three horses abreast",
+      "definition": "A Russian carriage pulled by three horses abreast.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RATIO": {
+      "word": "RATIO",
+      "pos": "n.",
+      "gloss": "the relative magnitudes of two quantities",
+      "definition": "The relative magnitudes of two quantities (usually expressed as a quotient).",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIOT": {
+      "word": "RIOT",
+      "pos": "n.",
+      "gloss": "a public act of violence by an unruly mob",
+      "definition": "A public act of violence by an unruly mob.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TRIO": {
+      "word": "TRIO",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of one and one and one",
+      "definition": "The cardinal number that is the sum of one and one and one.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IOTA": {
+      "word": "IOTA",
+      "pos": "n.",
+      "gloss": "a tiny or scarcely detectable amount",
+      "definition": "A tiny or scarcely detectable amount.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TARO": {
+      "word": "TARO",
+      "pos": "n.",
+      "gloss": "edible starchy tuberous root of taro plants",
+      "definition": "Edible starchy tuberous root of taro plants.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AIR": {
+      "word": "AIR",
+      "pos": "n.",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ART": {
+      "word": "ART",
+      "pos": "n.",
+      "gloss": "the products of human creativity",
+      "definition": "The products of human creativity; works of art collectively.",
+      "example": "An art exhibition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "KIT": {
+      "word": "KIT",
+      "pos": "n.",
+      "gloss": "a case for containing a set of articles",
+      "definition": "A case for containing a set of articles.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OAK": {
+      "word": "OAK",
+      "pos": "n.",
+      "gloss": "the hard durable wood of any oak",
+      "definition": "The hard durable wood of any oak; used especially for furniture and flooring.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAT": {
+      "word": "RAT",
+      "pos": "n.",
+      "gloss": "any of various long-tailed rodents similar to but larger than a mouse",
+      "definition": "Any of various long-tailed rodents similar to but larger than a mouse.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IRA": {
+      "word": "IRA",
+      "pos": "n.",
+      "gloss": "belligerence aroused by a real or supposed wrong",
+      "definition": "Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARK": {
+      "word": "ARK",
+      "pos": "n.",
+      "gloss": "a boat built by Noah to save his family and animals from the flood",
+      "definition": "A boat built by Noah to save his family and animals from the flood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROT": {
+      "word": "ROT",
+      "pos": "n.",
+      "gloss": "a state of decay usually accompanied by an offensive odor",
+      "definition": "A state of decay usually accompanied by an offensive odor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "KAT": {
+      "word": "KAT",
+      "pos": "n.",
+      "gloss": "the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea",
+      "definition": "The leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea; has the effect of a euphoric stimulant.",
+      "example": "In Yemen kat is used daily by 85% of adults.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAR": {
+      "word": "TAR",
+      "pos": "n.",
+      "gloss": "any of various dark heavy viscid substances obtained as a residue",
+      "definition": "Any of various dark heavy viscid substances obtained as a residue.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

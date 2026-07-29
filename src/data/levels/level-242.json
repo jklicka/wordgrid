@@ -1,0 +1,171 @@
+{
+  "id": "level-242",
+  "baseWord": "PRAWN",
+  "pool": [
+    "P",
+    "R",
+    "A",
+    "W",
+    "N"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "PRAWN",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "WRAP",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "WARN",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "WARP",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "PAWN",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "WAR",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PAN",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "RAW",
+    "PAR",
+    "RAP",
+    "NAP",
+    "WAN"
+  ],
+  "entries": {
+    "PRAWN": {
+      "word": "PRAWN",
+      "pos": "n.",
+      "gloss": "any of various edible decapod crustaceans",
+      "definition": "Any of various edible decapod crustaceans.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WRAP": {
+      "word": "WRAP",
+      "pos": "v.",
+      "gloss": "arrange or fold as a cover or protection",
+      "definition": "Arrange or fold as a cover or protection.",
+      "example": "Wrap the baby before taking her out.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WARN": {
+      "word": "WARN",
+      "pos": "v.",
+      "gloss": "notify of danger, potential harm, or risk",
+      "definition": "Notify of danger, potential harm, or risk.",
+      "example": "The director warned him that he might be fired.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WARP": {
+      "word": "WARP",
+      "pos": "v.",
+      "gloss": "make false by mutilation or addition",
+      "definition": "Make false by mutilation or addition; as of a message or story.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAWN": {
+      "word": "PAWN",
+      "pos": "n.",
+      "gloss": "an article deposited as security",
+      "definition": "An article deposited as security.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WAR": {
+      "word": "WAR",
+      "pos": "n.",
+      "gloss": "the waging of armed conflict against an enemy",
+      "definition": "The waging of armed conflict against an enemy.",
+      "example": "Thousands of people were killed in the war.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAN": {
+      "word": "PAN",
+      "pos": "v.",
+      "gloss": "make a sweeping movement",
+      "definition": "Make a sweeping movement.",
+      "example": "The camera panned across the room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAW": {
+      "word": "RAW",
+      "pos": "adj.",
+      "gloss": "being unprocessed or manufactured using only simple or minimal processes",
+      "definition": "(used especially of commodities) being unprocessed or manufactured using only simple or minimal processes.",
+      "example": "Natural yogurt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAR": {
+      "word": "PAR",
+      "pos": "n.",
+      "gloss": "the standard number of strokes set for each hole on a golf course, or for the entire…",
+      "definition": "(golf) the standard number of strokes set for each hole on a golf course, or for the entire course.",
+      "example": "A par-5 hole.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAP": {
+      "word": "RAP",
+      "pos": "n.",
+      "gloss": "a reproach for some lapse or misdeed",
+      "definition": "A reproach for some lapse or misdeed.",
+      "example": "He took the blame for it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NAP": {
+      "word": "NAP",
+      "pos": "n.",
+      "gloss": "a period of time spent sleeping",
+      "definition": "A period of time spent sleeping.",
+      "example": "He felt better after a little sleep.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WAN": {
+      "word": "WAN",
+      "pos": "adj.",
+      "gloss": "lacking in intensity or brightness",
+      "definition": "(of light) lacking in intensity or brightness; dim or feeble.",
+      "example": "The pale light of a half moon.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

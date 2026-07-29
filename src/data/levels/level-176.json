@@ -1,0 +1,148 @@
+{
+  "id": "level-176",
+  "baseWord": "NOMAD",
+  "pool": [
+    "N",
+    "O",
+    "M",
+    "A",
+    "D"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "NOMAD",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MONAD",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "DAMN",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "MOAN",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "MAN",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "MAD",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DON",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "DAM",
+    "MOD",
+    "NOD"
+  ],
+  "entries": {
+    "NOMAD": {
+      "word": "NOMAD",
+      "pos": "n.",
+      "gloss": "a member of a people who have no permanent home but move about according to the seasons",
+      "definition": "A member of a people who have no permanent home but move about according to the seasons.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MONAD": {
+      "word": "MONAD",
+      "pos": "n.",
+      "gloss": "an atom having a valence of one",
+      "definition": "(chemistry) an atom having a valence of one.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DAMN": {
+      "word": "DAMN",
+      "pos": "adj.",
+      "gloss": "used as expletives",
+      "definition": "Used as expletives.",
+      "example": "Oh, damn (or goddamn)!",
+      "band": "common",
+      "tier": "general"
+    },
+    "MOAN": {
+      "word": "MOAN",
+      "pos": "n.",
+      "gloss": "an utterance expressing pain or disapproval",
+      "definition": "An utterance expressing pain or disapproval.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAN": {
+      "word": "MAN",
+      "pos": "n.",
+      "gloss": "an adult person who is male",
+      "definition": "An adult person who is male (as opposed to a woman).",
+      "example": "There were two women and six men on the bus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAD": {
+      "word": "MAD",
+      "pos": "adj.",
+      "gloss": "roused to anger",
+      "definition": "Roused to anger.",
+      "example": "Stayed huffy a good while\"- Mark Twain.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DON": {
+      "word": "DON",
+      "pos": "n.",
+      "gloss": "teacher at a university or college",
+      "definition": "Teacher at a university or college (especially at Cambridge or Oxford).",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAM": {
+      "word": "DAM",
+      "pos": "n.",
+      "gloss": "a barrier constructed to contain the flow of water or to keep out the sea",
+      "definition": "A barrier constructed to contain the flow of water or to keep out the sea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MOD": {
+      "word": "MOD",
+      "pos": "n.",
+      "gloss": "a British teenager or young adult in the 1960s",
+      "definition": "A British teenager or young adult in the 1960s; noted for their clothes consciousness and opposition to the rockers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOD": {
+      "word": "NOD",
+      "pos": "v.",
+      "gloss": "express or signify by nodding",
+      "definition": "Express or signify by nodding.",
+      "example": "He nodded his approval.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

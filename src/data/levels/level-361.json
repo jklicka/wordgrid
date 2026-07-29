@@ -1,0 +1,138 @@
+{
+  "id": "level-361",
+  "baseWord": "FUTON",
+  "pool": [
+    "F",
+    "U",
+    "T",
+    "O",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "FUTON",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "FOUNT",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "FONT",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "TOFU",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "NOT",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "OUT",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TON",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "FUN",
+    "NUT"
+  ],
+  "entries": {
+    "FUTON": {
+      "word": "FUTON",
+      "pos": "n.",
+      "gloss": "mattress consisting of a pad of cotton batting that is used for sleeping on the floor…",
+      "definition": "Mattress consisting of a pad of cotton batting that is used for sleeping on the floor or on a raised frame.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FOUNT": {
+      "word": "FOUNT",
+      "pos": "n.",
+      "gloss": "a specific size and style of type within a type family",
+      "definition": "A specific size and style of type within a type family.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FONT": {
+      "word": "FONT",
+      "pos": "n.",
+      "gloss": "a specific size and style of type within a type family",
+      "definition": "A specific size and style of type within a type family.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOFU": {
+      "word": "TOFU",
+      "pos": "n.",
+      "gloss": "cheeselike food made of curdled soybean milk",
+      "definition": "Cheeselike food made of curdled soybean milk.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OUT": {
+      "word": "OUT",
+      "pos": "adj.",
+      "gloss": "not allowed to continue to bat or run",
+      "definition": "Not allowed to continue to bat or run.",
+      "example": "He was tagged out at second on a close play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TON": {
+      "word": "TON",
+      "pos": "n.",
+      "gloss": "a United States unit of weight equivalent to 2000 pounds",
+      "definition": "A United States unit of weight equivalent to 2000 pounds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FUN": {
+      "word": "FUN",
+      "pos": "n.",
+      "gloss": "activities that are enjoyable or amusing",
+      "definition": "Activities that are enjoyable or amusing.",
+      "example": "I do it for the fun of it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUT": {
+      "word": "NUT",
+      "pos": "n.",
+      "gloss": "usually large hard-shelled seed",
+      "definition": "Usually large hard-shelled seed.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

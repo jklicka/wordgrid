@@ -1,0 +1,169 @@
+{
+  "id": "level-313",
+  "baseWord": "GODDAM",
+  "pool": [
+    "G",
+    "O",
+    "D",
+    "D",
+    "A",
+    "M"
+  ],
+  "rows": 7,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "GODDAM",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DOGMA",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "GOD",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "AGO",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "DOG",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "ADD",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "DAD",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "MAD",
+    "ODD",
+    "DAM",
+    "MOD",
+    "MAG"
+  ],
+  "entries": {
+    "GODDAM": {
+      "word": "GODDAM",
+      "pos": "adj.",
+      "gloss": "expletives used informally as intensifiers",
+      "definition": "Expletives used informally as intensifiers.",
+      "example": "He's a blasted idiot.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DOGMA": {
+      "word": "DOGMA",
+      "pos": "n.",
+      "gloss": "a religious doctrine that is proclaimed as true without proof",
+      "definition": "A religious doctrine that is proclaimed as true without proof.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GOD": {
+      "word": "GOD",
+      "pos": "n.",
+      "gloss": "any supernatural being worshipped as controlling some part of the world or some aspect…",
+      "definition": "Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AGO": {
+      "word": "AGO",
+      "pos": "adv.",
+      "gloss": "in the past",
+      "definition": "In the past.",
+      "example": "Long ago.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOG": {
+      "word": "DOG",
+      "pos": "n.",
+      "gloss": "a member of the genus Canis that has been domesticated by man since prehistoric times",
+      "definition": "A member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds.",
+      "example": "The dog barked all night.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ADD": {
+      "word": "ADD",
+      "pos": "v.",
+      "gloss": "make an addition",
+      "definition": "Make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of.",
+      "example": "We added two students to that dorm room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAD": {
+      "word": "DAD",
+      "pos": "n.",
+      "gloss": "an informal term for a father",
+      "definition": "An informal term for a father; probably derived from baby talk.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAD": {
+      "word": "MAD",
+      "pos": "adj.",
+      "gloss": "roused to anger",
+      "definition": "Roused to anger.",
+      "example": "Stayed huffy a good while\"- Mark Twain.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ODD": {
+      "word": "ODD",
+      "pos": "adj.",
+      "gloss": "not divisible by two",
+      "definition": "Not divisible by two.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAM": {
+      "word": "DAM",
+      "pos": "n.",
+      "gloss": "a barrier constructed to contain the flow of water or to keep out the sea",
+      "definition": "A barrier constructed to contain the flow of water or to keep out the sea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MOD": {
+      "word": "MOD",
+      "pos": "n.",
+      "gloss": "a British teenager or young adult in the 1960s",
+      "definition": "A British teenager or young adult in the 1960s; noted for their clothes consciousness and opposition to the rockers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAG": {
+      "word": "MAG",
+      "pos": "n.",
+      "gloss": "a periodic publication containing pictures and stories and articles of interest to…",
+      "definition": "A periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it.",
+      "example": "It takes several years before a magazine starts to break even or make money.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

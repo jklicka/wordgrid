@@ -1,0 +1,142 @@
+{
+  "id": "level-385",
+  "baseWord": "INCUBUS",
+  "pool": [
+    "I",
+    "N",
+    "C",
+    "U",
+    "B",
+    "U",
+    "S"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "INCUBUS",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BUNS",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SNUB",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "SUN",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "BUS",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SIN",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "BIN",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "SUB",
+    "SIC"
+  ],
+  "entries": {
+    "INCUBUS": {
+      "word": "INCUBUS",
+      "pos": "n.",
+      "gloss": "a male demon believed to lie on sleeping persons and to have sexual intercourse with…",
+      "definition": "A male demon believed to lie on sleeping persons and to have sexual intercourse with sleeping women.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BUNS": {
+      "word": "BUNS",
+      "pos": "n.",
+      "gloss": "the fleshy part of the human body that you sit on",
+      "definition": "The fleshy part of the human body that you sit on.",
+      "example": "He deserves a good kick in the butt.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SNUB": {
+      "word": "SNUB",
+      "pos": "v.",
+      "gloss": "refuse to acknowledge",
+      "definition": "Refuse to acknowledge.",
+      "example": "She cut him dead at the meeting.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SUN": {
+      "word": "SUN",
+      "pos": "n.",
+      "gloss": "the star that is the source of light and heat for the planets in the solar system",
+      "definition": "The star that is the source of light and heat for the planets in the solar system.",
+      "example": "The sun contains 99.85% of the mass in the solar system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUS": {
+      "word": "BUS",
+      "pos": "n.",
+      "gloss": "a vehicle carrying many passengers",
+      "definition": "A vehicle carrying many passengers; used for public transport.",
+      "example": "He always rode the bus to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIN": {
+      "word": "SIN",
+      "pos": "n.",
+      "gloss": "estrangement from god",
+      "definition": "Estrangement from god.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BIN": {
+      "word": "BIN",
+      "pos": "n.",
+      "gloss": "a container; usually has a lid",
+      "definition": "A container; usually has a lid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUB": {
+      "word": "SUB",
+      "pos": "v.",
+      "gloss": "be a substitute",
+      "definition": "Be a substitute.",
+      "example": "The young teacher had to substitute for the sick colleague.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIC": {
+      "word": "SIC",
+      "pos": "adv.",
+      "gloss": "intentionally so written",
+      "definition": "Intentionally so written (used after a printed word or phrase).",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

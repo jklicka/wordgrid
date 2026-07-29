@@ -1,0 +1,139 @@
+{
+  "id": "level-318",
+  "baseWord": "CHALKY",
+  "pool": [
+    "C",
+    "H",
+    "A",
+    "L",
+    "K",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "CHALKY",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "CHALK",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LACK",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "CLAY",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "HACK",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LAKH",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "LAY",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "HAY",
+    "LACY"
+  ],
+  "entries": {
+    "CHALKY": {
+      "word": "CHALKY",
+      "pos": "adj.",
+      "gloss": "composed of or containing or resembling calcium carbonate or calcite or chalk",
+      "definition": "Composed of or containing or resembling calcium carbonate or calcite or chalk.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CHALK": {
+      "word": "CHALK",
+      "pos": "n.",
+      "gloss": "a soft whitish calcite",
+      "definition": "A soft whitish calcite.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LACK": {
+      "word": "LACK",
+      "pos": "n.",
+      "gloss": "the state of needing something that is absent or unavailable",
+      "definition": "The state of needing something that is absent or unavailable.",
+      "example": "There is a serious lack of insight into the problem.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CLAY": {
+      "word": "CLAY",
+      "pos": "n.",
+      "gloss": "a very fine-grained soil that is plastic when moist but hard when fired",
+      "definition": "A very fine-grained soil that is plastic when moist but hard when fired.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HACK": {
+      "word": "HACK",
+      "pos": "n.",
+      "gloss": "one who works hard at boring tasks",
+      "definition": "One who works hard at boring tasks.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAKH": {
+      "word": "LAKH",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the fifth power of ten",
+      "definition": "The cardinal number that is the fifth power of ten.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LAY": {
+      "word": "LAY",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAY": {
+      "word": "HAY",
+      "pos": "n.",
+      "gloss": "grass mowed and cured for use as fodder",
+      "definition": "Grass mowed and cured for use as fodder.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LACY": {
+      "word": "LACY",
+      "pos": "adj.",
+      "gloss": "made of or resembling lace",
+      "definition": "Made of or resembling lace.",
+      "example": "A lacy gown.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

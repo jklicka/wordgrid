@@ -1,0 +1,114 @@
+{
+  "id": "level-363",
+  "baseWord": "MISER",
+  "pool": [
+    "M",
+    "I",
+    "S",
+    "E",
+    "R"
+  ],
+  "rows": 7,
+  "cols": 5,
+  "placed": [
+    {
+      "word": "MISER",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RISE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SEMI",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SIRE",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "EMIR",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RIM",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "SIR"
+  ],
+  "entries": {
+    "MISER": {
+      "word": "MISER",
+      "pos": "n.",
+      "gloss": "a stingy hoarder of money and possessions",
+      "definition": "A stingy hoarder of money and possessions (often living miserably).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RISE": {
+      "word": "RISE",
+      "pos": "v.",
+      "gloss": "move upward",
+      "definition": "Move upward.",
+      "example": "The fog lifted.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEMI": {
+      "word": "SEMI",
+      "pos": "n.",
+      "gloss": "one of the two competitions in the next to the last round of an elimination tournament",
+      "definition": "One of the two competitions in the next to the last round of an elimination tournament.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIRE": {
+      "word": "SIRE",
+      "pos": "v.",
+      "gloss": "make by reproduction",
+      "definition": "Make (offspring) by reproduction.",
+      "example": "Abraham begot Isaac.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "EMIR": {
+      "word": "EMIR",
+      "pos": "n.",
+      "gloss": "an independent ruler or chieftain",
+      "definition": "An independent ruler or chieftain (especially in Africa or Arabia).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RIM": {
+      "word": "RIM",
+      "pos": "n.",
+      "gloss": "the shape of a raised edge of a more or less circular object",
+      "definition": "The shape of a raised edge of a more or less circular object.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIR": {
+      "word": "SIR",
+      "pos": "n.",
+      "gloss": "term of address for a man",
+      "definition": "Term of address for a man.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "level-341",
+  "baseWord": "RUMBA",
+  "pool": [
+    "R",
+    "U",
+    "M",
+    "B",
+    "A"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "RUMBA",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "UMBRA",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "BAR",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "ARM",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "MAR",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "RAM",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "RUB",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "BRA",
+    "BUM",
+    "BAM",
+    "RUM"
+  ],
+  "entries": {
+    "RUMBA": {
+      "word": "RUMBA",
+      "pos": "n.",
+      "gloss": "syncopated music in duple time for dancing the rumba",
+      "definition": "Syncopated music in duple time for dancing the rumba.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "UMBRA": {
+      "word": "UMBRA",
+      "pos": "n.",
+      "gloss": "a region of complete shadow resulting from total obstruction of light",
+      "definition": "A region of complete shadow resulting from total obstruction of light.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BAR": {
+      "word": "BAR",
+      "pos": "n.",
+      "gloss": "a room or establishment where alcoholic drinks are served over a counter",
+      "definition": "A room or establishment where alcoholic drinks are served over a counter.",
+      "example": "He drowned his sorrows in whiskey at the bar.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARM": {
+      "word": "ARM",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAR": {
+      "word": "MAR",
+      "pos": "v.",
+      "gloss": "make imperfect",
+      "definition": "Make imperfect.",
+      "example": "Nothing marred her beauty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAM": {
+      "word": "RAM",
+      "pos": "v.",
+      "gloss": "strike or drive against with a heavy impact",
+      "definition": "Strike or drive against with a heavy impact.",
+      "example": "Ram the gate with a sledgehammer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUB": {
+      "word": "RUB",
+      "pos": "v.",
+      "gloss": "move over something with pressure",
+      "definition": "Move over something with pressure.",
+      "example": "Rub my hands.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BRA": {
+      "word": "BRA",
+      "pos": "n.",
+      "gloss": "an undergarment worn by women to support their breasts",
+      "definition": "An undergarment worn by women to support their breasts.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUM": {
+      "word": "BUM",
+      "pos": "n.",
+      "gloss": "a person who is deemed to be despicable or contemptible",
+      "definition": "A person who is deemed to be despicable or contemptible.",
+      "example": "Only a rotter would do that.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAM": {
+      "word": "BAM",
+      "pos": "n.",
+      "gloss": "a sudden very loud noise",
+      "definition": "A sudden very loud noise.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUM": {
+      "word": "RUM",
+      "pos": "n.",
+      "gloss": "liquor distilled from fermented molasses",
+      "definition": "Liquor distilled from fermented molasses.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

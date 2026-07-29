@@ -1,0 +1,129 @@
+{
+  "id": "level-090",
+  "baseWord": "VIPER",
+  "pool": [
+    "V",
+    "I",
+    "P",
+    "E",
+    "R"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "VIPER",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PIER",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "RIPE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "PERI",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "REP",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "RIP",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "PIE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "REV"
+  ],
+  "entries": {
+    "VIPER": {
+      "word": "VIPER",
+      "pos": "n.",
+      "gloss": "venomous Old World snakes characterized by hollow venom-conducting fangs in the upper jaw",
+      "definition": "Venomous Old World snakes characterized by hollow venom-conducting fangs in the upper jaw.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PIER": {
+      "word": "PIER",
+      "pos": "n.",
+      "gloss": "a platform built out from the shore into the water and supported by piles",
+      "definition": "A platform built out from the shore into the water and supported by piles; provides access to ships and boats.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIPE": {
+      "word": "RIPE",
+      "pos": "adj.",
+      "gloss": "fully developed or matured and ready to be eaten or used",
+      "definition": "Fully developed or matured and ready to be eaten or used.",
+      "example": "Ripe peaches.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PERI": {
+      "word": "PERI",
+      "pos": "n.",
+      "gloss": "a beautiful and graceful girl",
+      "definition": "A beautiful and graceful girl.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "REP": {
+      "word": "REP",
+      "pos": "n.",
+      "gloss": "informal abbreviation of `representative'",
+      "definition": "Informal abbreviation of `representative'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIP": {
+      "word": "RIP",
+      "pos": "v.",
+      "gloss": "tear or be torn violently",
+      "definition": "Tear or be torn violently.",
+      "example": "The curtain ripped from top to bottom.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIE": {
+      "word": "PIE",
+      "pos": "n.",
+      "gloss": "dish baked in pastry-lined pan often with a pastry top",
+      "definition": "Dish baked in pastry-lined pan often with a pastry top.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REV": {
+      "word": "REV",
+      "pos": "v.",
+      "gloss": "increase the number of rotations per minute",
+      "definition": "Increase the number of rotations per minute.",
+      "example": "Rev up an engine.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "level-285",
+  "baseWord": "LAPEL",
+  "pool": [
+    "L",
+    "A",
+    "P",
+    "E",
+    "L"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "LAPEL",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PALE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "PLEA",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "LEAP",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "PALL",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "ALL",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "LAP",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "PAL",
+    "ALE"
+  ],
+  "entries": {
+    "LAPEL": {
+      "word": "LAPEL",
+      "pos": "n.",
+      "gloss": "lap at the front of a coat",
+      "definition": "Lap at the front of a coat; continuation of the coat collar.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PALE": {
+      "word": "PALE",
+      "pos": "adj.",
+      "gloss": "very light colored",
+      "definition": "Very light colored; highly diluted with white.",
+      "example": "Pale seagreen.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PLEA": {
+      "word": "PLEA",
+      "pos": "n.",
+      "gloss": "a humble request for help from someone in authority",
+      "definition": "A humble request for help from someone in authority.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEAP": {
+      "word": "LEAP",
+      "pos": "n.",
+      "gloss": "a light, self-propelled movement upwards or forwards",
+      "definition": "A light, self-propelled movement upwards or forwards.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PALL": {
+      "word": "PALL",
+      "pos": "v.",
+      "gloss": "become less interesting or attractive",
+      "definition": "Become less interesting or attractive.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ALL": {
+      "word": "ALL",
+      "pos": "adj.",
+      "gloss": "used with either mass or count nouns to indicate the whole number or amount of or…",
+      "definition": "(quantifier) used with either mass or count nouns to indicate the whole number or amount of or every one of a class.",
+      "example": "We sat up all night.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAP": {
+      "word": "LAP",
+      "pos": "v.",
+      "gloss": "lie partly over or alongside of something or of one another",
+      "definition": "Lie partly over or alongside of something or of one another.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAL": {
+      "word": "PAL",
+      "pos": "n.",
+      "gloss": "a close friend who accompanies his buddies in their activities",
+      "definition": "A close friend who accompanies his buddies in their activities.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALE": {
+      "word": "ALE",
+      "pos": "n.",
+      "gloss": "a general name for beer made with a top fermenting yeast",
+      "definition": "A general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

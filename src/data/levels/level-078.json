@@ -1,0 +1,208 @@
+{
+  "id": "level-078",
+  "baseWord": "PRIMA",
+  "pool": [
+    "P",
+    "R",
+    "I",
+    "M",
+    "A"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "PRIMA",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "PAIR",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "RAMP",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "AMIR",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "AIR",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "MAP",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "ARM",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "AIM",
+    "RIP",
+    "MAR",
+    "RAM",
+    "PAR",
+    "RAP",
+    "RIM",
+    "IRA",
+    "AMP"
+  ],
+  "entries": {
+    "PRIMA": {
+      "word": "PRIMA",
+      "pos": "adj.",
+      "gloss": "indicating the most important performer or role",
+      "definition": "Indicating the most important performer or role.",
+      "example": "The leading man.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PAIR": {
+      "word": "PAIR",
+      "pos": "n.",
+      "gloss": "a set of two similar things considered as a unit",
+      "definition": "A set of two similar things considered as a unit.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAMP": {
+      "word": "RAMP",
+      "pos": "n.",
+      "gloss": "an inclined surface connecting two levels",
+      "definition": "An inclined surface connecting two levels.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AMIR": {
+      "word": "AMIR",
+      "pos": "n.",
+      "gloss": "an independent ruler or chieftain",
+      "definition": "An independent ruler or chieftain (especially in Africa or Arabia).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AIR": {
+      "word": "AIR",
+      "pos": "n.",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAP": {
+      "word": "MAP",
+      "pos": "v.",
+      "gloss": "make a map of",
+      "definition": "Make a map of; show or establish the features of details of.",
+      "example": "Map the surface of Venus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARM": {
+      "word": "ARM",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIM": {
+      "word": "AIM",
+      "pos": "v.",
+      "gloss": "point or cause to go towards",
+      "definition": "Point or cause to go (blows, weapons, or objects such as photographic equipment) towards.",
+      "example": "Please don't aim at your little brother!",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIP": {
+      "word": "RIP",
+      "pos": "v.",
+      "gloss": "tear or be torn violently",
+      "definition": "Tear or be torn violently.",
+      "example": "The curtain ripped from top to bottom.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAR": {
+      "word": "MAR",
+      "pos": "v.",
+      "gloss": "make imperfect",
+      "definition": "Make imperfect.",
+      "example": "Nothing marred her beauty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAM": {
+      "word": "RAM",
+      "pos": "v.",
+      "gloss": "strike or drive against with a heavy impact",
+      "definition": "Strike or drive against with a heavy impact.",
+      "example": "Ram the gate with a sledgehammer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAR": {
+      "word": "PAR",
+      "pos": "n.",
+      "gloss": "the standard number of strokes set for each hole on a golf course, or for the entire…",
+      "definition": "(golf) the standard number of strokes set for each hole on a golf course, or for the entire course.",
+      "example": "A par-5 hole.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAP": {
+      "word": "RAP",
+      "pos": "n.",
+      "gloss": "a reproach for some lapse or misdeed",
+      "definition": "A reproach for some lapse or misdeed.",
+      "example": "He took the blame for it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIM": {
+      "word": "RIM",
+      "pos": "n.",
+      "gloss": "the shape of a raised edge of a more or less circular object",
+      "definition": "The shape of a raised edge of a more or less circular object.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IRA": {
+      "word": "IRA",
+      "pos": "n.",
+      "gloss": "belligerence aroused by a real or supposed wrong",
+      "definition": "Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).",
+      "band": "common",
+      "tier": "general"
+    },
+    "AMP": {
+      "word": "AMP",
+      "pos": "n.",
+      "gloss": "the basic unit of electric current adopted under the Systeme International d'Unites",
+      "definition": "The basic unit of electric current adopted under the Systeme International d'Unites.",
+      "example": "A typical household circuit carries 15 to 50 amps.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

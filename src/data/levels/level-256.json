@@ -1,0 +1,148 @@
+{
+  "id": "level-256",
+  "baseWord": "TINGE",
+  "pool": [
+    "T",
+    "I",
+    "N",
+    "G",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "TINGE",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TING",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "GENT",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "TEN",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "NET",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TIE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "GEN",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "GET",
+    "TIN",
+    "GIN"
+  ],
+  "entries": {
+    "TINGE": {
+      "word": "TINGE",
+      "pos": "n.",
+      "gloss": "a slight but appreciable amount",
+      "definition": "A slight but appreciable amount.",
+      "example": "This dish could use a touch of garlic.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TING": {
+      "word": "TING",
+      "pos": "n.",
+      "gloss": "a light clear metallic sound as of a small bell",
+      "definition": "A light clear metallic sound as of a small bell.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GENT": {
+      "word": "GENT",
+      "pos": "n.",
+      "gloss": "informal abbreviation of `gentleman'",
+      "definition": "Informal abbreviation of `gentleman'.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TEN": {
+      "word": "TEN",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of nine and one",
+      "definition": "The cardinal number that is the sum of nine and one; the base of the decimal system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NET": {
+      "word": "NET",
+      "pos": "n.",
+      "gloss": "a computer network consisting of a worldwide network of computer networks that use the…",
+      "definition": "A computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIE": {
+      "word": "TIE",
+      "pos": "n.",
+      "gloss": "neckwear consisting of a long narrow piece of material worn under a collar and tied in…",
+      "definition": "Neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front.",
+      "example": "He stood in front of the mirror tightening his necktie.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEN": {
+      "word": "GEN",
+      "pos": "n.",
+      "gloss": "informal term for information",
+      "definition": "Informal term for information.",
+      "example": "Give me the gen on your new line of computers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GET": {
+      "word": "GET",
+      "pos": "v.",
+      "gloss": "come into the possession of something concrete or abstract",
+      "definition": "Come into the possession of something concrete or abstract.",
+      "example": "She got a lot of paintings from her uncle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIN": {
+      "word": "TIN",
+      "pos": "n.",
+      "gloss": "a silvery malleable metallic element that resists corrosion",
+      "definition": "A silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

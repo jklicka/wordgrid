@@ -1,0 +1,162 @@
+{
+  "id": "level-251",
+  "baseWord": "DEFTLY",
+  "pool": [
+    "D",
+    "E",
+    "F",
+    "T",
+    "L",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "DEFTLY",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LEFTY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "DELFT",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "LEFT",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "FELT",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "DEFY",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "LET",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "YET",
+    "FLY",
+    "DYE",
+    "ELF"
+  ],
+  "entries": {
+    "DEFTLY": {
+      "word": "DEFTLY",
+      "pos": "adv.",
+      "gloss": "with dexterity",
+      "definition": "With dexterity; in a dexterous manner.",
+      "example": "Dextrously he untied the knots.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LEFTY": {
+      "word": "LEFTY",
+      "pos": "n.",
+      "gloss": "a person who uses the left hand with greater skill than the right",
+      "definition": "A person who uses the left hand with greater skill than the right.",
+      "example": "Their pitcher was a southpaw.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DELFT": {
+      "word": "DELFT",
+      "pos": "n.",
+      "gloss": "a style of glazed earthenware",
+      "definition": "A style of glazed earthenware; usually white with blue decoration.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LEFT": {
+      "word": "LEFT",
+      "pos": "n.",
+      "gloss": "location near or direction toward the left side",
+      "definition": "Location near or direction toward the left side; i.e. the side to the north when a person or object faces east.",
+      "example": "She stood on the left.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FELT": {
+      "word": "FELT",
+      "pos": "n.",
+      "gloss": "a fabric made of compressed matted animal fibers",
+      "definition": "A fabric made of compressed matted animal fibers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEFY": {
+      "word": "DEFY",
+      "pos": "v.",
+      "gloss": "resist or confront with resistance",
+      "definition": "Resist or confront with resistance.",
+      "example": "The politician defied public opinion.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LET": {
+      "word": "LET",
+      "pos": "v.",
+      "gloss": "make it possible through a specific action or lack of action for something to happen",
+      "definition": "Make it possible through a specific action or lack of action for something to happen.",
+      "example": "This permits the water to rush in.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YET": {
+      "word": "YET",
+      "pos": "adv.",
+      "gloss": "up to the present time",
+      "definition": "Up to the present time.",
+      "example": "I have yet to see the results.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FLY": {
+      "word": "FLY",
+      "pos": "v.",
+      "gloss": "travel through the air",
+      "definition": "Travel through the air; be airborne.",
+      "example": "Man cannot fly.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DYE": {
+      "word": "DYE",
+      "pos": "v.",
+      "gloss": "color with dye",
+      "definition": "Color with dye.",
+      "example": "Please dye these shoes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ELF": {
+      "word": "ELF",
+      "pos": "n.",
+      "gloss": "fairies that are somewhat mischievous",
+      "definition": "(folklore) fairies that are somewhat mischievous.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

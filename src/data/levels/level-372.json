@@ -1,0 +1,163 @@
+{
+  "id": "level-372",
+  "baseWord": "SUBSIST",
+  "pool": [
+    "S",
+    "U",
+    "B",
+    "S",
+    "I",
+    "S",
+    "T"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SUBSIST",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SUIT",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "BUST",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "STUB",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "BUT",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "BIT",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "SIT",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "BUS",
+    "SUB",
+    "TUB",
+    "SIS"
+  ],
+  "entries": {
+    "SUBSIST": {
+      "word": "SUBSIST",
+      "pos": "v.",
+      "gloss": "support oneself",
+      "definition": "Support oneself.",
+      "example": "He could barely exist on such a low wage.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SUIT": {
+      "word": "SUIT",
+      "pos": "v.",
+      "gloss": "be agreeable or acceptable to",
+      "definition": "Be agreeable or acceptable to.",
+      "example": "This suits my needs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUST": {
+      "word": "BUST",
+      "pos": "v.",
+      "gloss": "ruin completely",
+      "definition": "Ruin completely.",
+      "example": "He busted my radio!",
+      "band": "common",
+      "tier": "general"
+    },
+    "STUB": {
+      "word": "STUB",
+      "pos": "n.",
+      "gloss": "a short piece remaining on a trunk or stem where a branch is lost",
+      "definition": "A short piece remaining on a trunk or stem where a branch is lost.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BUT": {
+      "word": "BUT",
+      "pos": "adv.",
+      "gloss": "and nothing more",
+      "definition": "And nothing more.",
+      "example": "I was merely asking.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BIT": {
+      "word": "BIT",
+      "pos": "n.",
+      "gloss": "a small piece or quantity of something",
+      "definition": "A small piece or quantity of something.",
+      "example": "A spot of tea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIT": {
+      "word": "SIT",
+      "pos": "v.",
+      "gloss": "be seated",
+      "definition": "Be seated.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUS": {
+      "word": "BUS",
+      "pos": "n.",
+      "gloss": "a vehicle carrying many passengers",
+      "definition": "A vehicle carrying many passengers; used for public transport.",
+      "example": "He always rode the bus to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUB": {
+      "word": "SUB",
+      "pos": "v.",
+      "gloss": "be a substitute",
+      "definition": "Be a substitute.",
+      "example": "The young teacher had to substitute for the sick colleague.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TUB": {
+      "word": "TUB",
+      "pos": "n.",
+      "gloss": "a relatively large open container that you fill with water and use to wash the body",
+      "definition": "A relatively large open container that you fill with water and use to wash the body.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIS": {
+      "word": "SIS",
+      "pos": "n.",
+      "gloss": "a female person who has the same parents as another person",
+      "definition": "A female person who has the same parents as another person.",
+      "example": "My sister married a musician.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

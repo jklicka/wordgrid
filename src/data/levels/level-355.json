@@ -1,0 +1,128 @@
+{
+  "id": "level-355",
+  "baseWord": "PHLEGM",
+  "pool": [
+    "P",
+    "H",
+    "L",
+    "E",
+    "G",
+    "M"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "PHLEGM",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "HELP",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "HELM",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "HEMP",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LEG",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MPH",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "GEM",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "GEL"
+  ],
+  "entries": {
+    "PHLEGM": {
+      "word": "PHLEGM",
+      "pos": "n.",
+      "gloss": "apathy demonstrated by an absence of emotional reactions",
+      "definition": "Apathy demonstrated by an absence of emotional reactions.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HELP": {
+      "word": "HELP",
+      "pos": "v.",
+      "gloss": "give help or assistance",
+      "definition": "Give help or assistance; be of service.",
+      "example": "Everyone helped out during the earthquake.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HELM": {
+      "word": "HELM",
+      "pos": "n.",
+      "gloss": "steering mechanism for a vessel",
+      "definition": "Steering mechanism for a vessel; a mechanical device by which a vessel is steered.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HEMP": {
+      "word": "HEMP",
+      "pos": "n.",
+      "gloss": "a plant fiber",
+      "definition": "A plant fiber.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LEG": {
+      "word": "LEG",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MPH": {
+      "word": "MPH",
+      "pos": "n.",
+      "gloss": "the ratio of the distance traveled to the time spent traveling",
+      "definition": "The ratio of the distance traveled (in miles) to the time spent traveling (in hours).",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEM": {
+      "word": "GEM",
+      "pos": "n.",
+      "gloss": "art highly prized for its beauty or perfection",
+      "definition": "Art highly prized for its beauty or perfection.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEL": {
+      "word": "GEL",
+      "pos": "n.",
+      "gloss": "a colloid in a more solid form than a sol",
+      "definition": "A colloid in a more solid form than a sol.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

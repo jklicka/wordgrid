@@ -1,0 +1,141 @@
+{
+  "id": "level-360",
+  "baseWord": "BELFRY",
+  "pool": [
+    "B",
+    "E",
+    "L",
+    "F",
+    "R",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "BELFRY",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "FLYER",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "BERYL",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RELY",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "FLY",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "BYE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "FRY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "REF",
+    "ELF"
+  ],
+  "entries": {
+    "BELFRY": {
+      "word": "BELFRY",
+      "pos": "n.",
+      "gloss": "a bell tower",
+      "definition": "A bell tower; usually stands alone unattached to a building.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FLYER": {
+      "word": "FLYER",
+      "pos": "n.",
+      "gloss": "an advertisement intended for wide distribution",
+      "definition": "An advertisement (usually printed on a page or in a leaflet) intended for wide distribution.",
+      "example": "He mailed the circular to all subscribers.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BERYL": {
+      "word": "BERYL",
+      "pos": "n.",
+      "gloss": "the chief source of beryllium",
+      "definition": "The chief source of beryllium; colored transparent varieties are valued as gems.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RELY": {
+      "word": "RELY",
+      "pos": "v.",
+      "gloss": "have faith or confidence in",
+      "definition": "Have faith or confidence in.",
+      "example": "You can count on me to help you any time.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FLY": {
+      "word": "FLY",
+      "pos": "v.",
+      "gloss": "travel through the air",
+      "definition": "Travel through the air; be airborne.",
+      "example": "Man cannot fly.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BYE": {
+      "word": "BYE",
+      "pos": "n.",
+      "gloss": "an automatic advance to the next round in a tournament without playing an opponent",
+      "definition": "An automatic advance to the next round in a tournament without playing an opponent.",
+      "example": "He had a bye in the first round.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FRY": {
+      "word": "FRY",
+      "pos": "v.",
+      "gloss": "be excessively hot",
+      "definition": "Be excessively hot.",
+      "example": "If the children stay out on the beach for another hour, they'll be fried.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REF": {
+      "word": "REF",
+      "pos": "n.",
+      "gloss": "the chief official who is expected to ensure fair play",
+      "definition": "(sports) the chief official (as in boxing or American football) who is expected to ensure fair play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ELF": {
+      "word": "ELF",
+      "pos": "n.",
+      "gloss": "fairies that are somewhat mischievous",
+      "definition": "(folklore) fairies that are somewhat mischievous.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

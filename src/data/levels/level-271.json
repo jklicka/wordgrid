@@ -1,0 +1,174 @@
+{
+  "id": "level-271",
+  "baseWord": "BANTAM",
+  "pool": [
+    "B",
+    "A",
+    "N",
+    "T",
+    "A",
+    "M"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "BANTAM",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "BATMAN",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "MANTA",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "MAN",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "BAN",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "BAT",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "TAN",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "TAB",
+    "ANA",
+    "ANT",
+    "ATM",
+    "MAT",
+    "BAM"
+  ],
+  "entries": {
+    "BANTAM": {
+      "word": "BANTAM",
+      "pos": "n.",
+      "gloss": "any of various small breeds of fowl",
+      "definition": "Any of various small breeds of fowl.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BATMAN": {
+      "word": "BATMAN",
+      "pos": "n.",
+      "gloss": "an orderly assigned to serve a British military officer",
+      "definition": "An orderly assigned to serve a British military officer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MANTA": {
+      "word": "MANTA",
+      "pos": "n.",
+      "gloss": "a blanket that is used as a cloak or shawl",
+      "definition": "A blanket that is used as a cloak or shawl.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAN": {
+      "word": "MAN",
+      "pos": "n.",
+      "gloss": "an adult person who is male",
+      "definition": "An adult person who is male (as opposed to a woman).",
+      "example": "There were two women and six men on the bus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAN": {
+      "word": "BAN",
+      "pos": "v.",
+      "gloss": "forbid the public distribution of",
+      "definition": "Forbid the public distribution of ( a movie or a newspaper).",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAT": {
+      "word": "BAT",
+      "pos": "n.",
+      "gloss": "nocturnal mouselike mammal with forelimbs modified to form membranous wings and…",
+      "definition": "Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAB": {
+      "word": "TAB",
+      "pos": "n.",
+      "gloss": "the bill in a restaurant",
+      "definition": "The bill in a restaurant.",
+      "example": "He asked the waiter for the check.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANA": {
+      "word": "ANA",
+      "pos": "n.",
+      "gloss": "a collection of anecdotes about a person or place",
+      "definition": "A collection of anecdotes about a person or place.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANT": {
+      "word": "ANT",
+      "pos": "n.",
+      "gloss": "social insect living in organized colonies",
+      "definition": "Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ATM": {
+      "word": "ATM",
+      "pos": "n.",
+      "gloss": "a unit of pressure",
+      "definition": "A unit of pressure: the pressure that will support a column of mercury 760 mm high at sea level and 0 degrees centigrade.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAT": {
+      "word": "MAT",
+      "pos": "n.",
+      "gloss": "a thick flat pad used as a floor covering",
+      "definition": "A thick flat pad used as a floor covering.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAM": {
+      "word": "BAM",
+      "pos": "n.",
+      "gloss": "a sudden very loud noise",
+      "definition": "A sudden very loud noise.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

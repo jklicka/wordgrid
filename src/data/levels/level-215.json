@@ -1,0 +1,150 @@
+{
+  "id": "level-215",
+  "baseWord": "HUBRIS",
+  "pool": [
+    "H",
+    "U",
+    "B",
+    "R",
+    "I",
+    "S"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "HUBRIS",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BRUSH",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SHRUB",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "BUSH",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "RUSH",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SIR",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "BUS",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "SUB",
+    "HUB",
+    "RUB"
+  ],
+  "entries": {
+    "HUBRIS": {
+      "word": "HUBRIS",
+      "pos": "n.",
+      "gloss": "overbearing pride or presumption",
+      "definition": "Overbearing pride or presumption.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BRUSH": {
+      "word": "BRUSH",
+      "pos": "v.",
+      "gloss": "rub with a brush, or as if with a brush",
+      "definition": "Rub with a brush, or as if with a brush.",
+      "example": "Johnson brushed the hairs from his jacket.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SHRUB": {
+      "word": "SHRUB",
+      "pos": "n.",
+      "gloss": "a low woody perennial plant usually having several major stems",
+      "definition": "A low woody perennial plant usually having several major stems.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BUSH": {
+      "word": "BUSH",
+      "pos": "n.",
+      "gloss": "a low woody perennial plant usually having several major stems",
+      "definition": "A low woody perennial plant usually having several major stems.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUSH": {
+      "word": "RUSH",
+      "pos": "v.",
+      "gloss": "move hurridly",
+      "definition": "Move hurridly.",
+      "example": "He rushed down the hall to receive his guests.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIR": {
+      "word": "SIR",
+      "pos": "n.",
+      "gloss": "term of address for a man",
+      "definition": "Term of address for a man.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUS": {
+      "word": "BUS",
+      "pos": "n.",
+      "gloss": "a vehicle carrying many passengers",
+      "definition": "A vehicle carrying many passengers; used for public transport.",
+      "example": "He always rode the bus to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUB": {
+      "word": "SUB",
+      "pos": "v.",
+      "gloss": "be a substitute",
+      "definition": "Be a substitute.",
+      "example": "The young teacher had to substitute for the sick colleague.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HUB": {
+      "word": "HUB",
+      "pos": "n.",
+      "gloss": "the central part of a car wheel through which the shaft or axle passes",
+      "definition": "The central part of a car wheel (or fan or propeller etc) through which the shaft or axle passes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUB": {
+      "word": "RUB",
+      "pos": "v.",
+      "gloss": "move over something with pressure",
+      "definition": "Move over something with pressure.",
+      "example": "Rub my hands.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

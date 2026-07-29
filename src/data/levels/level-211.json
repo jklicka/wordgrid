@@ -1,0 +1,157 @@
+{
+  "id": "level-211",
+  "baseWord": "FORKED",
+  "pool": [
+    "F",
+    "O",
+    "R",
+    "K",
+    "E",
+    "D"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "FORKED",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "FORD",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "FORK",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "FORE",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "REDO",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DORK",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "RED",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ROD",
+    "ORE",
+    "REF",
+    "DOE"
+  ],
+  "entries": {
+    "FORKED": {
+      "word": "FORKED",
+      "pos": "adj.",
+      "gloss": "resembling a fork",
+      "definition": "Resembling a fork; divided or separated into two branches.",
+      "example": "The biramous appendages of an arthropod.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FORD": {
+      "word": "FORD",
+      "pos": "n.",
+      "gloss": "a shallow area in a stream that can be forded",
+      "definition": "A shallow area in a stream that can be forded.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FORK": {
+      "word": "FORK",
+      "pos": "n.",
+      "gloss": "cutlery used for serving and eating food",
+      "definition": "Cutlery used for serving and eating food.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FORE": {
+      "word": "FORE",
+      "pos": "n.",
+      "gloss": "front part of a vessel or aircraft",
+      "definition": "Front part of a vessel or aircraft.",
+      "example": "He pointed the bow of the boat toward the finish line.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "REDO": {
+      "word": "REDO",
+      "pos": "v.",
+      "gloss": "make new",
+      "definition": "Make new.",
+      "example": "She is remaking her image.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DORK": {
+      "word": "DORK",
+      "pos": "n.",
+      "gloss": "a dull stupid fatuous person",
+      "definition": "A dull stupid fatuous person.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RED": {
+      "word": "RED",
+      "pos": "n.",
+      "gloss": "red color or pigment",
+      "definition": "Red color or pigment; the chromatic color resembling the hue of blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROD": {
+      "word": "ROD",
+      "pos": "n.",
+      "gloss": "a long thin implement made of metal or wood",
+      "definition": "A long thin implement made of metal or wood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ORE": {
+      "word": "ORE",
+      "pos": "n.",
+      "gloss": "a mineral that contains metal that is valuable enough to be mined",
+      "definition": "A mineral that contains metal that is valuable enough to be mined.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REF": {
+      "word": "REF",
+      "pos": "n.",
+      "gloss": "the chief official who is expected to ensure fair play",
+      "definition": "(sports) the chief official (as in boxing or American football) who is expected to ensure fair play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOE": {
+      "word": "DOE",
+      "pos": "n.",
+      "gloss": "mature female of mammals of which the male is called `buck'",
+      "definition": "Mature female of mammals of which the male is called `buck'.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

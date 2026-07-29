@@ -1,0 +1,195 @@
+{
+  "id": "level-098",
+  "baseWord": "FERAL",
+  "pool": [
+    "F",
+    "E",
+    "R",
+    "A",
+    "L"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "FERAL",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "FLARE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "REAL",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "FEAR",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LEAF",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "EARL",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "FARE",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ARE",
+    "FAR",
+    "ERA",
+    "EAR",
+    "REF",
+    "ALE",
+    "ELF",
+    "FLEA"
+  ],
+  "entries": {
+    "FERAL": {
+      "word": "FERAL",
+      "pos": "adj.",
+      "gloss": "wild and menacing",
+      "definition": "Wild and menacing.",
+      "example": "A pack of feral dogs.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FLARE": {
+      "word": "FLARE",
+      "pos": "n.",
+      "gloss": "a shape that spreads outward",
+      "definition": "A shape that spreads outward.",
+      "example": "The skirt had a wide flare.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REAL": {
+      "word": "REAL",
+      "pos": "adj.",
+      "gloss": "being or occurring in fact or actuality",
+      "definition": "Being or occurring in fact or actuality; having verified existence; not illusory.",
+      "example": "Real objects.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FEAR": {
+      "word": "FEAR",
+      "pos": "v.",
+      "gloss": "be afraid or feel anxious or apprehensive about a possible or probable situation or event",
+      "definition": "Be afraid or feel anxious or apprehensive about a possible or probable situation or event.",
+      "example": "I fear she might get aggressive.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEAF": {
+      "word": "LEAF",
+      "pos": "n.",
+      "gloss": "the main organ of photosynthesis and transpiration in higher plants",
+      "definition": "The main organ of photosynthesis and transpiration in higher plants.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EARL": {
+      "word": "EARL",
+      "pos": "n.",
+      "gloss": "a British peer ranking below a marquess and above a viscount",
+      "definition": "A British peer ranking below a marquess and above a viscount.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FARE": {
+      "word": "FARE",
+      "pos": "n.",
+      "gloss": "an agenda of things to do",
+      "definition": "An agenda of things to do.",
+      "example": "They worked rapidly down the menu of reports.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FAR": {
+      "word": "FAR",
+      "pos": "adv.",
+      "gloss": "to a considerable degree",
+      "definition": "To a considerable degree; very much.",
+      "example": "A far far better thing that I do.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REF": {
+      "word": "REF",
+      "pos": "n.",
+      "gloss": "the chief official who is expected to ensure fair play",
+      "definition": "(sports) the chief official (as in boxing or American football) who is expected to ensure fair play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALE": {
+      "word": "ALE",
+      "pos": "n.",
+      "gloss": "a general name for beer made with a top fermenting yeast",
+      "definition": "A general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ELF": {
+      "word": "ELF",
+      "pos": "n.",
+      "gloss": "fairies that are somewhat mischievous",
+      "definition": "(folklore) fairies that are somewhat mischievous.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FLEA": {
+      "word": "FLEA",
+      "pos": "n.",
+      "gloss": "any wingless bloodsucking parasitic insect noted for ability to leap",
+      "definition": "Any wingless bloodsucking parasitic insect noted for ability to leap.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

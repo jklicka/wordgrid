@@ -1,0 +1,158 @@
+{
+  "id": "level-022",
+  "baseWord": "CIDER",
+  "pool": [
+    "C",
+    "I",
+    "D",
+    "E",
+    "R"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "CIDER",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RIDE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "RICE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "DICE",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "DIRE",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CRED",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "RED",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "DIE",
+    "ICE",
+    "RID",
+    "DEC"
+  ],
+  "entries": {
+    "CIDER": {
+      "word": "CIDER",
+      "pos": "n.",
+      "gloss": "a beverage made from juice pressed from apples",
+      "definition": "A beverage made from juice pressed from apples.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RIDE": {
+      "word": "RIDE",
+      "pos": "v.",
+      "gloss": "sit and travel on the back of animal, usually while controlling its motions",
+      "definition": "Sit and travel on the back of animal, usually while controlling its motions.",
+      "example": "She never sat a horse!",
+      "band": "common",
+      "tier": "general"
+    },
+    "RICE": {
+      "word": "RICE",
+      "pos": "n.",
+      "gloss": "grains used as food either unpolished or more often polished",
+      "definition": "Grains used as food either unpolished or more often polished.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DICE": {
+      "word": "DICE",
+      "pos": "n.",
+      "gloss": "a small cube with 1 to 6 spots on the six faces",
+      "definition": "A small cube with 1 to 6 spots on the six faces; used in gambling to generate random numbers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIRE": {
+      "word": "DIRE",
+      "pos": "adj.",
+      "gloss": "fraught with extreme danger",
+      "definition": "Fraught with extreme danger; nearly hopeless.",
+      "example": "A desperate illness.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CRED": {
+      "word": "CRED",
+      "pos": "n.",
+      "gloss": "credibility among young fashionable urban individuals",
+      "definition": "Credibility among young fashionable urban individuals.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RED": {
+      "word": "RED",
+      "pos": "n.",
+      "gloss": "red color or pigment",
+      "definition": "Red color or pigment; the chromatic color resembling the hue of blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIE": {
+      "word": "DIE",
+      "pos": "v.",
+      "gloss": "pass from physical life and lose all bodily attributes and functions necessary to…",
+      "definition": "Pass from physical life and lose all bodily attributes and functions necessary to sustain life.",
+      "example": "She died from cancer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ICE": {
+      "word": "ICE",
+      "pos": "n.",
+      "gloss": "water frozen in the solid state",
+      "definition": "Water frozen in the solid state.",
+      "example": "Americans like ice in their drinks.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RID": {
+      "word": "RID",
+      "pos": "v.",
+      "gloss": "relieve from",
+      "definition": "Relieve from.",
+      "example": "Rid the house of pests.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEC": {
+      "word": "DEC",
+      "pos": "n.",
+      "gloss": "the angular distance of a celestial body north or to the south of the celestial equator",
+      "definition": "(astronomy) the angular distance of a celestial body north or to the south of the celestial equator; expressed in degrees; used with right ascension to specify positions on the celestial sphere.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

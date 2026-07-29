@@ -1,143 +1,140 @@
 {
   "id": "level-002",
-  "baseWord": "PILES",
+  "baseWord": "ABIDE",
   "pool": [
-    "P",
+    "A",
+    "B",
     "I",
-    "L",
-    "E",
-    "S"
+    "D",
+    "E"
   ],
   "rows": 7,
-  "cols": 7,
+  "cols": 8,
   "placed": [
     {
-      "word": "PILES",
-      "row": 5,
-      "col": 1,
+      "word": "ABIDE",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "word": "SPIEL",
-      "row": 1,
-      "col": 3,
+      "word": "IDEA",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "word": "SLIP",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
+      "word": "AIDE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
     },
     {
-      "word": "PILE",
+      "word": "BEAD",
       "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "word": "ISLE",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "word": "LISP",
-      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "word": "LIE",
+      "word": "BAD",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "BED",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DIE",
       "row": 1,
-      "col": 6,
-      "direction": "down"
+      "col": 3,
+      "direction": "across"
     }
   ],
   "bonus": [
-    "PIE",
-    "LIP",
-    "SIP"
+    "AID",
+    "BID"
   ],
   "entries": {
-    "PILES": {
-      "word": "PILES",
-      "pos": "n.",
-      "gloss": "venous swelling external or internal to the anal sphincter",
-      "definition": "Venous swelling external or internal to the anal sphincter.",
-      "band": "teaching",
-      "tier": "general"
-    },
-    "SPIEL": {
-      "word": "SPIEL",
-      "pos": "n.",
-      "gloss": "plausible glib talk",
-      "definition": "Plausible glib talk (especially useful to a salesperson).",
-      "band": "teaching",
-      "tier": "general"
-    },
-    "SLIP": {
-      "word": "SLIP",
+    "ABIDE": {
+      "word": "ABIDE",
       "pos": "v.",
-      "gloss": "move stealthily",
-      "definition": "Move stealthily.",
-      "example": "The ship slipped away in the darkness.",
-      "band": "common",
-      "tier": "general"
-    },
-    "PILE": {
-      "word": "PILE",
-      "pos": "n.",
-      "gloss": "a collection of objects laid on top of each other",
-      "definition": "A collection of objects laid on top of each other.",
-      "band": "common",
-      "tier": "general"
-    },
-    "ISLE": {
-      "word": "ISLE",
-      "pos": "n.",
-      "gloss": "a small island",
-      "definition": "A small island.",
-      "band": "common",
-      "tier": "general"
-    },
-    "LISP": {
-      "word": "LISP",
-      "pos": "n.",
-      "gloss": "a speech defect that involves pronouncing `s' like voiceless `th' and `z' like voiced `th'",
-      "definition": "A speech defect that involves pronouncing `s' like voiceless `th' and `z' like voiced `th'.",
+      "gloss": "dwell",
+      "definition": "Dwell.",
+      "example": "You can stay with me while you are in town.",
       "band": "teaching",
       "tier": "general"
     },
-    "LIE": {
-      "word": "LIE",
+    "IDEA": {
+      "word": "IDEA",
+      "pos": "n.",
+      "gloss": "the content of cognition",
+      "definition": "The content of cognition; the main thing you are thinking about.",
+      "example": "It was not a good idea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIDE": {
+      "word": "AIDE",
+      "pos": "n.",
+      "gloss": "an officer who acts as military assistant to a more senior officer",
+      "definition": "An officer who acts as military assistant to a more senior officer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEAD": {
+      "word": "BEAD",
+      "pos": "n.",
+      "gloss": "a small ball with a hole through the middle",
+      "definition": "A small ball with a hole through the middle.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BAD": {
+      "word": "BAD",
+      "pos": "adj.",
+      "gloss": "having undesirable or negative qualities",
+      "definition": "Having undesirable or negative qualities.",
+      "example": "A bad report card.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BED": {
+      "word": "BED",
+      "pos": "n.",
+      "gloss": "a piece of furniture that provides a place to sleep",
+      "definition": "A piece of furniture that provides a place to sleep.",
+      "example": "He sat on the edge of the bed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIE": {
+      "word": "DIE",
       "pos": "v.",
-      "gloss": "be located or situated somewhere",
-      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "gloss": "pass from physical life and lose all bodily attributes and functions necessary to…",
+      "definition": "Pass from physical life and lose all bodily attributes and functions necessary to sustain life.",
+      "example": "She died from cancer.",
       "band": "common",
       "tier": "general"
     },
-    "PIE": {
-      "word": "PIE",
+    "AID": {
+      "word": "AID",
       "pos": "n.",
-      "gloss": "dish baked in pastry-lined pan often with a pastry top",
-      "definition": "Dish baked in pastry-lined pan often with a pastry top.",
+      "gloss": "a person or thing that is a resource that helps make something easier or possible to do",
+      "definition": "A person or thing that is a resource that helps make something easier or possible to do.",
+      "example": "Visual aids in teaching.",
       "band": "common",
       "tier": "general"
     },
-    "LIP": {
-      "word": "LIP",
-      "pos": "n.",
-      "gloss": "either of two fleshy folds of tissue that surround the mouth and play a role in speaking",
-      "definition": "Either of two fleshy folds of tissue that surround the mouth and play a role in speaking.",
-      "band": "common",
-      "tier": "general"
-    },
-    "SIP": {
-      "word": "SIP",
-      "pos": "n.",
-      "gloss": "a small drink",
-      "definition": "A small drink.",
+    "BID": {
+      "word": "BID",
+      "pos": "v.",
+      "gloss": "propose a payment",
+      "definition": "Propose a payment.",
+      "example": "The Swiss dealer offered $2 million for the painting.",
       "band": "common",
       "tier": "general"
     }

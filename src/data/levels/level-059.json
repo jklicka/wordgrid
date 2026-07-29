@@ -1,0 +1,212 @@
+{
+  "id": "level-059",
+  "baseWord": "SINNER",
+  "pool": [
+    "S",
+    "I",
+    "N",
+    "N",
+    "E",
+    "R"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SINNER",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "INNER",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "RISEN",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "RESIN",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "RINSE",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "SIREN",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "NINER",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SIR",
+    "NINE",
+    "RISE",
+    "SIN",
+    "INN",
+    "SEN",
+    "SIRE",
+    "REIN",
+    "SINE",
+    "RENIN"
+  ],
+  "entries": {
+    "SINNER": {
+      "word": "SINNER",
+      "pos": "n.",
+      "gloss": "a person who sins",
+      "definition": "A person who sins (without repenting).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "INNER": {
+      "word": "INNER",
+      "pos": "adj.",
+      "gloss": "located inward",
+      "definition": "Located inward.",
+      "example": "Beethoven's manuscript looks like a bloody record of a tremendous inner battle\"- Leonard Bernstein.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RISEN": {
+      "word": "RISEN",
+      "pos": "adj.",
+      "gloss": "above the horizon",
+      "definition": "(of e.g. celestial bodies) above the horizon.",
+      "example": "The risen sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RESIN": {
+      "word": "RESIN",
+      "pos": "n.",
+      "gloss": "any of a class of solid or semisolid viscous substances obtained either as exudations…",
+      "definition": "Any of a class of solid or semisolid viscous substances obtained either as exudations from certain plants or prepared by polymerization of simple molecules.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RINSE": {
+      "word": "RINSE",
+      "pos": "v.",
+      "gloss": "wash off soap or remaining dirt",
+      "definition": "Wash off soap or remaining dirt.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SIREN": {
+      "word": "SIREN",
+      "pos": "n.",
+      "gloss": "a woman who is considered to be dangerously seductive",
+      "definition": "A woman who is considered to be dangerously seductive.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NINER": {
+      "word": "NINER",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of eight and one",
+      "definition": "The cardinal number that is the sum of eight and one.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SIR": {
+      "word": "SIR",
+      "pos": "n.",
+      "gloss": "term of address for a man",
+      "definition": "Term of address for a man.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NINE": {
+      "word": "NINE",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of eight and one",
+      "definition": "The cardinal number that is the sum of eight and one.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RISE": {
+      "word": "RISE",
+      "pos": "v.",
+      "gloss": "move upward",
+      "definition": "Move upward.",
+      "example": "The fog lifted.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIN": {
+      "word": "SIN",
+      "pos": "n.",
+      "gloss": "estrangement from god",
+      "definition": "Estrangement from god.",
+      "band": "common",
+      "tier": "general"
+    },
+    "INN": {
+      "word": "INN",
+      "pos": "n.",
+      "gloss": "a hotel providing overnight lodging for travelers",
+      "definition": "A hotel providing overnight lodging for travelers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEN": {
+      "word": "SEN",
+      "pos": "n.",
+      "gloss": "a fractional monetary unit of Japan and Indonesia and Cambodia",
+      "definition": "A fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIRE": {
+      "word": "SIRE",
+      "pos": "v.",
+      "gloss": "make by reproduction",
+      "definition": "Make (offspring) by reproduction.",
+      "example": "Abraham begot Isaac.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "REIN": {
+      "word": "REIN",
+      "pos": "n.",
+      "gloss": "one of a pair of long straps used to control a horse",
+      "definition": "One of a pair of long straps (usually connected to the bit or the headpiece) used to control a horse.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SINE": {
+      "word": "SINE",
+      "pos": "n.",
+      "gloss": "ratio of the length of the side opposite the given angle to the length of the…",
+      "definition": "Ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RENIN": {
+      "word": "RENIN",
+      "pos": "n.",
+      "gloss": "a proteolytic enzyme secreted by the kidneys",
+      "definition": "A proteolytic enzyme secreted by the kidneys; catalyzes the formation of angiotensin and thus affects blood pressure.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

@@ -1,4 +1,4 @@
-import { useGame } from '../game/store'
+import { useActiveGame } from '../game/store'
 import styles from './Panels.module.css'
 
 /**
@@ -11,7 +11,7 @@ import styles from './Panels.module.css'
  * Tapping a blank square turns the puzzle into "which word means this?"
  */
 export default function PromptPanel() {
-  const game = useGame((s) => s.game)
+  const game = useActiveGame()
   if (!game.promptWord) return null
 
   const entry = game.level.entries[game.promptWord]

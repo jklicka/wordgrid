@@ -1,0 +1,129 @@
+{
+  "id": "level-117",
+  "baseWord": "CLOUT",
+  "pool": [
+    "C",
+    "L",
+    "O",
+    "U",
+    "T"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "CLOUT",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "CULT",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "COLT",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "CLOT",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "OUT",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "LOT",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "COL",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "CUT"
+  ],
+  "entries": {
+    "CLOUT": {
+      "word": "CLOUT",
+      "pos": "n.",
+      "gloss": "a target used in archery",
+      "definition": "A target used in archery.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CULT": {
+      "word": "CULT",
+      "pos": "n.",
+      "gloss": "followers of an exclusive system of beliefs and practices",
+      "definition": "Followers of an exclusive system of beliefs and practices.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COLT": {
+      "word": "COLT",
+      "pos": "n.",
+      "gloss": "a young male horse under the age of four",
+      "definition": "A young male horse under the age of four.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CLOT": {
+      "word": "CLOT",
+      "pos": "n.",
+      "gloss": "a lump of material formed from the content of a liquid",
+      "definition": "A lump of material formed from the content of a liquid.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "OUT": {
+      "word": "OUT",
+      "pos": "adj.",
+      "gloss": "not allowed to continue to bat or run",
+      "definition": "Not allowed to continue to bat or run.",
+      "example": "He was tagged out at second on a close play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOT": {
+      "word": "LOT",
+      "pos": "n.",
+      "gloss": "a large number or amount or extent",
+      "definition": "(often followed by `of') a large number or amount or extent.",
+      "example": "A batch of letters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COL": {
+      "word": "COL",
+      "pos": "n.",
+      "gloss": "a pass between mountain peaks",
+      "definition": "A pass between mountain peaks.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CUT": {
+      "word": "CUT",
+      "pos": "v.",
+      "gloss": "separate with or as if with an instrument",
+      "definition": "Separate with or as if with an instrument.",
+      "example": "Cut the rope.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

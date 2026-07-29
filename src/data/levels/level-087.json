@@ -1,0 +1,162 @@
+{
+  "id": "level-087",
+  "baseWord": "JAMMING",
+  "pool": [
+    "J",
+    "A",
+    "M",
+    "M",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "JAMMING",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MAIN",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "GAIN",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "IMAM",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "MINA",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "MAN",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "AIM",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "MIN",
+    "JAM",
+    "MAG",
+    "GIN"
+  ],
+  "entries": {
+    "JAMMING": {
+      "word": "JAMMING",
+      "pos": "n.",
+      "gloss": "deliberate radiation or reflection of electromagnetic energy for the purpose of…",
+      "definition": "Deliberate radiation or reflection of electromagnetic energy for the purpose of disrupting enemy use of electronic devices or systems.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAIN": {
+      "word": "MAIN",
+      "pos": "adj.",
+      "gloss": "most important element",
+      "definition": "Most important element.",
+      "example": "The chief aim of living.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAIN": {
+      "word": "GAIN",
+      "pos": "v.",
+      "gloss": "obtain",
+      "definition": "Obtain.",
+      "example": "Derive pleasure from one's garden.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IMAM": {
+      "word": "IMAM",
+      "pos": "n.",
+      "gloss": "the man who leads prayers in a mosque",
+      "definition": "(Islam) the man who leads prayers in a mosque; for Shiites an imam is a recognized authority on Islamic theology and law and a spiritual guide.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MINA": {
+      "word": "MINA",
+      "pos": "n.",
+      "gloss": "tropical Asian starlings",
+      "definition": "Tropical Asian starlings.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAN": {
+      "word": "MAN",
+      "pos": "n.",
+      "gloss": "an adult person who is male",
+      "definition": "An adult person who is male (as opposed to a woman).",
+      "example": "There were two women and six men on the bus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIM": {
+      "word": "AIM",
+      "pos": "v.",
+      "gloss": "point or cause to go towards",
+      "definition": "Point or cause to go (blows, weapons, or objects such as photographic equipment) towards.",
+      "example": "Please don't aim at your little brother!",
+      "band": "common",
+      "tier": "general"
+    },
+    "MIN": {
+      "word": "MIN",
+      "pos": "n.",
+      "gloss": "a unit of time equal to 60 seconds or 1/60th of an hour",
+      "definition": "A unit of time equal to 60 seconds or 1/60th of an hour.",
+      "example": "He ran a 4 minute mile.",
+      "band": "common",
+      "tier": "general"
+    },
+    "JAM": {
+      "word": "JAM",
+      "pos": "v.",
+      "gloss": "press tightly together or cram",
+      "definition": "Press tightly together or cram.",
+      "example": "The crowd packed the auditorium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAG": {
+      "word": "MAG",
+      "pos": "n.",
+      "gloss": "a periodic publication containing pictures and stories and articles of interest to…",
+      "definition": "A periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it.",
+      "example": "It takes several years before a magazine starts to break even or make money.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

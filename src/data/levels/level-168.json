@@ -1,0 +1,198 @@
+{
+  "id": "level-168",
+  "baseWord": "UNWISE",
+  "pool": [
+    "U",
+    "N",
+    "W",
+    "I",
+    "S",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "UNWISE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SWINE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SINEW",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "NEWS",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "WINE",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "WISE",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SEWN",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "NEW",
+    "USE",
+    "WIN",
+    "SUN",
+    "SIN",
+    "SUE",
+    "SEN",
+    "SINE"
+  ],
+  "entries": {
+    "UNWISE": {
+      "word": "UNWISE",
+      "pos": "adj.",
+      "gloss": "showing or resulting from lack of judgment or wisdom",
+      "definition": "Showing or resulting from lack of judgment or wisdom.",
+      "example": "An unwise investor is soon impoverished.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SWINE": {
+      "word": "SWINE",
+      "pos": "n.",
+      "gloss": "stout-bodied short-legged omnivorous animals",
+      "definition": "Stout-bodied short-legged omnivorous animals.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SINEW": {
+      "word": "SINEW",
+      "pos": "n.",
+      "gloss": "a cord or band of inelastic tissue connecting a muscle with its bony attachment",
+      "definition": "A cord or band of inelastic tissue connecting a muscle with its bony attachment.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NEWS": {
+      "word": "NEWS",
+      "pos": "n.",
+      "gloss": "information about recent and important events",
+      "definition": "Information about recent and important events.",
+      "example": "They awaited news of the outcome.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WINE": {
+      "word": "WINE",
+      "pos": "n.",
+      "gloss": "fermented juice",
+      "definition": "Fermented juice (of grapes especially).",
+      "band": "common",
+      "tier": "general"
+    },
+    "WISE": {
+      "word": "WISE",
+      "pos": "adj.",
+      "gloss": "having or prompted by wisdom or discernment",
+      "definition": "Having or prompted by wisdom or discernment.",
+      "example": "A wise leader.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEWN": {
+      "word": "SEWN",
+      "pos": "adj.",
+      "gloss": "fastened with stitches",
+      "definition": "Fastened with stitches.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NEW": {
+      "word": "NEW",
+      "pos": "adj.",
+      "gloss": "not of long duration",
+      "definition": "Not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered.",
+      "example": "A new law.",
+      "band": "common",
+      "tier": "general"
+    },
+    "USE": {
+      "word": "USE",
+      "pos": "n.",
+      "gloss": "the act of using",
+      "definition": "The act of using.",
+      "example": "He warned against the use of narcotic drugs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WIN": {
+      "word": "WIN",
+      "pos": "v.",
+      "gloss": "be the winner in a contest or competition",
+      "definition": "Be the winner in a contest or competition; be victorious.",
+      "example": "He won the Gold Medal in skating.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUN": {
+      "word": "SUN",
+      "pos": "n.",
+      "gloss": "the star that is the source of light and heat for the planets in the solar system",
+      "definition": "The star that is the source of light and heat for the planets in the solar system.",
+      "example": "The sun contains 99.85% of the mass in the solar system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIN": {
+      "word": "SIN",
+      "pos": "n.",
+      "gloss": "estrangement from god",
+      "definition": "Estrangement from god.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUE": {
+      "word": "SUE",
+      "pos": "v.",
+      "gloss": "institute legal proceedings against",
+      "definition": "Institute legal proceedings against; file a suit against.",
+      "example": "He was warned that the district attorney would process him.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEN": {
+      "word": "SEN",
+      "pos": "n.",
+      "gloss": "a fractional monetary unit of Japan and Indonesia and Cambodia",
+      "definition": "A fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SINE": {
+      "word": "SINE",
+      "pos": "n.",
+      "gloss": "ratio of the length of the side opposite the given angle to the length of the…",
+      "definition": "Ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

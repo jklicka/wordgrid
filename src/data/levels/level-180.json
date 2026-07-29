@@ -1,0 +1,128 @@
+{
+  "id": "level-180",
+  "baseWord": "SWEDE",
+  "pool": [
+    "S",
+    "W",
+    "E",
+    "D",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SWEDE",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "WEEDS",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SEWED",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SEED",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "WEED",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SEE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "WEE",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "WED"
+  ],
+  "entries": {
+    "SWEDE": {
+      "word": "SWEDE",
+      "pos": "n.",
+      "gloss": "a cruciferous plant with a thick bulbous edible yellow root",
+      "definition": "A cruciferous plant with a thick bulbous edible yellow root.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WEEDS": {
+      "word": "WEEDS",
+      "pos": "n.",
+      "gloss": "a black garment worn by a widow as a sign of mourning",
+      "definition": "A black garment (dress) worn by a widow as a sign of mourning.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SEWED": {
+      "word": "SEWED",
+      "pos": "adj.",
+      "gloss": "fastened with stitches",
+      "definition": "Fastened with stitches.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SEED": {
+      "word": "SEED",
+      "pos": "n.",
+      "gloss": "a small hard fruit",
+      "definition": "A small hard fruit.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WEED": {
+      "word": "WEED",
+      "pos": "n.",
+      "gloss": "any plant that crowds out cultivated plants",
+      "definition": "Any plant that crowds out cultivated plants.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEE": {
+      "word": "SEE",
+      "pos": "v.",
+      "gloss": "perceive by sight or have the power to perceive by sight",
+      "definition": "Perceive by sight or have the power to perceive by sight.",
+      "example": "You have to be a good observer to see all the details.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WEE": {
+      "word": "WEE",
+      "pos": "adj.",
+      "gloss": "very small",
+      "definition": "(used informally) very small.",
+      "example": "A wee tot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WED": {
+      "word": "WED",
+      "pos": "v.",
+      "gloss": "take in marriage",
+      "definition": "Take in marriage.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

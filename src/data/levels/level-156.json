@@ -1,0 +1,198 @@
+{
+  "id": "level-156",
+  "baseWord": "GAMBIT",
+  "pool": [
+    "G",
+    "A",
+    "M",
+    "B",
+    "I",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "GAMBIT",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "AMBIT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "BAIT",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "GAIT",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "BIT",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BAG",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "TAG",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "BIG",
+    "AIM",
+    "BAT",
+    "TAB",
+    "ATM",
+    "MAT",
+    "MAG",
+    "BAM"
+  ],
+  "entries": {
+    "GAMBIT": {
+      "word": "GAMBIT",
+      "pos": "n.",
+      "gloss": "an opening remark intended to secure an advantage for the speaker",
+      "definition": "An opening remark intended to secure an advantage for the speaker.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AMBIT": {
+      "word": "AMBIT",
+      "pos": "n.",
+      "gloss": "an area in which something acts or operates or has power or control",
+      "definition": "An area in which something acts or operates or has power or control: \"the range of a supersonic jet\".",
+      "example": "A piano has a greater range than the human voice.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BAIT": {
+      "word": "BAIT",
+      "pos": "n.",
+      "gloss": "anything that serves as an enticement",
+      "definition": "Anything that serves as an enticement.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAIT": {
+      "word": "GAIT",
+      "pos": "n.",
+      "gloss": "the rate of moving",
+      "definition": "The rate of moving (especially walking or running).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BIT": {
+      "word": "BIT",
+      "pos": "n.",
+      "gloss": "a small piece or quantity of something",
+      "definition": "A small piece or quantity of something.",
+      "example": "A spot of tea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAG": {
+      "word": "BAG",
+      "pos": "n.",
+      "gloss": "a flexible container with a single opening",
+      "definition": "A flexible container with a single opening.",
+      "example": "He stuffed his laundry into a large bag.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAG": {
+      "word": "TAG",
+      "pos": "v.",
+      "gloss": "attach a tag or label to",
+      "definition": "Attach a tag or label to.",
+      "example": "Label these bottles.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BIG": {
+      "word": "BIG",
+      "pos": "adj.",
+      "gloss": "above average in size or number or quantity or magnitude or extent",
+      "definition": "Above average in size or number or quantity or magnitude or extent.",
+      "example": "A large city.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIM": {
+      "word": "AIM",
+      "pos": "v.",
+      "gloss": "point or cause to go towards",
+      "definition": "Point or cause to go (blows, weapons, or objects such as photographic equipment) towards.",
+      "example": "Please don't aim at your little brother!",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAT": {
+      "word": "BAT",
+      "pos": "n.",
+      "gloss": "nocturnal mouselike mammal with forelimbs modified to form membranous wings and…",
+      "definition": "Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAB": {
+      "word": "TAB",
+      "pos": "n.",
+      "gloss": "the bill in a restaurant",
+      "definition": "The bill in a restaurant.",
+      "example": "He asked the waiter for the check.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ATM": {
+      "word": "ATM",
+      "pos": "n.",
+      "gloss": "a unit of pressure",
+      "definition": "A unit of pressure: the pressure that will support a column of mercury 760 mm high at sea level and 0 degrees centigrade.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAT": {
+      "word": "MAT",
+      "pos": "n.",
+      "gloss": "a thick flat pad used as a floor covering",
+      "definition": "A thick flat pad used as a floor covering.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAG": {
+      "word": "MAG",
+      "pos": "n.",
+      "gloss": "a periodic publication containing pictures and stories and articles of interest to…",
+      "definition": "A periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it.",
+      "example": "It takes several years before a magazine starts to break even or make money.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAM": {
+      "word": "BAM",
+      "pos": "n.",
+      "gloss": "a sudden very loud noise",
+      "definition": "A sudden very loud noise.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

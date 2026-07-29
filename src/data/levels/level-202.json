@@ -1,0 +1,174 @@
+{
+  "id": "level-202",
+  "baseWord": "FARAWAY",
+  "pool": [
+    "F",
+    "A",
+    "R",
+    "A",
+    "W",
+    "A",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "FARAWAY",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "AWAY",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "WARY",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "AFAR",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "FRAY",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "AWRY",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "FAR",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "WAY",
+    "WAR",
+    "RAY",
+    "RAW",
+    "FRY"
+  ],
+  "entries": {
+    "FARAWAY": {
+      "word": "FARAWAY",
+      "pos": "adj.",
+      "gloss": "very far away in space or time",
+      "definition": "Very far away in space or time.",
+      "example": "Faraway mountains.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AWAY": {
+      "word": "AWAY",
+      "pos": "adv.",
+      "gloss": "from a particular thing or place or position",
+      "definition": "From a particular thing or place or position (`forth' is obsolete).",
+      "example": "Ran away from the lion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WARY": {
+      "word": "WARY",
+      "pos": "adj.",
+      "gloss": "marked by keen caution and watchful prudence",
+      "definition": "Marked by keen caution and watchful prudence.",
+      "example": "They were wary in their movements.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AFAR": {
+      "word": "AFAR",
+      "pos": "adv.",
+      "gloss": "at or from or to a great distance",
+      "definition": "(old-fashioned) at or from or to a great distance; far.",
+      "example": "We traveled afar.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FRAY": {
+      "word": "FRAY",
+      "pos": "n.",
+      "gloss": "a noisy fight",
+      "definition": "A noisy fight.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AWRY": {
+      "word": "AWRY",
+      "pos": "adj.",
+      "gloss": "turned or twisted toward one side",
+      "definition": "Turned or twisted toward one side.",
+      "example": "A...youth with a gorgeous red necktie all awry\"- G.K.Chesterton.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FAR": {
+      "word": "FAR",
+      "pos": "adv.",
+      "gloss": "to a considerable degree",
+      "definition": "To a considerable degree; very much.",
+      "example": "A far far better thing that I do.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WAY": {
+      "word": "WAY",
+      "pos": "n.",
+      "gloss": "how something is done or how it happens",
+      "definition": "How something is done or how it happens.",
+      "example": "Her dignified manner.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WAR": {
+      "word": "WAR",
+      "pos": "n.",
+      "gloss": "the waging of armed conflict against an enemy",
+      "definition": "The waging of armed conflict against an enemy.",
+      "example": "Thousands of people were killed in the war.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAY": {
+      "word": "RAY",
+      "pos": "n.",
+      "gloss": "a column of light",
+      "definition": "A column of light (as from a beacon).",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAW": {
+      "word": "RAW",
+      "pos": "adj.",
+      "gloss": "being unprocessed or manufactured using only simple or minimal processes",
+      "definition": "(used especially of commodities) being unprocessed or manufactured using only simple or minimal processes.",
+      "example": "Natural yogurt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FRY": {
+      "word": "FRY",
+      "pos": "v.",
+      "gloss": "be excessively hot",
+      "definition": "Be excessively hot.",
+      "example": "If the children stay out on the beach for another hour, they'll be fried.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

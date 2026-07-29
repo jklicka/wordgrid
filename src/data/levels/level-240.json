@@ -1,0 +1,141 @@
+{
+  "id": "level-240",
+  "baseWord": "SWOON",
+  "pool": [
+    "S",
+    "W",
+    "O",
+    "O",
+    "N"
+  ],
+  "rows": 6,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "SWOON",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SOON",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SNOW",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SOWN",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NOW",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "OWN",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SON",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "WON",
+    "WOO"
+  ],
+  "entries": {
+    "SWOON": {
+      "word": "SWOON",
+      "pos": "v.",
+      "gloss": "pass out from weakness, physical or emotional distress due to a loss of blood supply…",
+      "definition": "Pass out from weakness, physical or emotional distress due to a loss of blood supply to the brain.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SOON": {
+      "word": "SOON",
+      "pos": "adv.",
+      "gloss": "in the near future",
+      "definition": "In the near future.",
+      "example": "The doctor will soon be here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SNOW": {
+      "word": "SNOW",
+      "pos": "n.",
+      "gloss": "precipitation falling from clouds in the form of ice crystals",
+      "definition": "Precipitation falling from clouds in the form of ice crystals.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOWN": {
+      "word": "SOWN",
+      "pos": "adj.",
+      "gloss": "sprinkled with seed",
+      "definition": "Sprinkled with seed.",
+      "example": "A seeded lawn.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NOW": {
+      "word": "NOW",
+      "pos": "adv.",
+      "gloss": "in the historical present",
+      "definition": "In the historical present; at this point in the narration of a series of past events.",
+      "example": "President Kennedy now calls in the National Guard.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OWN": {
+      "word": "OWN",
+      "pos": "v.",
+      "gloss": "have ownership or possession of",
+      "definition": "Have ownership or possession of.",
+      "example": "He owns three houses in Florida.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WON": {
+      "word": "WON",
+      "pos": "n.",
+      "gloss": "the basic unit of money in South Korea",
+      "definition": "The basic unit of money in South Korea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WOO": {
+      "word": "WOO",
+      "pos": "v.",
+      "gloss": "seek someone's favor",
+      "definition": "Seek someone's favor.",
+      "example": "China is wooing Russia.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

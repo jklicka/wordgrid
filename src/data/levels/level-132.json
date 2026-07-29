@@ -1,0 +1,166 @@
+{
+  "id": "level-132",
+  "baseWord": "NUGGET",
+  "pool": [
+    "N",
+    "U",
+    "G",
+    "G",
+    "E",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "NUGGET",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TUNE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "GENT",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "TUNG",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "GET",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "TEN",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "GUN",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "NET",
+    "EGG",
+    "GEN",
+    "NUT",
+    "GUT"
+  ],
+  "entries": {
+    "NUGGET": {
+      "word": "NUGGET",
+      "pos": "n.",
+      "gloss": "a solid lump of a precious metal as found in the earth",
+      "definition": "A solid lump of a precious metal (especially gold) as found in the earth.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TUNE": {
+      "word": "TUNE",
+      "pos": "n.",
+      "gloss": "a succession of notes forming a distinctive sequence",
+      "definition": "A succession of notes forming a distinctive sequence.",
+      "example": "She was humming an air from Beethoven.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GENT": {
+      "word": "GENT",
+      "pos": "n.",
+      "gloss": "informal abbreviation of `gentleman'",
+      "definition": "Informal abbreviation of `gentleman'.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TUNG": {
+      "word": "TUNG",
+      "pos": "n.",
+      "gloss": "Chinese tree bearing seeds that yield tung oil",
+      "definition": "Chinese tree bearing seeds that yield tung oil.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GET": {
+      "word": "GET",
+      "pos": "v.",
+      "gloss": "come into the possession of something concrete or abstract",
+      "definition": "Come into the possession of something concrete or abstract.",
+      "example": "She got a lot of paintings from her uncle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEN": {
+      "word": "TEN",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of nine and one",
+      "definition": "The cardinal number that is the sum of nine and one; the base of the decimal system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUN": {
+      "word": "GUN",
+      "pos": "n.",
+      "gloss": "a weapon that discharges a missile at high velocity",
+      "definition": "A weapon that discharges a missile at high velocity (especially from a metal tube or barrel).",
+      "band": "common",
+      "tier": "general"
+    },
+    "NET": {
+      "word": "NET",
+      "pos": "n.",
+      "gloss": "a computer network consisting of a worldwide network of computer networks that use the…",
+      "definition": "A computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EGG": {
+      "word": "EGG",
+      "pos": "n.",
+      "gloss": "animal reproductive body consisting of an ovum or embryo together with nutritive and…",
+      "definition": "Animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEN": {
+      "word": "GEN",
+      "pos": "n.",
+      "gloss": "informal term for information",
+      "definition": "Informal term for information.",
+      "example": "Give me the gen on your new line of computers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUT": {
+      "word": "NUT",
+      "pos": "n.",
+      "gloss": "usually large hard-shelled seed",
+      "definition": "Usually large hard-shelled seed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUT": {
+      "word": "GUT",
+      "pos": "n.",
+      "gloss": "the part of the alimentary canal between the stomach and the anus",
+      "definition": "The part of the alimentary canal between the stomach and the anus.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

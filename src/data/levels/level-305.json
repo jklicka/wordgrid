@@ -1,0 +1,140 @@
+{
+  "id": "level-305",
+  "baseWord": "AWNING",
+  "pool": [
+    "A",
+    "W",
+    "N",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "AWNING",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "WANING",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "GAIN",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "WING",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "WIN",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "INN",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "WAN",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "GIN",
+    "WIG"
+  ],
+  "entries": {
+    "AWNING": {
+      "word": "AWNING",
+      "pos": "n.",
+      "gloss": "a canopy made of canvas to shelter people or things from rain or sun",
+      "definition": "A canopy made of canvas to shelter people or things from rain or sun.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WANING": {
+      "word": "WANING",
+      "pos": "n.",
+      "gloss": "a gradual decrease in magnitude or extent",
+      "definition": "A gradual decrease in magnitude or extent.",
+      "example": "The waning of his enthusiasm was obvious.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GAIN": {
+      "word": "GAIN",
+      "pos": "v.",
+      "gloss": "obtain",
+      "definition": "Obtain.",
+      "example": "Derive pleasure from one's garden.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WING": {
+      "word": "WING",
+      "pos": "n.",
+      "gloss": "a movable organ for flying",
+      "definition": "A movable organ for flying (one of a pair).",
+      "band": "common",
+      "tier": "general"
+    },
+    "WIN": {
+      "word": "WIN",
+      "pos": "v.",
+      "gloss": "be the winner in a contest or competition",
+      "definition": "Be the winner in a contest or competition; be victorious.",
+      "example": "He won the Gold Medal in skating.",
+      "band": "common",
+      "tier": "general"
+    },
+    "INN": {
+      "word": "INN",
+      "pos": "n.",
+      "gloss": "a hotel providing overnight lodging for travelers",
+      "definition": "A hotel providing overnight lodging for travelers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WAN": {
+      "word": "WAN",
+      "pos": "adj.",
+      "gloss": "lacking in intensity or brightness",
+      "definition": "(of light) lacking in intensity or brightness; dim or feeble.",
+      "example": "The pale light of a half moon.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WIG": {
+      "word": "WIG",
+      "pos": "n.",
+      "gloss": "hairpiece covering the head and made of real or synthetic hair",
+      "definition": "Hairpiece covering the head and made of real or synthetic hair.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

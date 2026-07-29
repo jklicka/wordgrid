@@ -1,0 +1,124 @@
+{
+  "id": "level-248",
+  "baseWord": "NIBBLE",
+  "pool": [
+    "N",
+    "I",
+    "B",
+    "B",
+    "L",
+    "E"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "NIBBLE",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "BIBLE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LINE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "BILE",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "LIEN",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "LIE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "BEN",
+    "BIN"
+  ],
+  "entries": {
+    "NIBBLE": {
+      "word": "NIBBLE",
+      "pos": "n.",
+      "gloss": "a small byte",
+      "definition": "A small byte.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BIBLE": {
+      "word": "BIBLE",
+      "pos": "n.",
+      "gloss": "a book regarded as authoritative in its field",
+      "definition": "A book regarded as authoritative in its field.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LINE": {
+      "word": "LINE",
+      "pos": "n.",
+      "gloss": "a formation of people or things one beside another",
+      "definition": "A formation of people or things one beside another.",
+      "example": "The line of soldiers advanced with their bayonets fixed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BILE": {
+      "word": "BILE",
+      "pos": "n.",
+      "gloss": "a digestive juice secreted by the liver and stored in the gallbladder",
+      "definition": "A digestive juice secreted by the liver and stored in the gallbladder; aids in the digestion of fats.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIEN": {
+      "word": "LIEN",
+      "pos": "n.",
+      "gloss": "the right to take another's property if an obligation is not discharged",
+      "definition": "The right to take another's property if an obligation is not discharged.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIE": {
+      "word": "LIE",
+      "pos": "v.",
+      "gloss": "be located or situated somewhere",
+      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEN": {
+      "word": "BEN",
+      "pos": "n.",
+      "gloss": "a mountain or tall hill",
+      "definition": "A mountain or tall hill.",
+      "example": "They were climbing the ben.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BIN": {
+      "word": "BIN",
+      "pos": "n.",
+      "gloss": "a container; usually has a lid",
+      "definition": "A container; usually has a lid.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

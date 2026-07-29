@@ -1,0 +1,130 @@
+{
+  "id": "level-367",
+  "baseWord": "WORDY",
+  "pool": [
+    "W",
+    "O",
+    "R",
+    "D",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "WORDY",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "ROWDY",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DOWRY",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "WORD",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DORY",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DRY",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ROW",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ROD"
+  ],
+  "entries": {
+    "WORDY": {
+      "word": "WORDY",
+      "pos": "adj.",
+      "gloss": "using or containing too many words",
+      "definition": "Using or containing too many words.",
+      "example": "Long-winded (or windy) speakers.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ROWDY": {
+      "word": "ROWDY",
+      "pos": "n.",
+      "gloss": "a cruel and brutal fellow",
+      "definition": "A cruel and brutal fellow.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DOWRY": {
+      "word": "DOWRY",
+      "pos": "n.",
+      "gloss": "money or property brought by a woman to her husband at marriage",
+      "definition": "Money or property brought by a woman to her husband at marriage.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WORD": {
+      "word": "WORD",
+      "pos": "n.",
+      "gloss": "a unit of language that native speakers can identify",
+      "definition": "A unit of language that native speakers can identify.",
+      "example": "Words are the blocks from which sentences are made.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DORY": {
+      "word": "DORY",
+      "pos": "n.",
+      "gloss": "a small boat of shallow draft with cross thwarts for seats and rowlocks for oars with…",
+      "definition": "A small boat of shallow draft with cross thwarts for seats and rowlocks for oars with which it is propelled.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DRY": {
+      "word": "DRY",
+      "pos": "v.",
+      "gloss": "remove the moisture from and make dry",
+      "definition": "Remove the moisture from and make dry.",
+      "example": "Dry clothes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROW": {
+      "word": "ROW",
+      "pos": "n.",
+      "gloss": "an arrangement of objects or people side by side in a line",
+      "definition": "An arrangement of objects or people side by side in a line.",
+      "example": "A row of chairs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROD": {
+      "word": "ROD",
+      "pos": "n.",
+      "gloss": "a long thin implement made of metal or wood",
+      "definition": "A long thin implement made of metal or wood.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "level-264",
+  "baseWord": "SCALY",
+  "pool": [
+    "S",
+    "C",
+    "A",
+    "L",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "SCALY",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "CLAY",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SLAY",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LACY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SAY",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "SAC",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "LAY"
+  ],
+  "entries": {
+    "SCALY": {
+      "word": "SCALY",
+      "pos": "adj.",
+      "gloss": "rough to the touch",
+      "definition": "Rough to the touch; covered with scales or scurf.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CLAY": {
+      "word": "CLAY",
+      "pos": "n.",
+      "gloss": "a very fine-grained soil that is plastic when moist but hard when fired",
+      "definition": "A very fine-grained soil that is plastic when moist but hard when fired.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SLAY": {
+      "word": "SLAY",
+      "pos": "v.",
+      "gloss": "kill intentionally and with premeditation",
+      "definition": "Kill intentionally and with premeditation.",
+      "example": "The mafia boss ordered his enemies murdered.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LACY": {
+      "word": "LACY",
+      "pos": "adj.",
+      "gloss": "made of or resembling lace",
+      "definition": "Made of or resembling lace.",
+      "example": "A lacy gown.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SAY": {
+      "word": "SAY",
+      "pos": "v.",
+      "gloss": "express in words",
+      "definition": "Express in words.",
+      "example": "He said that he wanted to marry her.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAC": {
+      "word": "SAC",
+      "pos": "n.",
+      "gloss": "an enclosed space",
+      "definition": "An enclosed space.",
+      "example": "The trapped miners found a pocket of air.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAY": {
+      "word": "LAY",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

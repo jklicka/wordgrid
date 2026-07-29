@@ -1,0 +1,151 @@
+{
+  "id": "level-346",
+  "baseWord": "CUPPING",
+  "pool": [
+    "C",
+    "U",
+    "P",
+    "P",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "CUPPING",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PUNIC",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "PING",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "CUP",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "PIN",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "PIG",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "GIN",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "GUN",
+    "PIC",
+    "PUP"
+  ],
+  "entries": {
+    "CUPPING": {
+      "word": "CUPPING",
+      "pos": "n.",
+      "gloss": "a treatment in which evacuated cups are applied to the skin to draw blood through the…",
+      "definition": "A treatment in which evacuated cups are applied to the skin to draw blood through the surface.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PUNIC": {
+      "word": "PUNIC",
+      "pos": "adj.",
+      "gloss": "tending to betray",
+      "definition": "Tending to betray; especially having a treacherous character as attributed to the Carthaginians by the Romans.",
+      "example": "Punic faith.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PING": {
+      "word": "PING",
+      "pos": "v.",
+      "gloss": "hit with a pinging noise",
+      "definition": "Hit with a pinging noise.",
+      "example": "The bugs pinged the lamp shade.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CUP": {
+      "word": "CUP",
+      "pos": "n.",
+      "gloss": "a small open container usually used for drinking",
+      "definition": "A small open container usually used for drinking; usually has a handle.",
+      "example": "He put the cup back in the saucer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIN": {
+      "word": "PIN",
+      "pos": "v.",
+      "gloss": "to hold fast or prevent from moving",
+      "definition": "To hold fast or prevent from moving.",
+      "example": "The child was pinned under the fallen tree.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIG": {
+      "word": "PIG",
+      "pos": "n.",
+      "gloss": "domestic swine",
+      "definition": "Domestic swine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GUN": {
+      "word": "GUN",
+      "pos": "n.",
+      "gloss": "a weapon that discharges a missile at high velocity",
+      "definition": "A weapon that discharges a missile at high velocity (especially from a metal tube or barrel).",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIC": {
+      "word": "PIC",
+      "pos": "n.",
+      "gloss": "a form of entertainment that enacts a story by sound and a sequence of images giving…",
+      "definition": "A form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement.",
+      "example": "They went to a movie every Saturday night.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PUP": {
+      "word": "PUP",
+      "pos": "n.",
+      "gloss": "young of any of various canines such as a dog or wolf",
+      "definition": "Young of any of various canines such as a dog or wolf.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

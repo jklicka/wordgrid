@@ -1,0 +1,168 @@
+{
+  "id": "level-126",
+  "baseWord": "BOOTED",
+  "pool": [
+    "B",
+    "O",
+    "O",
+    "T",
+    "E",
+    "D"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "BOOTED",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DEBT",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "BOOT",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "BODE",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "BED",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "TOE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "DOT",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "TOO",
+    "BET",
+    "BOO",
+    "DOE",
+    "BOT"
+  ],
+  "entries": {
+    "BOOTED": {
+      "word": "BOOTED",
+      "pos": "adj.",
+      "gloss": "wearing boots",
+      "definition": "Wearing boots.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DEBT": {
+      "word": "DEBT",
+      "pos": "n.",
+      "gloss": "the state of owing something",
+      "definition": "The state of owing something (especially money).",
+      "example": "He is badly in debt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOOT": {
+      "word": "BOOT",
+      "pos": "n.",
+      "gloss": "footwear that covers the whole foot and lower leg",
+      "definition": "Footwear that covers the whole foot and lower leg.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BODE": {
+      "word": "BODE",
+      "pos": "v.",
+      "gloss": "indicate, as with a sign or an omen",
+      "definition": "Indicate, as with a sign or an omen.",
+      "example": "These signs bode bad news.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BED": {
+      "word": "BED",
+      "pos": "n.",
+      "gloss": "a piece of furniture that provides a place to sleep",
+      "definition": "A piece of furniture that provides a place to sleep.",
+      "example": "He sat on the edge of the bed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOE": {
+      "word": "TOE",
+      "pos": "n.",
+      "gloss": "one of the digits of the foot",
+      "definition": "One of the digits of the foot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOT": {
+      "word": "DOT",
+      "pos": "n.",
+      "gloss": "a very small circular shape",
+      "definition": "A very small circular shape.",
+      "example": "A row of points.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOO": {
+      "word": "TOO",
+      "pos": "adv.",
+      "gloss": "to a degree exceeding normal or proper limits",
+      "definition": "To a degree exceeding normal or proper limits.",
+      "example": "Too big.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BET": {
+      "word": "BET",
+      "pos": "n.",
+      "gloss": "the money risked on a gamble",
+      "definition": "The money risked on a gamble.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOO": {
+      "word": "BOO",
+      "pos": "v.",
+      "gloss": "show displeasure, as after a performance or speech",
+      "definition": "Show displeasure, as after a performance or speech.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOE": {
+      "word": "DOE",
+      "pos": "n.",
+      "gloss": "mature female of mammals of which the male is called `buck'",
+      "definition": "Mature female of mammals of which the male is called `buck'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOT": {
+      "word": "BOT",
+      "pos": "n.",
+      "gloss": "botfly larva",
+      "definition": "Botfly larva; typically develops inside the body of a horse or sheep or human.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

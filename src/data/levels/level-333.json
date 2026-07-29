@@ -1,0 +1,152 @@
+{
+  "id": "level-333",
+  "baseWord": "AGITATE",
+  "pool": [
+    "A",
+    "G",
+    "I",
+    "T",
+    "A",
+    "T",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "AGITATE",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "AGATE",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "GATE",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "GAIT",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "GET",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "AGE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "EAT",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "TEA",
+    "TIE",
+    "TAG"
+  ],
+  "entries": {
+    "AGITATE": {
+      "word": "AGITATE",
+      "pos": "v.",
+      "gloss": "try to stir up public opinion",
+      "definition": "Try to stir up public opinion.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AGATE": {
+      "word": "AGATE",
+      "pos": "n.",
+      "gloss": "an impure form of quartz consisting of banded chalcedony",
+      "definition": "An impure form of quartz consisting of banded chalcedony; used as a gemstone and for making mortars and pestles.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GATE": {
+      "word": "GATE",
+      "pos": "n.",
+      "gloss": "a movable barrier in a fence or wall",
+      "definition": "A movable barrier in a fence or wall.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAIT": {
+      "word": "GAIT",
+      "pos": "n.",
+      "gloss": "the rate of moving",
+      "definition": "The rate of moving (especially walking or running).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GET": {
+      "word": "GET",
+      "pos": "v.",
+      "gloss": "come into the possession of something concrete or abstract",
+      "definition": "Come into the possession of something concrete or abstract.",
+      "example": "She got a lot of paintings from her uncle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AGE": {
+      "word": "AGE",
+      "pos": "n.",
+      "gloss": "how long something has existed",
+      "definition": "How long something has existed.",
+      "example": "It was replaced because of its age.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAT": {
+      "word": "EAT",
+      "pos": "v.",
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIE": {
+      "word": "TIE",
+      "pos": "n.",
+      "gloss": "neckwear consisting of a long narrow piece of material worn under a collar and tied in…",
+      "definition": "Neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front.",
+      "example": "He stood in front of the mirror tightening his necktie.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAG": {
+      "word": "TAG",
+      "pos": "v.",
+      "gloss": "attach a tag or label to",
+      "definition": "Attach a tag or label to.",
+      "example": "Label these bottles.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

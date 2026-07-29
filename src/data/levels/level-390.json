@@ -1,0 +1,139 @@
+{
+  "id": "level-390",
+  "baseWord": "DROOP",
+  "pool": [
+    "D",
+    "R",
+    "O",
+    "O",
+    "P"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "DROOP",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "POOR",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "DOOR",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DROP",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ODOR",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "PROD",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "PRO",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ROD",
+    "POD"
+  ],
+  "entries": {
+    "DROOP": {
+      "word": "DROOP",
+      "pos": "v.",
+      "gloss": "droop, sink, or settle from or as if from pressure or loss of tautness",
+      "definition": "Droop, sink, or settle from or as if from pressure or loss of tautness.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "POOR": {
+      "word": "POOR",
+      "pos": "adj.",
+      "gloss": "deserving or inciting pity",
+      "definition": "Deserving or inciting pity.",
+      "example": "A hapless victim.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOOR": {
+      "word": "DOOR",
+      "pos": "n.",
+      "gloss": "a swinging or sliding barrier that will close the entrance to a room or building or…",
+      "definition": "A swinging or sliding barrier that will close the entrance to a room or building or vehicle.",
+      "example": "He knocked on the door.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DROP": {
+      "word": "DROP",
+      "pos": "v.",
+      "gloss": "let fall to the ground",
+      "definition": "Let fall to the ground.",
+      "example": "Don't drop the dishes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ODOR": {
+      "word": "ODOR",
+      "pos": "n.",
+      "gloss": "any property detected by the olfactory system",
+      "definition": "Any property detected by the olfactory system.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PROD": {
+      "word": "PROD",
+      "pos": "v.",
+      "gloss": "to push against gently",
+      "definition": "To push against gently.",
+      "example": "She nudged my elbow when she saw her friend enter the restaurant.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PRO": {
+      "word": "PRO",
+      "pos": "n.",
+      "gloss": "an athlete who plays for pay",
+      "definition": "An athlete who plays for pay.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROD": {
+      "word": "ROD",
+      "pos": "n.",
+      "gloss": "a long thin implement made of metal or wood",
+      "definition": "A long thin implement made of metal or wood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POD": {
+      "word": "POD",
+      "pos": "n.",
+      "gloss": "the vessel that contains the seeds of a plant",
+      "definition": "The vessel that contains the seeds of a plant (not the seeds themselves).",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "level-128",
+  "baseWord": "CODEX",
+  "pool": [
+    "C",
+    "O",
+    "D",
+    "E",
+    "X"
+  ],
+  "rows": 6,
+  "cols": 5,
+  "placed": [
+    {
+      "word": "CODEX",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CODE",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DECO",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DOC",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "DOE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "DEC",
+    "COX",
+    "COD"
+  ],
+  "entries": {
+    "CODEX": {
+      "word": "CODEX",
+      "pos": "n.",
+      "gloss": "an official list of chemicals or medicines etc.",
+      "definition": "An official list of chemicals or medicines etc.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CODE": {
+      "word": "CODE",
+      "pos": "n.",
+      "gloss": "a set of rules or principles or laws",
+      "definition": "A set of rules or principles or laws (especially written ones).",
+      "band": "common",
+      "tier": "general"
+    },
+    "DECO": {
+      "word": "DECO",
+      "pos": "n.",
+      "gloss": "a style of design that was popular in the 1920s and 1930s",
+      "definition": "A style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DOC": {
+      "word": "DOC",
+      "pos": "n.",
+      "gloss": "a licensed medical practitioner",
+      "definition": "A licensed medical practitioner.",
+      "example": "I felt so bad I went to see my doctor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOE": {
+      "word": "DOE",
+      "pos": "n.",
+      "gloss": "mature female of mammals of which the male is called `buck'",
+      "definition": "Mature female of mammals of which the male is called `buck'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEC": {
+      "word": "DEC",
+      "pos": "n.",
+      "gloss": "the angular distance of a celestial body north or to the south of the celestial equator",
+      "definition": "(astronomy) the angular distance of a celestial body north or to the south of the celestial equator; expressed in degrees; used with right ascension to specify positions on the celestial sphere.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COX": {
+      "word": "COX",
+      "pos": "n.",
+      "gloss": "the helmsman of a ship's boat or a racing crew",
+      "definition": "The helmsman of a ship's boat or a racing crew.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COD": {
+      "word": "COD",
+      "pos": "n.",
+      "gloss": "the vessel that contains the seeds of a plant",
+      "definition": "The vessel that contains the seeds of a plant (not the seeds themselves).",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

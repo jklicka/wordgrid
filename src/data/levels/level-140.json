@@ -1,0 +1,169 @@
+{
+  "id": "level-140",
+  "baseWord": "LOUVRE",
+  "pool": [
+    "L",
+    "O",
+    "U",
+    "V",
+    "R",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "LOUVRE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "VELOUR",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LOVER",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "OVER",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "LOVE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ROLE",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "RULE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "REV",
+    "ORE",
+    "EURO",
+    "LURE",
+    "LORE"
+  ],
+  "entries": {
+    "LOUVRE": {
+      "word": "LOUVRE",
+      "pos": "n.",
+      "gloss": "one of a set of parallel slats in a door or window to admit air and reject rain",
+      "definition": "One of a set of parallel slats in a door or window to admit air and reject rain.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "VELOUR": {
+      "word": "VELOUR",
+      "pos": "n.",
+      "gloss": "heavy fabric that resembles velvet",
+      "definition": "Heavy fabric that resembles velvet.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LOVER": {
+      "word": "LOVER",
+      "pos": "n.",
+      "gloss": "a person who loves someone or is loved by someone",
+      "definition": "A person who loves someone or is loved by someone.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OVER": {
+      "word": "OVER",
+      "pos": "adv.",
+      "gloss": "at or to a point across intervening space etc.",
+      "definition": "At or to a point across intervening space etc.",
+      "example": "Come over and see us some time.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOVE": {
+      "word": "LOVE",
+      "pos": "n.",
+      "gloss": "a strong positive emotion of regard and affection",
+      "definition": "A strong positive emotion of regard and affection.",
+      "example": "His love for his work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROLE": {
+      "word": "ROLE",
+      "pos": "n.",
+      "gloss": "the actions and activities assigned to or required or expected of a person or group",
+      "definition": "The actions and activities assigned to or required or expected of a person or group.",
+      "example": "The function of a teacher.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RULE": {
+      "word": "RULE",
+      "pos": "n.",
+      "gloss": "a principle or condition that customarily governs behavior",
+      "definition": "A principle or condition that customarily governs behavior.",
+      "example": "It was his rule to take a walk before breakfast.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REV": {
+      "word": "REV",
+      "pos": "v.",
+      "gloss": "increase the number of rotations per minute",
+      "definition": "Increase the number of rotations per minute.",
+      "example": "Rev up an engine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ORE": {
+      "word": "ORE",
+      "pos": "n.",
+      "gloss": "a mineral that contains metal that is valuable enough to be mined",
+      "definition": "A mineral that contains metal that is valuable enough to be mined.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EURO": {
+      "word": "EURO",
+      "pos": "n.",
+      "gloss": "the basic monetary unit of most members of the European Union",
+      "definition": "The basic monetary unit of most members of the European Union (introduced in 1999); in 2002 twelve European nations (Germany, France, Belgium, Luxembourg, the Netherlands, Italy, Spain, Portugal, Ireland, Greece, Austria, Finland) adopted the euro as their basic unit of money and abandoned their traditional currencies.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LURE": {
+      "word": "LURE",
+      "pos": "n.",
+      "gloss": "qualities that attract by seeming to promise some kind of reward",
+      "definition": "Qualities that attract by seeming to promise some kind of reward.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LORE": {
+      "word": "LORE",
+      "pos": "n.",
+      "gloss": "knowledge gained through tradition or anecdote",
+      "definition": "Knowledge gained through tradition or anecdote.",
+      "example": "Early peoples passed on plant and animal lore through legend.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

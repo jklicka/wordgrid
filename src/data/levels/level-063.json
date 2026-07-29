@@ -1,0 +1,168 @@
+{
+  "id": "level-063",
+  "baseWord": "MADRAS",
+  "pool": [
+    "M",
+    "A",
+    "D",
+    "R",
+    "A",
+    "S"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "MADRAS",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "DRAMA",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ARMS",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "MARA",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SAD",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "MAD",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ARM",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "MAR",
+    "RAM",
+    "DAM",
+    "DAS",
+    "DRAM"
+  ],
+  "entries": {
+    "MADRAS": {
+      "word": "MADRAS",
+      "pos": "n.",
+      "gloss": "a light patterned cotton cloth",
+      "definition": "A light patterned cotton cloth.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DRAMA": {
+      "word": "DRAMA",
+      "pos": "n.",
+      "gloss": "a dramatic work intended for performance by actors on a stage",
+      "definition": "A dramatic work intended for performance by actors on a stage.",
+      "example": "He wrote several plays but only one was produced on Broadway.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARMS": {
+      "word": "ARMS",
+      "pos": "n.",
+      "gloss": "weapons considered collectively",
+      "definition": "Weapons considered collectively.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MARA": {
+      "word": "MARA",
+      "pos": "n.",
+      "gloss": "hare-like rodent of the pampas of Argentina",
+      "definition": "Hare-like rodent of the pampas of Argentina.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SAD": {
+      "word": "SAD",
+      "pos": "adj.",
+      "gloss": "experiencing or showing sorrow or unhappiness",
+      "definition": "Experiencing or showing sorrow or unhappiness.",
+      "example": "Feeling sad because his dog had died.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAD": {
+      "word": "MAD",
+      "pos": "adj.",
+      "gloss": "roused to anger",
+      "definition": "Roused to anger.",
+      "example": "Stayed huffy a good while\"- Mark Twain.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARM": {
+      "word": "ARM",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAR": {
+      "word": "MAR",
+      "pos": "v.",
+      "gloss": "make imperfect",
+      "definition": "Make imperfect.",
+      "example": "Nothing marred her beauty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAM": {
+      "word": "RAM",
+      "pos": "v.",
+      "gloss": "strike or drive against with a heavy impact",
+      "definition": "Strike or drive against with a heavy impact.",
+      "example": "Ram the gate with a sledgehammer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAM": {
+      "word": "DAM",
+      "pos": "n.",
+      "gloss": "a barrier constructed to contain the flow of water or to keep out the sea",
+      "definition": "A barrier constructed to contain the flow of water or to keep out the sea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAS": {
+      "word": "DAS",
+      "pos": "n.",
+      "gloss": "any of several small ungulate mammals of Africa and Asia with rodent-like incisors and…",
+      "definition": "Any of several small ungulate mammals of Africa and Asia with rodent-like incisors and feet with hooflike toes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DRAM": {
+      "word": "DRAM",
+      "pos": "n.",
+      "gloss": "a unit of apothecary weight equal to an eighth of an ounce or to 60 grains",
+      "definition": "A unit of apothecary weight equal to an eighth of an ounce or to 60 grains.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

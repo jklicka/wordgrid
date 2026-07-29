@@ -1,0 +1,139 @@
+{
+  "id": "level-398",
+  "baseWord": "AVIARY",
+  "pool": [
+    "A",
+    "V",
+    "I",
+    "A",
+    "R",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "AVIARY",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "VARY",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "ARIA",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "AIRY",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "AIR",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "RAY",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "IRA",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "IVY",
+    "VAR"
+  ],
+  "entries": {
+    "AVIARY": {
+      "word": "AVIARY",
+      "pos": "n.",
+      "gloss": "a building where birds are kept",
+      "definition": "A building where birds are kept.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "VARY": {
+      "word": "VARY",
+      "pos": "v.",
+      "gloss": "become different in some particular way, without permanently losing one's or its…",
+      "definition": "Become different in some particular way, without permanently losing one's or its former characteristics or essence.",
+      "example": "Her mood changes in accordance with the weather.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARIA": {
+      "word": "ARIA",
+      "pos": "n.",
+      "gloss": "an elaborate song for solo voice",
+      "definition": "An elaborate song for solo voice.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AIRY": {
+      "word": "AIRY",
+      "pos": "adj.",
+      "gloss": "open to or abounding in fresh air",
+      "definition": "Open to or abounding in fresh air.",
+      "example": "Airy rooms.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AIR": {
+      "word": "AIR",
+      "pos": "n.",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAY": {
+      "word": "RAY",
+      "pos": "n.",
+      "gloss": "a column of light",
+      "definition": "A column of light (as from a beacon).",
+      "band": "common",
+      "tier": "general"
+    },
+    "IRA": {
+      "word": "IRA",
+      "pos": "n.",
+      "gloss": "belligerence aroused by a real or supposed wrong",
+      "definition": "Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).",
+      "band": "common",
+      "tier": "general"
+    },
+    "IVY": {
+      "word": "IVY",
+      "pos": "n.",
+      "gloss": "Old World vine with lobed evergreen leaves and black berrylike fruits",
+      "definition": "Old World vine with lobed evergreen leaves and black berrylike fruits.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VAR": {
+      "word": "VAR",
+      "pos": "n.",
+      "gloss": "a unit of electrical power in an AC circuit equal to the power dissipated when 1 volt…",
+      "definition": "A unit of electrical power in an AC circuit equal to the power dissipated when 1 volt produces a current of 1 ampere.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

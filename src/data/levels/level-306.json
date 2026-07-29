@@ -1,0 +1,149 @@
+{
+  "id": "level-306",
+  "baseWord": "KISSER",
+  "pool": [
+    "K",
+    "I",
+    "S",
+    "S",
+    "E",
+    "R"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "KISSER",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SKIER",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "RISK",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "RISE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "KISS",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "KRIS",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "SIRE",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SIR",
+    "SKI",
+    "SIS"
+  ],
+  "entries": {
+    "KISSER": {
+      "word": "KISSER",
+      "pos": "n.",
+      "gloss": "someone who kisses",
+      "definition": "Someone who kisses.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SKIER": {
+      "word": "SKIER",
+      "pos": "n.",
+      "gloss": "someone who skis",
+      "definition": "Someone who skis.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RISK": {
+      "word": "RISK",
+      "pos": "n.",
+      "gloss": "a source of danger",
+      "definition": "A source of danger; a possibility of incurring loss or misfortune.",
+      "example": "Drinking alcohol is a health hazard.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RISE": {
+      "word": "RISE",
+      "pos": "v.",
+      "gloss": "move upward",
+      "definition": "Move upward.",
+      "example": "The fog lifted.",
+      "band": "common",
+      "tier": "general"
+    },
+    "KISS": {
+      "word": "KISS",
+      "pos": "n.",
+      "gloss": "the act of caressing with the lips",
+      "definition": "The act of caressing with the lips (or an instance thereof).",
+      "band": "common",
+      "tier": "general"
+    },
+    "KRIS": {
+      "word": "KRIS",
+      "pos": "n.",
+      "gloss": "a Malayan dagger with a wavy blade",
+      "definition": "A Malayan dagger with a wavy blade.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIRE": {
+      "word": "SIRE",
+      "pos": "v.",
+      "gloss": "make by reproduction",
+      "definition": "Make (offspring) by reproduction.",
+      "example": "Abraham begot Isaac.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SIR": {
+      "word": "SIR",
+      "pos": "n.",
+      "gloss": "term of address for a man",
+      "definition": "Term of address for a man.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SKI": {
+      "word": "SKI",
+      "pos": "n.",
+      "gloss": "narrow wood or metal or plastic runners used in pairs for gliding over snow",
+      "definition": "Narrow wood or metal or plastic runners used in pairs for gliding over snow.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIS": {
+      "word": "SIS",
+      "pos": "n.",
+      "gloss": "a female person who has the same parents as another person",
+      "definition": "A female person who has the same parents as another person.",
+      "example": "My sister married a musician.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "level-184",
+  "baseWord": "SMIRK",
+  "pool": [
+    "S",
+    "M",
+    "I",
+    "R",
+    "K"
+  ],
+  "rows": 7,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "SMIRK",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RISK",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "KRIS",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "SKIM",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SIR",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SKI",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "RIM"
+  ],
+  "entries": {
+    "SMIRK": {
+      "word": "SMIRK",
+      "pos": "v.",
+      "gloss": "smile affectedly or derisively",
+      "definition": "Smile affectedly or derisively.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RISK": {
+      "word": "RISK",
+      "pos": "n.",
+      "gloss": "a source of danger",
+      "definition": "A source of danger; a possibility of incurring loss or misfortune.",
+      "example": "Drinking alcohol is a health hazard.",
+      "band": "common",
+      "tier": "general"
+    },
+    "KRIS": {
+      "word": "KRIS",
+      "pos": "n.",
+      "gloss": "a Malayan dagger with a wavy blade",
+      "definition": "A Malayan dagger with a wavy blade.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SKIM": {
+      "word": "SKIM",
+      "pos": "v.",
+      "gloss": "travel on the surface of water",
+      "definition": "Travel on the surface of water.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SIR": {
+      "word": "SIR",
+      "pos": "n.",
+      "gloss": "term of address for a man",
+      "definition": "Term of address for a man.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SKI": {
+      "word": "SKI",
+      "pos": "n.",
+      "gloss": "narrow wood or metal or plastic runners used in pairs for gliding over snow",
+      "definition": "Narrow wood or metal or plastic runners used in pairs for gliding over snow.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIM": {
+      "word": "RIM",
+      "pos": "n.",
+      "gloss": "the shape of a raised edge of a more or less circular object",
+      "definition": "The shape of a raised edge of a more or less circular object.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

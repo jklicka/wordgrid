@@ -1,0 +1,179 @@
+{
+  "id": "level-293",
+  "baseWord": "ABDUCT",
+  "pool": [
+    "A",
+    "B",
+    "D",
+    "U",
+    "C",
+    "T"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "ABDUCT",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DUCT",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "BUT",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "BAD",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "ACT",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "CUT",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "CAT",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "BAT",
+    "BUD",
+    "TAB",
+    "CAB",
+    "TUB",
+    "DUB"
+  ],
+  "entries": {
+    "ABDUCT": {
+      "word": "ABDUCT",
+      "pos": "v.",
+      "gloss": "take away to an undisclosed location against their will and usually in order to…",
+      "definition": "Take away to an undisclosed location against their will and usually in order to extract a ransom.",
+      "example": "The industrialist's son was kidnapped.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DUCT": {
+      "word": "DUCT",
+      "pos": "n.",
+      "gloss": "a bodily passage or tube lined with epithelial cells and conveying a secretion or…",
+      "definition": "A bodily passage or tube lined with epithelial cells and conveying a secretion or other substance.",
+      "example": "The tear duct was obstructed.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BUT": {
+      "word": "BUT",
+      "pos": "adv.",
+      "gloss": "and nothing more",
+      "definition": "And nothing more.",
+      "example": "I was merely asking.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAD": {
+      "word": "BAD",
+      "pos": "adj.",
+      "gloss": "having undesirable or negative qualities",
+      "definition": "Having undesirable or negative qualities.",
+      "example": "A bad report card.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACT": {
+      "word": "ACT",
+      "pos": "v.",
+      "gloss": "perform an action, or work out or perform",
+      "definition": "Perform an action, or work out or perform (an action).",
+      "example": "Think before you act.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CUT": {
+      "word": "CUT",
+      "pos": "v.",
+      "gloss": "separate with or as if with an instrument",
+      "definition": "Separate with or as if with an instrument.",
+      "example": "Cut the rope.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAT": {
+      "word": "CAT",
+      "pos": "n.",
+      "gloss": "feline mammal usually having thick soft fur and no ability to roar",
+      "definition": "Feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAT": {
+      "word": "BAT",
+      "pos": "n.",
+      "gloss": "nocturnal mouselike mammal with forelimbs modified to form membranous wings and…",
+      "definition": "Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BUD": {
+      "word": "BUD",
+      "pos": "n.",
+      "gloss": "a partially opened flower",
+      "definition": "A partially opened flower.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAB": {
+      "word": "TAB",
+      "pos": "n.",
+      "gloss": "the bill in a restaurant",
+      "definition": "The bill in a restaurant.",
+      "example": "He asked the waiter for the check.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAB": {
+      "word": "CAB",
+      "pos": "n.",
+      "gloss": "a compartment at the front of a motor vehicle or locomotive where driver sits",
+      "definition": "A compartment at the front of a motor vehicle or locomotive where driver sits.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TUB": {
+      "word": "TUB",
+      "pos": "n.",
+      "gloss": "a relatively large open container that you fill with water and use to wash the body",
+      "definition": "A relatively large open container that you fill with water and use to wash the body.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUB": {
+      "word": "DUB",
+      "pos": "v.",
+      "gloss": "give a nickname to",
+      "definition": "Give a nickname to.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,126 +1,131 @@
 {
   "id": "level-011",
-  "baseWord": "SLANG",
+  "baseWord": "BURNER",
   "pool": [
-    "S",
-    "L",
-    "A",
+    "B",
+    "U",
+    "R",
     "N",
-    "G"
+    "E",
+    "R"
   ],
-  "rows": 8,
+  "rows": 7,
   "cols": 8,
   "placed": [
     {
-      "word": "SLANG",
-      "row": 4,
-      "col": 3,
+      "word": "BURNER",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "word": "GLANS",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "word": "SANG",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "word": "SNAG",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "word": "SLAG",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "word": "GAS",
+      "word": "RERUN",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "word": "GAL",
-      "row": 5,
-      "col": 1,
+      "word": "BURN",
+      "row": 0,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "word": "BURR",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "RUNE",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "RUN",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "BEN",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "bonus": [
-    "LAG"
+    "RUB"
   ],
   "entries": {
-    "SLANG": {
-      "word": "SLANG",
+    "BURNER": {
+      "word": "BURNER",
       "pos": "n.",
-      "gloss": "informal language consisting of words and expressions that are not considered…",
-      "definition": "Informal language consisting of words and expressions that are not considered appropriate for formal occasions; often vituperative or vulgar.",
-      "example": "Their speech was full of slang expressions.",
+      "gloss": "an apparatus for burning fuel",
+      "definition": "An apparatus for burning fuel (or refuse).",
+      "example": "A diesel engine is an oil burner.",
       "band": "teaching",
       "tier": "general"
     },
-    "GLANS": {
-      "word": "GLANS",
-      "pos": "n.",
-      "gloss": "a small rounded structure",
-      "definition": "A small rounded structure; especially that at the end of the penis or clitoris.",
-      "band": "teaching",
-      "tier": "general"
-    },
-    "SANG": {
-      "word": "SANG",
-      "pos": "n.",
-      "gloss": "North American woodland herb similar to and used as substitute for the Chinese ginseng",
-      "definition": "North American woodland herb similar to and used as substitute for the Chinese ginseng.",
-      "band": "common",
-      "tier": "general"
-    },
-    "SNAG": {
-      "word": "SNAG",
+    "RERUN": {
+      "word": "RERUN",
       "pos": "v.",
-      "gloss": "catch on a snag",
-      "definition": "Catch on a snag.",
-      "example": "I snagged my stocking.",
+      "gloss": "broadcast again, as of a film",
+      "definition": "Broadcast again, as of a film.",
       "band": "teaching",
       "tier": "general"
     },
-    "SLAG": {
-      "word": "SLAG",
+    "BURN": {
+      "word": "BURN",
+      "pos": "v.",
+      "gloss": "destroy by fire",
+      "definition": "Destroy by fire.",
+      "example": "They burned the house and his diaries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BURR": {
+      "word": "BURR",
       "pos": "n.",
-      "gloss": "the scum formed by oxidation at the surface of molten metals",
-      "definition": "The scum formed by oxidation at the surface of molten metals.",
+      "gloss": "seed vessel having hooks or prickles",
+      "definition": "Seed vessel having hooks or prickles.",
       "band": "teaching",
       "tier": "general"
     },
-    "GAS": {
-      "word": "GAS",
+    "RUNE": {
+      "word": "RUNE",
       "pos": "n.",
-      "gloss": "the state of matter distinguished from the solid and liquid states by",
-      "definition": "The state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container.",
+      "gloss": "any character from an ancient Germanic alphabet used in Scandinavia from the 3rd…",
+      "definition": "Any character from an ancient Germanic alphabet used in Scandinavia from the 3rd century to the Middle Ages.",
+      "example": "Each rune had its own magical significance.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RUN": {
+      "word": "RUN",
+      "pos": "v.",
+      "gloss": "move fast by using one's feet, with one foot off the ground at any given time",
+      "definition": "Move fast by using one's feet, with one foot off the ground at any given time.",
+      "example": "Don't run--you'll be out of breath.",
       "band": "common",
       "tier": "general"
     },
-    "GAL": {
-      "word": "GAL",
+    "BEN": {
+      "word": "BEN",
       "pos": "n.",
-      "gloss": "United States liquid unit equal to 4 quarts or 3.785 liters",
-      "definition": "United States liquid unit equal to 4 quarts or 3.785 liters.",
+      "gloss": "a mountain or tall hill",
+      "definition": "A mountain or tall hill.",
+      "example": "They were climbing the ben.",
       "band": "common",
       "tier": "general"
     },
-    "LAG": {
-      "word": "LAG",
-      "pos": "n.",
-      "gloss": "the act of slowing down or falling behind",
-      "definition": "The act of slowing down or falling behind.",
+    "RUB": {
+      "word": "RUB",
+      "pos": "v.",
+      "gloss": "move over something with pressure",
+      "definition": "Move over something with pressure.",
+      "example": "Rub my hands.",
       "band": "common",
       "tier": "general"
     }

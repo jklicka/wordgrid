@@ -1,0 +1,117 @@
+{
+  "id": "level-324",
+  "baseWord": "ABACUS",
+  "pool": [
+    "A",
+    "B",
+    "A",
+    "C",
+    "U",
+    "S"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "ABACUS",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SCUBA",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "CAUSA",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "BUS",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SUB",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "CAB",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SAC"
+  ],
+  "entries": {
+    "ABACUS": {
+      "word": "ABACUS",
+      "pos": "n.",
+      "gloss": "a tablet placed horizontally on top of the capital of a column as an aid in supporting…",
+      "definition": "A tablet placed horizontally on top of the capital of a column as an aid in supporting the architrave.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SCUBA": {
+      "word": "SCUBA",
+      "pos": "n.",
+      "gloss": "a device that lets divers breathe under water",
+      "definition": "A device (trade name Aqua-Lung) that lets divers breathe under water; scuba is an acronym for self-contained underwater breathing apparatus.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAUSA": {
+      "word": "CAUSA",
+      "pos": "n.",
+      "gloss": "a comprehensive term for any proceeding in a court of law whereby an individual seeks…",
+      "definition": "A comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy.",
+      "example": "The family brought suit against the landlord.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BUS": {
+      "word": "BUS",
+      "pos": "n.",
+      "gloss": "a vehicle carrying many passengers",
+      "definition": "A vehicle carrying many passengers; used for public transport.",
+      "example": "He always rode the bus to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUB": {
+      "word": "SUB",
+      "pos": "v.",
+      "gloss": "be a substitute",
+      "definition": "Be a substitute.",
+      "example": "The young teacher had to substitute for the sick colleague.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAB": {
+      "word": "CAB",
+      "pos": "n.",
+      "gloss": "a compartment at the front of a motor vehicle or locomotive where driver sits",
+      "definition": "A compartment at the front of a motor vehicle or locomotive where driver sits.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAC": {
+      "word": "SAC",
+      "pos": "n.",
+      "gloss": "an enclosed space",
+      "definition": "An enclosed space.",
+      "example": "The trapped miners found a pocket of air.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

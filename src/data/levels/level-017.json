@@ -1,144 +1,218 @@
 {
   "id": "level-017",
-  "baseWord": "MATTE",
+  "baseWord": "PIRACY",
   "pool": [
-    "M",
+    "P",
+    "I",
+    "R",
     "A",
-    "T",
-    "T",
-    "E"
+    "C",
+    "Y"
   ],
   "rows": 8,
-  "cols": 7,
+  "cols": 6,
   "placed": [
     {
-      "word": "MATTE",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "word": "TEAM",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "word": "MEAT",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "word": "MATE",
-      "row": 3,
+      "word": "PIRACY",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "word": "MATT",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "word": "TAME",
-      "row": 0,
-      "col": 3,
+      "word": "PRICY",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "word": "EAT",
-      "row": 0,
+      "word": "PAIR",
+      "row": 4,
       "col": 1,
       "direction": "across"
+    },
+    {
+      "word": "CRAP",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "PRAY",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "AIRY",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "PAY",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
     }
   ],
   "bonus": [
-    "TEA",
-    "ATM",
-    "MAT"
+    "CAR",
+    "AIR",
+    "RAY",
+    "CRY",
+    "CAP",
+    "RIP",
+    "ARC",
+    "PIC",
+    "PAR",
+    "RAP"
   ],
   "entries": {
-    "MATTE": {
-      "word": "MATTE",
+    "PIRACY": {
+      "word": "PIRACY",
       "pos": "n.",
-      "gloss": "a mixture of sulfides that forms when sulfide metal ores are smelted",
-      "definition": "A mixture of sulfides that forms when sulfide metal ores are smelted.",
+      "gloss": "hijacking on the high seas or in similar contexts",
+      "definition": "Hijacking on the high seas or in similar contexts; taking a ship or plane away from the control of those who are legally entitled to it.",
+      "example": "Air piracy.",
       "band": "teaching",
       "tier": "general"
     },
-    "TEAM": {
-      "word": "TEAM",
-      "pos": "n.",
-      "gloss": "a cooperative unit",
-      "definition": "A cooperative unit (especially in sports).",
-      "band": "common",
-      "tier": "general"
-    },
-    "MEAT": {
-      "word": "MEAT",
-      "pos": "n.",
-      "gloss": "the flesh of animals used as food",
-      "definition": "The flesh of animals (including fishes and birds and snails) used as food.",
-      "band": "common",
-      "tier": "general"
-    },
-    "MATE": {
-      "word": "MATE",
-      "pos": "n.",
-      "gloss": "the officer below the master on a commercial ship",
-      "definition": "The officer below the master on a commercial ship.",
-      "band": "common",
-      "tier": "general"
-    },
-    "MATT": {
-      "word": "MATT",
-      "pos": "n.",
-      "gloss": "the property of having little or no contrast",
-      "definition": "The property of having little or no contrast; lacking highlights or gloss.",
-      "band": "common",
-      "tier": "general"
-    },
-    "TAME": {
-      "word": "TAME",
-      "pos": "v.",
-      "gloss": "correct by punishment or discipline",
-      "definition": "Correct by punishment or discipline.",
+    "PRICY": {
+      "word": "PRICY",
+      "pos": "adj.",
+      "gloss": "having a high price",
+      "definition": "Having a high price.",
+      "example": "Costly jewelry.",
       "band": "teaching",
       "tier": "general"
     },
-    "EAT": {
-      "word": "EAT",
+    "PAIR": {
+      "word": "PAIR",
+      "pos": "n.",
+      "gloss": "a set of two similar things considered as a unit",
+      "definition": "A set of two similar things considered as a unit.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CRAP": {
+      "word": "CRAP",
+      "pos": "n.",
+      "gloss": "obscene terms for feces",
+      "definition": "Obscene terms for feces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PRAY": {
+      "word": "PRAY",
       "pos": "v.",
-      "gloss": "take in solid food",
-      "definition": "Take in solid food.",
-      "example": "She was eating a banana.",
+      "gloss": "address a deity, a prophet, a saint or an object of worship",
+      "definition": "Address a deity, a prophet, a saint or an object of worship; say a prayer.",
+      "example": "Pray to the Lord.",
       "band": "common",
       "tier": "general"
     },
-    "TEA": {
-      "word": "TEA",
-      "pos": "n.",
-      "gloss": "a beverage made by steeping tea leaves in water",
-      "definition": "A beverage made by steeping tea leaves in water.",
-      "example": "Iced tea is a cooling drink.",
+    "AIRY": {
+      "word": "AIRY",
+      "pos": "adj.",
+      "gloss": "open to or abounding in fresh air",
+      "definition": "Open to or abounding in fresh air.",
+      "example": "Airy rooms.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PAY": {
+      "word": "PAY",
+      "pos": "v.",
+      "gloss": "give money, usually in exchange for goods or services",
+      "definition": "Give money, usually in exchange for goods or services.",
+      "example": "I paid four dollars for this sandwich.",
       "band": "common",
       "tier": "general"
     },
-    "ATM": {
-      "word": "ATM",
+    "CAR": {
+      "word": "CAR",
       "pos": "n.",
-      "gloss": "a unit of pressure",
-      "definition": "A unit of pressure: the pressure that will support a column of mercury 760 mm high at sea level and 0 degrees centigrade.",
+      "gloss": "a motor vehicle with four wheels",
+      "definition": "A motor vehicle with four wheels; usually propelled by an internal combustion engine.",
+      "example": "He needs a car to get to work.",
       "band": "common",
       "tier": "general"
     },
-    "MAT": {
-      "word": "MAT",
+    "AIR": {
+      "word": "AIR",
       "pos": "n.",
-      "gloss": "a thick flat pad used as a floor covering",
-      "definition": "A thick flat pad used as a floor covering.",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAY": {
+      "word": "RAY",
+      "pos": "n.",
+      "gloss": "a column of light",
+      "definition": "A column of light (as from a beacon).",
+      "band": "common",
+      "tier": "general"
+    },
+    "CRY": {
+      "word": "CRY",
+      "pos": "n.",
+      "gloss": "a loud utterance",
+      "definition": "A loud utterance; often in protest or opposition.",
+      "example": "The speaker was interrupted by loud cries from the rear of the audience.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAP": {
+      "word": "CAP",
+      "pos": "n.",
+      "gloss": "a tight-fitting headdress",
+      "definition": "A tight-fitting headdress.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIP": {
+      "word": "RIP",
+      "pos": "v.",
+      "gloss": "tear or be torn violently",
+      "definition": "Tear or be torn violently.",
+      "example": "The curtain ripped from top to bottom.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARC": {
+      "word": "ARC",
+      "pos": "n.",
+      "gloss": "electrical conduction through a gas in an applied electric field",
+      "definition": "Electrical conduction through a gas in an applied electric field.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIC": {
+      "word": "PIC",
+      "pos": "n.",
+      "gloss": "a form of entertainment that enacts a story by sound and a sequence of images giving…",
+      "definition": "A form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement.",
+      "example": "They went to a movie every Saturday night.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAR": {
+      "word": "PAR",
+      "pos": "n.",
+      "gloss": "the standard number of strokes set for each hole on a golf course, or for the entire…",
+      "definition": "(golf) the standard number of strokes set for each hole on a golf course, or for the entire course.",
+      "example": "A par-5 hole.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAP": {
+      "word": "RAP",
+      "pos": "n.",
+      "gloss": "a reproach for some lapse or misdeed",
+      "definition": "A reproach for some lapse or misdeed.",
+      "example": "He took the blame for it.",
       "band": "common",
       "tier": "general"
     }

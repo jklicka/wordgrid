@@ -1,0 +1,116 @@
+{
+  "id": "level-311",
+  "baseWord": "OCHRE",
+  "pool": [
+    "O",
+    "C",
+    "H",
+    "R",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "OCHRE",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "CHORE",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "OCHER",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "CORE",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "ECHO",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ORE",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "HERO"
+  ],
+  "entries": {
+    "OCHRE": {
+      "word": "OCHRE",
+      "pos": "n.",
+      "gloss": "any of various earths containing silica and alumina and ferric oxide",
+      "definition": "Any of various earths containing silica and alumina and ferric oxide; used as a pigment.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CHORE": {
+      "word": "CHORE",
+      "pos": "n.",
+      "gloss": "a specific piece of work required to be done as a duty or for a specific fee",
+      "definition": "A specific piece of work required to be done as a duty or for a specific fee.",
+      "example": "Estimates of the city's loss on that job ranged as high as a million dollars.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "OCHER": {
+      "word": "OCHER",
+      "pos": "n.",
+      "gloss": "a moderate yellow-orange to orange color",
+      "definition": "A moderate yellow-orange to orange color.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CORE": {
+      "word": "CORE",
+      "pos": "n.",
+      "gloss": "a small group of indispensable persons or things",
+      "definition": "A small group of indispensable persons or things.",
+      "example": "Five periodicals make up the core of their publishing program.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ECHO": {
+      "word": "ECHO",
+      "pos": "v.",
+      "gloss": "to say again or imitate",
+      "definition": "To say again or imitate.",
+      "example": "Followers echoing the cries of their leaders.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ORE": {
+      "word": "ORE",
+      "pos": "n.",
+      "gloss": "a mineral that contains metal that is valuable enough to be mined",
+      "definition": "A mineral that contains metal that is valuable enough to be mined.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HERO": {
+      "word": "HERO",
+      "pos": "n.",
+      "gloss": "a man distinguished by exceptional courage and nobility and strength",
+      "definition": "A man distinguished by exceptional courage and nobility and strength.",
+      "example": "RAF pilots were the heroes of the Battle of Britain.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

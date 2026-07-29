@@ -1,0 +1,131 @@
+{
+  "id": "level-255",
+  "baseWord": "OUTLAY",
+  "pool": [
+    "O",
+    "U",
+    "T",
+    "L",
+    "A",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "OUTLAY",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "LAYOUT",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "AUTO",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "ALTO",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "OUT",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "LOT",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "LAY",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "TOY"
+  ],
+  "entries": {
+    "OUTLAY": {
+      "word": "OUTLAY",
+      "pos": "n.",
+      "gloss": "the act of spending or disbursing money",
+      "definition": "The act of spending or disbursing money.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LAYOUT": {
+      "word": "LAYOUT",
+      "pos": "n.",
+      "gloss": "a plan or design of something that is laid out",
+      "definition": "A plan or design of something that is laid out.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AUTO": {
+      "word": "AUTO",
+      "pos": "n.",
+      "gloss": "a motor vehicle with four wheels",
+      "definition": "A motor vehicle with four wheels; usually propelled by an internal combustion engine.",
+      "example": "He needs a car to get to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALTO": {
+      "word": "ALTO",
+      "pos": "n.",
+      "gloss": "a singer whose voice lies in the alto clef",
+      "definition": "A singer whose voice lies in the alto clef.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "OUT": {
+      "word": "OUT",
+      "pos": "adj.",
+      "gloss": "not allowed to continue to bat or run",
+      "definition": "Not allowed to continue to bat or run.",
+      "example": "He was tagged out at second on a close play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOT": {
+      "word": "LOT",
+      "pos": "n.",
+      "gloss": "a large number or amount or extent",
+      "definition": "(often followed by `of') a large number or amount or extent.",
+      "example": "A batch of letters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAY": {
+      "word": "LAY",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOY": {
+      "word": "TOY",
+      "pos": "n.",
+      "gloss": "an artifact designed to be played with",
+      "definition": "An artifact designed to be played with.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

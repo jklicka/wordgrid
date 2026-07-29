@@ -1,0 +1,117 @@
+{
+  "id": "level-236",
+  "baseWord": "REWORK",
+  "pool": [
+    "R",
+    "E",
+    "W",
+    "O",
+    "R",
+    "K"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "REWORK",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "WORKER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "ROWER",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "WORK",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "ROW",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "OWE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ORE"
+  ],
+  "entries": {
+    "REWORK": {
+      "word": "REWORK",
+      "pos": "v.",
+      "gloss": "use again in altered form",
+      "definition": "Use again in altered form.",
+      "example": "Retread an old plot.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WORKER": {
+      "word": "WORKER",
+      "pos": "n.",
+      "gloss": "a person who works at a specific occupation",
+      "definition": "A person who works at a specific occupation.",
+      "example": "He is a good worker.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROWER": {
+      "word": "ROWER",
+      "pos": "n.",
+      "gloss": "someone who rows a boat",
+      "definition": "Someone who rows a boat.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WORK": {
+      "word": "WORK",
+      "pos": "v.",
+      "gloss": "exert oneself by doing mental or physical work for a purpose or out of necessity",
+      "definition": "Exert oneself by doing mental or physical work for a purpose or out of necessity.",
+      "example": "I will work hard to improve my grades.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROW": {
+      "word": "ROW",
+      "pos": "n.",
+      "gloss": "an arrangement of objects or people side by side in a line",
+      "definition": "An arrangement of objects or people side by side in a line.",
+      "example": "A row of chairs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OWE": {
+      "word": "OWE",
+      "pos": "v.",
+      "gloss": "be obliged to pay or repay",
+      "definition": "Be obliged to pay or repay.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ORE": {
+      "word": "ORE",
+      "pos": "n.",
+      "gloss": "a mineral that contains metal that is valuable enough to be mined",
+      "definition": "A mineral that contains metal that is valuable enough to be mined.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

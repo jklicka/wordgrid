@@ -1,0 +1,168 @@
+{
+  "id": "level-178",
+  "baseWord": "ALMANAC",
+  "pool": [
+    "A",
+    "L",
+    "M",
+    "A",
+    "N",
+    "A",
+    "C"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "ALMANAC",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "CANAL",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "CALM",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CLAN",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "ANAL",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "CLAM",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "MAN",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "CAN",
+    "MAC",
+    "CAM",
+    "ANA",
+    "LAMA"
+  ],
+  "entries": {
+    "ALMANAC": {
+      "word": "ALMANAC",
+      "pos": "n.",
+      "gloss": "an annual publication including weather forecasts and other miscellaneous information…",
+      "definition": "An annual publication including weather forecasts and other miscellaneous information arranged according to the calendar of a given year.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CANAL": {
+      "word": "CANAL",
+      "pos": "n.",
+      "gloss": "an indistinct surface feature of Mars once thought to be a system of channels",
+      "definition": "(astronomy) an indistinct surface feature of Mars once thought to be a system of channels; they are now believed to be an optical illusion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CALM": {
+      "word": "CALM",
+      "pos": "v.",
+      "gloss": "make calm or still",
+      "definition": "Make calm or still.",
+      "example": "Quiet the dragons of worry and fear.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CLAN": {
+      "word": "CLAN",
+      "pos": "n.",
+      "gloss": "group of people related by blood or marriage",
+      "definition": "Group of people related by blood or marriage.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANAL": {
+      "word": "ANAL",
+      "pos": "adj.",
+      "gloss": "of or related to the anus",
+      "definition": "Of or related to the anus.",
+      "example": "Anal thermometer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CLAM": {
+      "word": "CLAM",
+      "pos": "n.",
+      "gloss": "burrowing marine mollusk living on sand or mud",
+      "definition": "Burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAN": {
+      "word": "MAN",
+      "pos": "n.",
+      "gloss": "an adult person who is male",
+      "definition": "An adult person who is male (as opposed to a woman).",
+      "example": "There were two women and six men on the bus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAN": {
+      "word": "CAN",
+      "pos": "v.",
+      "gloss": "preserve in a can or tin",
+      "definition": "Preserve in a can or tin.",
+      "example": "Tinned foods are not very tasty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAC": {
+      "word": "MAC",
+      "pos": "n.",
+      "gloss": "a waterproof raincoat made of rubberized fabric",
+      "definition": "A waterproof raincoat made of rubberized fabric.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAM": {
+      "word": "CAM",
+      "pos": "n.",
+      "gloss": "a rotating disk shaped to convert circular into linear motion",
+      "definition": "A rotating disk shaped to convert circular into linear motion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANA": {
+      "word": "ANA",
+      "pos": "n.",
+      "gloss": "a collection of anecdotes about a person or place",
+      "definition": "A collection of anecdotes about a person or place.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAMA": {
+      "word": "LAMA",
+      "pos": "n.",
+      "gloss": "a Tibetan or Mongolian priest of Lamaism",
+      "definition": "A Tibetan or Mongolian priest of Lamaism.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

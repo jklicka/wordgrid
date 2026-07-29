@@ -1,0 +1,166 @@
+{
+  "id": "level-357",
+  "baseWord": "STAPH",
+  "pool": [
+    "S",
+    "T",
+    "A",
+    "P",
+    "H"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "STAPH",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PAST",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "PATH",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "TAPS",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SPAT",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "HAT",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "TAP",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "PAT",
+    "ASH",
+    "SPA",
+    "APT",
+    "SAP"
+  ],
+  "entries": {
+    "STAPH": {
+      "word": "STAPH",
+      "pos": "n.",
+      "gloss": "spherical Gram-positive parasitic bacteria that tend to form irregular colonies",
+      "definition": "Spherical Gram-positive parasitic bacteria that tend to form irregular colonies; some cause boils or septicemia or infections.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PAST": {
+      "word": "PAST",
+      "pos": "n.",
+      "gloss": "the time that has elapsed",
+      "definition": "The time that has elapsed.",
+      "example": "Forget the past.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PATH": {
+      "word": "PATH",
+      "pos": "n.",
+      "gloss": "a course of conduct",
+      "definition": "A course of conduct.",
+      "example": "The path of virtue.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAPS": {
+      "word": "TAPS",
+      "pos": "n.",
+      "gloss": "signal to turn the lights out",
+      "definition": "(military) signal to turn the lights out.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SPAT": {
+      "word": "SPAT",
+      "pos": "n.",
+      "gloss": "a quarrel about petty points",
+      "definition": "A quarrel about petty points.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HAT": {
+      "word": "HAT",
+      "pos": "n.",
+      "gloss": "headdress that protects the head from bad weather",
+      "definition": "Headdress that protects the head from bad weather; has shaped crown and usually a brim.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAP": {
+      "word": "TAP",
+      "pos": "v.",
+      "gloss": "cut a female screw thread with a tap",
+      "definition": "Cut a female screw thread with a tap.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAT": {
+      "word": "PAT",
+      "pos": "v.",
+      "gloss": "pat or squeeze fondly or playfully, especially under the chin",
+      "definition": "Pat or squeeze fondly or playfully, especially under the chin.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ASH": {
+      "word": "ASH",
+      "pos": "n.",
+      "gloss": "the residue that remains when something is burned",
+      "definition": "The residue that remains when something is burned.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPA": {
+      "word": "SPA",
+      "pos": "n.",
+      "gloss": "a health resort near a spring or at the seaside",
+      "definition": "A health resort near a spring or at the seaside.",
+      "band": "common",
+      "tier": "general"
+    },
+    "APT": {
+      "word": "APT",
+      "pos": "adj.",
+      "gloss": "naturally disposed toward",
+      "definition": "(usually followed by `to') naturally disposed toward.",
+      "example": "He is apt to ignore matters he considers unimportant.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAP": {
+      "word": "SAP",
+      "pos": "v.",
+      "gloss": "deplete",
+      "definition": "Deplete.",
+      "example": "Exhaust one's savings.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "level-174",
+  "baseWord": "ALOFT",
+  "pool": [
+    "A",
+    "L",
+    "O",
+    "F",
+    "T"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "ALOFT",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "FLOAT",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "FLAT",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "LOFT",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "LOAF",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "ALTO",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LOT",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "FAT"
+  ],
+  "entries": {
+    "ALOFT": {
+      "word": "ALOFT",
+      "pos": "adv.",
+      "gloss": "at or on or to the masthead or upper rigging of a ship",
+      "definition": "At or on or to the masthead or upper rigging of a ship.",
+      "example": "Climbed aloft to unfurl the sail.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FLOAT": {
+      "word": "FLOAT",
+      "pos": "v.",
+      "gloss": "be in motion due to some air or water current",
+      "definition": "Be in motion due to some air or water current.",
+      "example": "The leaves were blowing in the wind.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FLAT": {
+      "word": "FLAT",
+      "pos": "adj.",
+      "gloss": "having a surface without slope, tilt in which no part is higher or lower than another",
+      "definition": "Having a surface without slope, tilt in which no part is higher or lower than another.",
+      "example": "A flat desk.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOFT": {
+      "word": "LOFT",
+      "pos": "n.",
+      "gloss": "floor consisting of a large unpartitioned space over a factory or warehouse or other…",
+      "definition": "Floor consisting of a large unpartitioned space over a factory or warehouse or other commercial space.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LOAF": {
+      "word": "LOAF",
+      "pos": "n.",
+      "gloss": "a shaped mass of baked bread that is usually sliced before eating",
+      "definition": "A shaped mass of baked bread that is usually sliced before eating.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ALTO": {
+      "word": "ALTO",
+      "pos": "n.",
+      "gloss": "a singer whose voice lies in the alto clef",
+      "definition": "A singer whose voice lies in the alto clef.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LOT": {
+      "word": "LOT",
+      "pos": "n.",
+      "gloss": "a large number or amount or extent",
+      "definition": "(often followed by `of') a large number or amount or extent.",
+      "example": "A batch of letters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FAT": {
+      "word": "FAT",
+      "pos": "n.",
+      "gloss": "a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids",
+      "definition": "A soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides).",
+      "example": "Pizza has too much fat.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "level-030",
+  "baseWord": "GOALIE",
+  "pool": [
+    "G",
+    "O",
+    "A",
+    "L",
+    "I",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "GOALIE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "AGILE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "GOAL",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "GALE",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "ALOE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "OIL",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LOG",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "AGO",
+    "AGE",
+    "LIE",
+    "LEG",
+    "EGO",
+    "GEL",
+    "GAL",
+    "ALE",
+    "LAG"
+  ],
+  "entries": {
+    "GOALIE": {
+      "word": "GOALIE",
+      "pos": "n.",
+      "gloss": "the soccer or hockey player assigned to protect the goal",
+      "definition": "The soccer or hockey player assigned to protect the goal.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AGILE": {
+      "word": "AGILE",
+      "pos": "adj.",
+      "gloss": "moving quickly and lightly",
+      "definition": "Moving quickly and lightly.",
+      "example": "Sleek and agile as a gymnast.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GOAL": {
+      "word": "GOAL",
+      "pos": "n.",
+      "gloss": "the state of affairs that a plan is intended to achieve and that terminates behavior…",
+      "definition": "The state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it.",
+      "example": "The ends justify the means.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GALE": {
+      "word": "GALE",
+      "pos": "n.",
+      "gloss": "a strong wind moving 45-90 knots",
+      "definition": "A strong wind moving 45-90 knots; force 7 to 10 on Beaufort scale.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALOE": {
+      "word": "ALOE",
+      "pos": "n.",
+      "gloss": "succulent plants having rosettes of leaves usually with fiber like hemp and spikes of…",
+      "definition": "Succulent plants having rosettes of leaves usually with fiber like hemp and spikes of showy flowers; found chiefly in Africa.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "OIL": {
+      "word": "OIL",
+      "pos": "n.",
+      "gloss": "a slippery or viscous liquid or liquefiable substance not miscible with water",
+      "definition": "A slippery or viscous liquid or liquefiable substance not miscible with water.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOG": {
+      "word": "LOG",
+      "pos": "v.",
+      "gloss": "enter into a log, as on ships and planes",
+      "definition": "Enter into a log, as on ships and planes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AGO": {
+      "word": "AGO",
+      "pos": "adv.",
+      "gloss": "in the past",
+      "definition": "In the past.",
+      "example": "Long ago.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AGE": {
+      "word": "AGE",
+      "pos": "n.",
+      "gloss": "how long something has existed",
+      "definition": "How long something has existed.",
+      "example": "It was replaced because of its age.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIE": {
+      "word": "LIE",
+      "pos": "v.",
+      "gloss": "be located or situated somewhere",
+      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LEG": {
+      "word": "LEG",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EGO": {
+      "word": "EGO",
+      "pos": "n.",
+      "gloss": "an inflated feeling of pride in your superiority to others",
+      "definition": "An inflated feeling of pride in your superiority to others.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEL": {
+      "word": "GEL",
+      "pos": "n.",
+      "gloss": "a colloid in a more solid form than a sol",
+      "definition": "A colloid in a more solid form than a sol.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAL": {
+      "word": "GAL",
+      "pos": "n.",
+      "gloss": "United States liquid unit equal to 4 quarts or 3.785 liters",
+      "definition": "United States liquid unit equal to 4 quarts or 3.785 liters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALE": {
+      "word": "ALE",
+      "pos": "n.",
+      "gloss": "a general name for beer made with a top fermenting yeast",
+      "definition": "A general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAG": {
+      "word": "LAG",
+      "pos": "n.",
+      "gloss": "the act of slowing down or falling behind",
+      "definition": "The act of slowing down or falling behind.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

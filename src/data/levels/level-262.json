@@ -1,0 +1,149 @@
+{
+  "id": "level-262",
+  "baseWord": "MIRED",
+  "pool": [
+    "M",
+    "I",
+    "R",
+    "E",
+    "D"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "MIRED",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DIMER",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "RIDE",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "DIME",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "DIRE",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "EMIR",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "RED",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "DIE",
+    "RID",
+    "RIM"
+  ],
+  "entries": {
+    "MIRED": {
+      "word": "MIRED",
+      "pos": "adj.",
+      "gloss": "entangled or hindered as if e.g. in mire",
+      "definition": "Entangled or hindered as if e.g. in mire.",
+      "example": "The difficulties in which the question is involved.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DIMER": {
+      "word": "DIMER",
+      "pos": "n.",
+      "gloss": "a compound whose molecules are composed of two identical monomers",
+      "definition": "A compound whose molecules are composed of two identical monomers.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RIDE": {
+      "word": "RIDE",
+      "pos": "v.",
+      "gloss": "sit and travel on the back of animal, usually while controlling its motions",
+      "definition": "Sit and travel on the back of animal, usually while controlling its motions.",
+      "example": "She never sat a horse!",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIME": {
+      "word": "DIME",
+      "pos": "n.",
+      "gloss": "a United States coin worth one tenth of a dollar",
+      "definition": "A United States coin worth one tenth of a dollar.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIRE": {
+      "word": "DIRE",
+      "pos": "adj.",
+      "gloss": "fraught with extreme danger",
+      "definition": "Fraught with extreme danger; nearly hopeless.",
+      "example": "A desperate illness.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EMIR": {
+      "word": "EMIR",
+      "pos": "n.",
+      "gloss": "an independent ruler or chieftain",
+      "definition": "An independent ruler or chieftain (especially in Africa or Arabia).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RED": {
+      "word": "RED",
+      "pos": "n.",
+      "gloss": "red color or pigment",
+      "definition": "Red color or pigment; the chromatic color resembling the hue of blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIE": {
+      "word": "DIE",
+      "pos": "v.",
+      "gloss": "pass from physical life and lose all bodily attributes and functions necessary to…",
+      "definition": "Pass from physical life and lose all bodily attributes and functions necessary to sustain life.",
+      "example": "She died from cancer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RID": {
+      "word": "RID",
+      "pos": "v.",
+      "gloss": "relieve from",
+      "definition": "Relieve from.",
+      "example": "Rid the house of pests.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIM": {
+      "word": "RIM",
+      "pos": "n.",
+      "gloss": "the shape of a raised edge of a more or less circular object",
+      "definition": "The shape of a raised edge of a more or less circular object.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

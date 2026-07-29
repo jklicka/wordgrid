@@ -1,0 +1,195 @@
+{
+  "id": "level-109",
+  "baseWord": "STAIR",
+  "pool": [
+    "S",
+    "T",
+    "A",
+    "I",
+    "R"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "STAIR",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SITAR",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "STAR",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "ARTS",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "STIR",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "AIRS",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "TSAR",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "AIR",
+    "ART",
+    "SIR",
+    "SIT",
+    "RAT",
+    "IRA",
+    "TAR",
+    "SARI"
+  ],
+  "entries": {
+    "STAIR": {
+      "word": "STAIR",
+      "pos": "n.",
+      "gloss": "support consisting of a place to rest the foot while ascending or descending a stairway",
+      "definition": "Support consisting of a place to rest the foot while ascending or descending a stairway.",
+      "example": "He paused on the bottom step.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SITAR": {
+      "word": "SITAR",
+      "pos": "n.",
+      "gloss": "a stringed instrument of India",
+      "definition": "A stringed instrument of India; has a long neck and movable frets; has 6 or 7 metal strings for playing and usually 13 resonating strings.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "STAR": {
+      "word": "STAR",
+      "pos": "n.",
+      "gloss": "a celestial body of hot gases that radiates energy derived from thermonuclear…",
+      "definition": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARTS": {
+      "word": "ARTS",
+      "pos": "n.",
+      "gloss": "studies intended to provide general knowledge and intellectual skills",
+      "definition": "Studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills).",
+      "example": "The college of arts and sciences.",
+      "band": "common",
+      "tier": "general"
+    },
+    "STIR": {
+      "word": "STIR",
+      "pos": "v.",
+      "gloss": "move an implement through",
+      "definition": "Move an implement through.",
+      "example": "Stir the soup.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIRS": {
+      "word": "AIRS",
+      "pos": "n.",
+      "gloss": "affected manners intended to impress others",
+      "definition": "Affected manners intended to impress others.",
+      "example": "Don't put on airs with me.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TSAR": {
+      "word": "TSAR",
+      "pos": "n.",
+      "gloss": "a male monarch or emperor",
+      "definition": "A male monarch or emperor (especially of Russia prior to 1917).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AIR": {
+      "word": "AIR",
+      "pos": "n.",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ART": {
+      "word": "ART",
+      "pos": "n.",
+      "gloss": "the products of human creativity",
+      "definition": "The products of human creativity; works of art collectively.",
+      "example": "An art exhibition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIR": {
+      "word": "SIR",
+      "pos": "n.",
+      "gloss": "term of address for a man",
+      "definition": "Term of address for a man.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIT": {
+      "word": "SIT",
+      "pos": "v.",
+      "gloss": "be seated",
+      "definition": "Be seated.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAT": {
+      "word": "RAT",
+      "pos": "n.",
+      "gloss": "any of various long-tailed rodents similar to but larger than a mouse",
+      "definition": "Any of various long-tailed rodents similar to but larger than a mouse.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IRA": {
+      "word": "IRA",
+      "pos": "n.",
+      "gloss": "belligerence aroused by a real or supposed wrong",
+      "definition": "Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAR": {
+      "word": "TAR",
+      "pos": "n.",
+      "gloss": "any of various dark heavy viscid substances obtained as a residue",
+      "definition": "Any of various dark heavy viscid substances obtained as a residue.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SARI": {
+      "word": "SARI",
+      "pos": "n.",
+      "gloss": "a dress worn primarily by Hindu women",
+      "definition": "A dress worn primarily by Hindu women; consists of several yards of light material that is draped around the body.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

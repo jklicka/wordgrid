@@ -1,0 +1,216 @@
+{
+  "id": "level-101",
+  "baseWord": "VANTAGE",
+  "pool": [
+    "V",
+    "A",
+    "N",
+    "T",
+    "A",
+    "G",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "VANTAGE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "AGENT",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "VEGAN",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "AGATE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "AGAVE",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "TANGA",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "GATE",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "GET",
+    "AGE",
+    "EAT",
+    "TEN",
+    "VAN",
+    "NET",
+    "TEA",
+    "TAG",
+    "GEN",
+    "TAN"
+  ],
+  "entries": {
+    "VANTAGE": {
+      "word": "VANTAGE",
+      "pos": "n.",
+      "gloss": "place or situation affording some advantage",
+      "definition": "Place or situation affording some advantage (especially a comprehensive view or commanding perspective).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AGENT": {
+      "word": "AGENT",
+      "pos": "n.",
+      "gloss": "an active and efficient cause",
+      "definition": "An active and efficient cause; capable of producing a certain effect.",
+      "example": "Their research uncovered new disease agents.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VEGAN": {
+      "word": "VEGAN",
+      "pos": "n.",
+      "gloss": "a strict vegetarian",
+      "definition": "A strict vegetarian; someone who eats no animal or dairy products at all.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AGATE": {
+      "word": "AGATE",
+      "pos": "n.",
+      "gloss": "an impure form of quartz consisting of banded chalcedony",
+      "definition": "An impure form of quartz consisting of banded chalcedony; used as a gemstone and for making mortars and pestles.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AGAVE": {
+      "word": "AGAVE",
+      "pos": "n.",
+      "gloss": "tropical American plants with basal rosettes of fibrous sword-shaped leaves and…",
+      "definition": "Tropical American plants with basal rosettes of fibrous sword-shaped leaves and flowers in tall spikes; some cultivated for ornament or for fiber.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TANGA": {
+      "word": "TANGA",
+      "pos": "n.",
+      "gloss": "100 tanga equal 1 Tajikistani ruble",
+      "definition": "100 tanga equal 1 Tajikistani ruble.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GATE": {
+      "word": "GATE",
+      "pos": "n.",
+      "gloss": "a movable barrier in a fence or wall",
+      "definition": "A movable barrier in a fence or wall.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GET": {
+      "word": "GET",
+      "pos": "v.",
+      "gloss": "come into the possession of something concrete or abstract",
+      "definition": "Come into the possession of something concrete or abstract.",
+      "example": "She got a lot of paintings from her uncle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AGE": {
+      "word": "AGE",
+      "pos": "n.",
+      "gloss": "how long something has existed",
+      "definition": "How long something has existed.",
+      "example": "It was replaced because of its age.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAT": {
+      "word": "EAT",
+      "pos": "v.",
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEN": {
+      "word": "TEN",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of nine and one",
+      "definition": "The cardinal number that is the sum of nine and one; the base of the decimal system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VAN": {
+      "word": "VAN",
+      "pos": "n.",
+      "gloss": "any creative group active in the innovation and application of new concepts and…",
+      "definition": "Any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts).",
+      "band": "common",
+      "tier": "general"
+    },
+    "NET": {
+      "word": "NET",
+      "pos": "n.",
+      "gloss": "a computer network consisting of a worldwide network of computer networks that use the…",
+      "definition": "A computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAG": {
+      "word": "TAG",
+      "pos": "v.",
+      "gloss": "attach a tag or label to",
+      "definition": "Attach a tag or label to.",
+      "example": "Label these bottles.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEN": {
+      "word": "GEN",
+      "pos": "n.",
+      "gloss": "informal term for information",
+      "definition": "Informal term for information.",
+      "example": "Give me the gen on your new line of computers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

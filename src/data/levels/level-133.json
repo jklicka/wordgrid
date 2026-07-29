@@ -1,0 +1,133 @@
+{
+  "id": "level-133",
+  "baseWord": "ACETATE",
+  "pool": [
+    "A",
+    "C",
+    "E",
+    "T",
+    "A",
+    "T",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "ACETATE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TACT",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "ACT",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "EAT",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "CAT",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "TEA",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "ACE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "TEE"
+  ],
+  "entries": {
+    "ACETATE": {
+      "word": "ACETATE",
+      "pos": "n.",
+      "gloss": "a salt or ester of acetic acid",
+      "definition": "A salt or ester of acetic acid.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TACT": {
+      "word": "TACT",
+      "pos": "n.",
+      "gloss": "consideration in dealing with others and avoiding giving offense",
+      "definition": "Consideration in dealing with others and avoiding giving offense.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ACT": {
+      "word": "ACT",
+      "pos": "v.",
+      "gloss": "perform an action, or work out or perform",
+      "definition": "Perform an action, or work out or perform (an action).",
+      "example": "Think before you act.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAT": {
+      "word": "EAT",
+      "pos": "v.",
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAT": {
+      "word": "CAT",
+      "pos": "n.",
+      "gloss": "feline mammal usually having thick soft fur and no ability to roar",
+      "definition": "Feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACE": {
+      "word": "ACE",
+      "pos": "n.",
+      "gloss": "the smallest whole number or a numeral representing this number",
+      "definition": "The smallest whole number or a numeral representing this number.",
+      "example": "He has the one but will need a two and three to go with it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEE": {
+      "word": "TEE",
+      "pos": "n.",
+      "gloss": "the starting place for each hole on a golf course",
+      "definition": "The starting place for each hole on a golf course.",
+      "example": "They were waiting on the first tee.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

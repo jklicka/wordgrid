@@ -1,0 +1,215 @@
+{
+  "id": "level-272",
+  "baseWord": "DOINGS",
+  "pool": [
+    "D",
+    "O",
+    "I",
+    "N",
+    "G",
+    "S"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "DOINGS",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DINGO",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SONG",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SIGN",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SING",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "DONG",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "DING",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "GOD",
+    "SON",
+    "DOG",
+    "DON",
+    "SIN",
+    "DIG",
+    "ION",
+    "NOD",
+    "GIN",
+    "DIGS"
+  ],
+  "entries": {
+    "DOINGS": {
+      "word": "DOINGS",
+      "pos": "n.",
+      "gloss": "manner of acting or controlling yourself",
+      "definition": "Manner of acting or controlling yourself.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DINGO": {
+      "word": "DINGO",
+      "pos": "n.",
+      "gloss": "wolflike yellowish-brown wild dog of Australia",
+      "definition": "Wolflike yellowish-brown wild dog of Australia.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SONG": {
+      "word": "SONG",
+      "pos": "n.",
+      "gloss": "a short musical composition with words",
+      "definition": "A short musical composition with words.",
+      "example": "A successful musical must have at least three good songs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIGN": {
+      "word": "SIGN",
+      "pos": "n.",
+      "gloss": "a perceptible indication of something not immediately apparent",
+      "definition": "A perceptible indication of something not immediately apparent (as a visible clue that something has happened).",
+      "example": "He showed signs of strain.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SING": {
+      "word": "SING",
+      "pos": "v.",
+      "gloss": "deliver by singing",
+      "definition": "Deliver by singing.",
+      "example": "Sing Christmas carols.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DONG": {
+      "word": "DONG",
+      "pos": "n.",
+      "gloss": "the basic unit of money in Vietnam",
+      "definition": "The basic unit of money in Vietnam.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DING": {
+      "word": "DING",
+      "pos": "n.",
+      "gloss": "a ringing sound",
+      "definition": "A ringing sound.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GOD": {
+      "word": "GOD",
+      "pos": "n.",
+      "gloss": "any supernatural being worshipped as controlling some part of the world or some aspect…",
+      "definition": "Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOG": {
+      "word": "DOG",
+      "pos": "n.",
+      "gloss": "a member of the genus Canis that has been domesticated by man since prehistoric times",
+      "definition": "A member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds.",
+      "example": "The dog barked all night.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DON": {
+      "word": "DON",
+      "pos": "n.",
+      "gloss": "teacher at a university or college",
+      "definition": "Teacher at a university or college (especially at Cambridge or Oxford).",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIN": {
+      "word": "SIN",
+      "pos": "n.",
+      "gloss": "estrangement from god",
+      "definition": "Estrangement from god.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIG": {
+      "word": "DIG",
+      "pos": "v.",
+      "gloss": "turn up, loosen, or remove earth",
+      "definition": "Turn up, loosen, or remove earth.",
+      "example": "Dig we must.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ION": {
+      "word": "ION",
+      "pos": "n.",
+      "gloss": "a particle that is electrically charged",
+      "definition": "A particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOD": {
+      "word": "NOD",
+      "pos": "v.",
+      "gloss": "express or signify by nodding",
+      "definition": "Express or signify by nodding.",
+      "example": "He nodded his approval.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIGS": {
+      "word": "DIGS",
+      "pos": "n.",
+      "gloss": "an excavation for ore or precious stones or for archaeology",
+      "definition": "An excavation for ore or precious stones or for archaeology.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

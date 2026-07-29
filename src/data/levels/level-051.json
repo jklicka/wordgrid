@@ -1,0 +1,115 @@
+{
+  "id": "level-051",
+  "baseWord": "PSYCHE",
+  "pool": [
+    "P",
+    "S",
+    "Y",
+    "C",
+    "H",
+    "E"
+  ],
+  "rows": 6,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "PSYCHE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "HYPE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SPEC",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "YES",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SEC",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SPY",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SHY"
+  ],
+  "entries": {
+    "PSYCHE": {
+      "word": "PSYCHE",
+      "pos": "n.",
+      "gloss": "that which is responsible for one's thoughts, feelings, and conscious brain functions",
+      "definition": "That which is responsible for one's thoughts, feelings, and conscious brain functions; the seat of the faculty of reason.",
+      "example": "His mind wandered.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HYPE": {
+      "word": "HYPE",
+      "pos": "n.",
+      "gloss": "blatant or sensational promotion",
+      "definition": "Blatant or sensational promotion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPEC": {
+      "word": "SPEC",
+      "pos": "n.",
+      "gloss": "a detailed description of design criteria for a piece of work",
+      "definition": "A detailed description of design criteria for a piece of work.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "YES": {
+      "word": "YES",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "I was hoping for a yes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEC": {
+      "word": "SEC",
+      "pos": "n.",
+      "gloss": "1/60 of a minute",
+      "definition": "1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPY": {
+      "word": "SPY",
+      "pos": "v.",
+      "gloss": "catch sight of",
+      "definition": "Catch sight of.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SHY": {
+      "word": "SHY",
+      "pos": "v.",
+      "gloss": "start suddenly, as from fright",
+      "definition": "Start suddenly, as from fright.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

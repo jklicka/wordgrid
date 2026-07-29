@@ -1,0 +1,127 @@
+{
+  "id": "level-330",
+  "baseWord": "MUSLIN",
+  "pool": [
+    "M",
+    "U",
+    "S",
+    "L",
+    "I",
+    "N"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "MUSLIN",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MINUS",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "SLIM",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SUN",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "MIN",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SIN",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SUM",
+    "SLUM"
+  ],
+  "entries": {
+    "MUSLIN": {
+      "word": "MUSLIN",
+      "pos": "n.",
+      "gloss": "plain-woven cotton fabric",
+      "definition": "Plain-woven cotton fabric.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MINUS": {
+      "word": "MINUS",
+      "pos": "n.",
+      "gloss": "an arithmetic operation in which the difference between two numbers is calculated",
+      "definition": "An arithmetic operation in which the difference between two numbers is calculated.",
+      "example": "The subtraction of three from four leaves one.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SLIM": {
+      "word": "SLIM",
+      "pos": "adj.",
+      "gloss": "being of delicate or slender build",
+      "definition": "Being of delicate or slender build.",
+      "example": "She was slender as a willow shoot is slender\"- Frank Norris.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUN": {
+      "word": "SUN",
+      "pos": "n.",
+      "gloss": "the star that is the source of light and heat for the planets in the solar system",
+      "definition": "The star that is the source of light and heat for the planets in the solar system.",
+      "example": "The sun contains 99.85% of the mass in the solar system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MIN": {
+      "word": "MIN",
+      "pos": "n.",
+      "gloss": "a unit of time equal to 60 seconds or 1/60th of an hour",
+      "definition": "A unit of time equal to 60 seconds or 1/60th of an hour.",
+      "example": "He ran a 4 minute mile.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIN": {
+      "word": "SIN",
+      "pos": "n.",
+      "gloss": "estrangement from god",
+      "definition": "Estrangement from god.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUM": {
+      "word": "SUM",
+      "pos": "n.",
+      "gloss": "a quantity of money",
+      "definition": "A quantity of money.",
+      "example": "He borrowed a large sum.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SLUM": {
+      "word": "SLUM",
+      "pos": "n.",
+      "gloss": "a district of a city marked by poverty and inferior living conditions",
+      "definition": "A district of a city marked by poverty and inferior living conditions.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

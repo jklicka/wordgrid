@@ -1,0 +1,179 @@
+{
+  "id": "level-391",
+  "baseWord": "NEOCON",
+  "pool": [
+    "N",
+    "E",
+    "O",
+    "C",
+    "O",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "NEOCON",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NONCE",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "ONCE",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "NONE",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "NOON",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "CONE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "NEON",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ONE",
+    "NON",
+    "CON",
+    "NEO",
+    "CONN",
+    "COON"
+  ],
+  "entries": {
+    "NEOCON": {
+      "word": "NEOCON",
+      "pos": "n.",
+      "gloss": "a conservative who subscribes to neoconservatism",
+      "definition": "A conservative who subscribes to neoconservatism.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NONCE": {
+      "word": "NONCE",
+      "pos": "n.",
+      "gloss": "the present occasion",
+      "definition": "The present occasion.",
+      "example": "For the nonce.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ONCE": {
+      "word": "ONCE",
+      "pos": "adv.",
+      "gloss": "on one occasion",
+      "definition": "On one occasion.",
+      "example": "Once I ran into her.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NONE": {
+      "word": "NONE",
+      "pos": "adv.",
+      "gloss": "not at all or in no way",
+      "definition": "Not at all or in no way.",
+      "example": "Seemed none too pleased with his dinner.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOON": {
+      "word": "NOON",
+      "pos": "n.",
+      "gloss": "the middle of the day",
+      "definition": "The middle of the day.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CONE": {
+      "word": "CONE",
+      "pos": "n.",
+      "gloss": "any cone-shaped artifact",
+      "definition": "Any cone-shaped artifact.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NEON": {
+      "word": "NEON",
+      "pos": "n.",
+      "gloss": "a colorless odorless gaseous element that give a red glow in a vacuum tube",
+      "definition": "A colorless odorless gaseous element that give a red glow in a vacuum tube; one of the six inert gasses; occurs in the air in small amounts.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ONE": {
+      "word": "ONE",
+      "pos": "adj.",
+      "gloss": "used of a single unit or thing",
+      "definition": "Used of a single unit or thing; not two or more.",
+      "example": "`ane' is Scottish.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NON": {
+      "word": "NON",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CON": {
+      "word": "CON",
+      "pos": "n.",
+      "gloss": "an argument opposed to a proposal",
+      "definition": "An argument opposed to a proposal.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NEO": {
+      "word": "NEO",
+      "pos": "adj.",
+      "gloss": "recent or new",
+      "definition": "(used as a combining form) recent or new.",
+      "example": "`neo' is a combining form in words like `neocolonialism'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CONN": {
+      "word": "CONN",
+      "pos": "v.",
+      "gloss": "conduct or direct the steering of a ship or plane",
+      "definition": "Conduct or direct the steering of a ship or plane.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "COON": {
+      "word": "COON",
+      "pos": "n.",
+      "gloss": "an eccentric or undignified rustic",
+      "definition": "An eccentric or undignified rustic.",
+      "example": "I'll be a gone coon when the battle starts.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

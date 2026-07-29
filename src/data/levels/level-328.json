@@ -1,0 +1,151 @@
+{
+  "id": "level-328",
+  "baseWord": "SADIST",
+  "pool": [
+    "S",
+    "A",
+    "D",
+    "I",
+    "S",
+    "T"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SADIST",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "STAID",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "SAID",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "DISS",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ASS",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SIT",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SAD",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "AID",
+    "DAS",
+    "SIS"
+  ],
+  "entries": {
+    "SADIST": {
+      "word": "SADIST",
+      "pos": "n.",
+      "gloss": "someone who obtains pleasure from inflicting pain on others",
+      "definition": "Someone who obtains pleasure from inflicting pain on others.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "STAID": {
+      "word": "STAID",
+      "pos": "adj.",
+      "gloss": "characterized by dignity and propriety",
+      "definition": "Characterized by dignity and propriety.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SAID": {
+      "word": "SAID",
+      "pos": "adj.",
+      "gloss": "being the one previously mentioned or spoken of",
+      "definition": "Being the one previously mentioned or spoken of.",
+      "example": "Works of all the aforementioned authors.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DISS": {
+      "word": "DISS",
+      "pos": "v.",
+      "gloss": "treat, mention, or speak to rudely",
+      "definition": "Treat, mention, or speak to rudely.",
+      "example": "He insulted her with his rude remarks.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ASS": {
+      "word": "ASS",
+      "pos": "n.",
+      "gloss": "the fleshy part of the human body that you sit on",
+      "definition": "The fleshy part of the human body that you sit on.",
+      "example": "He deserves a good kick in the butt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIT": {
+      "word": "SIT",
+      "pos": "v.",
+      "gloss": "be seated",
+      "definition": "Be seated.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAD": {
+      "word": "SAD",
+      "pos": "adj.",
+      "gloss": "experiencing or showing sorrow or unhappiness",
+      "definition": "Experiencing or showing sorrow or unhappiness.",
+      "example": "Feeling sad because his dog had died.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AID": {
+      "word": "AID",
+      "pos": "n.",
+      "gloss": "a person or thing that is a resource that helps make something easier or possible to do",
+      "definition": "A person or thing that is a resource that helps make something easier or possible to do.",
+      "example": "Visual aids in teaching.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAS": {
+      "word": "DAS",
+      "pos": "n.",
+      "gloss": "any of several small ungulate mammals of Africa and Asia with rodent-like incisors and…",
+      "definition": "Any of several small ungulate mammals of Africa and Asia with rodent-like incisors and feet with hooflike toes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIS": {
+      "word": "SIS",
+      "pos": "n.",
+      "gloss": "a female person who has the same parents as another person",
+      "definition": "A female person who has the same parents as another person.",
+      "example": "My sister married a musician.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

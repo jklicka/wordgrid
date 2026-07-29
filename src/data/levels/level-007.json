@@ -1,157 +1,130 @@
 {
   "id": "level-007",
-  "baseWord": "PLAYBOY",
+  "baseWord": "CABBAGE",
   "pool": [
-    "P",
-    "L",
+    "C",
     "A",
-    "Y",
     "B",
-    "O",
-    "Y"
+    "B",
+    "A",
+    "G",
+    "E"
   ],
-  "rows": 7,
-  "cols": 8,
+  "rows": 6,
+  "cols": 7,
   "placed": [
     {
-      "word": "PLAYBOY",
-      "row": 3,
-      "col": 1,
+      "word": "CABBAGE",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "word": "PLAY",
-      "row": 0,
-      "col": 7,
+      "word": "CAGE",
+      "row": 2,
+      "col": 5,
       "direction": "down"
     },
     {
-      "word": "PLOY",
+      "word": "BABE",
       "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "word": "OPAL",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "word": "PAY",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "word": "BOY",
-      "row": 5,
+      "word": "BABA",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "word": "BAY",
-      "row": 1,
-      "col": 4,
+      "word": "CAB",
+      "row": 0,
+      "col": 0,
       "direction": "down"
     }
   ],
   "bonus": [
-    "LAY",
-    "LAB",
-    "LAP",
-    "PAL"
+    "AGE",
+    "BAG",
+    "ACE",
+    "BEG"
   ],
   "entries": {
-    "PLAYBOY": {
-      "word": "PLAYBOY",
+    "CABBAGE": {
+      "word": "CABBAGE",
       "pos": "n.",
-      "gloss": "a man devoted to the pursuit of pleasure",
-      "definition": "A man devoted to the pursuit of pleasure.",
+      "gloss": "any of various types of cabbage",
+      "definition": "Any of various types of cabbage.",
       "band": "teaching",
       "tier": "general"
     },
-    "PLAY": {
-      "word": "PLAY",
-      "pos": "v.",
-      "gloss": "participate in games or sport",
-      "definition": "Participate in games or sport.",
-      "example": "We played hockey all afternoon.",
+    "CAGE": {
+      "word": "CAGE",
+      "pos": "n.",
+      "gloss": "an enclosure made or wire or metal bars in which birds or animals can be kept",
+      "definition": "An enclosure made or wire or metal bars in which birds or animals can be kept.",
       "band": "common",
       "tier": "general"
     },
-    "PLOY": {
-      "word": "PLOY",
+    "BABE": {
+      "word": "BABE",
       "pos": "n.",
-      "gloss": "an opening remark intended to secure an advantage for the speaker",
-      "definition": "An opening remark intended to secure an advantage for the speaker.",
+      "gloss": "a very young child who has not yet begun to walk or talk",
+      "definition": "A very young child (birth to 1 year) who has not yet begun to walk or talk.",
+      "example": "The baby began to cry again.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BABA": {
+      "word": "BABA",
+      "pos": "n.",
+      "gloss": "a small cake leavened with yeast",
+      "definition": "A small cake leavened with yeast.",
       "band": "teaching",
       "tier": "general"
     },
-    "OPAL": {
-      "word": "OPAL",
+    "CAB": {
+      "word": "CAB",
       "pos": "n.",
-      "gloss": "a translucent mineral consisting of hydrated silica of variable color",
-      "definition": "A translucent mineral consisting of hydrated silica of variable color; some varieties are used as gemstones.",
-      "band": "teaching",
+      "gloss": "a compartment at the front of a motor vehicle or locomotive where driver sits",
+      "definition": "A compartment at the front of a motor vehicle or locomotive where driver sits.",
+      "band": "common",
       "tier": "general"
     },
-    "PAY": {
-      "word": "PAY",
+    "AGE": {
+      "word": "AGE",
+      "pos": "n.",
+      "gloss": "how long something has existed",
+      "definition": "How long something has existed.",
+      "example": "It was replaced because of its age.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAG": {
+      "word": "BAG",
+      "pos": "n.",
+      "gloss": "a flexible container with a single opening",
+      "definition": "A flexible container with a single opening.",
+      "example": "He stuffed his laundry into a large bag.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACE": {
+      "word": "ACE",
+      "pos": "n.",
+      "gloss": "the smallest whole number or a numeral representing this number",
+      "definition": "The smallest whole number or a numeral representing this number.",
+      "example": "He has the one but will need a two and three to go with it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEG": {
+      "word": "BEG",
       "pos": "v.",
-      "gloss": "give money, usually in exchange for goods or services",
-      "definition": "Give money, usually in exchange for goods or services.",
-      "example": "I paid four dollars for this sandwich.",
-      "band": "common",
-      "tier": "general"
-    },
-    "BOY": {
-      "word": "BOY",
-      "pos": "n.",
-      "gloss": "a youthful male person",
-      "definition": "A youthful male person.",
-      "example": "The baby was a boy.",
-      "band": "common",
-      "tier": "general"
-    },
-    "BAY": {
-      "word": "BAY",
-      "pos": "n.",
-      "gloss": "an indentation of a shoreline larger than a cove but smaller than a gulf",
-      "definition": "An indentation of a shoreline larger than a cove but smaller than a gulf.",
-      "band": "common",
-      "tier": "general"
-    },
-    "LAY": {
-      "word": "LAY",
-      "pos": "v.",
-      "gloss": "put into a certain place or abstract location",
-      "definition": "Put into a certain place or abstract location.",
-      "example": "Put your things here.",
-      "band": "common",
-      "tier": "general"
-    },
-    "LAB": {
-      "word": "LAB",
-      "pos": "n.",
-      "gloss": "a workplace for the conduct of scientific research",
-      "definition": "A workplace for the conduct of scientific research.",
-      "band": "common",
-      "tier": "general"
-    },
-    "LAP": {
-      "word": "LAP",
-      "pos": "v.",
-      "gloss": "lie partly over or alongside of something or of one another",
-      "definition": "Lie partly over or alongside of something or of one another.",
-      "band": "common",
-      "tier": "general"
-    },
-    "PAL": {
-      "word": "PAL",
-      "pos": "n.",
-      "gloss": "a close friend who accompanies his buddies in their activities",
-      "definition": "A close friend who accompanies his buddies in their activities.",
+      "gloss": "call upon in supplication",
+      "definition": "Call upon in supplication; entreat.",
+      "example": "I beg you to stop!",
       "band": "common",
       "tier": "general"
     }

@@ -1,4 +1,4 @@
-import { useGame } from '../game/store'
+import { useActiveGame, useGame } from '../game/store'
 import styles from './Pool.module.css'
 
 /**
@@ -8,7 +8,7 @@ import styles from './Pool.module.css'
  * will touch no other file, because all the logic lives in the pure engine.
  */
 export default function LetterPool() {
-  const game = useGame((s) => s.game)
+  const game = useActiveGame()
   const selectLetter = useGame((s) => s.selectLetter)
 
   const n = game.level.pool.length

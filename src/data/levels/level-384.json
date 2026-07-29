@@ -1,0 +1,188 @@
+{
+  "id": "level-384",
+  "baseWord": "CREAK",
+  "pool": [
+    "C",
+    "R",
+    "E",
+    "A",
+    "K"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "CREAK",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "CARE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "RACE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CAKE",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "ACRE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "RACK",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "ARE",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "CAR",
+    "ERA",
+    "EAR",
+    "ARC",
+    "ACE",
+    "ARK",
+    "RAKE"
+  ],
+  "entries": {
+    "CREAK": {
+      "word": "CREAK",
+      "pos": "v.",
+      "gloss": "make a high-pitched, screeching noise",
+      "definition": "Make a high-pitched, screeching noise.",
+      "example": "The door creaked when I opened it slowly.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CARE": {
+      "word": "CARE",
+      "pos": "n.",
+      "gloss": "the work of providing treatment for or attending to someone or something",
+      "definition": "The work of providing treatment for or attending to someone or something.",
+      "example": "No medical care was required.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RACE": {
+      "word": "RACE",
+      "pos": "n.",
+      "gloss": "any competition",
+      "definition": "Any competition.",
+      "example": "The race for the presidency.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAKE": {
+      "word": "CAKE",
+      "pos": "n.",
+      "gloss": "a block of solid substance",
+      "definition": "A block of solid substance (such as soap or wax).",
+      "example": "A bar of chocolate.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACRE": {
+      "word": "ACRE",
+      "pos": "n.",
+      "gloss": "a unit of area used in English-speaking countries",
+      "definition": "A unit of area (4840 square yards) used in English-speaking countries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RACK": {
+      "word": "RACK",
+      "pos": "v.",
+      "gloss": "go at a rack",
+      "definition": "Go at a rack.",
+      "example": "The horses single-footed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAR": {
+      "word": "CAR",
+      "pos": "n.",
+      "gloss": "a motor vehicle with four wheels",
+      "definition": "A motor vehicle with four wheels; usually propelled by an internal combustion engine.",
+      "example": "He needs a car to get to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARC": {
+      "word": "ARC",
+      "pos": "n.",
+      "gloss": "electrical conduction through a gas in an applied electric field",
+      "definition": "Electrical conduction through a gas in an applied electric field.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACE": {
+      "word": "ACE",
+      "pos": "n.",
+      "gloss": "the smallest whole number or a numeral representing this number",
+      "definition": "The smallest whole number or a numeral representing this number.",
+      "example": "He has the one but will need a two and three to go with it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARK": {
+      "word": "ARK",
+      "pos": "n.",
+      "gloss": "a boat built by Noah to save his family and animals from the flood",
+      "definition": "A boat built by Noah to save his family and animals from the flood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAKE": {
+      "word": "RAKE",
+      "pos": "v.",
+      "gloss": "move through with or as if with a rake",
+      "definition": "Move through with or as if with a rake.",
+      "example": "She raked her fingers through her hair.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

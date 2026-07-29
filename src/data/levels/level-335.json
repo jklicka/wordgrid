@@ -1,0 +1,128 @@
+{
+  "id": "level-335",
+  "baseWord": "AGHAST",
+  "pool": [
+    "A",
+    "G",
+    "H",
+    "A",
+    "S",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "AGHAST",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SAGA",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "STAG",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SHAG",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "GAS",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "HAT",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "TAG",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ASH"
+  ],
+  "entries": {
+    "AGHAST": {
+      "word": "AGHAST",
+      "pos": "adj.",
+      "gloss": "struck with fear, dread, or consternation",
+      "definition": "Struck with fear, dread, or consternation.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SAGA": {
+      "word": "SAGA",
+      "pos": "n.",
+      "gloss": "a narrative telling the adventures of a hero or a family",
+      "definition": "A narrative telling the adventures of a hero or a family; originally (12th to 14th centuries) a story of the families that settled Iceland and their descendants but now any prose narrative that resembles such an account.",
+      "band": "common",
+      "tier": "general"
+    },
+    "STAG": {
+      "word": "STAG",
+      "pos": "n.",
+      "gloss": "a male deer, especially an adult male red deer",
+      "definition": "A male deer, especially an adult male red deer.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SHAG": {
+      "word": "SHAG",
+      "pos": "n.",
+      "gloss": "a strong coarse tobacco that has been shredded",
+      "definition": "A strong coarse tobacco that has been shredded.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GAS": {
+      "word": "GAS",
+      "pos": "n.",
+      "gloss": "the state of matter distinguished from the solid and liquid states by",
+      "definition": "The state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HAT": {
+      "word": "HAT",
+      "pos": "n.",
+      "gloss": "headdress that protects the head from bad weather",
+      "definition": "Headdress that protects the head from bad weather; has shaped crown and usually a brim.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAG": {
+      "word": "TAG",
+      "pos": "v.",
+      "gloss": "attach a tag or label to",
+      "definition": "Attach a tag or label to.",
+      "example": "Label these bottles.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ASH": {
+      "word": "ASH",
+      "pos": "n.",
+      "gloss": "the residue that remains when something is burned",
+      "definition": "The residue that remains when something is burned.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

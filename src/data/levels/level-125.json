@@ -1,0 +1,170 @@
+{
+  "id": "level-125",
+  "baseWord": "UNVEIL",
+  "pool": [
+    "U",
+    "N",
+    "V",
+    "E",
+    "I",
+    "L"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "UNVEIL",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "LIVEN",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LIVE",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "EVIL",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "VEIN",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "VINE",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "VEIL",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "LINE",
+    "LIE",
+    "VILE",
+    "LIEU",
+    "LIEN"
+  ],
+  "entries": {
+    "UNVEIL": {
+      "word": "UNVEIL",
+      "pos": "v.",
+      "gloss": "remove the veil from",
+      "definition": "Remove the veil from.",
+      "example": "Women must not unveil themselves in public in some religious societies.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIVEN": {
+      "word": "LIVEN",
+      "pos": "v.",
+      "gloss": "make lively",
+      "definition": "Make lively.",
+      "example": "Let's liven up this room a bit.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIVE": {
+      "word": "LIVE",
+      "pos": "v.",
+      "gloss": "be an inhabitant of or reside in",
+      "definition": "Be an inhabitant of or reside in.",
+      "example": "People lived in Africa millions of years ago.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EVIL": {
+      "word": "EVIL",
+      "pos": "n.",
+      "gloss": "morally objectionable behavior",
+      "definition": "Morally objectionable behavior.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VEIN": {
+      "word": "VEIN",
+      "pos": "n.",
+      "gloss": "a blood vessel that carries blood from the capillaries toward the heart",
+      "definition": "A blood vessel that carries blood from the capillaries toward the heart.",
+      "example": "All veins except the pulmonary vein carry unaerated blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VINE": {
+      "word": "VINE",
+      "pos": "n.",
+      "gloss": "a plant with a weak stem that derives support from climbing, twining, or creeping…",
+      "definition": "A plant with a weak stem that derives support from climbing, twining, or creeping along a surface.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VEIL": {
+      "word": "VEIL",
+      "pos": "n.",
+      "gloss": "a garment that covers the head and face",
+      "definition": "A garment that covers the head and face.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LINE": {
+      "word": "LINE",
+      "pos": "n.",
+      "gloss": "a formation of people or things one beside another",
+      "definition": "A formation of people or things one beside another.",
+      "example": "The line of soldiers advanced with their bayonets fixed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIE": {
+      "word": "LIE",
+      "pos": "v.",
+      "gloss": "be located or situated somewhere",
+      "definition": "Be located or situated somewhere; occupy a certain position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VILE": {
+      "word": "VILE",
+      "pos": "adj.",
+      "gloss": "morally reprehensible",
+      "definition": "Morally reprehensible.",
+      "example": "Would do something as despicable as murder.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIEU": {
+      "word": "LIEU",
+      "pos": "n.",
+      "gloss": "the post or function properly or customarily occupied or served by another",
+      "definition": "The post or function properly or customarily occupied or served by another.",
+      "example": "Can you go in my stead?",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIEN": {
+      "word": "LIEN",
+      "pos": "n.",
+      "gloss": "the right to take another's property if an obligation is not discharged",
+      "definition": "The right to take another's property if an obligation is not discharged.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

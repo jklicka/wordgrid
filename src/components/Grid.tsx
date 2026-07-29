@@ -1,5 +1,5 @@
 import { buildCells, gridWords } from '../game/engine'
-import { useGame } from '../game/store'
+import { useActiveGame, useGame } from '../game/store'
 import styles from './Grid.module.css'
 
 /**
@@ -9,7 +9,7 @@ import styles from './Grid.module.css'
  * what turns this from an anagram game into a vocabulary game.
  */
 export default function Grid() {
-  const game = useGame((s) => s.game)
+  const game = useActiveGame()
   const showPrompt = useGame((s) => s.showPrompt)
 
   const cells = buildCells(game.level, game.solved)

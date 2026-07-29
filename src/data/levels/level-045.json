@@ -1,0 +1,166 @@
+{
+  "id": "level-045",
+  "baseWord": "PATIO",
+  "pool": [
+    "P",
+    "A",
+    "T",
+    "I",
+    "O"
+  ],
+  "rows": 8,
+  "cols": 5,
+  "placed": [
+    {
+      "word": "PATIO",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ATOP",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "PITA",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "IOTA",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TOP",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "TIP",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TAP",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "POT",
+    "PIT",
+    "PAT",
+    "OPT",
+    "APT"
+  ],
+  "entries": {
+    "PATIO": {
+      "word": "PATIO",
+      "pos": "n.",
+      "gloss": "usually paved outdoor area adjoining a residence",
+      "definition": "Usually paved outdoor area adjoining a residence.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ATOP": {
+      "word": "ATOP",
+      "pos": "adv.",
+      "gloss": "on, to, or at the top",
+      "definition": "On, to, or at the top.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PITA": {
+      "word": "PITA",
+      "pos": "n.",
+      "gloss": "usually small round bread that can open into a pocket for filling",
+      "definition": "Usually small round bread that can open into a pocket for filling.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "IOTA": {
+      "word": "IOTA",
+      "pos": "n.",
+      "gloss": "a tiny or scarcely detectable amount",
+      "definition": "A tiny or scarcely detectable amount.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOP": {
+      "word": "TOP",
+      "pos": "n.",
+      "gloss": "the upper part of anything",
+      "definition": "The upper part of anything.",
+      "example": "The mower cuts off the tops of the grass.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIP": {
+      "word": "TIP",
+      "pos": "n.",
+      "gloss": "the extreme end of something",
+      "definition": "The extreme end of something; especially something pointed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAP": {
+      "word": "TAP",
+      "pos": "v.",
+      "gloss": "cut a female screw thread with a tap",
+      "definition": "Cut a female screw thread with a tap.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POT": {
+      "word": "POT",
+      "pos": "n.",
+      "gloss": "metal or earthenware cooking vessel that is usually round and deep",
+      "definition": "Metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PIT": {
+      "word": "PIT",
+      "pos": "n.",
+      "gloss": "a sizeable hole",
+      "definition": "A sizeable hole (usually in the ground).",
+      "example": "They dug a pit to bury the body.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAT": {
+      "word": "PAT",
+      "pos": "v.",
+      "gloss": "pat or squeeze fondly or playfully, especially under the chin",
+      "definition": "Pat or squeeze fondly or playfully, especially under the chin.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OPT": {
+      "word": "OPT",
+      "pos": "v.",
+      "gloss": "select as an alternative over another",
+      "definition": "Select as an alternative over another.",
+      "example": "I always choose the fish over the meat courses in this restaurant.",
+      "band": "common",
+      "tier": "general"
+    },
+    "APT": {
+      "word": "APT",
+      "pos": "adj.",
+      "gloss": "naturally disposed toward",
+      "definition": "(usually followed by `to') naturally disposed toward.",
+      "example": "He is apt to ignore matters he considers unimportant.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

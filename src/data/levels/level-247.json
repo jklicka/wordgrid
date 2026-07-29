@@ -1,0 +1,186 @@
+{
+  "id": "level-247",
+  "baseWord": "CADMIUM",
+  "pool": [
+    "C",
+    "A",
+    "D",
+    "M",
+    "I",
+    "U",
+    "M"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "CADMIUM",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ACID",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "MAID",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "IMAM",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "MICA",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "AID",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "MAD",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "AIM",
+    "MAC",
+    "MUM",
+    "DAM",
+    "MUD",
+    "CAM",
+    "CUM"
+  ],
+  "entries": {
+    "CADMIUM": {
+      "word": "CADMIUM",
+      "pos": "n.",
+      "gloss": "a soft bluish-white ductile malleable toxic bivalent metallic element",
+      "definition": "A soft bluish-white ductile malleable toxic bivalent metallic element; occurs in association with zinc ores.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ACID": {
+      "word": "ACID",
+      "pos": "n.",
+      "gloss": "any of various water-soluble compounds having a sour taste and capable of turning…",
+      "definition": "Any of various water-soluble compounds having a sour taste and capable of turning litmus red and reacting with a base to form a salt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAID": {
+      "word": "MAID",
+      "pos": "n.",
+      "gloss": "a female domestic",
+      "definition": "A female domestic.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IMAM": {
+      "word": "IMAM",
+      "pos": "n.",
+      "gloss": "the man who leads prayers in a mosque",
+      "definition": "(Islam) the man who leads prayers in a mosque; for Shiites an imam is a recognized authority on Islamic theology and law and a spiritual guide.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MICA": {
+      "word": "MICA",
+      "pos": "n.",
+      "gloss": "any of various minerals consisting of hydrous silicates of aluminum or potassium etc.…",
+      "definition": "Any of various minerals consisting of hydrous silicates of aluminum or potassium etc. that crystallize in forms that allow perfect cleavage into very thin leaves; used as dielectrics because of their resistance to electricity.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AID": {
+      "word": "AID",
+      "pos": "n.",
+      "gloss": "a person or thing that is a resource that helps make something easier or possible to do",
+      "definition": "A person or thing that is a resource that helps make something easier or possible to do.",
+      "example": "Visual aids in teaching.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAD": {
+      "word": "MAD",
+      "pos": "adj.",
+      "gloss": "roused to anger",
+      "definition": "Roused to anger.",
+      "example": "Stayed huffy a good while\"- Mark Twain.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIM": {
+      "word": "AIM",
+      "pos": "v.",
+      "gloss": "point or cause to go towards",
+      "definition": "Point or cause to go (blows, weapons, or objects such as photographic equipment) towards.",
+      "example": "Please don't aim at your little brother!",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAC": {
+      "word": "MAC",
+      "pos": "n.",
+      "gloss": "a waterproof raincoat made of rubberized fabric",
+      "definition": "A waterproof raincoat made of rubberized fabric.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MUM": {
+      "word": "MUM",
+      "pos": "adj.",
+      "gloss": "failing to speak or communicate etc when expected to",
+      "definition": "Failing to speak or communicate etc when expected to.",
+      "example": "The witness remained silent.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAM": {
+      "word": "DAM",
+      "pos": "n.",
+      "gloss": "a barrier constructed to contain the flow of water or to keep out the sea",
+      "definition": "A barrier constructed to contain the flow of water or to keep out the sea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MUD": {
+      "word": "MUD",
+      "pos": "n.",
+      "gloss": "water soaked soil",
+      "definition": "Water soaked soil; soft wet earth.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAM": {
+      "word": "CAM",
+      "pos": "n.",
+      "gloss": "a rotating disk shaped to convert circular into linear motion",
+      "definition": "A rotating disk shaped to convert circular into linear motion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CUM": {
+      "word": "CUM",
+      "pos": "n.",
+      "gloss": "the thick white fluid containing spermatozoa that is ejaculated by the male genital tract",
+      "definition": "The thick white fluid containing spermatozoa that is ejaculated by the male genital tract.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,5 +1,5 @@
 import { learnedEntries } from '../game/engine'
-import { useGame } from '../game/store'
+import { useActiveGame, useGame } from '../game/store'
 import styles from './Complete.module.css'
 
 /**
@@ -10,19 +10,29 @@ import styles from './Complete.module.css'
  * crossword with a footnote.
  */
 export default function LevelComplete() {
-  const game = useGame((s) => s.game)
-  const lifetime = useGame((s) => s.lifetimeLearned)
+  const game = useActiveGame()
+  const lifetime = useGame((s) => s.progress.learned)
   const restartLevel = useGame((s) => s.restartLevel)
   const nextLevel = useGame((s) => s.nextLevel)
   const hasNext = useGame((s) => s.hasNextLevel())
+  const mode = useGame((s) => s.mode)
+  const startLadder = useGame((s) => s.startLadder)
+  const streak = useGame((s) => s.streak())
 
   const learned = learnedEntries(game)
 
   return (
     <div className={styles.overlay} data-testid="level-complete">
       <div className={styles.card}>
-        <p className={styles.kicker}>Level complete</p>
+        <p className={styles.kicker}>
+          {mode === 'daily' ? "Today's puzzle complete" : 'Level complete'}
+        </p>
         <h1 className={styles.title}>{game.level.baseWord}</h1>
+        {streak > 0 && (
+          <p className={styles.streak} data-testid="complete-streak">
+            🔥 {streak}-day streak
+          </p>
+        )}
 
         <p className={styles.section}>Words learned</p>
         <ul className={styles.list} data-testid="words-learned">
@@ -41,7 +51,11 @@ export default function LevelComplete() {
           {lifetime.length} {lifetime.length === 1 ? 'word' : 'words'} learned all-time
         </p>
 
-        {hasNext ? (
+        {mode === 'daily' ? (
+          <button className={styles.again} onClick={startLadder} data-testid="back-to-ladder">
+            Back to your levels
+          </button>
+        ) : hasNext ? (
           <button className={styles.again} onClick={nextLevel} data-testid="next-level">
             Next level
           </button>

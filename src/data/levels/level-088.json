@@ -1,0 +1,130 @@
+{
+  "id": "level-088",
+  "baseWord": "SHITE",
+  "pool": [
+    "S",
+    "H",
+    "I",
+    "T",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "SHITE",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "HEIST",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "SHIT",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SITE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SET",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "SIT",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "TIE",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "HIT"
+  ],
+  "entries": {
+    "SHITE": {
+      "word": "SHITE",
+      "pos": "n.",
+      "gloss": "obscene terms for feces",
+      "definition": "Obscene terms for feces.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HEIST": {
+      "word": "HEIST",
+      "pos": "v.",
+      "gloss": "commit a burglary",
+      "definition": "Commit a burglary; enter and rob a dwelling.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SHIT": {
+      "word": "SHIT",
+      "pos": "n.",
+      "gloss": "obscene terms for feces",
+      "definition": "Obscene terms for feces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SITE": {
+      "word": "SITE",
+      "pos": "n.",
+      "gloss": "the piece of land on which something is located",
+      "definition": "The piece of land on which something is located (or is to be located).",
+      "example": "A good site for the school.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SET": {
+      "word": "SET",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIT": {
+      "word": "SIT",
+      "pos": "v.",
+      "gloss": "be seated",
+      "definition": "Be seated.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIE": {
+      "word": "TIE",
+      "pos": "n.",
+      "gloss": "neckwear consisting of a long narrow piece of material worn under a collar and tied in…",
+      "definition": "Neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front.",
+      "example": "He stood in front of the mirror tightening his necktie.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HIT": {
+      "word": "HIT",
+      "pos": "v.",
+      "gloss": "cause to move by striking",
+      "definition": "Cause to move by striking.",
+      "example": "Hit a ball.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

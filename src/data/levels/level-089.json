@@ -1,0 +1,218 @@
+{
+  "id": "level-089",
+  "baseWord": "UPTOWN",
+  "pool": [
+    "U",
+    "P",
+    "T",
+    "O",
+    "W",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "UPTOWN",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TOWN",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "WONT",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PUNT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "OUT",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "TWO",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "OWN",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "NOT",
+    "NOW",
+    "PUT",
+    "TOP",
+    "WON",
+    "POT",
+    "TON",
+    "NUT",
+    "OPT",
+    "TOW"
+  ],
+  "entries": {
+    "UPTOWN": {
+      "word": "UPTOWN",
+      "pos": "n.",
+      "gloss": "a residential part of town away from the central commercial district",
+      "definition": "A residential part of town away from the central commercial district.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOWN": {
+      "word": "TOWN",
+      "pos": "n.",
+      "gloss": "an urban area with a fixed boundary that is smaller than a city",
+      "definition": "An urban area with a fixed boundary that is smaller than a city.",
+      "example": "They drive through town on their way to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WONT": {
+      "word": "WONT",
+      "pos": "n.",
+      "gloss": "an established custom",
+      "definition": "An established custom.",
+      "example": "It was their habit to dine at 7 every evening.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PUNT": {
+      "word": "PUNT",
+      "pos": "v.",
+      "gloss": "kick the ball",
+      "definition": "Kick the ball.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "OUT": {
+      "word": "OUT",
+      "pos": "adj.",
+      "gloss": "not allowed to continue to bat or run",
+      "definition": "Not allowed to continue to bat or run.",
+      "example": "He was tagged out at second on a close play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TWO": {
+      "word": "TWO",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of one and one or a numeral representing this number",
+      "definition": "The cardinal number that is the sum of one and one or a numeral representing this number.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OWN": {
+      "word": "OWN",
+      "pos": "v.",
+      "gloss": "have ownership or possession of",
+      "definition": "Have ownership or possession of.",
+      "example": "He owns three houses in Florida.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOW": {
+      "word": "NOW",
+      "pos": "adv.",
+      "gloss": "in the historical present",
+      "definition": "In the historical present; at this point in the narration of a series of past events.",
+      "example": "President Kennedy now calls in the National Guard.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PUT": {
+      "word": "PUT",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOP": {
+      "word": "TOP",
+      "pos": "n.",
+      "gloss": "the upper part of anything",
+      "definition": "The upper part of anything.",
+      "example": "The mower cuts off the tops of the grass.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WON": {
+      "word": "WON",
+      "pos": "n.",
+      "gloss": "the basic unit of money in South Korea",
+      "definition": "The basic unit of money in South Korea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "POT": {
+      "word": "POT",
+      "pos": "n.",
+      "gloss": "metal or earthenware cooking vessel that is usually round and deep",
+      "definition": "Metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TON": {
+      "word": "TON",
+      "pos": "n.",
+      "gloss": "a United States unit of weight equivalent to 2000 pounds",
+      "definition": "A United States unit of weight equivalent to 2000 pounds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUT": {
+      "word": "NUT",
+      "pos": "n.",
+      "gloss": "usually large hard-shelled seed",
+      "definition": "Usually large hard-shelled seed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OPT": {
+      "word": "OPT",
+      "pos": "v.",
+      "gloss": "select as an alternative over another",
+      "definition": "Select as an alternative over another.",
+      "example": "I always choose the fish over the meat courses in this restaurant.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOW": {
+      "word": "TOW",
+      "pos": "n.",
+      "gloss": "the act of hauling something by means of a hitch or rope",
+      "definition": "The act of hauling something (as a vehicle) by means of a hitch or rope.",
+      "example": "The truck gave him a tow to the garage.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

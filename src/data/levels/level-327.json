@@ -1,0 +1,177 @@
+{
+  "id": "level-327",
+  "baseWord": "HAGGLE",
+  "pool": [
+    "H",
+    "A",
+    "G",
+    "G",
+    "L",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "HAGGLE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "HEAL",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "GALE",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "HALE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "GAGE",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "LEG",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "EGG",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "AGE",
+    "GEL",
+    "GAL",
+    "ALE",
+    "LAG",
+    "GAG"
+  ],
+  "entries": {
+    "HAGGLE": {
+      "word": "HAGGLE",
+      "pos": "v.",
+      "gloss": "wrangle",
+      "definition": "Wrangle (over a price, terms of an agreement, etc.).",
+      "example": "Let's not haggle over a few dollars.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HEAL": {
+      "word": "HEAL",
+      "pos": "v.",
+      "gloss": "heal or recover",
+      "definition": "Heal or recover.",
+      "example": "My broken leg is mending.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GALE": {
+      "word": "GALE",
+      "pos": "n.",
+      "gloss": "a strong wind moving 45-90 knots",
+      "definition": "A strong wind moving 45-90 knots; force 7 to 10 on Beaufort scale.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HALE": {
+      "word": "HALE",
+      "pos": "v.",
+      "gloss": "to cause to do through pressure or necessity, by physical, moral or intellectual means",
+      "definition": "To cause to do through pressure or necessity, by physical, moral or intellectual means.",
+      "example": "She forced him to take a job in the city.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAGE": {
+      "word": "GAGE",
+      "pos": "n.",
+      "gloss": "street names for marijuana",
+      "definition": "Street names for marijuana.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LEG": {
+      "word": "LEG",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EGG": {
+      "word": "EGG",
+      "pos": "n.",
+      "gloss": "animal reproductive body consisting of an ovum or embryo together with nutritive and…",
+      "definition": "Animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AGE": {
+      "word": "AGE",
+      "pos": "n.",
+      "gloss": "how long something has existed",
+      "definition": "How long something has existed.",
+      "example": "It was replaced because of its age.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GEL": {
+      "word": "GEL",
+      "pos": "n.",
+      "gloss": "a colloid in a more solid form than a sol",
+      "definition": "A colloid in a more solid form than a sol.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAL": {
+      "word": "GAL",
+      "pos": "n.",
+      "gloss": "United States liquid unit equal to 4 quarts or 3.785 liters",
+      "definition": "United States liquid unit equal to 4 quarts or 3.785 liters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALE": {
+      "word": "ALE",
+      "pos": "n.",
+      "gloss": "a general name for beer made with a top fermenting yeast",
+      "definition": "A general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAG": {
+      "word": "LAG",
+      "pos": "n.",
+      "gloss": "the act of slowing down or falling behind",
+      "definition": "The act of slowing down or falling behind.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAG": {
+      "word": "GAG",
+      "pos": "n.",
+      "gloss": "a humorous anecdote or remark intended to provoke laughter",
+      "definition": "A humorous anecdote or remark intended to provoke laughter.",
+      "example": "He told a very funny joke.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

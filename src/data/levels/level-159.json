@@ -1,0 +1,168 @@
+{
+  "id": "level-159",
+  "baseWord": "ROUSE",
+  "pool": [
+    "R",
+    "O",
+    "U",
+    "S",
+    "E"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "ROUSE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SURE",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "ROSE",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "USER",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "EURO",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SORE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SOUR",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "USE",
+    "SUE",
+    "ORE",
+    "RUSE",
+    "EROS"
+  ],
+  "entries": {
+    "ROUSE": {
+      "word": "ROUSE",
+      "pos": "v.",
+      "gloss": "become active",
+      "definition": "Become active.",
+      "example": "He finally bestirred himself.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SURE": {
+      "word": "SURE",
+      "pos": "adj.",
+      "gloss": "having or feeling no doubt or uncertainty",
+      "definition": "Having or feeling no doubt or uncertainty; confident and assured.",
+      "example": "Felt certain of success.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROSE": {
+      "word": "ROSE",
+      "pos": "n.",
+      "gloss": "any of many shrubs of the genus Rosa that bear roses",
+      "definition": "Any of many shrubs of the genus Rosa that bear roses.",
+      "band": "common",
+      "tier": "general"
+    },
+    "USER": {
+      "word": "USER",
+      "pos": "n.",
+      "gloss": "a person who makes use of a thing",
+      "definition": "A person who makes use of a thing; someone who uses or employs something.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EURO": {
+      "word": "EURO",
+      "pos": "n.",
+      "gloss": "the basic monetary unit of most members of the European Union",
+      "definition": "The basic monetary unit of most members of the European Union (introduced in 1999); in 2002 twelve European nations (Germany, France, Belgium, Luxembourg, the Netherlands, Italy, Spain, Portugal, Ireland, Greece, Austria, Finland) adopted the euro as their basic unit of money and abandoned their traditional currencies.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SORE": {
+      "word": "SORE",
+      "pos": "adj.",
+      "gloss": "hurting",
+      "definition": "Hurting.",
+      "example": "The tender spot on his jaw.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOUR": {
+      "word": "SOUR",
+      "pos": "v.",
+      "gloss": "go sour or spoil",
+      "definition": "Go sour or spoil.",
+      "example": "The milk has soured.",
+      "band": "common",
+      "tier": "general"
+    },
+    "USE": {
+      "word": "USE",
+      "pos": "n.",
+      "gloss": "the act of using",
+      "definition": "The act of using.",
+      "example": "He warned against the use of narcotic drugs.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUE": {
+      "word": "SUE",
+      "pos": "v.",
+      "gloss": "institute legal proceedings against",
+      "definition": "Institute legal proceedings against; file a suit against.",
+      "example": "He was warned that the district attorney would process him.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ORE": {
+      "word": "ORE",
+      "pos": "n.",
+      "gloss": "a mineral that contains metal that is valuable enough to be mined",
+      "definition": "A mineral that contains metal that is valuable enough to be mined.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUSE": {
+      "word": "RUSE",
+      "pos": "n.",
+      "gloss": "a deceptive maneuver",
+      "definition": "A deceptive maneuver (especially to avoid capture).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "EROS": {
+      "word": "EROS",
+      "pos": "n.",
+      "gloss": "a desire for sexual intimacy",
+      "definition": "A desire for sexual intimacy.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

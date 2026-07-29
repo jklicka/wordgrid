@@ -1,0 +1,217 @@
+{
+  "id": "level-232",
+  "baseWord": "INBRED",
+  "pool": [
+    "I",
+    "N",
+    "B",
+    "R",
+    "E",
+    "D"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "INBRED",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "BINDER",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "BRIDE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "DINER",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "BRINE",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "RIDE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BIRD",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "END",
+    "RED",
+    "BED",
+    "DIE",
+    "BEN",
+    "RID",
+    "BID",
+    "BIN",
+    "BEND",
+    "DEN"
+  ],
+  "entries": {
+    "INBRED": {
+      "word": "INBRED",
+      "pos": "adj.",
+      "gloss": "produced by inbreeding",
+      "definition": "Produced by inbreeding.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BINDER": {
+      "word": "BINDER",
+      "pos": "n.",
+      "gloss": "a machine that cuts grain and binds it in sheaves",
+      "definition": "A machine that cuts grain and binds it in sheaves.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BRIDE": {
+      "word": "BRIDE",
+      "pos": "n.",
+      "gloss": "a woman who has recently been married",
+      "definition": "A woman who has recently been married.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DINER": {
+      "word": "DINER",
+      "pos": "n.",
+      "gloss": "a person eating a meal",
+      "definition": "A person eating a meal (especially in a restaurant).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BRINE": {
+      "word": "BRINE",
+      "pos": "n.",
+      "gloss": "water containing salts",
+      "definition": "Water containing salts.",
+      "example": "The water in the ocean is all saltwater.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "RIDE": {
+      "word": "RIDE",
+      "pos": "v.",
+      "gloss": "sit and travel on the back of animal, usually while controlling its motions",
+      "definition": "Sit and travel on the back of animal, usually while controlling its motions.",
+      "example": "She never sat a horse!",
+      "band": "common",
+      "tier": "general"
+    },
+    "BIRD": {
+      "word": "BIRD",
+      "pos": "n.",
+      "gloss": "warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified…",
+      "definition": "Warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings.",
+      "band": "common",
+      "tier": "general"
+    },
+    "END": {
+      "word": "END",
+      "pos": "n.",
+      "gloss": "either extremity of something that has length",
+      "definition": "Either extremity of something that has length.",
+      "example": "The end of the pier.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RED": {
+      "word": "RED",
+      "pos": "n.",
+      "gloss": "red color or pigment",
+      "definition": "Red color or pigment; the chromatic color resembling the hue of blood.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BED": {
+      "word": "BED",
+      "pos": "n.",
+      "gloss": "a piece of furniture that provides a place to sleep",
+      "definition": "A piece of furniture that provides a place to sleep.",
+      "example": "He sat on the edge of the bed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIE": {
+      "word": "DIE",
+      "pos": "v.",
+      "gloss": "pass from physical life and lose all bodily attributes and functions necessary to…",
+      "definition": "Pass from physical life and lose all bodily attributes and functions necessary to sustain life.",
+      "example": "She died from cancer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEN": {
+      "word": "BEN",
+      "pos": "n.",
+      "gloss": "a mountain or tall hill",
+      "definition": "A mountain or tall hill.",
+      "example": "They were climbing the ben.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RID": {
+      "word": "RID",
+      "pos": "v.",
+      "gloss": "relieve from",
+      "definition": "Relieve from.",
+      "example": "Rid the house of pests.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BID": {
+      "word": "BID",
+      "pos": "v.",
+      "gloss": "propose a payment",
+      "definition": "Propose a payment.",
+      "example": "The Swiss dealer offered $2 million for the painting.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BIN": {
+      "word": "BIN",
+      "pos": "n.",
+      "gloss": "a container; usually has a lid",
+      "definition": "A container; usually has a lid.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEND": {
+      "word": "BEND",
+      "pos": "v.",
+      "gloss": "form a curve",
+      "definition": "Form a curve.",
+      "example": "The stick does not bend.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEN": {
+      "word": "DEN",
+      "pos": "n.",
+      "gloss": "the habitation of wild animals",
+      "definition": "The habitation of wild animals.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

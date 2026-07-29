@@ -1,147 +1,157 @@
 {
   "id": "level-015",
-  "baseWord": "CHOKED",
+  "baseWord": "FLAIR",
   "pool": [
-    "C",
-    "H",
-    "O",
-    "K",
-    "E",
-    "D"
+    "F",
+    "L",
+    "A",
+    "I",
+    "R"
   ],
-  "rows": 7,
-  "cols": 7,
+  "rows": 8,
+  "cols": 8,
   "placed": [
     {
-      "word": "CHOKED",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "word": "CHOKE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "word": "CODE",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "word": "DECK",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "word": "COKE",
+      "word": "FLAIR",
       "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "word": "ECHO",
-      "row": 6,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "word": "DOCK",
-      "row": 2,
-      "col": 0,
+      "word": "FRAIL",
+      "row": 1,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "word": "FAIR",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "FAIL",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "FAR",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "AIR",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "IRA",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "bonus": [
-    "DOC",
-    "COD",
-    "DECO"
+    "RAIL",
+    "LIAR",
+    "LAIR",
+    "LIRA"
   ],
   "entries": {
-    "CHOKED": {
-      "word": "CHOKED",
-      "pos": "adj.",
-      "gloss": "stopped up; clogged up",
-      "definition": "Stopped up; clogged up.",
-      "example": "Clogged pipes.",
+    "FLAIR": {
+      "word": "FLAIR",
+      "pos": "n.",
+      "gloss": "a natural talent",
+      "definition": "A natural talent.",
+      "example": "He has a flair for mathematics.",
       "band": "teaching",
       "tier": "general"
     },
-    "CHOKE": {
-      "word": "CHOKE",
+    "FRAIL": {
+      "word": "FRAIL",
+      "pos": "adj.",
+      "gloss": "physically weak",
+      "definition": "Physically weak.",
+      "example": "An invalid's frail body.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FAIR": {
+      "word": "FAIR",
+      "pos": "adj.",
+      "gloss": "free from favoritism or self-interest or bias or deception",
+      "definition": "Free from favoritism or self-interest or bias or deception; conforming with established standards or rules.",
+      "example": "A fair referee.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FAIL": {
+      "word": "FAIL",
       "pos": "v.",
-      "gloss": "breathe with great difficulty, as when experiencing a strong emotion",
-      "definition": "Breathe with great difficulty, as when experiencing a strong emotion.",
-      "example": "She choked with emotion when she spoke about her deceased husband.",
+      "gloss": "fail to do something",
+      "definition": "Fail to do something; leave something undone.",
+      "example": "She failed to notice that her child was no longer in his crib.",
       "band": "common",
       "tier": "general"
     },
-    "CODE": {
-      "word": "CODE",
+    "FAR": {
+      "word": "FAR",
+      "pos": "adv.",
+      "gloss": "to a considerable degree",
+      "definition": "To a considerable degree; very much.",
+      "example": "A far far better thing that I do.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIR": {
+      "word": "AIR",
       "pos": "n.",
-      "gloss": "a set of rules or principles or laws",
-      "definition": "A set of rules or principles or laws (especially written ones).",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
       "band": "common",
       "tier": "general"
     },
-    "DECK": {
-      "word": "DECK",
+    "IRA": {
+      "word": "IRA",
       "pos": "n.",
-      "gloss": "any of various platforms built into a vessel",
-      "definition": "Any of various platforms built into a vessel.",
+      "gloss": "belligerence aroused by a real or supposed wrong",
+      "definition": "Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).",
       "band": "common",
       "tier": "general"
     },
-    "COKE": {
-      "word": "COKE",
+    "RAIL": {
+      "word": "RAIL",
       "pos": "n.",
-      "gloss": "carbon fuel produced by distillation of coal",
-      "definition": "Carbon fuel produced by distillation of coal.",
+      "gloss": "a barrier consisting of a horizontal bar and supports",
+      "definition": "A barrier consisting of a horizontal bar and supports.",
       "band": "common",
       "tier": "general"
     },
-    "ECHO": {
-      "word": "ECHO",
-      "pos": "v.",
-      "gloss": "to say again or imitate",
-      "definition": "To say again or imitate.",
-      "example": "Followers echoing the cries of their leaders.",
-      "band": "common",
-      "tier": "general"
-    },
-    "DOCK": {
-      "word": "DOCK",
+    "LIAR": {
+      "word": "LIAR",
       "pos": "n.",
-      "gloss": "an enclosure in a court of law where the defendant sits during the trial",
-      "definition": "An enclosure in a court of law where the defendant sits during the trial.",
+      "gloss": "a person who has lied or who lies repeatedly",
+      "definition": "A person who has lied or who lies repeatedly.",
       "band": "common",
       "tier": "general"
     },
-    "DOC": {
-      "word": "DOC",
+    "LAIR": {
+      "word": "LAIR",
       "pos": "n.",
-      "gloss": "a licensed medical practitioner",
-      "definition": "A licensed medical practitioner.",
-      "example": "I felt so bad I went to see my doctor.",
-      "band": "common",
+      "gloss": "the habitation of wild animals",
+      "definition": "The habitation of wild animals.",
+      "band": "teaching",
       "tier": "general"
     },
-    "COD": {
-      "word": "COD",
+    "LIRA": {
+      "word": "LIRA",
       "pos": "n.",
-      "gloss": "the vessel that contains the seeds of a plant",
-      "definition": "The vessel that contains the seeds of a plant (not the seeds themselves).",
-      "band": "common",
-      "tier": "general"
-    },
-    "DECO": {
-      "word": "DECO",
-      "pos": "n.",
-      "gloss": "a style of design that was popular in the 1920s and 1930s",
-      "definition": "A style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production.",
+      "gloss": "the basic unit of money on Malta",
+      "definition": "The basic unit of money on Malta; equal to 100 cents.",
       "band": "teaching",
       "tier": "general"
     }

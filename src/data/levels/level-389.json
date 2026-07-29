@@ -1,0 +1,130 @@
+{
+  "id": "level-389",
+  "baseWord": "UNWED",
+  "pool": [
+    "U",
+    "N",
+    "W",
+    "E",
+    "D"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "UNWED",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "NUDE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "DUNE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "NEW",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "END",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "DUE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "DEN",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "WED"
+  ],
+  "entries": {
+    "UNWED": {
+      "word": "UNWED",
+      "pos": "adj.",
+      "gloss": "of someone who has not been married",
+      "definition": "Of someone who has not been married.",
+      "example": "Unwed mother.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NUDE": {
+      "word": "NUDE",
+      "pos": "n.",
+      "gloss": "a painting of a naked human figure",
+      "definition": "A painting of a naked human figure.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUNE": {
+      "word": "DUNE",
+      "pos": "n.",
+      "gloss": "a ridge of sand created by the wind",
+      "definition": "A ridge of sand created by the wind; found in deserts or near lakes and oceans.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NEW": {
+      "word": "NEW",
+      "pos": "adj.",
+      "gloss": "not of long duration",
+      "definition": "Not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered.",
+      "example": "A new law.",
+      "band": "common",
+      "tier": "general"
+    },
+    "END": {
+      "word": "END",
+      "pos": "n.",
+      "gloss": "either extremity of something that has length",
+      "definition": "Either extremity of something that has length.",
+      "example": "The end of the pier.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUE": {
+      "word": "DUE",
+      "pos": "adj.",
+      "gloss": "owed and payable immediately or on demand",
+      "definition": "Owed and payable immediately or on demand.",
+      "example": "Payment is due.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEN": {
+      "word": "DEN",
+      "pos": "n.",
+      "gloss": "the habitation of wild animals",
+      "definition": "The habitation of wild animals.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WED": {
+      "word": "WED",
+      "pos": "v.",
+      "gloss": "take in marriage",
+      "definition": "Take in marriage.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

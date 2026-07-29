@@ -1,0 +1,121 @@
+{
+  "id": "level-296",
+  "baseWord": "WINTRY",
+  "pool": [
+    "W",
+    "I",
+    "N",
+    "T",
+    "R",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "WINTRY",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "TINY",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "TWIN",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "WRIT",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TRY",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "WIN",
+    "TIN",
+    "WIT"
+  ],
+  "entries": {
+    "WINTRY": {
+      "word": "WINTRY",
+      "pos": "adj.",
+      "gloss": "characteristic of or occurring in winter",
+      "definition": "Characteristic of or occurring in winter.",
+      "example": "Suffered severe wintry weather.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TINY": {
+      "word": "TINY",
+      "pos": "adj.",
+      "gloss": "very small",
+      "definition": "Very small.",
+      "example": "Diminutive in stature.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TWIN": {
+      "word": "TWIN",
+      "pos": "n.",
+      "gloss": "either of two offspring born at the same time from the same pregnancy",
+      "definition": "Either of two offspring born at the same time from the same pregnancy.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WRIT": {
+      "word": "WRIT",
+      "pos": "n.",
+      "gloss": "a legal document issued by a court or judicial officer",
+      "definition": "(law) a legal document issued by a court or judicial officer.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TRY": {
+      "word": "TRY",
+      "pos": "v.",
+      "gloss": "make an effort or attempt",
+      "definition": "Make an effort or attempt.",
+      "example": "He tried to shake off his fears.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WIN": {
+      "word": "WIN",
+      "pos": "v.",
+      "gloss": "be the winner in a contest or competition",
+      "definition": "Be the winner in a contest or competition; be victorious.",
+      "example": "He won the Gold Medal in skating.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIN": {
+      "word": "TIN",
+      "pos": "n.",
+      "gloss": "a silvery malleable metallic element that resists corrosion",
+      "definition": "A silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WIT": {
+      "word": "WIT",
+      "pos": "n.",
+      "gloss": "a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter",
+      "definition": "A message whose ingenuity or verbal skill or incongruity has the power to evoke laughter.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

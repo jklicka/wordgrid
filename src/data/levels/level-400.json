@@ -1,0 +1,149 @@
+{
+  "id": "level-400",
+  "baseWord": "MIKADO",
+  "pool": [
+    "M",
+    "I",
+    "K",
+    "A",
+    "D",
+    "O"
+  ],
+  "rows": 7,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "MIKADO",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MAID",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "MAKO",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "AID",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "OAK",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "DAM",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "MOD",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "KID",
+    "MAD",
+    "AIM"
+  ],
+  "entries": {
+    "MIKADO": {
+      "word": "MIKADO",
+      "pos": "n.",
+      "gloss": "the emperor of Japan",
+      "definition": "The emperor of Japan; when regarded as a religious leader the emperor is called tenno.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAID": {
+      "word": "MAID",
+      "pos": "n.",
+      "gloss": "a female domestic",
+      "definition": "A female domestic.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAKO": {
+      "word": "MAKO",
+      "pos": "n.",
+      "gloss": "powerful mackerel shark of the Atlantic and Pacific",
+      "definition": "Powerful mackerel shark of the Atlantic and Pacific.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AID": {
+      "word": "AID",
+      "pos": "n.",
+      "gloss": "a person or thing that is a resource that helps make something easier or possible to do",
+      "definition": "A person or thing that is a resource that helps make something easier or possible to do.",
+      "example": "Visual aids in teaching.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OAK": {
+      "word": "OAK",
+      "pos": "n.",
+      "gloss": "the hard durable wood of any oak",
+      "definition": "The hard durable wood of any oak; used especially for furniture and flooring.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAM": {
+      "word": "DAM",
+      "pos": "n.",
+      "gloss": "a barrier constructed to contain the flow of water or to keep out the sea",
+      "definition": "A barrier constructed to contain the flow of water or to keep out the sea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MOD": {
+      "word": "MOD",
+      "pos": "n.",
+      "gloss": "a British teenager or young adult in the 1960s",
+      "definition": "A British teenager or young adult in the 1960s; noted for their clothes consciousness and opposition to the rockers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "KID": {
+      "word": "KID",
+      "pos": "v.",
+      "gloss": "tell false information to for fun",
+      "definition": "Tell false information to for fun.",
+      "example": "Are you pulling my leg?",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAD": {
+      "word": "MAD",
+      "pos": "adj.",
+      "gloss": "roused to anger",
+      "definition": "Roused to anger.",
+      "example": "Stayed huffy a good while\"- Mark Twain.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIM": {
+      "word": "AIM",
+      "pos": "v.",
+      "gloss": "point or cause to go towards",
+      "definition": "Point or cause to go (blows, weapons, or objects such as photographic equipment) towards.",
+      "example": "Please don't aim at your little brother!",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

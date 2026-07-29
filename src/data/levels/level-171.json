@@ -1,0 +1,171 @@
+{
+  "id": "level-171",
+  "baseWord": "WEARER",
+  "pool": [
+    "W",
+    "E",
+    "A",
+    "R",
+    "E",
+    "R"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "WEARER",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "WEAR",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "RARE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "REAR",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "WARE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ARE",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "WAR",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ERA",
+    "RAW",
+    "EAR",
+    "WEE",
+    "AWE"
+  ],
+  "entries": {
+    "WEARER": {
+      "word": "WEARER",
+      "pos": "n.",
+      "gloss": "a person who wears or carries or displays something as a body covering or accessory",
+      "definition": "A person who wears or carries or displays something as a body covering or accessory.",
+      "example": "The wearer of the crown.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WEAR": {
+      "word": "WEAR",
+      "pos": "v.",
+      "gloss": "be dressed in",
+      "definition": "Be dressed in.",
+      "example": "She was wearing yellow that day.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RARE": {
+      "word": "RARE",
+      "pos": "adj.",
+      "gloss": "not widely known",
+      "definition": "Not widely known; especially valued for its uncommonness.",
+      "example": "A rare word.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REAR": {
+      "word": "REAR",
+      "pos": "n.",
+      "gloss": "the back of a military formation or procession",
+      "definition": "The back of a military formation or procession.",
+      "example": "Infantrymen were in the rear.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WARE": {
+      "word": "WARE",
+      "pos": "n.",
+      "gloss": "articles of the same kind or material",
+      "definition": "Articles of the same kind or material; usually used in combination: `silverware', `software'.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WAR": {
+      "word": "WAR",
+      "pos": "n.",
+      "gloss": "the waging of armed conflict against an enemy",
+      "definition": "The waging of armed conflict against an enemy.",
+      "example": "Thousands of people were killed in the war.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAW": {
+      "word": "RAW",
+      "pos": "adj.",
+      "gloss": "being unprocessed or manufactured using only simple or minimal processes",
+      "definition": "(used especially of commodities) being unprocessed or manufactured using only simple or minimal processes.",
+      "example": "Natural yogurt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WEE": {
+      "word": "WEE",
+      "pos": "adj.",
+      "gloss": "very small",
+      "definition": "(used informally) very small.",
+      "example": "A wee tot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AWE": {
+      "word": "AWE",
+      "pos": "n.",
+      "gloss": "an overwhelming feeling of wonder or admiration",
+      "definition": "An overwhelming feeling of wonder or admiration.",
+      "example": "He stared over the edge with a feeling of awe.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

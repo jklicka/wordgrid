@@ -1,0 +1,202 @@
+{
+  "id": "level-257",
+  "baseWord": "DISOBEY",
+  "pool": [
+    "D",
+    "I",
+    "S",
+    "O",
+    "B",
+    "E",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "DISOBEY",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SIDE",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "BODY",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "DOSE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "OBEY",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "BODE",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "YES",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "BOY",
+    "BED",
+    "DIE",
+    "BID",
+    "BYE",
+    "DOE",
+    "DYE",
+    "SOY"
+  ],
+  "entries": {
+    "DISOBEY": {
+      "word": "DISOBEY",
+      "pos": "v.",
+      "gloss": "refuse to go along with",
+      "definition": "Refuse to go along with; refuse to follow; be disobedient.",
+      "example": "He disobeyed his supervisor and was fired.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SIDE": {
+      "word": "SIDE",
+      "pos": "n.",
+      "gloss": "a place within a region identified relative to a center or reference location",
+      "definition": "A place within a region identified relative to a center or reference location.",
+      "example": "They always sat on the right side of the church.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BODY": {
+      "word": "BODY",
+      "pos": "n.",
+      "gloss": "the entire physical structure of an organism",
+      "definition": "The entire physical structure of an organism (an animal, plant, or human being).",
+      "example": "He felt as if his whole body were on fire.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOSE": {
+      "word": "DOSE",
+      "pos": "n.",
+      "gloss": "a measured portion of medicine taken at any one time",
+      "definition": "A measured portion of medicine taken at any one time.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OBEY": {
+      "word": "OBEY",
+      "pos": "v.",
+      "gloss": "be obedient to",
+      "definition": "Be obedient to.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BODE": {
+      "word": "BODE",
+      "pos": "v.",
+      "gloss": "indicate, as with a sign or an omen",
+      "definition": "Indicate, as with a sign or an omen.",
+      "example": "These signs bode bad news.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "YES": {
+      "word": "YES",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "I was hoping for a yes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOY": {
+      "word": "BOY",
+      "pos": "n.",
+      "gloss": "a youthful male person",
+      "definition": "A youthful male person.",
+      "example": "The baby was a boy.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BED": {
+      "word": "BED",
+      "pos": "n.",
+      "gloss": "a piece of furniture that provides a place to sleep",
+      "definition": "A piece of furniture that provides a place to sleep.",
+      "example": "He sat on the edge of the bed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIE": {
+      "word": "DIE",
+      "pos": "v.",
+      "gloss": "pass from physical life and lose all bodily attributes and functions necessary to…",
+      "definition": "Pass from physical life and lose all bodily attributes and functions necessary to sustain life.",
+      "example": "She died from cancer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BID": {
+      "word": "BID",
+      "pos": "v.",
+      "gloss": "propose a payment",
+      "definition": "Propose a payment.",
+      "example": "The Swiss dealer offered $2 million for the painting.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BYE": {
+      "word": "BYE",
+      "pos": "n.",
+      "gloss": "an automatic advance to the next round in a tournament without playing an opponent",
+      "definition": "An automatic advance to the next round in a tournament without playing an opponent.",
+      "example": "He had a bye in the first round.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOE": {
+      "word": "DOE",
+      "pos": "n.",
+      "gloss": "mature female of mammals of which the male is called `buck'",
+      "definition": "Mature female of mammals of which the male is called `buck'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DYE": {
+      "word": "DYE",
+      "pos": "v.",
+      "gloss": "color with dye",
+      "definition": "Color with dye.",
+      "example": "Please dye these shoes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOY": {
+      "word": "SOY",
+      "pos": "n.",
+      "gloss": "a source of oil",
+      "definition": "A source of oil; used for forage and soil improvement and as food.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

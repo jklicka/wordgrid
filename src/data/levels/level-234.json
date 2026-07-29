@@ -1,0 +1,215 @@
+{
+  "id": "level-234",
+  "baseWord": "AFFRONT",
+  "pool": [
+    "A",
+    "F",
+    "F",
+    "R",
+    "O",
+    "N",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "AFFRONT",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "FRONT",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "FORT",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "TORN",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "FONT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "RANT",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "FART",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "NOT",
+    "OFF",
+    "FAR",
+    "ART",
+    "FAN",
+    "FAT",
+    "TON",
+    "RAT",
+    "TAN",
+    "ANT"
+  ],
+  "entries": {
+    "AFFRONT": {
+      "word": "AFFRONT",
+      "pos": "n.",
+      "gloss": "a deliberately offensive act or something producing the effect of deliberate disrespect",
+      "definition": "A deliberately offensive act or something producing the effect of deliberate disrespect.",
+      "example": "Turning his back on me was a deliberate insult.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FRONT": {
+      "word": "FRONT",
+      "pos": "n.",
+      "gloss": "the side that is forward or prominent",
+      "definition": "The side that is forward or prominent.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FORT": {
+      "word": "FORT",
+      "pos": "n.",
+      "gloss": "a fortified military post where troops are stationed",
+      "definition": "A fortified military post where troops are stationed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TORN": {
+      "word": "TORN",
+      "pos": "adj.",
+      "gloss": "having edges that are jagged from injury",
+      "definition": "Having edges that are jagged from injury.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FONT": {
+      "word": "FONT",
+      "pos": "n.",
+      "gloss": "a specific size and style of type within a type family",
+      "definition": "A specific size and style of type within a type family.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RANT": {
+      "word": "RANT",
+      "pos": "n.",
+      "gloss": "a loud bombastic declamation expressed with strong emotion",
+      "definition": "A loud bombastic declamation expressed with strong emotion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FART": {
+      "word": "FART",
+      "pos": "n.",
+      "gloss": "a reflex that expels intestinal gas through the anus",
+      "definition": "A reflex that expels intestinal gas through the anus.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OFF": {
+      "word": "OFF",
+      "pos": "adv.",
+      "gloss": "from a particular thing or place or position",
+      "definition": "From a particular thing or place or position (`forth' is obsolete).",
+      "example": "Ran away from the lion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FAR": {
+      "word": "FAR",
+      "pos": "adv.",
+      "gloss": "to a considerable degree",
+      "definition": "To a considerable degree; very much.",
+      "example": "A far far better thing that I do.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ART": {
+      "word": "ART",
+      "pos": "n.",
+      "gloss": "the products of human creativity",
+      "definition": "The products of human creativity; works of art collectively.",
+      "example": "An art exhibition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FAN": {
+      "word": "FAN",
+      "pos": "n.",
+      "gloss": "a device for creating a current of air by movement of a surface or surfaces",
+      "definition": "A device for creating a current of air by movement of a surface or surfaces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FAT": {
+      "word": "FAT",
+      "pos": "n.",
+      "gloss": "a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids",
+      "definition": "A soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides).",
+      "example": "Pizza has too much fat.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TON": {
+      "word": "TON",
+      "pos": "n.",
+      "gloss": "a United States unit of weight equivalent to 2000 pounds",
+      "definition": "A United States unit of weight equivalent to 2000 pounds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAT": {
+      "word": "RAT",
+      "pos": "n.",
+      "gloss": "any of various long-tailed rodents similar to but larger than a mouse",
+      "definition": "Any of various long-tailed rodents similar to but larger than a mouse.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANT": {
+      "word": "ANT",
+      "pos": "n.",
+      "gloss": "social insect living in organized colonies",
+      "definition": "Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

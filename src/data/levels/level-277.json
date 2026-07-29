@@ -1,0 +1,131 @@
+{
+  "id": "level-277",
+  "baseWord": "SYLVAN",
+  "pool": [
+    "S",
+    "Y",
+    "L",
+    "V",
+    "A",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "SYLVAN",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SYLVA",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "NAVY",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "SLAY",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "ANY",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SAY",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LAY",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "VAN"
+  ],
+  "entries": {
+    "SYLVAN": {
+      "word": "SYLVAN",
+      "pos": "n.",
+      "gloss": "a spirit that lives in or frequents the woods",
+      "definition": "A spirit that lives in or frequents the woods.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SYLVA": {
+      "word": "SYLVA",
+      "pos": "n.",
+      "gloss": "the forest trees growing in a country or region",
+      "definition": "The forest trees growing in a country or region.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NAVY": {
+      "word": "NAVY",
+      "pos": "n.",
+      "gloss": "an organization of military vessels belonging to a country and available for sea warfare",
+      "definition": "An organization of military vessels belonging to a country and available for sea warfare.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SLAY": {
+      "word": "SLAY",
+      "pos": "v.",
+      "gloss": "kill intentionally and with premeditation",
+      "definition": "Kill intentionally and with premeditation.",
+      "example": "The mafia boss ordered his enemies murdered.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ANY": {
+      "word": "ANY",
+      "pos": "adj.",
+      "gloss": "one or some or every or all without specification",
+      "definition": "One or some or every or all without specification.",
+      "example": "Give me any peaches you don't want.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAY": {
+      "word": "SAY",
+      "pos": "v.",
+      "gloss": "express in words",
+      "definition": "Express in words.",
+      "example": "He said that he wanted to marry her.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAY": {
+      "word": "LAY",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VAN": {
+      "word": "VAN",
+      "pos": "n.",
+      "gloss": "any creative group active in the innovation and application of new concepts and…",
+      "definition": "Any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts).",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

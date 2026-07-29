@@ -1,0 +1,140 @@
+{
+  "id": "level-192",
+  "baseWord": "SNORT",
+  "pool": [
+    "S",
+    "N",
+    "O",
+    "R",
+    "T"
+  ],
+  "rows": 6,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SNORT",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SORT",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TONS",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SNOT",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "NOT",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "SON",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "ROT",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "TON",
+    "TORN"
+  ],
+  "entries": {
+    "SNORT": {
+      "word": "SNORT",
+      "pos": "v.",
+      "gloss": "indicate contempt by breathing noisily and forcefully through the nose",
+      "definition": "Indicate contempt by breathing noisily and forcefully through the nose.",
+      "example": "She snorted her disapproval of the proposed bridegroom.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SORT": {
+      "word": "SORT",
+      "pos": "n.",
+      "gloss": "a category of things distinguished by some common characteristic or quality",
+      "definition": "A category of things distinguished by some common characteristic or quality.",
+      "example": "Sculpture is a form of art.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TONS": {
+      "word": "TONS",
+      "pos": "n.",
+      "gloss": "a large number or amount",
+      "definition": "A large number or amount.",
+      "example": "Made lots of new friends.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SNOT": {
+      "word": "SNOT",
+      "pos": "n.",
+      "gloss": "a person regarded as arrogant and annoying",
+      "definition": "A person regarded as arrogant and annoying.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROT": {
+      "word": "ROT",
+      "pos": "n.",
+      "gloss": "a state of decay usually accompanied by an offensive odor",
+      "definition": "A state of decay usually accompanied by an offensive odor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TON": {
+      "word": "TON",
+      "pos": "n.",
+      "gloss": "a United States unit of weight equivalent to 2000 pounds",
+      "definition": "A United States unit of weight equivalent to 2000 pounds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TORN": {
+      "word": "TORN",
+      "pos": "adj.",
+      "gloss": "having edges that are jagged from injury",
+      "definition": "Having edges that are jagged from injury.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "id": "level-332",
+  "baseWord": "WALLABY",
+  "pool": [
+    "W",
+    "A",
+    "L",
+    "L",
+    "A",
+    "B",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "WALLABY",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "WALLY",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "BALLY",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ALLAY",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "BYLAW",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "AWAY",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "BALL",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ALL",
+    "WAY",
+    "LAW",
+    "WALL",
+    "BAY",
+    "LAY",
+    "LAB",
+    "ALLY"
+  ],
+  "entries": {
+    "WALLABY": {
+      "word": "WALLABY",
+      "pos": "n.",
+      "gloss": "any of various small or medium-sized kangaroos",
+      "definition": "Any of various small or medium-sized kangaroos; often brightly colored.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WALLY": {
+      "word": "WALLY",
+      "pos": "n.",
+      "gloss": "a silly and inept person",
+      "definition": "A silly and inept person; someone who is regarded as stupid.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BALLY": {
+      "word": "BALLY",
+      "pos": "adj.",
+      "gloss": "informal intensifiers",
+      "definition": "Informal intensifiers.",
+      "example": "What a bally (or blinking) nuisance.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ALLAY": {
+      "word": "ALLAY",
+      "pos": "v.",
+      "gloss": "lessen the intensity of or calm",
+      "definition": "Lessen the intensity of or calm.",
+      "example": "The news eased my conscience.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BYLAW": {
+      "word": "BYLAW",
+      "pos": "n.",
+      "gloss": "a rule adopted by an organization in order to regulate its own affairs and the…",
+      "definition": "A rule adopted by an organization in order to regulate its own affairs and the behavior of its members.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AWAY": {
+      "word": "AWAY",
+      "pos": "adv.",
+      "gloss": "from a particular thing or place or position",
+      "definition": "From a particular thing or place or position (`forth' is obsolete).",
+      "example": "Ran away from the lion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BALL": {
+      "word": "BALL",
+      "pos": "n.",
+      "gloss": "round object that is hit or thrown or kicked in games",
+      "definition": "Round object that is hit or thrown or kicked in games.",
+      "example": "The ball travelled 90 mph on his serve.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALL": {
+      "word": "ALL",
+      "pos": "adj.",
+      "gloss": "used with either mass or count nouns to indicate the whole number or amount of or…",
+      "definition": "(quantifier) used with either mass or count nouns to indicate the whole number or amount of or every one of a class.",
+      "example": "We sat up all night.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WAY": {
+      "word": "WAY",
+      "pos": "n.",
+      "gloss": "how something is done or how it happens",
+      "definition": "How something is done or how it happens.",
+      "example": "Her dignified manner.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAW": {
+      "word": "LAW",
+      "pos": "n.",
+      "gloss": "the collection of rules imposed by authority",
+      "definition": "The collection of rules imposed by authority.",
+      "example": "Civilization presupposes respect for the law.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WALL": {
+      "word": "WALL",
+      "pos": "n.",
+      "gloss": "an architectural partition with a height and length greater than its thickness",
+      "definition": "An architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure.",
+      "example": "The south wall had a small window.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAY": {
+      "word": "BAY",
+      "pos": "n.",
+      "gloss": "an indentation of a shoreline larger than a cove but smaller than a gulf",
+      "definition": "An indentation of a shoreline larger than a cove but smaller than a gulf.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAY": {
+      "word": "LAY",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAB": {
+      "word": "LAB",
+      "pos": "n.",
+      "gloss": "a workplace for the conduct of scientific research",
+      "definition": "A workplace for the conduct of scientific research.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ALLY": {
+      "word": "ALLY",
+      "pos": "n.",
+      "gloss": "a friendly nation",
+      "definition": "A friendly nation.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

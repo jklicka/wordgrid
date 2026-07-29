@@ -1,0 +1,214 @@
+{
+  "id": "level-399",
+  "baseWord": "MEDICO",
+  "pool": [
+    "M",
+    "E",
+    "D",
+    "I",
+    "C",
+    "O"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "MEDICO",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "MEDIC",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "COME",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "CODE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MODE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "DEMO",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "DOME",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "DIE",
+    "ICE",
+    "DOC",
+    "DEC",
+    "MOD",
+    "COD",
+    "DOE",
+    "DICE",
+    "DIME",
+    "DECO"
+  ],
+  "entries": {
+    "MEDICO": {
+      "word": "MEDICO",
+      "pos": "n.",
+      "gloss": "a student in medical school",
+      "definition": "A student in medical school.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MEDIC": {
+      "word": "MEDIC",
+      "pos": "n.",
+      "gloss": "any of several Old World herbs of the genus Medicago having small flowers and…",
+      "definition": "Any of several Old World herbs of the genus Medicago having small flowers and trifoliate compound leaves.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "COME": {
+      "word": "COME",
+      "pos": "v.",
+      "gloss": "move toward, travel toward something or somebody or approach something or somebody",
+      "definition": "Move toward, travel toward something or somebody or approach something or somebody.",
+      "example": "He came singing down the road.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CODE": {
+      "word": "CODE",
+      "pos": "n.",
+      "gloss": "a set of rules or principles or laws",
+      "definition": "A set of rules or principles or laws (especially written ones).",
+      "band": "common",
+      "tier": "general"
+    },
+    "MODE": {
+      "word": "MODE",
+      "pos": "n.",
+      "gloss": "how something is done or how it happens",
+      "definition": "How something is done or how it happens.",
+      "example": "Her dignified manner.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEMO": {
+      "word": "DEMO",
+      "pos": "n.",
+      "gloss": "a visual presentation showing how something works",
+      "definition": "A visual presentation showing how something works.",
+      "example": "The lecture was accompanied by dramatic demonstrations.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOME": {
+      "word": "DOME",
+      "pos": "n.",
+      "gloss": "a concave shape whose distinguishing characteristic is that the concavity faces downward",
+      "definition": "A concave shape whose distinguishing characteristic is that the concavity faces downward.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIE": {
+      "word": "DIE",
+      "pos": "v.",
+      "gloss": "pass from physical life and lose all bodily attributes and functions necessary to…",
+      "definition": "Pass from physical life and lose all bodily attributes and functions necessary to sustain life.",
+      "example": "She died from cancer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ICE": {
+      "word": "ICE",
+      "pos": "n.",
+      "gloss": "water frozen in the solid state",
+      "definition": "Water frozen in the solid state.",
+      "example": "Americans like ice in their drinks.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOC": {
+      "word": "DOC",
+      "pos": "n.",
+      "gloss": "a licensed medical practitioner",
+      "definition": "A licensed medical practitioner.",
+      "example": "I felt so bad I went to see my doctor.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEC": {
+      "word": "DEC",
+      "pos": "n.",
+      "gloss": "the angular distance of a celestial body north or to the south of the celestial equator",
+      "definition": "(astronomy) the angular distance of a celestial body north or to the south of the celestial equator; expressed in degrees; used with right ascension to specify positions on the celestial sphere.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MOD": {
+      "word": "MOD",
+      "pos": "n.",
+      "gloss": "a British teenager or young adult in the 1960s",
+      "definition": "A British teenager or young adult in the 1960s; noted for their clothes consciousness and opposition to the rockers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COD": {
+      "word": "COD",
+      "pos": "n.",
+      "gloss": "the vessel that contains the seeds of a plant",
+      "definition": "The vessel that contains the seeds of a plant (not the seeds themselves).",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOE": {
+      "word": "DOE",
+      "pos": "n.",
+      "gloss": "mature female of mammals of which the male is called `buck'",
+      "definition": "Mature female of mammals of which the male is called `buck'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DICE": {
+      "word": "DICE",
+      "pos": "n.",
+      "gloss": "a small cube with 1 to 6 spots on the six faces",
+      "definition": "A small cube with 1 to 6 spots on the six faces; used in gambling to generate random numbers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DIME": {
+      "word": "DIME",
+      "pos": "n.",
+      "gloss": "a United States coin worth one tenth of a dollar",
+      "definition": "A United States coin worth one tenth of a dollar.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DECO": {
+      "word": "DECO",
+      "pos": "n.",
+      "gloss": "a style of design that was popular in the 1920s and 1930s",
+      "definition": "A style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

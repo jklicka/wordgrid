@@ -1,0 +1,140 @@
+{
+  "id": "level-145",
+  "baseWord": "ARMADA",
+  "pool": [
+    "A",
+    "R",
+    "M",
+    "A",
+    "D",
+    "A"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "ARMADA",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "DRAMA",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "MARA",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DRAM",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MAD",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "MAR",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "RAM",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ARM",
+    "DAM"
+  ],
+  "entries": {
+    "ARMADA": {
+      "word": "ARMADA",
+      "pos": "n.",
+      "gloss": "a large fleet",
+      "definition": "A large fleet.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DRAMA": {
+      "word": "DRAMA",
+      "pos": "n.",
+      "gloss": "a dramatic work intended for performance by actors on a stage",
+      "definition": "A dramatic work intended for performance by actors on a stage.",
+      "example": "He wrote several plays but only one was produced on Broadway.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MARA": {
+      "word": "MARA",
+      "pos": "n.",
+      "gloss": "hare-like rodent of the pampas of Argentina",
+      "definition": "Hare-like rodent of the pampas of Argentina.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "DRAM": {
+      "word": "DRAM",
+      "pos": "n.",
+      "gloss": "a unit of apothecary weight equal to an eighth of an ounce or to 60 grains",
+      "definition": "A unit of apothecary weight equal to an eighth of an ounce or to 60 grains.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAD": {
+      "word": "MAD",
+      "pos": "adj.",
+      "gloss": "roused to anger",
+      "definition": "Roused to anger.",
+      "example": "Stayed huffy a good while\"- Mark Twain.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAR": {
+      "word": "MAR",
+      "pos": "v.",
+      "gloss": "make imperfect",
+      "definition": "Make imperfect.",
+      "example": "Nothing marred her beauty.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAM": {
+      "word": "RAM",
+      "pos": "v.",
+      "gloss": "strike or drive against with a heavy impact",
+      "definition": "Strike or drive against with a heavy impact.",
+      "example": "Ram the gate with a sledgehammer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARM": {
+      "word": "ARM",
+      "pos": "n.",
+      "gloss": "a human limb",
+      "definition": "A human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAM": {
+      "word": "DAM",
+      "pos": "n.",
+      "gloss": "a barrier constructed to contain the flow of water or to keep out the sea",
+      "definition": "A barrier constructed to contain the flow of water or to keep out the sea.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

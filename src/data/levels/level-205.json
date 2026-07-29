@@ -1,0 +1,159 @@
+{
+  "id": "level-205",
+  "baseWord": "PANTY",
+  "pool": [
+    "P",
+    "A",
+    "N",
+    "T",
+    "Y"
+  ],
+  "rows": 7,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "PANTY",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "PANT",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "ANY",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "PAY",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "TAP",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "PAT",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "TAN",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "PAN",
+    "ANT",
+    "NAP",
+    "APT"
+  ],
+  "entries": {
+    "PANTY": {
+      "word": "PANTY",
+      "pos": "n.",
+      "gloss": "short underpants for women or children",
+      "definition": "Short underpants for women or children (usually used in the plural).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PANT": {
+      "word": "PANT",
+      "pos": "v.",
+      "gloss": "breathe noisily, as when one is exhausted",
+      "definition": "Breathe noisily, as when one is exhausted.",
+      "example": "The runners reached the finish line, panting heavily.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ANY": {
+      "word": "ANY",
+      "pos": "adj.",
+      "gloss": "one or some or every or all without specification",
+      "definition": "One or some or every or all without specification.",
+      "example": "Give me any peaches you don't want.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAY": {
+      "word": "PAY",
+      "pos": "v.",
+      "gloss": "give money, usually in exchange for goods or services",
+      "definition": "Give money, usually in exchange for goods or services.",
+      "example": "I paid four dollars for this sandwich.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAP": {
+      "word": "TAP",
+      "pos": "v.",
+      "gloss": "cut a female screw thread with a tap",
+      "definition": "Cut a female screw thread with a tap.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAT": {
+      "word": "PAT",
+      "pos": "v.",
+      "gloss": "pat or squeeze fondly or playfully, especially under the chin",
+      "definition": "Pat or squeeze fondly or playfully, especially under the chin.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAN": {
+      "word": "PAN",
+      "pos": "v.",
+      "gloss": "make a sweeping movement",
+      "definition": "Make a sweeping movement.",
+      "example": "The camera panned across the room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANT": {
+      "word": "ANT",
+      "pos": "n.",
+      "gloss": "social insect living in organized colonies",
+      "definition": "Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NAP": {
+      "word": "NAP",
+      "pos": "n.",
+      "gloss": "a period of time spent sleeping",
+      "definition": "A period of time spent sleeping.",
+      "example": "He felt better after a little sleep.",
+      "band": "common",
+      "tier": "general"
+    },
+    "APT": {
+      "word": "APT",
+      "pos": "adj.",
+      "gloss": "naturally disposed toward",
+      "definition": "(usually followed by `to') naturally disposed toward.",
+      "example": "He is apt to ignore matters he considers unimportant.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "level-164",
+  "baseWord": "PLOUGH",
+  "pool": [
+    "P",
+    "L",
+    "O",
+    "U",
+    "G",
+    "H"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "PLOUGH",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "GHOUL",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "LOUGH",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "PLUG",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "GULP",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "HOP",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "HUG",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "LOG"
+  ],
+  "entries": {
+    "PLOUGH": {
+      "word": "PLOUGH",
+      "pos": "n.",
+      "gloss": "a farm tool having one or more heavy blades to break the soil and cut a furrow prior…",
+      "definition": "A farm tool having one or more heavy blades to break the soil and cut a furrow prior to sowing.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GHOUL": {
+      "word": "GHOUL",
+      "pos": "n.",
+      "gloss": "someone who takes bodies from graves and sells them for anatomical dissection",
+      "definition": "Someone who takes bodies from graves and sells them for anatomical dissection.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LOUGH": {
+      "word": "LOUGH",
+      "pos": "n.",
+      "gloss": "a long narrow cove in Ireland",
+      "definition": "A long narrow (nearly landlocked) cove in Ireland.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PLUG": {
+      "word": "PLUG",
+      "pos": "v.",
+      "gloss": "fill or close tightly with or as if with a plug",
+      "definition": "Fill or close tightly with or as if with a plug.",
+      "example": "Plug the hole.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GULP": {
+      "word": "GULP",
+      "pos": "v.",
+      "gloss": "to swallow hurriedly or greedily or in one draught",
+      "definition": "To swallow hurriedly or greedily or in one draught.",
+      "example": "The men gulped down their beers.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HOP": {
+      "word": "HOP",
+      "pos": "v.",
+      "gloss": "jump lightly",
+      "definition": "Jump lightly.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HUG": {
+      "word": "HUG",
+      "pos": "v.",
+      "gloss": "hold tightly in your arms, usually with fondness",
+      "definition": "Hold (someone) tightly in your arms, usually with fondness.",
+      "example": "Hug me, please.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOG": {
+      "word": "LOG",
+      "pos": "v.",
+      "gloss": "enter into a log, as on ships and planes",
+      "definition": "Enter into a log, as on ships and planes.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

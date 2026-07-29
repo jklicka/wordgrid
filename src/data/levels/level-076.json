@@ -1,0 +1,160 @@
+{
+  "id": "level-076",
+  "baseWord": "EBONY",
+  "pool": [
+    "E",
+    "B",
+    "O",
+    "N",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "EBONY",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "BONEY",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "BONE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "OBEY",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BONY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "ONE",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "BOY",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "BEN",
+    "BYE",
+    "NEO",
+    "YEN"
+  ],
+  "entries": {
+    "EBONY": {
+      "word": "EBONY",
+      "pos": "n.",
+      "gloss": "a very dark black",
+      "definition": "A very dark black.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BONEY": {
+      "word": "BONEY",
+      "pos": "adj.",
+      "gloss": "having bones especially many or prominent bones",
+      "definition": "Having bones especially many or prominent bones.",
+      "example": "A bony shad fillet.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BONE": {
+      "word": "BONE",
+      "pos": "n.",
+      "gloss": "rigid connective tissue that makes up the skeleton of vertebrates",
+      "definition": "Rigid connective tissue that makes up the skeleton of vertebrates.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OBEY": {
+      "word": "OBEY",
+      "pos": "v.",
+      "gloss": "be obedient to",
+      "definition": "Be obedient to.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BONY": {
+      "word": "BONY",
+      "pos": "adj.",
+      "gloss": "being very thin",
+      "definition": "Being very thin.",
+      "example": "A child with skinny freckled legs.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ONE": {
+      "word": "ONE",
+      "pos": "adj.",
+      "gloss": "used of a single unit or thing",
+      "definition": "Used of a single unit or thing; not two or more.",
+      "example": "`ane' is Scottish.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOY": {
+      "word": "BOY",
+      "pos": "n.",
+      "gloss": "a youthful male person",
+      "definition": "A youthful male person.",
+      "example": "The baby was a boy.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEN": {
+      "word": "BEN",
+      "pos": "n.",
+      "gloss": "a mountain or tall hill",
+      "definition": "A mountain or tall hill.",
+      "example": "They were climbing the ben.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BYE": {
+      "word": "BYE",
+      "pos": "n.",
+      "gloss": "an automatic advance to the next round in a tournament without playing an opponent",
+      "definition": "An automatic advance to the next round in a tournament without playing an opponent.",
+      "example": "He had a bye in the first round.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NEO": {
+      "word": "NEO",
+      "pos": "adj.",
+      "gloss": "recent or new",
+      "definition": "(used as a combining form) recent or new.",
+      "example": "`neo' is a combining form in words like `neocolonialism'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YEN": {
+      "word": "YEN",
+      "pos": "n.",
+      "gloss": "a yearning for something or to do something",
+      "definition": "A yearning for something or to do something.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

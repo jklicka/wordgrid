@@ -1,0 +1,141 @@
+{
+  "id": "level-043",
+  "baseWord": "VESTED",
+  "pool": [
+    "V",
+    "E",
+    "S",
+    "T",
+    "E",
+    "D"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "VESTED",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "STEED",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "SEED",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "VEST",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SEE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SET",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "EVE",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "VET",
+    "TEE"
+  ],
+  "entries": {
+    "VESTED": {
+      "word": "VESTED",
+      "pos": "adj.",
+      "gloss": "fixed and absolute and without contingency",
+      "definition": "Fixed and absolute and without contingency.",
+      "example": "A vested right.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "STEED": {
+      "word": "STEED",
+      "pos": "n.",
+      "gloss": "a spirited horse for state of war",
+      "definition": "(literary) a spirited horse for state of war.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SEED": {
+      "word": "SEED",
+      "pos": "n.",
+      "gloss": "a small hard fruit",
+      "definition": "A small hard fruit.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VEST": {
+      "word": "VEST",
+      "pos": "n.",
+      "gloss": "a man's sleeveless garment worn underneath a coat",
+      "definition": "A man's sleeveless garment worn underneath a coat.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEE": {
+      "word": "SEE",
+      "pos": "v.",
+      "gloss": "perceive by sight or have the power to perceive by sight",
+      "definition": "Perceive by sight or have the power to perceive by sight.",
+      "example": "You have to be a good observer to see all the details.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SET": {
+      "word": "SET",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EVE": {
+      "word": "EVE",
+      "pos": "n.",
+      "gloss": "the day before",
+      "definition": "The day before.",
+      "example": "He always arrives on the eve of her departure.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VET": {
+      "word": "VET",
+      "pos": "n.",
+      "gloss": "a doctor who practices veterinary medicine",
+      "definition": "A doctor who practices veterinary medicine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEE": {
+      "word": "TEE",
+      "pos": "n.",
+      "gloss": "the starting place for each hole on a golf course",
+      "definition": "The starting place for each hole on a golf course.",
+      "example": "They were waiting on the first tee.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

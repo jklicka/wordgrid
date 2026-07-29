@@ -1,0 +1,113 @@
+{
+  "id": "level-222",
+  "baseWord": "BERET",
+  "pool": [
+    "B",
+    "E",
+    "R",
+    "E",
+    "T"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "BERET",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "TREE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "BEER",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "BEET",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "BET",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BEE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "TEE"
+  ],
+  "entries": {
+    "BERET": {
+      "word": "BERET",
+      "pos": "n.",
+      "gloss": "a cap with no brim or bill",
+      "definition": "A cap with no brim or bill; made of soft cloth.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TREE": {
+      "word": "TREE",
+      "pos": "n.",
+      "gloss": "a tall perennial woody plant having a main trunk and branches forming a distinct…",
+      "definition": "A tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEER": {
+      "word": "BEER",
+      "pos": "n.",
+      "gloss": "a general name for alcoholic beverages made by fermenting a cereal flavored with hops",
+      "definition": "A general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEET": {
+      "word": "BEET",
+      "pos": "n.",
+      "gloss": "biennial Eurasian plant usually having a swollen edible root",
+      "definition": "Biennial Eurasian plant usually having a swollen edible root; widely cultivated as a food crop.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BET": {
+      "word": "BET",
+      "pos": "n.",
+      "gloss": "the money risked on a gamble",
+      "definition": "The money risked on a gamble.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BEE": {
+      "word": "BEE",
+      "pos": "n.",
+      "gloss": "any of numerous hairy-bodied insects including social and solitary species",
+      "definition": "Any of numerous hairy-bodied insects including social and solitary species.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEE": {
+      "word": "TEE",
+      "pos": "n.",
+      "gloss": "the starting place for each hole on a golf course",
+      "definition": "The starting place for each hole on a golf course.",
+      "example": "They were waiting on the first tee.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

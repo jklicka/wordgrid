@@ -1,0 +1,152 @@
+{
+  "id": "level-068",
+  "baseWord": "UNBORN",
+  "pool": [
+    "U",
+    "N",
+    "B",
+    "O",
+    "R",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "UNBORN",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BOURN",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "BORN",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "BURN",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "NOUN",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RUN",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "NON",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ROB",
+    "RUB",
+    "NUN"
+  ],
+  "entries": {
+    "UNBORN": {
+      "word": "UNBORN",
+      "pos": "adj.",
+      "gloss": "not yet brought into existence",
+      "definition": "Not yet brought into existence.",
+      "example": "Unborn generations.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BOURN": {
+      "word": "BOURN",
+      "pos": "n.",
+      "gloss": "an archaic term for a boundary",
+      "definition": "An archaic term for a boundary.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BORN": {
+      "word": "BORN",
+      "pos": "adj.",
+      "gloss": "brought into existence",
+      "definition": "Brought into existence.",
+      "example": "He was a child born of adultery.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BURN": {
+      "word": "BURN",
+      "pos": "v.",
+      "gloss": "destroy by fire",
+      "definition": "Destroy by fire.",
+      "example": "They burned the house and his diaries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOUN": {
+      "word": "NOUN",
+      "pos": "n.",
+      "gloss": "a content word that can be used to refer to a person, place, thing, quality, or action",
+      "definition": "A content word that can be used to refer to a person, place, thing, quality, or action.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUN": {
+      "word": "RUN",
+      "pos": "v.",
+      "gloss": "move fast by using one's feet, with one foot off the ground at any given time",
+      "definition": "Move fast by using one's feet, with one foot off the ground at any given time.",
+      "example": "Don't run--you'll be out of breath.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NON": {
+      "word": "NON",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROB": {
+      "word": "ROB",
+      "pos": "v.",
+      "gloss": "take something away by force or without the consent of the owner",
+      "definition": "Take something away by force or without the consent of the owner.",
+      "example": "The burglars robbed him of all his money.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RUB": {
+      "word": "RUB",
+      "pos": "v.",
+      "gloss": "move over something with pressure",
+      "definition": "Move over something with pressure.",
+      "example": "Rub my hands.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUN": {
+      "word": "NUN",
+      "pos": "n.",
+      "gloss": "a woman religious",
+      "definition": "A woman religious.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

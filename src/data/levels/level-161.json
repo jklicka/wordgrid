@@ -1,0 +1,168 @@
+{
+  "id": "level-161",
+  "baseWord": "FRESCO",
+  "pool": [
+    "F",
+    "R",
+    "E",
+    "S",
+    "C",
+    "O"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "FRESCO",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "FORCE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "SCORE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ROSE",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "CORE",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SORE",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "FORE",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "SEC",
+    "ORE",
+    "COS",
+    "REF",
+    "EROS"
+  ],
+  "entries": {
+    "FRESCO": {
+      "word": "FRESCO",
+      "pos": "n.",
+      "gloss": "a mural done with watercolors on wet plaster",
+      "definition": "A mural done with watercolors on wet plaster.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "FORCE": {
+      "word": "FORCE",
+      "pos": "n.",
+      "gloss": "a powerful effect or influence",
+      "definition": "A powerful effect or influence.",
+      "example": "The force of his eloquence easily persuaded them.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SCORE": {
+      "word": "SCORE",
+      "pos": "n.",
+      "gloss": "a number or letter indicating quality",
+      "definition": "A number or letter indicating quality (especially of a student's performance).",
+      "example": "She made good marks in algebra.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROSE": {
+      "word": "ROSE",
+      "pos": "n.",
+      "gloss": "any of many shrubs of the genus Rosa that bear roses",
+      "definition": "Any of many shrubs of the genus Rosa that bear roses.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CORE": {
+      "word": "CORE",
+      "pos": "n.",
+      "gloss": "a small group of indispensable persons or things",
+      "definition": "A small group of indispensable persons or things.",
+      "example": "Five periodicals make up the core of their publishing program.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SORE": {
+      "word": "SORE",
+      "pos": "adj.",
+      "gloss": "hurting",
+      "definition": "Hurting.",
+      "example": "The tender spot on his jaw.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FORE": {
+      "word": "FORE",
+      "pos": "n.",
+      "gloss": "front part of a vessel or aircraft",
+      "definition": "Front part of a vessel or aircraft.",
+      "example": "He pointed the bow of the boat toward the finish line.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SEC": {
+      "word": "SEC",
+      "pos": "n.",
+      "gloss": "1/60 of a minute",
+      "definition": "1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ORE": {
+      "word": "ORE",
+      "pos": "n.",
+      "gloss": "a mineral that contains metal that is valuable enough to be mined",
+      "definition": "A mineral that contains metal that is valuable enough to be mined.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COS": {
+      "word": "COS",
+      "pos": "n.",
+      "gloss": "ratio of the adjacent side to the hypotenuse of a right-angled triangle",
+      "definition": "Ratio of the adjacent side to the hypotenuse of a right-angled triangle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REF": {
+      "word": "REF",
+      "pos": "n.",
+      "gloss": "the chief official who is expected to ensure fair play",
+      "definition": "(sports) the chief official (as in boxing or American football) who is expected to ensure fair play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EROS": {
+      "word": "EROS",
+      "pos": "n.",
+      "gloss": "a desire for sexual intimacy",
+      "definition": "A desire for sexual intimacy.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

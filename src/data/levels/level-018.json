@@ -8,49 +8,49 @@
     "O",
     "L"
   ],
-  "rows": 7,
+  "rows": 8,
   "cols": 8,
   "placed": [
     {
       "word": "STOOL",
-      "row": 2,
-      "col": 1,
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
       "word": "LOST",
       "row": 1,
-      "col": 4,
+      "col": 0,
       "direction": "down"
     },
     {
       "word": "LOTS",
-      "row": 0,
-      "col": 2,
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
       "word": "SOLO",
       "row": 0,
-      "col": 0,
-      "direction": "across"
+      "col": 2,
+      "direction": "down"
     },
     {
       "word": "TOOL",
-      "row": 4,
+      "row": 5,
       "col": 4,
       "direction": "across"
     },
     {
       "word": "SLOT",
-      "row": 3,
+      "row": 4,
       "col": 7,
       "direction": "down"
     },
     {
       "word": "LOOT",
-      "row": 6,
-      "col": 4,
+      "row": 1,
+      "col": 0,
       "direction": "across"
     }
   ],

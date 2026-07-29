@@ -1,0 +1,176 @@
+{
+  "id": "level-397",
+  "baseWord": "MATEY",
+  "pool": [
+    "M",
+    "A",
+    "T",
+    "E",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "MATEY",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "MEATY",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "TEAM",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "MEAT",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "MATE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TAME",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "MAY",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "YET",
+    "EAT",
+    "TEA",
+    "YEA",
+    "ATM",
+    "MAT"
+  ],
+  "entries": {
+    "MATEY": {
+      "word": "MATEY",
+      "pos": "adj.",
+      "gloss": "having the relationship of friends or pals",
+      "definition": "(used colloquially) having the relationship of friends or pals.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MEATY": {
+      "word": "MEATY",
+      "pos": "adj.",
+      "gloss": "like or containing meat",
+      "definition": "Like or containing meat.",
+      "example": "Enough of vegetarianism.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TEAM": {
+      "word": "TEAM",
+      "pos": "n.",
+      "gloss": "a cooperative unit",
+      "definition": "A cooperative unit (especially in sports).",
+      "band": "common",
+      "tier": "general"
+    },
+    "MEAT": {
+      "word": "MEAT",
+      "pos": "n.",
+      "gloss": "the flesh of animals used as food",
+      "definition": "The flesh of animals (including fishes and birds and snails) used as food.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MATE": {
+      "word": "MATE",
+      "pos": "n.",
+      "gloss": "the officer below the master on a commercial ship",
+      "definition": "The officer below the master on a commercial ship.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAME": {
+      "word": "TAME",
+      "pos": "v.",
+      "gloss": "correct by punishment or discipline",
+      "definition": "Correct by punishment or discipline.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAY": {
+      "word": "MAY",
+      "pos": "n.",
+      "gloss": "thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers…",
+      "definition": "Thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers followed by deep red berries; established as an escape in eastern North America.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YET": {
+      "word": "YET",
+      "pos": "adv.",
+      "gloss": "up to the present time",
+      "definition": "Up to the present time.",
+      "example": "I have yet to see the results.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAT": {
+      "word": "EAT",
+      "pos": "v.",
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YEA": {
+      "word": "YEA",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "The yeas have it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ATM": {
+      "word": "ATM",
+      "pos": "n.",
+      "gloss": "a unit of pressure",
+      "definition": "A unit of pressure: the pressure that will support a column of mercury 760 mm high at sea level and 0 degrees centigrade.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAT": {
+      "word": "MAT",
+      "pos": "n.",
+      "gloss": "a thick flat pad used as a floor covering",
+      "definition": "A thick flat pad used as a floor covering.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

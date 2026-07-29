@@ -1,0 +1,197 @@
+{
+  "id": "level-254",
+  "baseWord": "CORSAIR",
+  "pool": [
+    "C",
+    "O",
+    "R",
+    "S",
+    "A",
+    "I",
+    "R"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "CORSAIR",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SCAR",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "ROAR",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "AIRS",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SOAR",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "SARI",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "ORCA",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "CAR",
+    "AIR",
+    "SIR",
+    "ARC",
+    "COS",
+    "IRA",
+    "SAC",
+    "SIC"
+  ],
+  "entries": {
+    "CORSAIR": {
+      "word": "CORSAIR",
+      "pos": "n.",
+      "gloss": "a pirate along the Barbary Coast",
+      "definition": "A pirate along the Barbary Coast.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SCAR": {
+      "word": "SCAR",
+      "pos": "n.",
+      "gloss": "a mark left by the healing of injured tissue",
+      "definition": "A mark left (usually on the skin) by the healing of injured tissue.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROAR": {
+      "word": "ROAR",
+      "pos": "v.",
+      "gloss": "make a loud noise, as of wind, water, or vehicles",
+      "definition": "Make a loud noise, as of wind, water, or vehicles.",
+      "example": "The wind was howling in the trees.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIRS": {
+      "word": "AIRS",
+      "pos": "n.",
+      "gloss": "affected manners intended to impress others",
+      "definition": "Affected manners intended to impress others.",
+      "example": "Don't put on airs with me.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SOAR": {
+      "word": "SOAR",
+      "pos": "v.",
+      "gloss": "rise rapidly",
+      "definition": "Rise rapidly.",
+      "example": "The dollar soared against the yen.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SARI": {
+      "word": "SARI",
+      "pos": "n.",
+      "gloss": "a dress worn primarily by Hindu women",
+      "definition": "A dress worn primarily by Hindu women; consists of several yards of light material that is draped around the body.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ORCA": {
+      "word": "ORCA",
+      "pos": "n.",
+      "gloss": "predatory black-and-white toothed whale with large dorsal fin",
+      "definition": "Predatory black-and-white toothed whale with large dorsal fin; common in cold seas.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAR": {
+      "word": "CAR",
+      "pos": "n.",
+      "gloss": "a motor vehicle with four wheels",
+      "definition": "A motor vehicle with four wheels; usually propelled by an internal combustion engine.",
+      "example": "He needs a car to get to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIR": {
+      "word": "AIR",
+      "pos": "n.",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIR": {
+      "word": "SIR",
+      "pos": "n.",
+      "gloss": "term of address for a man",
+      "definition": "Term of address for a man.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARC": {
+      "word": "ARC",
+      "pos": "n.",
+      "gloss": "electrical conduction through a gas in an applied electric field",
+      "definition": "Electrical conduction through a gas in an applied electric field.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COS": {
+      "word": "COS",
+      "pos": "n.",
+      "gloss": "ratio of the adjacent side to the hypotenuse of a right-angled triangle",
+      "definition": "Ratio of the adjacent side to the hypotenuse of a right-angled triangle.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IRA": {
+      "word": "IRA",
+      "pos": "n.",
+      "gloss": "belligerence aroused by a real or supposed wrong",
+      "definition": "Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAC": {
+      "word": "SAC",
+      "pos": "n.",
+      "gloss": "an enclosed space",
+      "definition": "An enclosed space.",
+      "example": "The trapped miners found a pocket of air.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SIC": {
+      "word": "SIC",
+      "pos": "adv.",
+      "gloss": "intentionally so written",
+      "definition": "Intentionally so written (used after a printed word or phrase).",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

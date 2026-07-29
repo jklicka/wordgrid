@@ -1,0 +1,156 @@
+{
+  "id": "level-036",
+  "baseWord": "GRAIL",
+  "pool": [
+    "G",
+    "R",
+    "A",
+    "I",
+    "L"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "GRAIL",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "GIRL",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "RAIL",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "LIAR",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "LAIR",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "AIR",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "RIG",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "IRA",
+    "GAL",
+    "LAG",
+    "LIRA"
+  ],
+  "entries": {
+    "GRAIL": {
+      "word": "GRAIL",
+      "pos": "n.",
+      "gloss": "the object of any prolonged endeavor",
+      "definition": "The object of any prolonged endeavor.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GIRL": {
+      "word": "GIRL",
+      "pos": "n.",
+      "gloss": "a young female",
+      "definition": "A young female.",
+      "example": "A young lady of 18.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAIL": {
+      "word": "RAIL",
+      "pos": "n.",
+      "gloss": "a barrier consisting of a horizontal bar and supports",
+      "definition": "A barrier consisting of a horizontal bar and supports.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIAR": {
+      "word": "LIAR",
+      "pos": "n.",
+      "gloss": "a person who has lied or who lies repeatedly",
+      "definition": "A person who has lied or who lies repeatedly.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAIR": {
+      "word": "LAIR",
+      "pos": "n.",
+      "gloss": "the habitation of wild animals",
+      "definition": "The habitation of wild animals.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "AIR": {
+      "word": "AIR",
+      "pos": "n.",
+      "gloss": "a mixture of gases required for breathing",
+      "definition": "A mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of.",
+      "example": "Air pollution.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RIG": {
+      "word": "RIG",
+      "pos": "v.",
+      "gloss": "arrange the outcome of by means of deceit",
+      "definition": "Arrange the outcome of by means of deceit.",
+      "example": "Rig an election.",
+      "band": "common",
+      "tier": "general"
+    },
+    "IRA": {
+      "word": "IRA",
+      "pos": "n.",
+      "gloss": "belligerence aroused by a real or supposed wrong",
+      "definition": "Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAL": {
+      "word": "GAL",
+      "pos": "n.",
+      "gloss": "United States liquid unit equal to 4 quarts or 3.785 liters",
+      "definition": "United States liquid unit equal to 4 quarts or 3.785 liters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAG": {
+      "word": "LAG",
+      "pos": "n.",
+      "gloss": "the act of slowing down or falling behind",
+      "definition": "The act of slowing down or falling behind.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LIRA": {
+      "word": "LIRA",
+      "pos": "n.",
+      "gloss": "the basic unit of money on Malta",
+      "definition": "The basic unit of money on Malta; equal to 100 cents.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

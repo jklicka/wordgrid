@@ -1,0 +1,140 @@
+{
+  "id": "level-173",
+  "baseWord": "AILING",
+  "pool": [
+    "A",
+    "I",
+    "L",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "AILING",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "ALIGN",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "GAIN",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "NAIL",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LING",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "ANIL",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "GAL",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "GIN",
+    "LAG"
+  ],
+  "entries": {
+    "AILING": {
+      "word": "AILING",
+      "pos": "adj.",
+      "gloss": "somewhat ill or prone to illness",
+      "definition": "Somewhat ill or prone to illness.",
+      "example": "My poor ailing grandmother.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ALIGN": {
+      "word": "ALIGN",
+      "pos": "v.",
+      "gloss": "place in a line or arrange so as to be parallel or straight",
+      "definition": "Place in a line or arrange so as to be parallel or straight.",
+      "example": "Align the car with the curb.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GAIN": {
+      "word": "GAIN",
+      "pos": "v.",
+      "gloss": "obtain",
+      "definition": "Obtain.",
+      "example": "Derive pleasure from one's garden.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NAIL": {
+      "word": "NAIL",
+      "pos": "v.",
+      "gloss": "attach something somewhere by means of nails",
+      "definition": "Attach something somewhere by means of nails.",
+      "example": "Nail the board onto the wall.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LING": {
+      "word": "LING",
+      "pos": "n.",
+      "gloss": "water chestnut whose spiny fruit has two rather than 4 prongs",
+      "definition": "Water chestnut whose spiny fruit has two rather than 4 prongs.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ANIL": {
+      "word": "ANIL",
+      "pos": "n.",
+      "gloss": "a blue dye obtained from plants or made synthetically",
+      "definition": "A blue dye obtained from plants or made synthetically.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GAL": {
+      "word": "GAL",
+      "pos": "n.",
+      "gloss": "United States liquid unit equal to 4 quarts or 3.785 liters",
+      "definition": "United States liquid unit equal to 4 quarts or 3.785 liters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAG": {
+      "word": "LAG",
+      "pos": "n.",
+      "gloss": "the act of slowing down or falling behind",
+      "definition": "The act of slowing down or falling behind.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

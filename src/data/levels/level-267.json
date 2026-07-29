@@ -1,0 +1,151 @@
+{
+  "id": "level-267",
+  "baseWord": "HOTDOG",
+  "pool": [
+    "H",
+    "O",
+    "T",
+    "D",
+    "O",
+    "G"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "HOTDOG",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "GOOD",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "HOOD",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "HOOT",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "TOO",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "GOD",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "HOT",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "DOG",
+    "DOT",
+    "OOH"
+  ],
+  "entries": {
+    "HOTDOG": {
+      "word": "HOTDOG",
+      "pos": "n.",
+      "gloss": "someone who performs dangerous stunts to attract attention to himself",
+      "definition": "Someone who performs dangerous stunts to attract attention to himself.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GOOD": {
+      "word": "GOOD",
+      "pos": "adj.",
+      "gloss": "having desirable or positive qualities especially those suitable for a thing specified",
+      "definition": "Having desirable or positive qualities especially those suitable for a thing specified.",
+      "example": "Good news from the hospital.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOOD": {
+      "word": "HOOD",
+      "pos": "n.",
+      "gloss": "an aggressive and violent young criminal",
+      "definition": "An aggressive and violent young criminal.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOOT": {
+      "word": "HOOT",
+      "pos": "n.",
+      "gloss": "a loud raucous cry",
+      "definition": "A loud raucous cry (as of an owl).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOO": {
+      "word": "TOO",
+      "pos": "adv.",
+      "gloss": "to a degree exceeding normal or proper limits",
+      "definition": "To a degree exceeding normal or proper limits.",
+      "example": "Too big.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GOD": {
+      "word": "GOD",
+      "pos": "n.",
+      "gloss": "any supernatural being worshipped as controlling some part of the world or some aspect…",
+      "definition": "Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOT": {
+      "word": "HOT",
+      "pos": "adj.",
+      "gloss": "used of physical heat",
+      "definition": "Used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning.",
+      "example": "Hot stove.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOG": {
+      "word": "DOG",
+      "pos": "n.",
+      "gloss": "a member of the genus Canis that has been domesticated by man since prehistoric times",
+      "definition": "A member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds.",
+      "example": "The dog barked all night.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOT": {
+      "word": "DOT",
+      "pos": "n.",
+      "gloss": "a very small circular shape",
+      "definition": "A very small circular shape.",
+      "example": "A row of points.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OOH": {
+      "word": "OOH",
+      "pos": "v.",
+      "gloss": "express admiration and pleasure by uttering `ooh' or `aah'",
+      "definition": "Express admiration and pleasure by uttering `ooh' or `aah'.",
+      "example": "They oohed and aahed when they unwrapped the presents.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

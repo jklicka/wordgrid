@@ -1,0 +1,131 @@
+{
+  "id": "level-356",
+  "baseWord": "LOBED",
+  "pool": [
+    "L",
+    "O",
+    "B",
+    "E",
+    "D"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "LOBED",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "BOLD",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "DOLE",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "LOBE",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "BODE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "OLD",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "BED",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "DOE"
+  ],
+  "entries": {
+    "LOBED": {
+      "word": "LOBED",
+      "pos": "adj.",
+      "gloss": "having deeply indented margins but with lobes not entirely separate from each other",
+      "definition": "Having deeply indented margins but with lobes not entirely separate from each other.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BOLD": {
+      "word": "BOLD",
+      "pos": "adj.",
+      "gloss": "fearless and daring",
+      "definition": "Fearless and daring.",
+      "example": "Bold settlers on some foreign shore.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOLE": {
+      "word": "DOLE",
+      "pos": "n.",
+      "gloss": "a share of money or food or clothing that has been charitably given",
+      "definition": "A share of money or food or clothing that has been charitably given.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LOBE": {
+      "word": "LOBE",
+      "pos": "n.",
+      "gloss": "a somewhat rounded subdivision of a bodily organ or part",
+      "definition": "(anatomy) a somewhat rounded subdivision of a bodily organ or part.",
+      "example": "Ear lobe.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "BODE": {
+      "word": "BODE",
+      "pos": "v.",
+      "gloss": "indicate, as with a sign or an omen",
+      "definition": "Indicate, as with a sign or an omen.",
+      "example": "These signs bode bad news.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "OLD": {
+      "word": "OLD",
+      "pos": "adj.",
+      "gloss": "having lived for a relatively long time or attained a specific age",
+      "definition": "(used especially of persons) having lived for a relatively long time or attained a specific age.",
+      "example": "His mother is very old.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BED": {
+      "word": "BED",
+      "pos": "n.",
+      "gloss": "a piece of furniture that provides a place to sleep",
+      "definition": "A piece of furniture that provides a place to sleep.",
+      "example": "He sat on the edge of the bed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOE": {
+      "word": "DOE",
+      "pos": "n.",
+      "gloss": "mature female of mammals of which the male is called `buck'",
+      "definition": "Mature female of mammals of which the male is called `buck'.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

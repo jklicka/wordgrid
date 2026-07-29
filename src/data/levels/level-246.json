@@ -1,0 +1,202 @@
+{
+  "id": "level-246",
+  "baseWord": "ATONE",
+  "pool": [
+    "A",
+    "T",
+    "O",
+    "N",
+    "E"
+  ],
+  "rows": 6,
+  "cols": 5,
+  "placed": [
+    {
+      "word": "ATONE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NOTE",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "TONE",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "NOT",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "NEO",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ANT",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ONE",
+    "EAT",
+    "TEN",
+    "NET",
+    "TEA",
+    "TON",
+    "TOE",
+    "TAN",
+    "NEAT",
+    "ANTE"
+  ],
+  "entries": {
+    "ATONE": {
+      "word": "ATONE",
+      "pos": "v.",
+      "gloss": "make amends for",
+      "definition": "Make amends for.",
+      "example": "Expiate one's sins.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NOTE": {
+      "word": "NOTE",
+      "pos": "n.",
+      "gloss": "a brief written record",
+      "definition": "A brief written record.",
+      "example": "He made a note of the appointment.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TONE": {
+      "word": "TONE",
+      "pos": "n.",
+      "gloss": "the quality of a person's voice",
+      "definition": "The quality of a person's voice.",
+      "example": "He began in a conversational tone.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NEO": {
+      "word": "NEO",
+      "pos": "adj.",
+      "gloss": "recent or new",
+      "definition": "(used as a combining form) recent or new.",
+      "example": "`neo' is a combining form in words like `neocolonialism'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANT": {
+      "word": "ANT",
+      "pos": "n.",
+      "gloss": "social insect living in organized colonies",
+      "definition": "Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ONE": {
+      "word": "ONE",
+      "pos": "adj.",
+      "gloss": "used of a single unit or thing",
+      "definition": "Used of a single unit or thing; not two or more.",
+      "example": "`ane' is Scottish.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAT": {
+      "word": "EAT",
+      "pos": "v.",
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEN": {
+      "word": "TEN",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of nine and one",
+      "definition": "The cardinal number that is the sum of nine and one; the base of the decimal system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NET": {
+      "word": "NET",
+      "pos": "n.",
+      "gloss": "a computer network consisting of a worldwide network of computer networks that use the…",
+      "definition": "A computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TON": {
+      "word": "TON",
+      "pos": "n.",
+      "gloss": "a United States unit of weight equivalent to 2000 pounds",
+      "definition": "A United States unit of weight equivalent to 2000 pounds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TOE": {
+      "word": "TOE",
+      "pos": "n.",
+      "gloss": "one of the digits of the foot",
+      "definition": "One of the digits of the foot.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TAN": {
+      "word": "TAN",
+      "pos": "n.",
+      "gloss": "a browning of the skin resulting from exposure to the rays of the sun",
+      "definition": "A browning of the skin resulting from exposure to the rays of the sun.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NEAT": {
+      "word": "NEAT",
+      "pos": "adj.",
+      "gloss": "clean or organized",
+      "definition": "Clean or organized.",
+      "example": "Her neat dress.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ANTE": {
+      "word": "ANTE",
+      "pos": "n.",
+      "gloss": "the initial contribution that each player makes to the pot",
+      "definition": "(poker) the initial contribution that each player makes to the pot.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "id": "level-259",
+  "baseWord": "PARSON",
+  "pool": [
+    "P",
+    "A",
+    "R",
+    "S",
+    "O",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "PARSON",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "ARSON",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "APRON",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SONAR",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "PORN",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "SNAP",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "SOAP",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "SON",
+    "PRO",
+    "PAN",
+    "PAR",
+    "RAP",
+    "SPAN",
+    "SPA",
+    "NAP",
+    "SAP",
+    "SOAR"
+  ],
+  "entries": {
+    "PARSON": {
+      "word": "PARSON",
+      "pos": "n.",
+      "gloss": "a person authorized to conduct religious worship",
+      "definition": "A person authorized to conduct religious worship.",
+      "example": "Clergymen are usually called ministers in Protestant churches.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "ARSON": {
+      "word": "ARSON",
+      "pos": "n.",
+      "gloss": "malicious burning to destroy property",
+      "definition": "Malicious burning to destroy property.",
+      "example": "The British term for arson is fire-raising.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "APRON": {
+      "word": "APRON",
+      "pos": "n.",
+      "gloss": "a garment of cloth or leather or plastic that is tied about the waist and worn to…",
+      "definition": "A garment of cloth or leather or plastic that is tied about the waist and worn to protect your clothing.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SONAR": {
+      "word": "SONAR",
+      "pos": "n.",
+      "gloss": "a measuring instrument that sends out an acoustic pulse in water and measures…",
+      "definition": "A measuring instrument that sends out an acoustic pulse in water and measures distances in terms of the time for the echo of the pulse to return.",
+      "example": "Sonar is an acronym for sound navigation ranging.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PORN": {
+      "word": "PORN",
+      "pos": "n.",
+      "gloss": "creative activity of no literary or artistic value other than to stimulate sexual desire",
+      "definition": "Creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SNAP": {
+      "word": "SNAP",
+      "pos": "v.",
+      "gloss": "utter in an angry, sharp, or abrupt tone",
+      "definition": "Utter in an angry, sharp, or abrupt tone.",
+      "example": "The sales clerk snapped a reply at the angry customer.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOAP": {
+      "word": "SOAP",
+      "pos": "n.",
+      "gloss": "a cleansing agent made from the salts of vegetable or animal fats",
+      "definition": "A cleansing agent made from the salts of vegetable or animal fats.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PRO": {
+      "word": "PRO",
+      "pos": "n.",
+      "gloss": "an athlete who plays for pay",
+      "definition": "An athlete who plays for pay.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAN": {
+      "word": "PAN",
+      "pos": "v.",
+      "gloss": "make a sweeping movement",
+      "definition": "Make a sweeping movement.",
+      "example": "The camera panned across the room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAR": {
+      "word": "PAR",
+      "pos": "n.",
+      "gloss": "the standard number of strokes set for each hole on a golf course, or for the entire…",
+      "definition": "(golf) the standard number of strokes set for each hole on a golf course, or for the entire course.",
+      "example": "A par-5 hole.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAP": {
+      "word": "RAP",
+      "pos": "n.",
+      "gloss": "a reproach for some lapse or misdeed",
+      "definition": "A reproach for some lapse or misdeed.",
+      "example": "He took the blame for it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPAN": {
+      "word": "SPAN",
+      "pos": "n.",
+      "gloss": "the complete duration of something",
+      "definition": "The complete duration of something.",
+      "example": "The job was finished in the span of an hour.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPA": {
+      "word": "SPA",
+      "pos": "n.",
+      "gloss": "a health resort near a spring or at the seaside",
+      "definition": "A health resort near a spring or at the seaside.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NAP": {
+      "word": "NAP",
+      "pos": "n.",
+      "gloss": "a period of time spent sleeping",
+      "definition": "A period of time spent sleeping.",
+      "example": "He felt better after a little sleep.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAP": {
+      "word": "SAP",
+      "pos": "v.",
+      "gloss": "deplete",
+      "definition": "Deplete.",
+      "example": "Exhaust one's savings.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SOAR": {
+      "word": "SOAR",
+      "pos": "v.",
+      "gloss": "rise rapidly",
+      "definition": "Rise rapidly.",
+      "example": "The dollar soared against the yen.",
+      "band": "teaching",
+      "tier": "general"
+    }
+  }
+}

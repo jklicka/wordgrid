@@ -1,187 +1,149 @@
 {
   "id": "level-010",
-  "baseWord": "SEWAGE",
+  "baseWord": "SUMMON",
   "pool": [
     "S",
-    "E",
-    "W",
-    "A",
-    "G",
-    "E"
+    "U",
+    "M",
+    "M",
+    "O",
+    "N"
   ],
   "rows": 8,
-  "cols": 8,
+  "cols": 7,
   "placed": [
     {
-      "word": "SEWAGE",
-      "row": 3,
-      "col": 2,
+      "word": "SUMMON",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "word": "WAGES",
+      "word": "SUMO",
       "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "word": "WAGE",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "word": "EASE",
-      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "word": "SAGE",
-      "row": 6,
+      "word": "MONS",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "word": "SWAG",
+      "word": "NOUS",
       "row": 4,
-      "col": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "word": "SEE",
-      "row": 5,
+      "word": "ONUS",
+      "row": 7,
       "col": 3,
       "direction": "across"
+    },
+    {
+      "word": "SON",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "MOM",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "bonus": [
-    "SAW",
-    "AGE",
-    "SEA",
-    "GAS",
-    "WEE",
-    "AWE",
-    "GEE"
+    "SUN",
+    "MUM",
+    "SUM"
   ],
   "entries": {
-    "SEWAGE": {
-      "word": "SEWAGE",
-      "pos": "n.",
-      "gloss": "waste matter carried away in sewers or drains",
-      "definition": "Waste matter carried away in sewers or drains.",
+    "SUMMON": {
+      "word": "SUMMON",
+      "pos": "v.",
+      "gloss": "call in an official matter, such as to attend court",
+      "definition": "Call in an official matter, such as to attend court.",
       "band": "teaching",
       "tier": "general"
     },
-    "WAGES": {
-      "word": "WAGES",
+    "SUMO": {
+      "word": "SUMO",
       "pos": "n.",
-      "gloss": "a recompense for worthy acts or retribution for wrongdoing",
-      "definition": "A recompense for worthy acts or retribution for wrongdoing.",
-      "example": "The wages of sin is death.",
-      "band": "common",
-      "tier": "general"
-    },
-    "WAGE": {
-      "word": "WAGE",
-      "pos": "n.",
-      "gloss": "something that remunerates",
-      "definition": "Something that remunerates.",
-      "example": "Wages were paid by check.",
-      "band": "common",
-      "tier": "general"
-    },
-    "EASE": {
-      "word": "EASE",
-      "pos": "v.",
-      "gloss": "move gently or carefully",
-      "definition": "Move gently or carefully.",
-      "example": "He eased himself into the chair.",
-      "band": "common",
-      "tier": "general"
-    },
-    "SAGE": {
-      "word": "SAGE",
-      "pos": "n.",
-      "gloss": "a mentor in spiritual and philosophical topics who is renowned for profound wisdom",
-      "definition": "A mentor in spiritual and philosophical topics who is renowned for profound wisdom.",
-      "band": "common",
-      "tier": "general"
-    },
-    "SWAG": {
-      "word": "SWAG",
-      "pos": "n.",
-      "gloss": "valuable goods",
-      "definition": "Valuable goods.",
+      "gloss": "a Japanese form of wrestling",
+      "definition": "A Japanese form of wrestling; you lose if you are forced out of a small ring or if any part of your body (other than your feet) touches the ground.",
       "band": "teaching",
       "tier": "general"
     },
-    "SEE": {
-      "word": "SEE",
-      "pos": "v.",
-      "gloss": "perceive by sight or have the power to perceive by sight",
-      "definition": "Perceive by sight or have the power to perceive by sight.",
-      "example": "You have to be a good observer to see all the details.",
-      "band": "common",
-      "tier": "general"
-    },
-    "SAW": {
-      "word": "SAW",
-      "pos": "v.",
-      "gloss": "cut with a saw",
-      "definition": "Cut with a saw.",
-      "example": "Saw wood for the fireplace.",
-      "band": "common",
-      "tier": "general"
-    },
-    "AGE": {
-      "word": "AGE",
+    "MONS": {
+      "word": "MONS",
       "pos": "n.",
-      "gloss": "how long something has existed",
-      "definition": "How long something has existed.",
-      "example": "It was replaced because of its age.",
-      "band": "common",
+      "gloss": "a mound of fatty tissue covering the pubic area in women",
+      "definition": "A mound of fatty tissue covering the pubic area in women.",
+      "band": "teaching",
       "tier": "general"
     },
-    "SEA": {
-      "word": "SEA",
+    "NOUS": {
+      "word": "NOUS",
       "pos": "n.",
-      "gloss": "a division of an ocean or a large body of salt water partially enclosed by land",
-      "definition": "A division of an ocean or a large body of salt water partially enclosed by land.",
-      "band": "common",
+      "gloss": "common sense",
+      "definition": "Common sense.",
+      "example": "She has great social nous.",
+      "band": "teaching",
       "tier": "general"
     },
-    "GAS": {
-      "word": "GAS",
+    "ONUS": {
+      "word": "ONUS",
       "pos": "n.",
-      "gloss": "the state of matter distinguished from the solid and liquid states by",
-      "definition": "The state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container.",
+      "gloss": "an onerous or difficult concern",
+      "definition": "An onerous or difficult concern.",
+      "example": "The burden of responsibility.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SON": {
+      "word": "SON",
+      "pos": "n.",
+      "gloss": "a male human offspring",
+      "definition": "A male human offspring.",
+      "example": "Their son became a famous judge.",
       "band": "common",
       "tier": "general"
     },
-    "WEE": {
-      "word": "WEE",
+    "MOM": {
+      "word": "MOM",
+      "pos": "n.",
+      "gloss": "informal terms for a mother",
+      "definition": "Informal terms for a mother.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SUN": {
+      "word": "SUN",
+      "pos": "n.",
+      "gloss": "the star that is the source of light and heat for the planets in the solar system",
+      "definition": "The star that is the source of light and heat for the planets in the solar system.",
+      "example": "The sun contains 99.85% of the mass in the solar system.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MUM": {
+      "word": "MUM",
       "pos": "adj.",
-      "gloss": "very small",
-      "definition": "(used informally) very small.",
-      "example": "A wee tot.",
+      "gloss": "failing to speak or communicate etc when expected to",
+      "definition": "Failing to speak or communicate etc when expected to.",
+      "example": "The witness remained silent.",
       "band": "common",
       "tier": "general"
     },
-    "AWE": {
-      "word": "AWE",
+    "SUM": {
+      "word": "SUM",
       "pos": "n.",
-      "gloss": "an overwhelming feeling of wonder or admiration",
-      "definition": "An overwhelming feeling of wonder or admiration.",
-      "example": "He stared over the edge with a feeling of awe.",
-      "band": "common",
-      "tier": "general"
-    },
-    "GEE": {
-      "word": "GEE",
-      "pos": "n.",
-      "gloss": "a unit of force equal to the force exerted by gravity",
-      "definition": "A unit of force equal to the force exerted by gravity; used to indicate the force to which a body is subjected when it is accelerated.",
+      "gloss": "a quantity of money",
+      "definition": "A quantity of money.",
+      "example": "He borrowed a large sum.",
       "band": "common",
       "tier": "general"
     }

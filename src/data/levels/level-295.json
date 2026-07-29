@@ -1,0 +1,170 @@
+{
+  "id": "level-295",
+  "baseWord": "VESTRY",
+  "pool": [
+    "V",
+    "E",
+    "S",
+    "T",
+    "R",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "VESTRY",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "VERY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "REST",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "VEST",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "TYRE",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "TREY",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "SET",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "YET",
+    "TRY",
+    "YES",
+    "REV",
+    "VET"
+  ],
+  "entries": {
+    "VESTRY": {
+      "word": "VESTRY",
+      "pos": "n.",
+      "gloss": "in the Protestant Episcopal Church",
+      "definition": "In the Protestant Episcopal Church: a committee elected by the congregation to work with the churchwardens in managing the temporal affairs of the church.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "VERY": {
+      "word": "VERY",
+      "pos": "adj.",
+      "gloss": "precisely as stated",
+      "definition": "Precisely as stated.",
+      "example": "The very center of town.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REST": {
+      "word": "REST",
+      "pos": "v.",
+      "gloss": "not move; be in a resting position",
+      "definition": "Not move; be in a resting position.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VEST": {
+      "word": "VEST",
+      "pos": "n.",
+      "gloss": "a man's sleeveless garment worn underneath a coat",
+      "definition": "A man's sleeveless garment worn underneath a coat.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TYRE": {
+      "word": "TYRE",
+      "pos": "n.",
+      "gloss": "hoop that covers a wheel",
+      "definition": "Hoop that covers a wheel.",
+      "example": "Automobile tires are usually made of rubber and filled with compressed air.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TREY": {
+      "word": "TREY",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of one and one and one",
+      "definition": "The cardinal number that is the sum of one and one and one.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SET": {
+      "word": "SET",
+      "pos": "v.",
+      "gloss": "put into a certain place or abstract location",
+      "definition": "Put into a certain place or abstract location.",
+      "example": "Put your things here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YET": {
+      "word": "YET",
+      "pos": "adv.",
+      "gloss": "up to the present time",
+      "definition": "Up to the present time.",
+      "example": "I have yet to see the results.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TRY": {
+      "word": "TRY",
+      "pos": "v.",
+      "gloss": "make an effort or attempt",
+      "definition": "Make an effort or attempt.",
+      "example": "He tried to shake off his fears.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YES": {
+      "word": "YES",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "I was hoping for a yes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REV": {
+      "word": "REV",
+      "pos": "v.",
+      "gloss": "increase the number of rotations per minute",
+      "definition": "Increase the number of rotations per minute.",
+      "example": "Rev up an engine.",
+      "band": "common",
+      "tier": "general"
+    },
+    "VET": {
+      "word": "VET",
+      "pos": "n.",
+      "gloss": "a doctor who practices veterinary medicine",
+      "definition": "A doctor who practices veterinary medicine.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "level-055",
+  "baseWord": "COHORT",
+  "pool": [
+    "C",
+    "O",
+    "H",
+    "O",
+    "R",
+    "T"
+  ],
+  "rows": 7,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "COHORT",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TORCH",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "ROOT",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "HOOT",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "TOO",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "HOT",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "OOH",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ROT"
+  ],
+  "entries": {
+    "COHORT": {
+      "word": "COHORT",
+      "pos": "n.",
+      "gloss": "a company of companions or supporters",
+      "definition": "A company of companions or supporters.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TORCH": {
+      "word": "TORCH",
+      "pos": "n.",
+      "gloss": "a light usually carried in the hand",
+      "definition": "A light usually carried in the hand; consists of some flammable substance.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROOT": {
+      "word": "ROOT",
+      "pos": "n.",
+      "gloss": "the usually underground organ that lacks buds or leaves or nodes",
+      "definition": "(botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOOT": {
+      "word": "HOOT",
+      "pos": "n.",
+      "gloss": "a loud raucous cry",
+      "definition": "A loud raucous cry (as of an owl).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TOO": {
+      "word": "TOO",
+      "pos": "adv.",
+      "gloss": "to a degree exceeding normal or proper limits",
+      "definition": "To a degree exceeding normal or proper limits.",
+      "example": "Too big.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HOT": {
+      "word": "HOT",
+      "pos": "adj.",
+      "gloss": "used of physical heat",
+      "definition": "Used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning.",
+      "example": "Hot stove.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OOH": {
+      "word": "OOH",
+      "pos": "v.",
+      "gloss": "express admiration and pleasure by uttering `ooh' or `aah'",
+      "definition": "Express admiration and pleasure by uttering `ooh' or `aah'.",
+      "example": "They oohed and aahed when they unwrapped the presents.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ROT": {
+      "word": "ROT",
+      "pos": "n.",
+      "gloss": "a state of decay usually accompanied by an offensive odor",
+      "definition": "A state of decay usually accompanied by an offensive odor.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

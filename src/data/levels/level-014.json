@@ -1,210 +1,141 @@
 {
   "id": "level-014",
-  "baseWord": "REBOOT",
+  "baseWord": "ETHIC",
   "pool": [
-    "R",
     "E",
-    "B",
-    "O",
-    "O",
-    "T"
+    "T",
+    "H",
+    "I",
+    "C"
   ],
-  "rows": 8,
+  "rows": 7,
   "cols": 8,
   "placed": [
     {
-      "word": "REBOOT",
-      "row": 2,
-      "col": 2,
+      "word": "ETHIC",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "word": "ROBOT",
-      "row": 1,
+      "word": "TECH",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "CITE",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "ITCH",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "word": "ROOT",
-      "row": 5,
+      "word": "CHIT",
+      "row": 1,
       "col": 2,
       "direction": "across"
     },
     {
-      "word": "BOOT",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "word": "BORE",
+      "word": "ICE",
       "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "word": "TORE",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "word": "ROBE",
-      "row": 0,
+      "word": "TIE",
+      "row": 2,
       "col": 0,
       "direction": "across"
     }
   ],
   "bonus": [
-    "TOO",
-    "BET",
-    "ROB",
-    "ORE",
-    "TOE",
-    "BOO",
-    "BOT",
-    "ROT",
-    "OREO",
-    "ROTE"
+    "HIT",
+    "CHI"
   ],
   "entries": {
-    "REBOOT": {
-      "word": "REBOOT",
-      "pos": "v.",
-      "gloss": "cause to load and start the initial processes",
-      "definition": "Cause to load (an operating system) and start the initial processes.",
-      "example": "Boot your computer.",
+    "ETHIC": {
+      "word": "ETHIC",
+      "pos": "n.",
+      "gloss": "the principles of right and wrong that are accepted by an individual or a social group",
+      "definition": "The principles of right and wrong that are accepted by an individual or a social group.",
+      "example": "The Puritan ethic.",
       "band": "teaching",
       "tier": "general"
     },
-    "ROBOT": {
-      "word": "ROBOT",
+    "TECH": {
+      "word": "TECH",
       "pos": "n.",
-      "gloss": "a mechanism that can move automatically",
-      "definition": "A mechanism that can move automatically.",
+      "gloss": "a school teaching mechanical and industrial arts and the applied sciences",
+      "definition": "A school teaching mechanical and industrial arts and the applied sciences.",
       "band": "common",
       "tier": "general"
     },
-    "ROOT": {
-      "word": "ROOT",
-      "pos": "n.",
-      "gloss": "the usually underground organ that lacks buds or leaves or nodes",
-      "definition": "(botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground.",
-      "band": "common",
-      "tier": "general"
-    },
-    "BOOT": {
-      "word": "BOOT",
-      "pos": "n.",
-      "gloss": "footwear that covers the whole foot and lower leg",
-      "definition": "Footwear that covers the whole foot and lower leg.",
-      "band": "common",
-      "tier": "general"
-    },
-    "BORE": {
-      "word": "BORE",
+    "CITE": {
+      "word": "CITE",
       "pos": "v.",
-      "gloss": "cause to be bored",
-      "definition": "Cause to be bored.",
+      "gloss": "make reference to",
+      "definition": "Make reference to.",
+      "example": "His name was mentioned in connection with the invention.",
       "band": "common",
       "tier": "general"
     },
-    "TORE": {
-      "word": "TORE",
-      "pos": "n.",
-      "gloss": "commonly the lowest molding at the base of a column",
-      "definition": "Commonly the lowest molding at the base of a column.",
-      "band": "common",
-      "tier": "general"
-    },
-    "ROBE": {
-      "word": "ROBE",
-      "pos": "n.",
-      "gloss": "any loose flowing garment",
-      "definition": "Any loose flowing garment.",
+    "ITCH": {
+      "word": "ITCH",
+      "pos": "v.",
+      "gloss": "scrape or rub as if to relieve itching",
+      "definition": "Scrape or rub as if to relieve itching.",
+      "example": "Don't scratch your insect bites!",
       "band": "teaching",
       "tier": "general"
     },
-    "TOO": {
-      "word": "TOO",
-      "pos": "adv.",
-      "gloss": "to a degree exceeding normal or proper limits",
-      "definition": "To a degree exceeding normal or proper limits.",
-      "example": "Too big.",
-      "band": "common",
-      "tier": "general"
-    },
-    "BET": {
-      "word": "BET",
+    "CHIT": {
+      "word": "CHIT",
       "pos": "n.",
-      "gloss": "the money risked on a gamble",
-      "definition": "The money risked on a gamble.",
-      "band": "common",
-      "tier": "general"
-    },
-    "ROB": {
-      "word": "ROB",
-      "pos": "v.",
-      "gloss": "take something away by force or without the consent of the owner",
-      "definition": "Take something away by force or without the consent of the owner.",
-      "example": "The burglars robbed him of all his money.",
-      "band": "common",
-      "tier": "general"
-    },
-    "ORE": {
-      "word": "ORE",
-      "pos": "n.",
-      "gloss": "a mineral that contains metal that is valuable enough to be mined",
-      "definition": "A mineral that contains metal that is valuable enough to be mined.",
-      "band": "common",
-      "tier": "general"
-    },
-    "TOE": {
-      "word": "TOE",
-      "pos": "n.",
-      "gloss": "one of the digits of the foot",
-      "definition": "One of the digits of the foot.",
-      "band": "common",
-      "tier": "general"
-    },
-    "BOO": {
-      "word": "BOO",
-      "pos": "v.",
-      "gloss": "show displeasure, as after a performance or speech",
-      "definition": "Show displeasure, as after a performance or speech.",
-      "band": "common",
-      "tier": "general"
-    },
-    "BOT": {
-      "word": "BOT",
-      "pos": "n.",
-      "gloss": "botfly larva",
-      "definition": "Botfly larva; typically develops inside the body of a horse or sheep or human.",
-      "band": "common",
-      "tier": "general"
-    },
-    "ROT": {
-      "word": "ROT",
-      "pos": "n.",
-      "gloss": "a state of decay usually accompanied by an offensive odor",
-      "definition": "A state of decay usually accompanied by an offensive odor.",
-      "band": "common",
-      "tier": "general"
-    },
-    "OREO": {
-      "word": "OREO",
-      "pos": "n.",
-      "gloss": "chocolate cookie with white cream filling",
-      "definition": "Chocolate cookie with white cream filling.",
+      "gloss": "a dismissive term for a girl who is immature or who lacks respect",
+      "definition": "A dismissive term for a girl who is immature or who lacks respect.",
+      "example": "She was incensed that this chit of a girl should dare to make a fool of her in front of the class.",
       "band": "teaching",
       "tier": "general"
     },
-    "ROTE": {
-      "word": "ROTE",
+    "ICE": {
+      "word": "ICE",
       "pos": "n.",
-      "gloss": "memorization by repetition",
-      "definition": "Memorization by repetition.",
-      "band": "teaching",
+      "gloss": "water frozen in the solid state",
+      "definition": "Water frozen in the solid state.",
+      "example": "Americans like ice in their drinks.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TIE": {
+      "word": "TIE",
+      "pos": "n.",
+      "gloss": "neckwear consisting of a long narrow piece of material worn under a collar and tied in…",
+      "definition": "Neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front.",
+      "example": "He stood in front of the mirror tightening his necktie.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HIT": {
+      "word": "HIT",
+      "pos": "v.",
+      "gloss": "cause to move by striking",
+      "definition": "Cause to move by striking.",
+      "example": "Hit a ball.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CHI": {
+      "word": "CHI",
+      "pos": "n.",
+      "gloss": "the circulating life energy that in Chinese philosophy is thought to be inherent in…",
+      "definition": "The circulating life energy that in Chinese philosophy is thought to be inherent in all things; in traditional Chinese medicine the balance of negative and positive forms in the body is believed to be essential for good health.",
+      "band": "common",
       "tier": "general"
     }
   }

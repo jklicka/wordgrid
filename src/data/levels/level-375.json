@@ -1,0 +1,126 @@
+{
+  "id": "level-375",
+  "baseWord": "HUFFING",
+  "pool": [
+    "H",
+    "U",
+    "F",
+    "F",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 4,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "HUFFING",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "NIGH",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "HUFF",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "GUN",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "FUN",
+    "FIG",
+    "HUG",
+    "FIN",
+    "GIN"
+  ],
+  "entries": {
+    "HUFFING": {
+      "word": "HUFFING",
+      "pos": "n.",
+      "gloss": "an act of forcible exhalation",
+      "definition": "An act of forcible exhalation.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NIGH": {
+      "word": "NIGH",
+      "pos": "adj.",
+      "gloss": "not far distant in time or space or degree or circumstances",
+      "definition": "Not far distant in time or space or degree or circumstances.",
+      "example": "Near neighbors.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "HUFF": {
+      "word": "HUFF",
+      "pos": "n.",
+      "gloss": "a state of irritation or annoyance",
+      "definition": "A state of irritation or annoyance.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "GUN": {
+      "word": "GUN",
+      "pos": "n.",
+      "gloss": "a weapon that discharges a missile at high velocity",
+      "definition": "A weapon that discharges a missile at high velocity (especially from a metal tube or barrel).",
+      "band": "common",
+      "tier": "general"
+    },
+    "FUN": {
+      "word": "FUN",
+      "pos": "n.",
+      "gloss": "activities that are enjoyable or amusing",
+      "definition": "Activities that are enjoyable or amusing.",
+      "example": "I do it for the fun of it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FIG": {
+      "word": "FIG",
+      "pos": "n.",
+      "gloss": "a diagram or picture illustrating textual material",
+      "definition": "A diagram or picture illustrating textual material.",
+      "example": "The area covered can be seen from Figure 2.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HUG": {
+      "word": "HUG",
+      "pos": "v.",
+      "gloss": "hold tightly in your arms, usually with fondness",
+      "definition": "Hold (someone) tightly in your arms, usually with fondness.",
+      "example": "Hug me, please.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FIN": {
+      "word": "FIN",
+      "pos": "n.",
+      "gloss": "the cardinal number that is the sum of four and one",
+      "definition": "The cardinal number that is the sum of four and one.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GIN": {
+      "word": "GIN",
+      "pos": "n.",
+      "gloss": "strong liquor flavored with juniper berries",
+      "definition": "Strong liquor flavored with juniper berries.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

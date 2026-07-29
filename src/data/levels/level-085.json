@@ -1,0 +1,130 @@
+{
+  "id": "level-085",
+  "baseWord": "MELLOW",
+  "pool": [
+    "M",
+    "E",
+    "L",
+    "L",
+    "O",
+    "W"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "MELLOW",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MOLLE",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "WELL",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "MOLE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "MEOW",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "LOW",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "word": "OWE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "OWL"
+  ],
+  "entries": {
+    "MELLOW": {
+      "word": "MELLOW",
+      "pos": "v.",
+      "gloss": "soften, make mellow",
+      "definition": "Soften, make mellow.",
+      "example": "Age and experience mellowed him over the years.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MOLLE": {
+      "word": "MOLLE",
+      "pos": "n.",
+      "gloss": "small Peruvian evergreen with broad rounded head and slender pendant branches with…",
+      "definition": "Small Peruvian evergreen with broad rounded head and slender pendant branches with attractive clusters of greenish flowers followed by clusters of rose-pink fruits.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WELL": {
+      "word": "WELL",
+      "pos": "adv.",
+      "gloss": "in a good or proper or satisfactory manner or to a high standard",
+      "definition": "(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well').",
+      "example": "The children behaved well.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MOLE": {
+      "word": "MOLE",
+      "pos": "n.",
+      "gloss": "the molecular weight of a substance expressed in grams",
+      "definition": "The molecular weight of a substance expressed in grams; the basic unit of amount of substance adopted under the Systeme International d'Unites.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MEOW": {
+      "word": "MEOW",
+      "pos": "n.",
+      "gloss": "the sound made by a cat",
+      "definition": "The sound made by a cat (or any sound resembling this).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LOW": {
+      "word": "LOW",
+      "pos": "adj.",
+      "gloss": "less than normal in degree or intensity or amount",
+      "definition": "Less than normal in degree or intensity or amount.",
+      "example": "Low prices.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OWE": {
+      "word": "OWE",
+      "pos": "v.",
+      "gloss": "be obliged to pay or repay",
+      "definition": "Be obliged to pay or repay.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OWL": {
+      "word": "OWL",
+      "pos": "n.",
+      "gloss": "nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes",
+      "definition": "Nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

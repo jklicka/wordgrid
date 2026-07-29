@@ -9,49 +9,49 @@
     "A"
   ],
   "rows": 8,
-  "cols": 8,
+  "cols": 7,
   "placed": [
     {
       "word": "COBRA",
-      "row": 3,
-      "col": 0,
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
       "word": "CAROB",
-      "row": 2,
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
       "word": "CRAB",
-      "row": 0,
+      "row": 4,
       "col": 2,
       "direction": "down"
     },
     {
       "word": "BOAR",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "word": "ORCA",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "word": "CAR",
-      "row": 1,
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "word": "BAR",
-      "row": 7,
-      "col": 5,
+      "word": "ORCA",
+      "row": 0,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "word": "CAR",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "BAR",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
     }
   ],
   "bonus": [

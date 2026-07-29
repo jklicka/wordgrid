@@ -1,0 +1,218 @@
+{
+  "id": "level-033",
+  "baseWord": "CRATE",
+  "pool": [
+    "C",
+    "R",
+    "A",
+    "T",
+    "E"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "CRATE",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "TRACE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "REACT",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "CATER",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "CARTE",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CARE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "RATE",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "ARE",
+    "CAR",
+    "ACT",
+    "ART",
+    "EAT",
+    "RACE",
+    "CAT",
+    "TEA",
+    "ERA",
+    "EAR"
+  ],
+  "entries": {
+    "CRATE": {
+      "word": "CRATE",
+      "pos": "n.",
+      "gloss": "a rugged box",
+      "definition": "A rugged box (usually made of wood); used for shipping.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "TRACE": {
+      "word": "TRACE",
+      "pos": "n.",
+      "gloss": "a just detectable amount",
+      "definition": "A just detectable amount.",
+      "example": "He speaks French with a trace of an accent.",
+      "band": "common",
+      "tier": "general"
+    },
+    "REACT": {
+      "word": "REACT",
+      "pos": "v.",
+      "gloss": "show a response or a reaction to something",
+      "definition": "Show a response or a reaction to something.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CATER": {
+      "word": "CATER",
+      "pos": "v.",
+      "gloss": "give what is desired or needed, especially support, food or sustenance",
+      "definition": "Give what is desired or needed, especially support, food or sustenance.",
+      "example": "The hostess provided lunch for all the guests.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CARTE": {
+      "word": "CARTE",
+      "pos": "n.",
+      "gloss": "a list of dishes available at a restaurant",
+      "definition": "A list of dishes available at a restaurant.",
+      "example": "The menu was in French.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CARE": {
+      "word": "CARE",
+      "pos": "n.",
+      "gloss": "the work of providing treatment for or attending to someone or something",
+      "definition": "The work of providing treatment for or attending to someone or something.",
+      "example": "No medical care was required.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RATE": {
+      "word": "RATE",
+      "pos": "n.",
+      "gloss": "a magnitude or frequency relative to a time unit",
+      "definition": "A magnitude or frequency relative to a time unit.",
+      "example": "They traveled at a rate of 55 miles per hour.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARE": {
+      "word": "ARE",
+      "pos": "n.",
+      "gloss": "a unit of surface area equal to 100 square meters",
+      "definition": "A unit of surface area equal to 100 square meters.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAR": {
+      "word": "CAR",
+      "pos": "n.",
+      "gloss": "a motor vehicle with four wheels",
+      "definition": "A motor vehicle with four wheels; usually propelled by an internal combustion engine.",
+      "example": "He needs a car to get to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACT": {
+      "word": "ACT",
+      "pos": "v.",
+      "gloss": "perform an action, or work out or perform",
+      "definition": "Perform an action, or work out or perform (an action).",
+      "example": "Think before you act.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ART": {
+      "word": "ART",
+      "pos": "n.",
+      "gloss": "the products of human creativity",
+      "definition": "The products of human creativity; works of art collectively.",
+      "example": "An art exhibition.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAT": {
+      "word": "EAT",
+      "pos": "v.",
+      "gloss": "take in solid food",
+      "definition": "Take in solid food.",
+      "example": "She was eating a banana.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RACE": {
+      "word": "RACE",
+      "pos": "n.",
+      "gloss": "any competition",
+      "definition": "Any competition.",
+      "example": "The race for the presidency.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAT": {
+      "word": "CAT",
+      "pos": "n.",
+      "gloss": "feline mammal usually having thick soft fur and no ability to roar",
+      "definition": "Feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats.",
+      "band": "common",
+      "tier": "general"
+    },
+    "TEA": {
+      "word": "TEA",
+      "pos": "n.",
+      "gloss": "a beverage made by steeping tea leaves in water",
+      "definition": "A beverage made by steeping tea leaves in water.",
+      "example": "Iced tea is a cooling drink.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ERA": {
+      "word": "ERA",
+      "pos": "n.",
+      "gloss": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "definition": "A period marked by distinctive character or reckoned from a fixed point or event.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EAR": {
+      "word": "EAR",
+      "pos": "n.",
+      "gloss": "the sense organ for hearing and equilibrium",
+      "definition": "The sense organ for hearing and equilibrium.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

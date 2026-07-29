@@ -1,0 +1,177 @@
+{
+  "id": "level-035",
+  "baseWord": "BOWMAN",
+  "pool": [
+    "B",
+    "O",
+    "W",
+    "M",
+    "A",
+    "N"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "BOWMAN",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "WOMAN",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "WOMB",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "MOAN",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "word": "MAN",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "BAN",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "BOW",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "NOW",
+    "OWN",
+    "WON",
+    "MOB",
+    "WAN",
+    "BAM"
+  ],
+  "entries": {
+    "BOWMAN": {
+      "word": "BOWMAN",
+      "pos": "n.",
+      "gloss": "a person who is expert in the use of a bow and arrow",
+      "definition": "A person who is expert in the use of a bow and arrow.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "WOMAN": {
+      "word": "WOMAN",
+      "pos": "n.",
+      "gloss": "an adult female person",
+      "definition": "An adult female person (as opposed to a man).",
+      "example": "The woman kept house while the man hunted.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WOMB": {
+      "word": "WOMB",
+      "pos": "n.",
+      "gloss": "a hollow muscular organ in the pelvic cavity of females",
+      "definition": "A hollow muscular organ in the pelvic cavity of females; contains the developing fetus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MOAN": {
+      "word": "MOAN",
+      "pos": "n.",
+      "gloss": "an utterance expressing pain or disapproval",
+      "definition": "An utterance expressing pain or disapproval.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAN": {
+      "word": "MAN",
+      "pos": "n.",
+      "gloss": "an adult person who is male",
+      "definition": "An adult person who is male (as opposed to a woman).",
+      "example": "There were two women and six men on the bus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAN": {
+      "word": "BAN",
+      "pos": "v.",
+      "gloss": "forbid the public distribution of",
+      "definition": "Forbid the public distribution of ( a movie or a newspaper).",
+      "band": "common",
+      "tier": "general"
+    },
+    "BOW": {
+      "word": "BOW",
+      "pos": "n.",
+      "gloss": "a knot with two loops and loose ends",
+      "definition": "A knot with two loops and loose ends; used to tie shoelaces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOW": {
+      "word": "NOW",
+      "pos": "adv.",
+      "gloss": "in the historical present",
+      "definition": "In the historical present; at this point in the narration of a series of past events.",
+      "example": "President Kennedy now calls in the National Guard.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OWN": {
+      "word": "OWN",
+      "pos": "v.",
+      "gloss": "have ownership or possession of",
+      "definition": "Have ownership or possession of.",
+      "example": "He owns three houses in Florida.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WON": {
+      "word": "WON",
+      "pos": "n.",
+      "gloss": "the basic unit of money in South Korea",
+      "definition": "The basic unit of money in South Korea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MOB": {
+      "word": "MOB",
+      "pos": "n.",
+      "gloss": "a disorderly crowd of people",
+      "definition": "A disorderly crowd of people.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WAN": {
+      "word": "WAN",
+      "pos": "adj.",
+      "gloss": "lacking in intensity or brightness",
+      "definition": "(of light) lacking in intensity or brightness; dim or feeble.",
+      "example": "The pale light of a half moon.",
+      "band": "common",
+      "tier": "general"
+    },
+    "BAM": {
+      "word": "BAM",
+      "pos": "n.",
+      "gloss": "a sudden very loud noise",
+      "definition": "A sudden very loud noise.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

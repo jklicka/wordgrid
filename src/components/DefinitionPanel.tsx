@@ -1,4 +1,4 @@
-import { useGame } from '../game/store'
+import { useActiveGame } from '../game/store'
 import styles from './Panels.module.css'
 
 const REJECTION: Record<string, string> = {
@@ -16,7 +16,7 @@ const REJECTION: Record<string, string> = {
  * a dozen levels and the mechanic would be dead.
  */
 export default function DefinitionPanel() {
-  const result = useGame((s) => s.game.lastResult)
+  const result = useActiveGame().lastResult
   if (!result) return null
 
   if (result.kind === 'invalid' || result.kind === 'tooShort' || result.kind === 'already') {

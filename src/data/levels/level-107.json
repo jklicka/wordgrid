@@ -1,0 +1,217 @@
+{
+  "id": "level-107",
+  "baseWord": "HOWLING",
+  "pool": [
+    "H",
+    "O",
+    "W",
+    "L",
+    "I",
+    "N",
+    "G"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "HOWLING",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "OWING",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "LINGO",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LONG",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "WING",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "LION",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "GLOW",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "NOW",
+    "OWN",
+    "WIN",
+    "LOW",
+    "WON",
+    "OIL",
+    "LOG",
+    "ION",
+    "OWL",
+    "GOWN"
+  ],
+  "entries": {
+    "HOWLING": {
+      "word": "HOWLING",
+      "pos": "n.",
+      "gloss": "a long loud emotional utterance",
+      "definition": "A long loud emotional utterance.",
+      "example": "He gave a howl of pain.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "OWING": {
+      "word": "OWING",
+      "pos": "adj.",
+      "gloss": "owed as a debt",
+      "definition": "Owed as a debt.",
+      "example": "Outstanding bills.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LINGO": {
+      "word": "LINGO",
+      "pos": "n.",
+      "gloss": "a characteristic language of a particular group",
+      "definition": "A characteristic language of a particular group (as among thieves).",
+      "example": "They don't speak our lingo.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LONG": {
+      "word": "LONG",
+      "pos": "adj.",
+      "gloss": "primarily temporal sense",
+      "definition": "Primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified.",
+      "example": "A long life.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WING": {
+      "word": "WING",
+      "pos": "n.",
+      "gloss": "a movable organ for flying",
+      "definition": "A movable organ for flying (one of a pair).",
+      "band": "common",
+      "tier": "general"
+    },
+    "LION": {
+      "word": "LION",
+      "pos": "n.",
+      "gloss": "large gregarious predatory feline of Africa and India having a tawny coat with a…",
+      "definition": "Large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GLOW": {
+      "word": "GLOW",
+      "pos": "n.",
+      "gloss": "an alert and refreshed state",
+      "definition": "An alert and refreshed state.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOW": {
+      "word": "NOW",
+      "pos": "adv.",
+      "gloss": "in the historical present",
+      "definition": "In the historical present; at this point in the narration of a series of past events.",
+      "example": "President Kennedy now calls in the National Guard.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OWN": {
+      "word": "OWN",
+      "pos": "v.",
+      "gloss": "have ownership or possession of",
+      "definition": "Have ownership or possession of.",
+      "example": "He owns three houses in Florida.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WIN": {
+      "word": "WIN",
+      "pos": "v.",
+      "gloss": "be the winner in a contest or competition",
+      "definition": "Be the winner in a contest or competition; be victorious.",
+      "example": "He won the Gold Medal in skating.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOW": {
+      "word": "LOW",
+      "pos": "adj.",
+      "gloss": "less than normal in degree or intensity or amount",
+      "definition": "Less than normal in degree or intensity or amount.",
+      "example": "Low prices.",
+      "band": "common",
+      "tier": "general"
+    },
+    "WON": {
+      "word": "WON",
+      "pos": "n.",
+      "gloss": "the basic unit of money in South Korea",
+      "definition": "The basic unit of money in South Korea.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OIL": {
+      "word": "OIL",
+      "pos": "n.",
+      "gloss": "a slippery or viscous liquid or liquefiable substance not miscible with water",
+      "definition": "A slippery or viscous liquid or liquefiable substance not miscible with water.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LOG": {
+      "word": "LOG",
+      "pos": "v.",
+      "gloss": "enter into a log, as on ships and planes",
+      "definition": "Enter into a log, as on ships and planes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ION": {
+      "word": "ION",
+      "pos": "n.",
+      "gloss": "a particle that is electrically charged",
+      "definition": "A particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OWL": {
+      "word": "OWL",
+      "pos": "n.",
+      "gloss": "nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes",
+      "definition": "Nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "GOWN": {
+      "word": "GOWN",
+      "pos": "n.",
+      "gloss": "a woman's dress, usually with a close-fitting bodice and a long flared skirt, often…",
+      "definition": "A woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

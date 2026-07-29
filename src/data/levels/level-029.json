@@ -1,0 +1,128 @@
+{
+  "id": "level-029",
+  "baseWord": "CAMEO",
+  "pool": [
+    "C",
+    "A",
+    "M",
+    "E",
+    "O"
+  ],
+  "rows": 7,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "CAMEO",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "COME",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "COMA",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "word": "MACE",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "CAMO",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "MAC",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "word": "CAM",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "ACE"
+  ],
+  "entries": {
+    "CAMEO": {
+      "word": "CAMEO",
+      "pos": "n.",
+      "gloss": "engraving or carving in low relief on a stone",
+      "definition": "Engraving or carving in low relief on a stone (as in a brooch or ring).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "COME": {
+      "word": "COME",
+      "pos": "v.",
+      "gloss": "move toward, travel toward something or somebody or approach something or somebody",
+      "definition": "Move toward, travel toward something or somebody or approach something or somebody.",
+      "example": "He came singing down the road.",
+      "band": "common",
+      "tier": "general"
+    },
+    "COMA": {
+      "word": "COMA",
+      "pos": "n.",
+      "gloss": "a state of deep and often prolonged unconsciousness",
+      "definition": "A state of deep and often prolonged unconsciousness; usually the result of disease or injury.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MACE": {
+      "word": "MACE",
+      "pos": "n.",
+      "gloss": "an official who carries a mace of office",
+      "definition": "An official who carries a mace of office.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CAMO": {
+      "word": "CAMO",
+      "pos": "n.",
+      "gloss": "fabric dyed with splotches of green and brown and black and tan",
+      "definition": "Fabric dyed with splotches of green and brown and black and tan; intended to make the wearer of a garment made of this fabric hard to distinguish from the background.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MAC": {
+      "word": "MAC",
+      "pos": "n.",
+      "gloss": "a waterproof raincoat made of rubberized fabric",
+      "definition": "A waterproof raincoat made of rubberized fabric.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAM": {
+      "word": "CAM",
+      "pos": "n.",
+      "gloss": "a rotating disk shaped to convert circular into linear motion",
+      "definition": "A rotating disk shaped to convert circular into linear motion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ACE": {
+      "word": "ACE",
+      "pos": "n.",
+      "gloss": "the smallest whole number or a numeral representing this number",
+      "definition": "The smallest whole number or a numeral representing this number.",
+      "example": "He has the one but will need a two and three to go with it.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

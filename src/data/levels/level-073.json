@@ -1,0 +1,141 @@
+{
+  "id": "level-073",
+  "baseWord": "HERESY",
+  "pool": [
+    "H",
+    "E",
+    "R",
+    "E",
+    "S",
+    "Y"
+  ],
+  "rows": 8,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "HERESY",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "SHEER",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "HERE",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "EYES",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SEER",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "SEE",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "YES",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "EYE",
+    "SHY"
+  ],
+  "entries": {
+    "HERESY": {
+      "word": "HERESY",
+      "pos": "n.",
+      "gloss": "any opinions or doctrines at variance with the official or orthodox position",
+      "definition": "Any opinions or doctrines at variance with the official or orthodox position.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SHEER": {
+      "word": "SHEER",
+      "pos": "adj.",
+      "gloss": "complete and without restriction or qualification",
+      "definition": "Complete and without restriction or qualification; sometimes used informally as intensifiers.",
+      "example": "Absolute freedom.",
+      "band": "common",
+      "tier": "general"
+    },
+    "HERE": {
+      "word": "HERE",
+      "pos": "adv.",
+      "gloss": "in or at this place",
+      "definition": "In or at this place; where the speaker or writer is.",
+      "example": "I work here.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EYES": {
+      "word": "EYES",
+      "pos": "n.",
+      "gloss": "opinion or judgment",
+      "definition": "Opinion or judgment.",
+      "example": "In the eyes of the law.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SEER": {
+      "word": "SEER",
+      "pos": "n.",
+      "gloss": "a person with unusual powers of foresight",
+      "definition": "A person with unusual powers of foresight.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SEE": {
+      "word": "SEE",
+      "pos": "v.",
+      "gloss": "perceive by sight or have the power to perceive by sight",
+      "definition": "Perceive by sight or have the power to perceive by sight.",
+      "example": "You have to be a good observer to see all the details.",
+      "band": "common",
+      "tier": "general"
+    },
+    "YES": {
+      "word": "YES",
+      "pos": "n.",
+      "gloss": "an affirmative",
+      "definition": "An affirmative.",
+      "example": "I was hoping for a yes.",
+      "band": "common",
+      "tier": "general"
+    },
+    "EYE": {
+      "word": "EYE",
+      "pos": "n.",
+      "gloss": "the organ of sight",
+      "definition": "The organ of sight.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SHY": {
+      "word": "SHY",
+      "pos": "v.",
+      "gloss": "start suddenly, as from fright",
+      "definition": "Start suddenly, as from fright.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

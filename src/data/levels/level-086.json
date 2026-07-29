@@ -1,0 +1,149 @@
+{
+  "id": "level-086",
+  "baseWord": "DONUT",
+  "pool": [
+    "D",
+    "O",
+    "N",
+    "U",
+    "T"
+  ],
+  "rows": 6,
+  "cols": 6,
+  "placed": [
+    {
+      "word": "DONUT",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "UNDO",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "NOT",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "OUT",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "DON",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "TON",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "word": "DUO",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "bonus": [
+    "DOT",
+    "NUT",
+    "NOD"
+  ],
+  "entries": {
+    "DONUT": {
+      "word": "DONUT",
+      "pos": "n.",
+      "gloss": "a small ring-shaped friedcake",
+      "definition": "A small ring-shaped friedcake.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "UNDO": {
+      "word": "UNDO",
+      "pos": "v.",
+      "gloss": "cancel, annul, or reverse an action or its effect",
+      "definition": "Cancel, annul, or reverse an action or its effect.",
+      "example": "I wish I could undo my actions.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "NOT": {
+      "word": "NOT",
+      "pos": "adv.",
+      "gloss": "negation of a word or group of words",
+      "definition": "Negation of a word or group of words.",
+      "example": "He does not speak French.",
+      "band": "common",
+      "tier": "general"
+    },
+    "OUT": {
+      "word": "OUT",
+      "pos": "adj.",
+      "gloss": "not allowed to continue to bat or run",
+      "definition": "Not allowed to continue to bat or run.",
+      "example": "He was tagged out at second on a close play.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DON": {
+      "word": "DON",
+      "pos": "n.",
+      "gloss": "teacher at a university or college",
+      "definition": "Teacher at a university or college (especially at Cambridge or Oxford).",
+      "band": "common",
+      "tier": "general"
+    },
+    "TON": {
+      "word": "TON",
+      "pos": "n.",
+      "gloss": "a United States unit of weight equivalent to 2000 pounds",
+      "definition": "A United States unit of weight equivalent to 2000 pounds.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DUO": {
+      "word": "DUO",
+      "pos": "n.",
+      "gloss": "two items of the same kind",
+      "definition": "Two items of the same kind.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DOT": {
+      "word": "DOT",
+      "pos": "n.",
+      "gloss": "a very small circular shape",
+      "definition": "A very small circular shape.",
+      "example": "A row of points.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NUT": {
+      "word": "NUT",
+      "pos": "n.",
+      "gloss": "usually large hard-shelled seed",
+      "definition": "Usually large hard-shelled seed.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOD": {
+      "word": "NOD",
+      "pos": "v.",
+      "gloss": "express or signify by nodding",
+      "definition": "Express or signify by nodding.",
+      "example": "He nodded his approval.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

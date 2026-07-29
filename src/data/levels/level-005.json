@@ -1,88 +1,110 @@
 {
   "id": "level-005",
-  "baseWord": "VENOM",
+  "baseWord": "OFFEND",
   "pool": [
-    "V",
+    "O",
+    "F",
+    "F",
     "E",
     "N",
-    "O",
-    "M"
+    "D"
   ],
   "rows": 7,
-  "cols": 5,
+  "cols": 6,
   "placed": [
     {
-      "word": "VENOM",
-      "row": 1,
+      "word": "OFFEND",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "word": "MOVE",
+      "word": "DONE",
       "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "word": "OVEN",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "word": "OMEN",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "word": "ONE",
-      "row": 6,
+      "word": "FOND",
+      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "word": "NEO",
+      "word": "NODE",
       "row": 3,
       "col": 4,
       "direction": "down"
+    },
+    {
+      "word": "FEND",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "ONE",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "OFF",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "bonus": [
-    "MEN"
+    "END",
+    "DON",
+    "DEN",
+    "NEO",
+    "DOE",
+    "NOD"
   ],
   "entries": {
-    "VENOM": {
-      "word": "VENOM",
-      "pos": "n.",
-      "gloss": "toxin secreted by animals",
-      "definition": "Toxin secreted by animals; secreted by certain snakes and poisonous insects (e.g., spiders and scorpions).",
+    "OFFEND": {
+      "word": "OFFEND",
+      "pos": "v.",
+      "gloss": "cause to feel resentment or indignation",
+      "definition": "Cause to feel resentment or indignation.",
+      "example": "Her tactless remark offended me.",
       "band": "teaching",
       "tier": "general"
     },
-    "MOVE": {
-      "word": "MOVE",
+    "DONE": {
+      "word": "DONE",
+      "pos": "adj.",
+      "gloss": "having finished or arrived at completion",
+      "definition": "Having finished or arrived at completion.",
+      "example": "Certain to make history before he's done.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FOND": {
+      "word": "FOND",
+      "pos": "adj.",
+      "gloss": "having or displaying warmth or affection",
+      "definition": "Having or displaying warmth or affection.",
+      "example": "Affectionate children.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NODE": {
+      "word": "NODE",
+      "pos": "n.",
+      "gloss": "a connecting point at which several lines come together",
+      "definition": "A connecting point at which several lines come together.",
+      "band": "common",
+      "tier": "general"
+    },
+    "FEND": {
+      "word": "FEND",
       "pos": "v.",
-      "gloss": "change location",
-      "definition": "Change location; move, travel, or proceed, also metaphorically.",
-      "example": "How fast does your new car go?",
-      "band": "common",
-      "tier": "general"
-    },
-    "OVEN": {
-      "word": "OVEN",
-      "pos": "n.",
-      "gloss": "kitchen appliance used for baking or roasting",
-      "definition": "Kitchen appliance used for baking or roasting.",
-      "band": "common",
-      "tier": "general"
-    },
-    "OMEN": {
-      "word": "OMEN",
-      "pos": "n.",
-      "gloss": "a sign of something about to happen",
-      "definition": "A sign of something about to happen.",
-      "example": "He looked for an omen before going into battle.",
+      "gloss": "try to manage without help",
+      "definition": "Try to manage without help.",
+      "example": "The youngsters had to fend for themselves after their parents died.",
       "band": "teaching",
       "tier": "general"
     },
@@ -95,6 +117,40 @@
       "band": "common",
       "tier": "general"
     },
+    "OFF": {
+      "word": "OFF",
+      "pos": "adv.",
+      "gloss": "from a particular thing or place or position",
+      "definition": "From a particular thing or place or position (`forth' is obsolete).",
+      "example": "Ran away from the lion.",
+      "band": "common",
+      "tier": "general"
+    },
+    "END": {
+      "word": "END",
+      "pos": "n.",
+      "gloss": "either extremity of something that has length",
+      "definition": "Either extremity of something that has length.",
+      "example": "The end of the pier.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DON": {
+      "word": "DON",
+      "pos": "n.",
+      "gloss": "teacher at a university or college",
+      "definition": "Teacher at a university or college (especially at Cambridge or Oxford).",
+      "band": "common",
+      "tier": "general"
+    },
+    "DEN": {
+      "word": "DEN",
+      "pos": "n.",
+      "gloss": "the habitation of wild animals",
+      "definition": "The habitation of wild animals.",
+      "band": "common",
+      "tier": "general"
+    },
     "NEO": {
       "word": "NEO",
       "pos": "adj.",
@@ -104,11 +160,20 @@
       "band": "common",
       "tier": "general"
     },
-    "MEN": {
-      "word": "MEN",
+    "DOE": {
+      "word": "DOE",
       "pos": "n.",
-      "gloss": "the force of workers available",
-      "definition": "The force of workers available.",
+      "gloss": "mature female of mammals of which the male is called `buck'",
+      "definition": "Mature female of mammals of which the male is called `buck'.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NOD": {
+      "word": "NOD",
+      "pos": "v.",
+      "gloss": "express or signify by nodding",
+      "definition": "Express or signify by nodding.",
+      "example": "He nodded his approval.",
       "band": "common",
       "tier": "general"
     }

@@ -119,3 +119,10 @@
 @media (prefers-reduced-motion: reduce) {
   .overlay { animation: none; }
 }
+
+.streak {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--accent);
+  margin: -12px 0 14px;
+}

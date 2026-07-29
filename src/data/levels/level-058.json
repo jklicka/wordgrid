@@ -1,0 +1,216 @@
+{
+  "id": "level-058",
+  "baseWord": "SCRAPS",
+  "pool": [
+    "S",
+    "C",
+    "R",
+    "A",
+    "P",
+    "S"
+  ],
+  "rows": 8,
+  "cols": 8,
+  "placed": [
+    {
+      "word": "SCRAPS",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "word": "SCRAP",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "word": "CRASS",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "CRAPS",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "SCARP",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "word": "PASS",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "CRAP",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "CAR",
+    "ASS",
+    "CAP",
+    "ARC",
+    "PAR",
+    "RAP",
+    "SPA",
+    "SCAR",
+    "SAC",
+    "SAP"
+  ],
+  "entries": {
+    "SCRAPS": {
+      "word": "SCRAPS",
+      "pos": "n.",
+      "gloss": "food that is discarded",
+      "definition": "Food that is discarded (as from a kitchen).",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SCRAP": {
+      "word": "SCRAP",
+      "pos": "n.",
+      "gloss": "a small fragment of something broken off from the whole",
+      "definition": "A small fragment of something broken off from the whole.",
+      "example": "A bit of rock caught him in the eye.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CRASS": {
+      "word": "CRASS",
+      "pos": "adj.",
+      "gloss": "so unrefined as to be lacking in discrimination and sensibility",
+      "definition": "(of persons) so unrefined as to be lacking in discrimination and sensibility.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "CRAPS": {
+      "word": "CRAPS",
+      "pos": "n.",
+      "gloss": "expressions used when when two dice are thrown and both come up showing one spot",
+      "definition": "Expressions used when when two dice are thrown and both come up showing one spot.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "SCARP": {
+      "word": "SCARP",
+      "pos": "n.",
+      "gloss": "a long steep slope or cliff at the edge of a plateau or ridge",
+      "definition": "A long steep slope or cliff at the edge of a plateau or ridge; usually formed by erosion.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "PASS": {
+      "word": "PASS",
+      "pos": "v.",
+      "gloss": "go across or through",
+      "definition": "Go across or through.",
+      "example": "We passed the point where the police car had parked.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CRAP": {
+      "word": "CRAP",
+      "pos": "n.",
+      "gloss": "obscene terms for feces",
+      "definition": "Obscene terms for feces.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAR": {
+      "word": "CAR",
+      "pos": "n.",
+      "gloss": "a motor vehicle with four wheels",
+      "definition": "A motor vehicle with four wheels; usually propelled by an internal combustion engine.",
+      "example": "He needs a car to get to work.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ASS": {
+      "word": "ASS",
+      "pos": "n.",
+      "gloss": "the fleshy part of the human body that you sit on",
+      "definition": "The fleshy part of the human body that you sit on.",
+      "example": "He deserves a good kick in the butt.",
+      "band": "common",
+      "tier": "general"
+    },
+    "CAP": {
+      "word": "CAP",
+      "pos": "n.",
+      "gloss": "a tight-fitting headdress",
+      "definition": "A tight-fitting headdress.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ARC": {
+      "word": "ARC",
+      "pos": "n.",
+      "gloss": "electrical conduction through a gas in an applied electric field",
+      "definition": "Electrical conduction through a gas in an applied electric field.",
+      "band": "common",
+      "tier": "general"
+    },
+    "PAR": {
+      "word": "PAR",
+      "pos": "n.",
+      "gloss": "the standard number of strokes set for each hole on a golf course, or for the entire…",
+      "definition": "(golf) the standard number of strokes set for each hole on a golf course, or for the entire course.",
+      "example": "A par-5 hole.",
+      "band": "common",
+      "tier": "general"
+    },
+    "RAP": {
+      "word": "RAP",
+      "pos": "n.",
+      "gloss": "a reproach for some lapse or misdeed",
+      "definition": "A reproach for some lapse or misdeed.",
+      "example": "He took the blame for it.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SPA": {
+      "word": "SPA",
+      "pos": "n.",
+      "gloss": "a health resort near a spring or at the seaside",
+      "definition": "A health resort near a spring or at the seaside.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SCAR": {
+      "word": "SCAR",
+      "pos": "n.",
+      "gloss": "a mark left by the healing of injured tissue",
+      "definition": "A mark left (usually on the skin) by the healing of injured tissue.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAC": {
+      "word": "SAC",
+      "pos": "n.",
+      "gloss": "an enclosed space",
+      "definition": "An enclosed space.",
+      "example": "The trapped miners found a pocket of air.",
+      "band": "common",
+      "tier": "general"
+    },
+    "SAP": {
+      "word": "SAP",
+      "pos": "v.",
+      "gloss": "deplete",
+      "definition": "Deplete.",
+      "example": "Exhaust one's savings.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}

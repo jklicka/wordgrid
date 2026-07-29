@@ -1,0 +1,221 @@
+{
+  "id": "level-049",
+  "baseWord": "MIDLAND",
+  "pool": [
+    "M",
+    "I",
+    "D",
+    "L",
+    "A",
+    "N",
+    "D"
+  ],
+  "rows": 8,
+  "cols": 7,
+  "placed": [
+    {
+      "word": "MIDLAND",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "word": "LIMAN",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "word": "MIND",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "word": "MAIN",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "word": "LAND",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "word": "DAMN",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "word": "MAIL",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "bonus": [
+    "MAN",
+    "ADD",
+    "DAD",
+    "AID",
+    "MAD",
+    "LAID",
+    "AIM",
+    "MIN",
+    "NAIL",
+    "DAM"
+  ],
+  "entries": {
+    "MIDLAND": {
+      "word": "MIDLAND",
+      "pos": "n.",
+      "gloss": "the interior part of a country",
+      "definition": "The interior part of a country.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "LIMAN": {
+      "word": "LIMAN",
+      "pos": "n.",
+      "gloss": "a long narrow lagoon near the mouth of a river",
+      "definition": "A long narrow lagoon near the mouth of a river.",
+      "band": "teaching",
+      "tier": "general"
+    },
+    "MIND": {
+      "word": "MIND",
+      "pos": "n.",
+      "gloss": "that which is responsible for one's thoughts, feelings, and conscious brain functions",
+      "definition": "That which is responsible for one's thoughts, feelings, and conscious brain functions; the seat of the faculty of reason.",
+      "example": "His mind wandered.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAIN": {
+      "word": "MAIN",
+      "pos": "adj.",
+      "gloss": "most important element",
+      "definition": "Most important element.",
+      "example": "The chief aim of living.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAND": {
+      "word": "LAND",
+      "pos": "n.",
+      "gloss": "the land on which real estate is located",
+      "definition": "The land on which real estate is located.",
+      "example": "He built the house on land leased from the city.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAMN": {
+      "word": "DAMN",
+      "pos": "adj.",
+      "gloss": "used as expletives",
+      "definition": "Used as expletives.",
+      "example": "Oh, damn (or goddamn)!",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAIL": {
+      "word": "MAIL",
+      "pos": "n.",
+      "gloss": "the bags of letters and packages that are transported by the postal service",
+      "definition": "The bags of letters and packages that are transported by the postal service.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAN": {
+      "word": "MAN",
+      "pos": "n.",
+      "gloss": "an adult person who is male",
+      "definition": "An adult person who is male (as opposed to a woman).",
+      "example": "There were two women and six men on the bus.",
+      "band": "common",
+      "tier": "general"
+    },
+    "ADD": {
+      "word": "ADD",
+      "pos": "v.",
+      "gloss": "make an addition",
+      "definition": "Make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of.",
+      "example": "We added two students to that dorm room.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAD": {
+      "word": "DAD",
+      "pos": "n.",
+      "gloss": "an informal term for a father",
+      "definition": "An informal term for a father; probably derived from baby talk.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AID": {
+      "word": "AID",
+      "pos": "n.",
+      "gloss": "a person or thing that is a resource that helps make something easier or possible to do",
+      "definition": "A person or thing that is a resource that helps make something easier or possible to do.",
+      "example": "Visual aids in teaching.",
+      "band": "common",
+      "tier": "general"
+    },
+    "MAD": {
+      "word": "MAD",
+      "pos": "adj.",
+      "gloss": "roused to anger",
+      "definition": "Roused to anger.",
+      "example": "Stayed huffy a good while\"- Mark Twain.",
+      "band": "common",
+      "tier": "general"
+    },
+    "LAID": {
+      "word": "LAID",
+      "pos": "adj.",
+      "gloss": "set down according to a plan",
+      "definition": "Set down according to a plan.",
+      "example": "A carefully laid table with places set for four people.",
+      "band": "common",
+      "tier": "general"
+    },
+    "AIM": {
+      "word": "AIM",
+      "pos": "v.",
+      "gloss": "point or cause to go towards",
+      "definition": "Point or cause to go (blows, weapons, or objects such as photographic equipment) towards.",
+      "example": "Please don't aim at your little brother!",
+      "band": "common",
+      "tier": "general"
+    },
+    "MIN": {
+      "word": "MIN",
+      "pos": "n.",
+      "gloss": "a unit of time equal to 60 seconds or 1/60th of an hour",
+      "definition": "A unit of time equal to 60 seconds or 1/60th of an hour.",
+      "example": "He ran a 4 minute mile.",
+      "band": "common",
+      "tier": "general"
+    },
+    "NAIL": {
+      "word": "NAIL",
+      "pos": "v.",
+      "gloss": "attach something somewhere by means of nails",
+      "definition": "Attach something somewhere by means of nails.",
+      "example": "Nail the board onto the wall.",
+      "band": "common",
+      "tier": "general"
+    },
+    "DAM": {
+      "word": "DAM",
+      "pos": "n.",
+      "gloss": "a barrier constructed to contain the flow of water or to keep out the sea",
+      "definition": "A barrier constructed to contain the flow of water or to keep out the sea.",
+      "band": "common",
+      "tier": "general"
+    }
+  }
+}
