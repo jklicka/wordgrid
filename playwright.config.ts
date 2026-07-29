@@ -12,27 +12,27 @@ export default defineConfig({
     {
       name: 'iPhone 13',
       testIgnore: /offline\.spec\.ts/,
-      use: { ...devices['iPhone 13'], baseURL: 'http://localhost:5180' },
+      use: { ...devices['iPhone 13'], baseURL: 'http://localhost:5180/wordgrid/' },
     },
     // The service worker only exists in a production build, so offline tests
     // run against `vite preview`, not the dev server.
     {
       name: 'offline (built)',
       testMatch: /offline\.spec\.ts/,
-      use: { ...devices['iPhone 13'], baseURL: 'http://localhost:5181' },
+      use: { ...devices['iPhone 13'], baseURL: 'http://localhost:5181/wordgrid/' },
     },
   ],
 
   webServer: [
     {
       command: 'npm run dev',
-      url: 'http://localhost:5180',
+      url: 'http://localhost:5180/wordgrid/',
       reuseExistingServer: true,
       timeout: 60_000,
     },
     {
       command: 'npm run build && npm run preview',
-      url: 'http://localhost:5181',
+      url: 'http://localhost:5181/wordgrid/',
       reuseExistingServer: !process.env.CI,
       timeout: 180_000,
     },

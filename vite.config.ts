@@ -2,7 +2,18 @@ import { defineConfig } from 'vitest/config'
 import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
 
+/**
+ * GitHub Pages serves this repo at /wordgrid/, so every asset, the service
+ * worker scope and the manifest all live under that prefix.
+ *
+ * Applied in dev too, not just in CI. A base that only exists in production is
+ * how you ship a site that works perfectly on localhost and 404s everywhere
+ * else — the dev server should serve from the same path the real one does.
+ */
+const BASE = '/wordgrid/'
+
 export default defineConfig({
+  base: BASE,
   plugins: [
     react(),
     VitePWA({
@@ -21,8 +32,8 @@ export default defineConfig({
         short_name: 'WordGrid',
         description:
           'Solve words from a letter wheel and learn what they mean. Every word you find adds to your vocabulary.',
-        start_url: '/',
-        scope: '/',
+        start_url: BASE,
+        scope: BASE,
         display: 'standalone',
         // The board is a fixed vertical stack sized in dvh; landscape leaves
         // no room for both the grid and the wheel.
